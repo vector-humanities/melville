@@ -10,7 +10,7 @@
 (function (root) {
   'use strict';
 
-  var SRC = '../source/';
+  var SRC = 'source/';
   var MEL = { repo: 'https://github.com/performant-software/mel-website',
               commit: '35c6cd803d81643e1790a0a917c7926a690c6b84',   // 17 June 2026
               raw: 'https://raw.githubusercontent.com/performant-software/mel-website/' };

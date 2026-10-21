@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# swhid.sh - write research/js/swhid.js: for each file under source/, its git blob hash (the
+# swhid.sh - write js/swhid.js: for each file under source/, its git blob hash (the
 # SWHID's hash, swh:1:cnt:…) and the last commit that changed it (for permalinks to the lines).
 # Run from anywhere in the repository after committing the sources, then commit swhid.js.
 set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
-out=research/js/swhid.js
+out=js/swhid.js
 {
   echo '/* SWHIDs (git blob hashes) of the files under source/, with the commit that last changed each,'
   echo ' * for citations and permalinks. Made by tools/swhid.sh; run it again when the sources change. */'

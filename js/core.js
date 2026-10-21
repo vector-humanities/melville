@@ -61,6 +61,20 @@
   var permalinkOf = SW.permalinkOf;
   SW.permalinkOf = function (path, n0, n1) { return /^mel\//.test(path) ? SW.sourceURL(path) : permalinkOf(path, n0, n1); };
 
+  // The bench's own themes (css/research.css): its default, the kit's first theme, is light
+  // (Houghton leaf), and Night watch is its dark one, for ◐ to switch to
+  SW.THEMES[0].dark = false;
+  SW.THEMES.splice(1, 0, { id: 'night', label: 'Night watch', dark: true, note: 'sailcloth on the sea at night' });
+  if (!SW.store.get('theme.dark', '')) SW.store.set('theme.dark', 'night');
+
+  // The texts are prose: a serif at 15 px unless ⚙ Settings names another font or size
+  var applyCodeText = SW.applyCodeText;
+  SW.codeSize = function () { var n = +SW.store.get('codeSize', 15); return n >= 9 && n <= 24 ? n : 15; };
+  SW.applyCodeText = function () {
+    applyCodeText();
+    if (SW.codeFont() === 'system') document.documentElement.style.setProperty('--code-font', 'var(--serif)');
+  };
+
   // ---------- ghosts (kit/base.js, SW.ghostMatch) ----------
   // lines as keys: comments, spacing and case set aside; blank lines count for nothing
   SW.lineKey = function (t) { return SW.parseLine(t).code.replace(/\s+/g, ' ').trim().toLowerCase(); };

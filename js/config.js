@@ -1,4 +1,4 @@
-/* config.js - this bench's settings for bench-kit (research/kit). Loaded after kit/base.js, before the rest of the kit and the bench's own scripts.
+/* config.js - this bench's settings for bench-kit (kit/). Loaded after kit/base.js, before the rest of the kit and the bench's own scripts.
  * The kit's README lists every setting. */
 (function (root) {
   'use strict';
@@ -7,7 +7,7 @@
     title: 'Melville Research Bench',
     slug: 'melville',
     store: 'melbench.',
-    base: 'https://vector-humanities.github.io/melville/research/',
+    base: 'https://vector-humanities.github.io/melville/',
     repo: 'https://github.com/vector-humanities/melville',
     // references to the sources (kit/refs.js): [REF: BB-MS, bb-ms.xml:120]
     refs: { names: { 'ms-first': 'BB-MS1', 'ms-final': 'BB-MS', 'ms-dipl': 'BB-MSD', 'mel-rt': 'BB-RT' }, prefix: 'BB-', dir: 'source' },
@@ -29,8 +29,8 @@
       code: 'https://github.com/vector-humanities/melville',
       catalogue: { skip: [], held: 'read from MEL' }
     },
-    theme: { label: 'Bench', note: 'light text on a dark ground (the default)' },
-    accent: { dark: '#7fb3e0', light: '#24578a' },
+    theme: { label: 'Houghton leaf', note: 'iron-gall ink on the manuscript’s cream paper (the default)' },
+    accent: { dark: '#e8835a', light: '#1f3f66' },
     hands: [],
     group: '',                                             // the Hypothesis group's ID, once one is made
     relation: 'Billy Budd, ',
@@ -58,7 +58,7 @@
                supplied: ['all files', 'Include every file, not only the text'] },
     comparePrefix: 'Billy Budd: ',
     genealogy: { set: ['ms-first', 'ms-final', 'mel-rt'], line: 'main', lineNames: { main: 'Manuscript to reading text' } },
-    figureNum: { print: '#24578a', paper: '#24578a', phosphor: '#7fb3e0' },
+    figureNum: { print: '#1f3f66', paper: '#1f3f66', phosphor: '#1f3f66' },
     paratexts: { org: 'vector-humanities', repo: 'melville_paratexts', cache: 'melville-paratexts' },   // a private repository, to be made
     examples: { date: 'e.g. 1888-11-16, or 1888', archive: 'e.g. Houghton Library', versions: 'e.g. ms-final, mel-rt',
                 refs: 'e.g. [REF: BB-RT, chapter-1.xml:12]', publisher: 'e.g. University of Chicago Press', finding: 'F1' },

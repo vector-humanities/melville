@@ -2,13 +2,13 @@
 
 **Author:** David M. Berry, in a research project with Michael Jonik (University of Sussex)  
 **Version:** 0.1.0 (bench-kit 0.67.0)  
-**Live:** https://vector-humanities.github.io/melville/research/
+**Live:** https://vector-humanities.github.io/melville/
 
 A bench for reading, annotating and comparing Herman Melville's *Billy Budd* and his short tales in their versions: the manuscript's states of revision, the editions made from it, and the magazine and book texts of the tales. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), the modules shared by the critical code studies benches (SHRDLU, Spacewar!, ELIZA), and is the first of them whose texts are prose.
 
 ## The texts
 
-*Billy Budd* comes from the [Melville Electronic Library](https://melville.electroniclibrary.org/) (MEL), *Versions of Billy Budd*, edited by John Bryant and MEL's editors. **MEL's files are not copied into this repository.** The bench reads MEL's TEI from [MEL's own repository](https://github.com/performant-software/mel-website) at a fixed commit (named in `research/js/versions.js`), and divides it into lines in the browser (`research/js/tei.js`):
+*Billy Budd* comes from the [Melville Electronic Library](https://melville.electroniclibrary.org/) (MEL), *Versions of Billy Budd*, edited by John Bryant and MEL's editors. **MEL's files are not copied into this repository.** The bench reads MEL's TEI from [MEL's own repository](https://github.com/performant-software/mel-website) at a fixed commit (named in `js/versions.js`), and divides it into lines in the browser (`js/tei.js`):
 
 | Version | Reference | Read as |
 |---|---|---|
@@ -38,7 +38,7 @@ cd melville
 python3 -m http.server 8000
 ```
 
-and open `http://localhost:8000/research/`. The texts are fetched from GitHub, so the bench needs a network connection.
+and open `http://localhost:8000/`. The texts are fetched from GitHub, so the bench needs a network connection.
 
 ## Licence
 

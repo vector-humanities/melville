@@ -1,0 +1,123 @@
+/* ============================================================
+   Melville research bench
+   The bench's default colours: the custom properties below. The
+   colour themes chosen in ⚙ Settings are bench-kit's
+   kit/themes.css, and the styles every bench shares its
+   kit/bench.css, both loaded before this file; to change a theme,
+   repeat its selector here with the tokens to change.
+   ============================================================ */
+
+:root {
+  /* Houghton leaf, the default: iron-gall ink on the cream of the manuscript's paper,
+     man-of-war navy for the accent and the top bar */
+  --code-bg: #fbf8f1;   /* the ground of the texts: Read, Compare */
+  --noted-bg: rgba(31, 63, 102, 0.06);
+  --bg: #efe9dc;
+  --bg-2: #e6dfcf;
+  --surface: #fbf8f1;
+  --surface-2: #ebe4d4;
+  --line: #cfc4ad;
+  --line-soft: #e0d8c6;
+  --text: #2a2420;
+  --text-dim: #5b5148;
+  --text-faint: #887d70;
+  --beam: #1d6a6e;
+  /* the bench's accent (annotations, titles, numbers, the current line): kept off yellow,
+     so that gold (--kin) stands apart */
+  --amber: #1f3f66;
+  --green: #2f6b45;
+  --red: #9b2f22;
+  --violet: #5a3f86;
+  --hl: rgba(31, 63, 102, 0.10);
+  --sel: rgba(29, 106, 110, 0.13);
+  --add-bg: rgba(47, 107, 69, 0.13);
+  --del-bg: rgba(155, 47, 34, 0.11);
+  --dec-blue: #1f3f66;
+  --dec-blue-dark: #dfe6ee;
+  --dec-cream: #2a2420;
+  --g-retained: #1d6a6e;
+  --g-moved: #5a3f86;
+  --g-edited: #a3651a;
+  --g-rewritten: #b5481f;
+  --g-added: #2f6b45;
+  --g-removed: #9b2f22;
+  --g-text: #2a2420; --g-muted: #6b6157; --g-stroke: #a79c88; --g-box: #e3dac7; --g-heat: #1d6a6e; --g-line: #887d70; --g-cell-dark: #ffffff;
+  /* the frame: top bar, version picker, figure plates */
+  --bar-1: #22446c; --bar-2: #1b3858; --bar-fg: #f3eee2; --bar-line: #142a42;
+  --pick-bg: rgba(255, 255, 255, 0.12); --pick-fg: #f3eee2; --pick-line: rgba(243, 238, 226, 0.3);
+  --plate: #fbf8f1; --plate-line: #cfc4ad; --pick-stroke: #2a2420; --hl-filter: brightness(0.92) saturate(1.2);
+  --on-amber: #ffffff; --tape-paper: #ffffff; --tape-hole: #1b3858;
+  --menu-bg: #ffffff; --menu-line: rgba(0, 0, 0, 0.12);
+  --kin: #9a7400; --kin-bg: rgba(170, 128, 0, 0.12);
+  color-scheme: light;
+}
+
+:root[data-theme="night"] {
+  /* Night watch: sailcloth on the sea at night, the accent the orange-red of Aldebaran */
+  --code-bg: #0b1016;
+  --noted-bg: rgba(232, 131, 90, 0.07);
+  --bg: #0e141b;
+  --bg-2: #131b24;
+  --surface: #17202b;
+  --surface-2: #1d2733;
+  --line: #2c3846;
+  --line-soft: #212b37;
+  --text: #e8e1d1;
+  --text-dim: #a9a291;
+  --text-faint: #78736a;
+  --beam: #6fb3a8;
+  --amber: #e8835a;
+  --green: #6fb38a;
+  --red: #e0624e;
+  --violet: #8fa6e0;
+  --hl: rgba(232, 131, 90, 0.14);
+  --sel: rgba(111, 179, 168, 0.16);
+  --add-bg: rgba(111, 179, 138, 0.14);
+  --del-bg: rgba(224, 98, 78, 0.14);
+  --dec-blue: #6fb3a8;
+  --dec-blue-dark: #16303a;
+  --dec-cream: #e8e1d1;
+  --g-retained: #6fb3a8;
+  --g-moved: #8fa6e0;
+  --g-edited: #e0b45a;
+  --g-rewritten: #e8835a;
+  --g-added: #a9dcb8;
+  --g-removed: #e0624e;
+  --g-text: #e8e1d1; --g-muted: #8c877c; --g-stroke: #3a4757; --g-box: #17202b; --g-heat: #6fb3a8; --g-line: #a9a291; --g-cell-dark: #0b1016;
+  --bar-1: #131b24; --bar-2: #0e141b; --bar-fg: #e8e1d1; --bar-line: #070a0e;
+  --pick-bg: rgba(0, 0, 0, 0.3); --pick-fg: #e8e1d1; --pick-line: rgba(232, 225, 209, 0.22);
+  --plate: #0b1016; --plate-line: #212b37; --pick-stroke: #e8e1d1; --hl-filter: brightness(1.4);
+  --on-amber: #1a0a04; --tape-paper: #e8e1d1; --tape-hole: #0e141b;
+  --menu-bg: #17202b; --menu-line: rgba(255, 255, 255, 0.1);
+  --kin: #e6b422; --kin-bg: rgba(230, 180, 34, 0.14);
+  color-scheme: dark;
+}
+
+h2 .swref { font-size: 11.5px; vertical-align: middle; }
+
+/* ---------- the welcome tour ---------- */
+
+@media (max-width: 640px) { .tab-menu[data-w="graphics"] { grid-template-columns: 1fr; } }
+
+/* assembly errors, explained */
+button.badge.err { cursor: pointer; font: inherit; }
+
+.mc-where button:focus-visible, .frag-q button:focus-visible, .card-fold:focus-visible, .lncols .ann-cyc:focus-visible { outline: 2px solid var(--beam); outline-offset: 1px; border-radius: 2px; }
+
+.legend span[title] { cursor: help; }
+
+/* ---------- top bar ---------- */
+.brand-name { display: inline-flex; flex-direction: column; gap: 3px; }
+
+.brand-name b { margin-left: 0; }
+.bar-right { margin-left: auto; }
+
+/* ---------- the language, beside the picker ---------- */
+.vlang { font: 10px var(--mono); letter-spacing: 0.5px; color: var(--text-faint); margin-left: 8px; white-space: nowrap; }
+@media (max-width: 900px) { .vlang { display: none; } }
+
+
+/* Compare: the kit's Routines mode and its comment filter are for code; this bench's texts are prose
+   (its second mode, Leaves, is js/compare-defs.js) */
+#view-compare .btn[data-m="routines"],
+#view-compare label.check:has(input[data-o="noComments"]) { display: none; }
