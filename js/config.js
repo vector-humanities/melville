@@ -13,6 +13,7 @@
     refs: { names: { 'ms-first': 'BB-MS1', 'ms-final': 'BB-MS', 'ms-dipl': 'BB-MSD', 'mel-rt': 'BB-RT' }, prefix: 'BB-', dir: 'source' },
     forks: [['ms', 'Manuscript'], ['ed', 'Editions']],
     start: 'mel-rt',
+    picker: false,                                          // no version picker in the top bar: the versions are in Read ▾
     // prose: no comment mark; a leaf's mark ([img_5]) stands where a routine would begin
     lang: 'plain',
     comment: false,

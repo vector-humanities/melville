@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.8 (2026-10-21)
+
+- Book (a prototype, until bench-kit's Book view): the text set as a page from the document js/tei.js makes; the manuscript through its stages of composition on a slider, revisions coming and going as it moves, with Play, a diplomatic mode and hands in colour; the reading text in paragraphs with MEL's notes; leaves as small images from MEL's IIIF service; &stage= in a link. The kit at 0.70.0: picker: false leaves the version picker out of the top bar.
+
 ## 0.1.7 (2026-10-21)
 
 - The version picker taken off the top bar (the versions are chosen from Read ▾); the welcome tour's first stop points at Read ▾.
