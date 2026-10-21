@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.10 (2026-10-21)
+
+- ◐ works again in a browser that saw the bench before 0.1.1: the light and dark themes it keeps are checked against the bench's themes as it starts (it had kept the bench's own theme, light since 0.1.1, as its dark one, so ◐ went from light to light).
+
 ## 0.1.9 (2026-10-21)
 
 - Book from the kit (0.71.0) in place of this bench's prototype: the text set in leaves, each beside its image from Houghton; the manuscript's three states as one text with a slider through the stages of composition, Play and Every revision; Beside, a second text facing the first at the same leaf; annotation, citation and links from a selection; 📖 Book from Read. The prototype (js/book.js) removed.

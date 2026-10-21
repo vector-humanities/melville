@@ -70,7 +70,12 @@
   // (Houghton leaf), and Night watch is its dark one, for ◐ to switch to
   SW.THEMES[0].dark = false;
   SW.THEMES.splice(1, 0, { id: 'night', label: 'Night watch', dark: true, note: 'sailcloth on the sea at night' });
-  if (!SW.store.get('theme.dark', '')) SW.store.set('theme.dark', 'night');
+  // ◐ switches between the last light and the last dark theme kept in this browser. A browser that
+  // saw the bench before 0.1.1, when its own theme was dark, keeps 'phosphor' as its dark theme,
+  // and ◐ then goes from light to light: what is kept is checked against the themes as they are now
+  var dark = SW.themeInfo(SW.store.get('theme.dark', '')), light = SW.themeInfo(SW.store.get('theme.light', ''));
+  if (!dark || !dark.dark || dark.id !== SW.store.get('theme.dark', '')) SW.store.set('theme.dark', 'night');
+  if (!light || light.dark || light.id !== SW.store.get('theme.light', '')) SW.store.set('theme.light', 'phosphor');
 
   // The texts are prose: a serif at 15 px unless ⚙ Settings names another font or size
   var applyCodeText = SW.applyCodeText;
