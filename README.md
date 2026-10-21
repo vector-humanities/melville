@@ -1,7 +1,7 @@
 # Melville Research Bench
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.1.13 (bench-kit 0.73.0)  
+**Version:** 0.1.14 (bench-kit 0.74.0)  
 **Live:** https://vector-humanities.github.io/melville/
 
 A bench for reading, annotating and comparing Herman Melville's *Billy Budd* and his short tales in their versions: the manuscript's states of revision, the editions made from it, and the magazine and book texts of the tales. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), the modules shared by the critical code studies benches (SHRDLU, Spacewar!, ELIZA), and is the first of them whose texts are prose.
@@ -17,16 +17,16 @@ A bench for reading, annotating and comparing Herman Melville's *Billy Budd* and
 | Manuscript, diplomatic | BB-MSD | every reading: additions `\text/`, deletions `⟦text⟧` |
 | MEL reading text | BB-RT | a sentence to a line, regularised spelling, MEL's notes left out |
 
-The manuscript is a line of the leaf to a line. Each leaf begins with a line `[img_N]`, MEL's image number; the reading text marks the leaves it is edited from in the same way, so Compare can set the two side by side leaf by leaf.
+The manuscript is a line of the leaf to a line. Each leaf begins with a line `[img_N]`, MEL's image number; the reading text marks the leaves it is edited from in the same way, so Collate can set the two side by side leaf by leaf.
 
 The manuscript is in the Houghton Library, Harvard University (bMS 188 (363)). Its images are Houghton's, shown by MEL with the library's permission; the bench links to them and holds none.
 
 ## What is here
 
 - **Read**: each version line by line, with a search, annotations shared through a Hypothesis group, citations, export to Word and Markdown, and a reading edition.
-- **Book**: the text set in leaves, each beside its image from Houghton; the manuscript as one text with a slider through its stages of composition (Play, Every revision); a second text Beside it at the same leaf; annotation and links from a selection.
+- **Book**: the text set in leaves, each beside its image from Houghton; the manuscript as one text with a slider through its stages of composition (Play, Every revision); a second text facing it at the same leaf (Compare); annotation and links from a selection.
 - **Text ▾**: lenses for the revisions on each leaf and for the lines that contain a word, in one version or across them.
-- **Versions ▾**: each version's record, **Compare** (as text, or leaf by leaf) and **Genealogy**.
+- **Versions ▾**: each version's record, **Collate** (as text, or leaf by leaf) and **Genealogy**.
 - **Findings**, **My notes**, **Paratexts** and **Help**, as in every bench-kit bench.
 
 ## Running it locally

@@ -1,6 +1,6 @@
 /*
  * tei.js - the Melville Electronic Library's TEI read for the bench (root.MelTEI): each file
- * into lines, for Read and Compare, and into a document of blocks and spans (b.doc) for the
+ * into lines, for Read and Collate, and into a document of blocks and spans (b.doc) for the
  * Book view, each span keyed to the line it sits on.
  *
  * The Billy Budd manuscript (xml/versions-of-billy-budd/bb-ms.xml, encoded in TextLab) in

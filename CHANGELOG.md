@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.14 (2026-10-22)
+
+- The kit at 0.74.0: Versions ▸ Compare is now Versions ▸ Collate, and Book's control for a second text facing the first is Compare (“with MEL reading text”); the tour, a finding and the README follow. The bench's name back in the top bar: the kit hid it below 1240 px wide to make room for the version picker, which this bench leaves out.
+
 ## 0.1.13 (2026-10-21)
 
 - The kit at 0.73.0: Book's toolbar works again (since 0.72.0 every click was taken as an image-size click, so the texts, ◀ ▶ ▶▶ and Read here did nothing); the leaf images sized by a slider, with Off to fold them away; ◀ ▶ and ✕ in the enlarged leaf; Compare with in place of Beside, and no lag when the two texts scroll together.

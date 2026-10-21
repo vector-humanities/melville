@@ -7,11 +7,11 @@
   var B = root.SW.BENCH;
 
   // Evidence is a line, found by pattern in a version's text (so it survives renumbering),
-  // or a view (tab, b: Compare's other version).
+  // or a view (tab, b: Collate's other version).
   B.findings = [
     { no: 'F1', kind: 'Revision', cat: 'revision', level: 'key', title: 'The Handsome Sailor was first a “signal figure”',
       text: 'On the first leaves Melville wrote of “some one signal figure” and later revised it to “some superior figure”; MEL’s note at the phrase traces the revision. The leaf before revision and the reading text show the two readings.',
-      ev: [{ v: 'ms-dipl', re: /signal/, label: 'the revision on the leaf' }, { v: 'mel-rt', re: /some superior figure/, label: 'the reading text' }, { v: 'ms-first', tab: 'compare', b: 'ms-final', label: 'Compare' }] }
+      ev: [{ v: 'ms-dipl', re: /signal/, label: 'the revision on the leaf' }, { v: 'mel-rt', re: /some superior figure/, label: 'the reading text' }, { v: 'ms-first', tab: 'compare', b: 'ms-final', label: 'Collate' }] }
   ];
   // A category is found from the words of a finding (the one with most matches), unless a cat: tag sets it
   B.findingCats = [

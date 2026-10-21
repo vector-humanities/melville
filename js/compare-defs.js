@@ -1,5 +1,5 @@
 /*
- * compare-defs.js - this bench's second mode in Compare (bench-kit's kit/compare.js): the
+ * compare-defs.js - this bench's second mode in Versions ▸ Collate (bench-kit's kit/compare.js): the
  * leaves each version marks ([img_5], indexed by core.js as a code bench indexes routines),
  * and whether the text on each leaf is the same, spacing and case aside.
  */
