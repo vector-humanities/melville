@@ -41,7 +41,9 @@
                 // unless reinstated or in another hand
                 var k = sp.marks.map(function (m) { return m.k; });
                 if (id === 'ms-first' && k.indexOf('added') >= 0) bad.held.push(p + ':' + sp.n + ' added');
-                if (id === 'ms-final' && sp.marks.some(function (m) { return m.k === 'erased' && m.hand === 'HM'; }) && k.indexOf('reinstated') < 0) bad.held.push(p + ':' + sp.n + ' erased');
+                // after revision, a deletion of Melville's stands only where a reinstatement directly
+                // encloses it (not one made within a deletion he later reinstated)
+                if (id === 'ms-final' && sp.marks.some(function (m, i) { return m.k === 'erased' && m.hand === 'HM' && !(i > 0 && sp.marks[i - 1].k === 'reinstated'); })) bad.held.push(p + ':' + sp.n + ' erased');
               });
             });
             // a line's text outside the spans is spaces, sigla or a leaf's mark only
@@ -63,6 +65,7 @@
         var first = bs[0].lines[0].map(function (L) { return L.raw; });
         T.group('Document, readings');
         T.yes('before revision: “some one signal”', first.some(function (t) { return /some one signal/.test(t); }));
+        T.yes('after revision: “no perceptible trace of the vainglorious”, the word corrected within a reinstated phrase', bs[1].lines[0].map(function (L) { return L.raw; }).join(' ').indexOf('perceptableperceptible') < 0);
         T.yes('the reading text: “neck—a conventional”, without the space inside MEL’s choice', bs[3].lines.some(function (ls) { return ls.some(function (L) { return /neck—a conventional/.test(L.raw); }); }));
       });
     });

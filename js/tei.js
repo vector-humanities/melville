@@ -6,7 +6,7 @@
  * The Billy Budd manuscript (xml/versions-of-billy-budd/bb-ms.xml, encoded in TextLab) in
  * three states:
  *   final       Melville's last readings: his additions kept, his deletions taken out, a
- *               deletion he reinstated (restore) kept
+ *               deletion he reinstated (restore) kept, though not a deletion made within it
  *   first       his deletions kept and his additions left out: the leaves before revision,
  *               as near as the encoding allows
  *   diplomatic  every reading, additions as \text/ and deletions as ⟦text⟧ (the Leiden marks)
@@ -170,10 +170,11 @@
         if (key && mode === 'diplomatic') D.sig('/');
       }
       else if (n === 'del') {
+        // a restore reinstates the deletion it encloses, not one made inside that deletion
         m = marks.concat(mark('erased', c, { rend: att(c, 'rend') }));
         inThis = mode === 'diplomatic' || mode === 'first' || restored || other;
         if (key && mode === 'diplomatic') D.sig('⟦');
-        ms(c, mode, D, m, key && inThis, restored, svc);
+        ms(c, mode, D, m, key && inThis, false, svc);
         if (key && mode === 'diplomatic') D.sig('⟧');
       }
       else if (n === 'restore') ms(c, mode, D, marks.concat(mark('reinstated', c)), key, true, svc);
