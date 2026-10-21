@@ -34,6 +34,7 @@
 
   SW.BENCH.compareDefs = {
     label: 'Leaves',
+    by: 'leaf',                // Versions ▾: “Two versions collated: line by line and by leaf”
     render: function (el, A, B, h) { return routinesDiff(el, A, B, h); },
     doc: function (A, B, r, h) {
       return { title: A.v.label + ' and ' + B.v.label + ': leaves that differ', blocks: [SW.tableBlock('Leaves that differ', ['Leaf', h.vl(A), h.vl(B), 'Change'], r.srow)] };
