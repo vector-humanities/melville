@@ -67,8 +67,12 @@
     return Promise.all(v.build.map(function (b) {
       if (!b.tei) return fetchText(b.src);
       return melText(b.src).then(function (xml) { return b.tei === 'manuscript' ? root.MelTEI.manuscript(xml, b.mode) : root.MelTEI.reading(xml); });
-    })).then(function (texts) {
-      var parts = v.build.map(function (b, i) { return { src: b.src, role: b.role, raw: texts[i], text: texts[i], patch: null, title: 1, end: null }; });
+    })).then(function (got) {
+      // MEL's files come with a document for the Book view (js/tei.js); the rest as text
+      var parts = v.build.map(function (b, i) {
+        var t = typeof got[i] === 'string' ? got[i] : got[i].text;
+        return { src: b.src, role: b.role, raw: t, text: t, doc: got[i].doc || null, patch: null, title: 1, end: null };
+      });
       return { version: v, parts: parts, files: parts.map(function (p) { return { name: p.src.split('/').pop(), text: p.text, doc: false }; }) };
     });
   }

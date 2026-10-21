@@ -32,7 +32,25 @@
     },
     theme: { label: 'Houghton leaf', note: 'iron-gall ink on the manuscript’s cream paper (the default)' },
     accent: { dark: '#e8835a', light: '#1f3f66' },
-    hands: [],
+    // the hands on the manuscript (js/tei.js gives each mark's hand as k); re finds a name written in a
+    // line, which these texts do not have
+    hands: [
+      { k: 'HM', who: 'Herman Melville', re: /(?!)/, colour: '#3d7ab8' },
+      { k: 'ESM', who: 'Elizabeth Shaw Melville', re: /(?!)/, colour: '#b0569e' },
+      { k: 'RW', who: 'Raymond Weaver', re: /(?!)/, colour: '#c0802a' },
+      { k: 'HT', who: 'Houghton Library (foliation)', re: /(?!)/, colour: '#8a8f96' }
+    ],
+    // the Book view's document (js/tei.js): the stages of composition in order, after Hayford and
+    // Sealts (1962) as MEL codes them, a stage letter before its substages. Provisional: MEL's codes
+    // that do not fit the pattern are listed in unplaced, to be placed against Hayford and Sealts.
+    doc: {
+      stages: ['B', 'Ba', 'Bb', 'Bbb', 'Bc', 'Bca', 'Bcb', 'C', 'Ca', 'Caa', 'Cab', 'Cb', 'Cba', 'Cbb', 'Cc', 'Cca',
+               'D', 'Da', 'Daa', 'Db', 'E', 'Ea', 'Eaa', 'Eab', 'Eb', 'Ec', 'F', 'Fa', 'Fb', 'G', 'Ga', 'Gab', 'Gb'].map(function (id) {
+        return { id: id, label: 'Stage ' + id[0] + (id.length > 1 ? ' ' + id.slice(1) : ''), note: 'MEL’s code St' + id };
+      }),
+      unplaced: { Stp: 'Stp', X: 'StX', EG: 'StEG', EeF: 'StEeF', Eef: 'StEef', BcCa: 'StBcCa', DA: 'StDA', MEL: 'MEL',
+                  ESM: 'ESM, a hand written as a stage', RW: 'RW, a hand written as a stage', Ht: 'Ht, the library’s foliation', v: 'v' }
+    },
     group: '',                                             // the Hypothesis group's ID, once one is made
     relation: 'Billy Budd, ',
     topShare: false,

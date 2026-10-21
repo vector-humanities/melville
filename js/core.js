@@ -30,7 +30,12 @@
 
   // A build: the files divided into lines and marked (kit/builds.js fetches and caches it)
   SW.builds({
-    read: function (v, L) { var b = { v: v, dialect: v.dialect, parts: L.parts, asm: null }; index(b); return b; }
+    read: function (v, L) {
+      var b = { v: v, dialect: v.dialect, parts: L.parts, asm: null }; index(b);
+      // the Book view's document, a part at a time (js/tei.js), where a part has one
+      if (L.parts.some(function (p) { return p.doc; })) b.doc = L.parts.map(function (p) { return p.doc; });
+      return b;
+    }
   });
 
   // What each line is, for the marks in Read: def (a routine begins here, by the bench's
