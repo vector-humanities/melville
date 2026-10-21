@@ -115,8 +115,3 @@ button.badge.err { cursor: pointer; font: inherit; }
 /* ---------- the language, beside the picker ---------- */
 .vlang { font: 10px var(--mono); letter-spacing: 0.5px; color: var(--text-faint); margin-left: 8px; white-space: nowrap; }
 @media (max-width: 900px) { .vlang { display: none; } }
-
-/* the bench's name in the top bar: the kit hides it below 1240 px to make room for the version
-   picker, which this bench leaves out (picker: false), so it stays, down to a phone's width */
-@media (max-width: 1240px) { .brand-name b { display: inline; } }
-@media (max-width: 380px) { .brand-name b { display: none; } }
