@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.12 (2026-10-21)
+
+- The kit at 0.72.1 (its release tool only).
+
 ## 0.1.11 (2026-10-21)
 
 - The kit at 0.72.0: Book's Images ▸ Large, Small or Off (Off folds the leaf images away, a ▣ at each leaf break opens one; &img= in a link); a reinstatement in Book brings back only the deletion it encloses; ◐ checks the theme it goes to. The manuscript's last readings corrected by the same rule: a reinstated phrase no longer brings back a word deleted within it (“no perceptible trace of the vainglorious”, where Read had “perceptableperceptible” and “vaingloryvainglorious”). And ?v= set right again (0.1.10 was published with ?v=c1).
