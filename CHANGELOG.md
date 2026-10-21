@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.2 (2026-10-21)
+
+- The project named as David M. Berry's and Michael Jonik's in the About box (Author, Purpose), Help ▸ What you should read and the welcome tour.
+
 ## 0.1.1 (2026-10-21)
 
 - The bench at the root of the site (https://vector-humanities.github.io/melville/), no longer under research/; the kit at kit/.

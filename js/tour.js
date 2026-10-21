@@ -11,7 +11,7 @@
   B.tours = {
     welcome: { title: 'Welcome to the bench', stops: [
       { title: 'Welcome to the bench', v: 'mel-rt', tab: 'read', focus: '#pick-a',
-        text: 'The bench holds Billy Budd in its versions: the manuscript before revision, its last readings and its diplomatic transcription, and MEL’s reading text. Choose one here.' },
+        text: 'A research project of David M. Berry and Michael Jonik (University of Sussex). The bench holds Billy Budd in its versions: the manuscript before revision, its last readings and its diplomatic transcription, and MEL’s reading text. Choose one here.' },
       { title: 'Reading a text', v: 'mel-rt', tab: 'read', find: /Handsome Sailor/, focus: '.ln.sel',
         text: 'The reading text a sentence to a line, the manuscript a line of the leaf to a line; [img_5] marks the leaf. Click a line to select it (shift-click for a range); the bar below offers Annotate, Copy citation and the rest.' },
       { title: 'Annotating together', v: 'mel-rt', tab: 'read', find: /Handsome Sailor/, focus: '#rd-selbar',
