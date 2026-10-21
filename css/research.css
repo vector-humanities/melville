@@ -116,3 +116,7 @@ button.badge.err { cursor: pointer; font: inherit; }
 .vlang { font: 10px var(--mono); letter-spacing: 0.5px; color: var(--text-faint); margin-left: 8px; white-space: nowrap; }
 @media (max-width: 900px) { .vlang { display: none; } }
 
+
+/* the top bar without the version picker: the versions are chosen from Read ▾ (the picker stays in the
+   page, hidden, because kit/shell.js keeps it in step with the version open) */
+.bar .pick { display: none; }
