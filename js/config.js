@@ -50,7 +50,13 @@
         return { id: id, label: 'Stage ' + id[0] + (id.length > 1 ? ' ' + id.slice(1) : ''), note: 'MEL’s code St' + id };
       }),
       unplaced: { Stp: 'Stp', X: 'StX', EG: 'StEG', EeF: 'StEeF', Eef: 'StEef', BcCa: 'StBcCa', DA: 'StDA', MEL: 'MEL',
-                  ESM: 'ESM, a hand written as a stage', RW: 'RW, a hand written as a stage', Ht: 'Ht, the library’s foliation', v: 'v' }
+                  ESM: 'ESM, a hand written as a stage', RW: 'RW, a hand written as a stage', Ht: 'Ht, the library’s foliation', v: 'v' },
+      // Book (kit/book.js): the manuscript's three states as one text with a slider through the stages
+      states: { source: 'ms-dipl', first: 'ms-first', last: 'ms-final', label: 'Manuscript' },
+      stageHands: ['HM'], mainHand: 'HM',
+      words: { page: 'leaf', all: 'Every revision' },
+      imageCredit: 'Houghton Library, Harvard University (bMS 188 (363)), shown by MEL with the library’s permission',
+      versions: ['ms-final', 'mel-rt']
     },
     group: '',                                             // the Hypothesis group's ID, once one is made
     relation: 'Billy Budd, ',

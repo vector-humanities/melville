@@ -1,7 +1,7 @@
 # Melville Research Bench
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.1.8 (bench-kit 0.70.0)  
+**Version:** 0.1.9 (bench-kit 0.71.0)  
 **Live:** https://vector-humanities.github.io/melville/
 
 A bench for reading, annotating and comparing Herman Melville's *Billy Budd* and his short tales in their versions: the manuscript's states of revision, the editions made from it, and the magazine and book texts of the tales. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), the modules shared by the critical code studies benches (SHRDLU, Spacewar!, ELIZA), and is the first of them whose texts are prose.
@@ -24,6 +24,7 @@ The manuscript is in the Houghton Library, Harvard University (bMS 188 (363)). I
 ## What is here
 
 - **Read**: each version line by line, with a search, annotations shared through a Hypothesis group, citations, export to Word and Markdown, and a reading edition.
+- **Book**: the text set in leaves, each beside its image from Houghton; the manuscript as one text with a slider through its stages of composition (Play, Every revision); a second text Beside it at the same leaf; annotation and links from a selection.
 - **Text ▾**: lenses for the revisions on each leaf and for the lines that contain a word, in one version or across them.
 - **Versions ▾**: each version's record, **Compare** (as text, or leaf by leaf) and **Genealogy**.
 - **Findings**, **My notes**, **Paratexts** and **Help**, as in every bench-kit bench.
