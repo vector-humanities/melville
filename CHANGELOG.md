@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.17 (2026-10-22)
+
+- The kit at 0.74.3 (Collate's description in Versions ▾ names By function only for Lisp; unchanged here).
+
 ## 0.1.16 (2026-10-22)
 
 - The kit at 0.74.2: Versions ▾ describes Collate from this bench's modes, “Two versions collated: line by line and by leaf”.
