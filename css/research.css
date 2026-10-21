@@ -116,8 +116,3 @@ button.badge.err { cursor: pointer; font: inherit; }
 .vlang { font: 10px var(--mono); letter-spacing: 0.5px; color: var(--text-faint); margin-left: 8px; white-space: nowrap; }
 @media (max-width: 900px) { .vlang { display: none; } }
 
-
-/* Compare: the kit's Routines mode and its comment filter are for code; this bench's texts are prose
-   (its second mode, Leaves, is js/compare-defs.js) */
-#view-compare .btn[data-m="routines"],
-#view-compare label.check:has(input[data-o="noComments"]) { display: none; }

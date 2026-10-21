@@ -15,15 +15,16 @@
     start: 'mel-rt',
     // prose: no comment mark; a leaf's mark ([img_5]) stands where a routine would begin
     lang: 'plain',
-    comment: [],
+    comment: false,
     routine: '^\\[(img_\\w+)\\]$',
     caseFold: false,
     entry: '',
     // the About box (kit/about.js); purpose, inside and sources are HTML
     about: {
       icon: '<img src="img/icon.svg" alt="" width="40" height="40">',
-      author: 'David M. Berry, with Michael Jonik (University of Sussex)', citeAuthor: 'Berry, D. M.',
-      purpose: 'A research project of David M. Berry and Michael Jonik (University of Sussex): a bench for reading, annotating and comparing Herman Melville’s <i>Billy Budd</i> and his short tales in their versions, the manuscript’s states of revision, the editions made from it, and the magazine and book texts of the tales. The first bench-kit bench for prose.',
+      author: 'David M. Berry', citeAuthor: 'Berry, D. M.',
+      project: 'A research project of David M. Berry and Michael Jonik (University of Sussex)',
+      purpose: 'A bench for reading, annotating and comparing Herman Melville’s <i>Billy Budd</i> and his short tales in their versions: the manuscript’s states of revision, the editions made from it, and the magazine and book texts of the tales. The first bench-kit bench for prose.',
       inside: 'The Melville Electronic Library’s TEI, read from MEL’s repository and divided into lines: the manuscript a line of the leaf to a line, the reading text a sentence to a line. Each leaf is marked [img_N], MEL’s image number.',
       sources: 'The Melville Electronic Library (MEL), <a href="https://melville.electroniclibrary.org/versions-of-billy-budd" target="_blank" rel="noopener"><i>Versions of Billy Budd</i></a>, John Bryant and MEL’s editors; its data at <a href="https://github.com/performant-software/mel-website" target="_blank" rel="noopener">github.com/performant-software/mel-website</a>. The manuscript is in the Houghton Library, Harvard University (bMS 188 (363)); its images are Houghton’s, shown by MEL with the library’s permission. Nothing of MEL’s is copied into this repository.',
       code: 'https://github.com/vector-humanities/melville',
@@ -54,8 +55,9 @@
       tryText: 'Melville first wrote `signal figure`', code: '`signal figure`',
       caption: 'A link from an annotation on the reading text to one on the manuscript before revision. The manuscript annotation lists it under Linked from'
     },
-    compare: { comment: '', normalised: false, reading: 'Reading',
+    compare: { comment: '', normalised: false, reading: 'Reading', modes: ['text', 'constants'],
                supplied: ['all files', 'Include every file, not only the text'] },
+    words: { text: 'Text', font: 'Text font', source: 'Text' },
     comparePrefix: 'Billy Budd: ',
     genealogy: { set: ['ms-first', 'ms-final', 'mel-rt'], line: 'main', lineNames: { main: 'Manuscript to reading text' } },
     figureNum: { print: '#1f3f66', paper: '#1f3f66', phosphor: '#1f3f66' },
