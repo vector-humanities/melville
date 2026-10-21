@@ -22,8 +22,8 @@
     // the About box (kit/about.js); purpose, inside and sources are HTML
     about: {
       icon: '<img src="img/icon.svg" alt="" width="40" height="40">',
-      author: 'David M. Berry', citeAuthor: 'Berry, D. M.',
       project: 'A research project of David M. Berry and Michael Jonik (University of Sussex)',
+      cite: { authors: 'Berry, D. M. and Jonik, M.', title: 'Melville Research Bench' },
       purpose: 'A bench for reading, annotating and comparing Herman Melville’s <i>Billy Budd</i> and his short tales in their versions: the manuscript’s states of revision, the editions made from it, and the magazine and book texts of the tales. The first bench-kit bench for prose.',
       inside: 'The Melville Electronic Library’s TEI, read from MEL’s repository and divided into lines: the manuscript a line of the leaf to a line, the reading text a sentence to a line. Each leaf is marked [img_N], MEL’s image number.',
       sources: 'The Melville Electronic Library (MEL), <a href="https://melville.electroniclibrary.org/versions-of-billy-budd" target="_blank" rel="noopener"><i>Versions of Billy Budd</i></a>, John Bryant and MEL’s editors; its data at <a href="https://github.com/performant-software/mel-website" target="_blank" rel="noopener">github.com/performant-software/mel-website</a>. The manuscript is in the Houghton Library, Harvard University (bMS 188 (363)); its images are Houghton’s, shown by MEL with the library’s permission. Nothing of MEL’s is copied into this repository.',
