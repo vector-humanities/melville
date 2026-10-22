@@ -62,6 +62,23 @@
           T.eq('every stage is listed, placed or unplaced', bad.stage.slice(0, 5), []);
           T.eq('the version’s lines hold what its state says', bad.held.slice(0, 5), []);
         });
+        // the manuscript's revisions: each has an id, and the zone it names is a box on its leaf
+        T.group('Document, revisions and zones');
+        var dd = bs[2].doc[0], noId = 0, noZone = [], revs = 0, zoned = 0, pbSized = 0, pbs = 0;
+        dd.blocks.forEach(function (bl) {
+          if (bl.t === 'pb') { pbs++; if (bl.size && bl.size[0] > 0 && bl.size[1] > 0) pbSized++; }
+          bl.spans.forEach(function (sp) { sp.marks.forEach(function (m) {
+            if (m.k !== 'added' && m.k !== 'erased' && m.k !== 'reinstated') return;
+            revs++; if (m.id == null) noId++;
+            if (m.zone) { zoned++; var z = dd.zones[m.zone]; if (!z || z.length !== 4) noZone.push(m.zone); }
+          }); });
+        });
+        T.eq('every revision has an id', noId, 0);
+        // MEL's encoding names some zones its facsimile does not define (about 190 of 10,900,
+        // chiefly on img_561): a view has to pass those over
+        T.yes('nearly every zone a revision names has a box (' + noZone.length + ' of ' + zoned + ' do not)', noZone.length < zoned * 0.03);
+        T.yes('most revisions name a zone', zoned > revs * 0.9);
+        T.eq('every leaf has its size', pbSized, pbs);
         var first = bs[0].lines[0].map(function (L) { return L.raw; });
         T.group('Document, readings');
         T.yes('before revision: “some one signal”', first.some(function (t) { return /some one signal/.test(t); }));

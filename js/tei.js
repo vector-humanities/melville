@@ -31,6 +31,12 @@
  * regularised (the reading text's spelling, the source's in orig), hi, ref, metamark.
  * A mark's hand is the k of SW.BENCH.hands, its change a stage id of SW.BENCH.doc.stages,
  * or one not yet placed (SW.BENCH.doc.unplaced); MEL's forms are normalised by stageOf.
+ * In the manuscript, an addition, deletion or reinstatement also carries an id (one revision,
+ * however many spans it runs over), its medium (MEL's code from its rend: HMp, ink1 …) and the
+ * zone of the leaf it is written in (zone); a deletion and addition MEL pairs in <subst> share a
+ * mark { k: 'subst', id }. The manuscript's document gives the zones' boxes on the leaf image
+ * (zones: { id: [ulx, uly, lrx, lry] }, in the pixels of the leaf as encoded), and each pb the
+ * leaf's size (size: [w, h]).
  */
 (function (root) {
   'use strict';
@@ -58,21 +64,33 @@
     var c = att(e, 'change').replace(/^#/, '').split(':')[0].trim();
     return c.replace(/^[Ss]t(?=[A-Z])/, '') || null;
   }
+  // revisions and substitutions are numbered as each manuscript is read
+  var REV = 0, SUB = 0;
+  var REVISION = { added: 1, erased: 1, reinstated: 1 };
   function mark(k, e, more) {
     var m = { k: k };
     if (e) {
       if (e.hasAttribute('hand')) { m.hand = handOf(e); if (rawHand(e) && !HANDS[rawHand(e)]) m.handAs = rawHand(e); }
       var c = stageOf(e); if (c) m.change = c;
+      if (REVISION[k]) {
+        m.id = ++REV;
+        var md = /(?:^|\s)_(\w+)/.exec(att(e, 'rend')); if (md) m.medium = md[1];
+        var z = att(e, 'facs').replace(/^#/, ''); if (z) m.zone = z;
+      }
     }
     for (var x in more || {}) if (more[x]) m[x] = more[x];
     return m;
   }
-  // the facsimile: a surface's ID to its IIIF image service
+  function xmlId(e) { return att(e, 'xml:id') || e.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id'); }
+  // the facsimile: a surface's ID to its IIIF image service and its size, and every zone's box
   function services(d) {
-    var out = {};
+    var out = { zones: {} };
     Array.prototype.forEach.call(all(d, 'surface'), function (s) {
       var g = all(s, 'graphic')[0];
-      if (g) out[att(s, 'xml:id') || s.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id')] = att(g, 'url');
+      if (g) out[xmlId(s)] = { url: att(g, 'url'), size: [+att(s, 'lrx') || 0, +att(s, 'lry') || 0] };
+      Array.prototype.forEach.call(all(s, 'zone'), function (z) {
+        out.zones[xmlId(z)] = [+att(z, 'ulx'), +att(z, 'uly'), +att(z, 'lrx'), +att(z, 'lry')];
+      });
     });
     return out;
   }
@@ -102,7 +120,7 @@
     var self = this;
     this.notes.forEach(function (nb) { self.blocks.push(nb); }); this.notes = [];
   };
-  Doc.prototype.leaf = function (id, iiif) {
+  Doc.prototype.leaf = function (id, iiif, size) {
     if (!id) return;
     var b = this.block, t = b && b.t, rend = b && b.rend;
     this.close();
@@ -110,6 +128,7 @@
     this.lines.push('[' + id + ']');
     var n = this.lines.length, pb = { t: 'pb', facs: id, n0: n, n1: n, spans: [] };
     if (iiif) pb.iiif = { id: iiif, v: 3 };
+    if (size && size[0] && size[1]) pb.size = size;
     this.blocks.push(pb);
     if (t) this.open(t, { rend: rend, cont: true });
   };
@@ -154,7 +173,7 @@
       // a break inside text this version does not hold (an addition, before revision) is a
       // space in the document, not a break in the version's lines
       if (n === 'lb') { if (key) D.br(); else D.put(' ', marks, false); }
-      else if (n === 'pb') { var f = att(c, 'facs').replace(/^#/, ''); D.leaf(f, svc[f]); }
+      else if (n === 'pb') { var f = att(c, 'facs').replace(/^#/, ''), sv = svc[f] || {}; D.leaf(f, sv.url, sv.size); }
       else if (n === 'ab' && key) { D.open('ab', { rend: att(c, 'rend') }); ms(c, mode, D, marks, key, restored, svc); D.close(); }
       else if (n === 'metamark') {
         var fn = att(c, 'function');
@@ -178,6 +197,7 @@
         if (key && mode === 'diplomatic') D.sig('⟧');
       }
       else if (n === 'restore') ms(c, mode, D, marks.concat(mark('reinstated', c)), key, true, svc);
+      else if (n === 'subst') ms(c, mode, D, marks.concat({ k: 'subst', id: ++SUB }), key, restored, svc);
       else if (n === 'hi') ms(c, mode, D, att(c, 'rend') === 'restoration' ? marks : marks.concat(mark('hi', null, { rend: att(c, 'rend') })), key, restored, svc);
       else if (n === 'unclear') ms(c, mode, D, marks.concat(mark('uncertain', null, { resp: att(c, 'resp').replace(/^#/, '') })), key, restored, svc);
       else if (n === 'sic') ms(c, mode, D, marks.concat(mark('sic')), key, restored, svc);
@@ -238,9 +258,12 @@
   root.MelTEI = {
     // { text, doc }
     manuscript: function (xml, mode) {
-      var d = parse(xml), D = new Doc();
-      ms(body(d), mode || 'final', D, [], true, false, services(d));
-      return D.result();
+      var d = parse(xml), D = new Doc(), svc = services(d);
+      REV = 0; SUB = 0;
+      ms(body(d), mode || 'final', D, [], true, false, svc);
+      var r = D.result();
+      r.doc.zones = svc.zones;
+      return r;
     },
     reading: function (xml) { var D = new Doc(sentences); rt(body(parse(xml)), D, []); return D.result(); },
     sentences: sentences, stageOf: function (c) { return stageOf({ getAttribute: function () { return c; } }); }

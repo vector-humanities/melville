@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.20 (2026-10-22)
+
+- Text ▾ gains two lenses: How the story grew (the words standing in each chapter at each stage of composition, by Book's rule) and Revisions (every revision, with its before and after, stage, hand and medium, searchable, each a link into Read). The manuscript's document now numbers each revision, pairs MEL's substitutions, and gives each revision's medium and its zone on the leaf, with the zones' boxes and each leaf's size.
+
 ## 0.1.19 (2026-10-22)
 
 - The kit at 0.76.0: Book's Strike deletions, beside the slider; deletions made up to the stage stay in the text, struck through in red, drawn through as the slider reaches them, with the stage's own revisions marked more strongly (&del=strike).
