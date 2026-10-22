@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.18 (2026-10-22)
+
+- The manuscript's call number corrected to MS Am 188 (363), as Houghton's finding aid gives it (MEL's page has bMS 188 (363)). The kit at 0.75.0 (a bench may give Book its own leaf images; this one still draws them from MEL).
+
 ## 0.1.17 (2026-10-22)
 
 - The kit at 0.74.3 (Collate's description in Versions ▾ names By function only for Lisp; unchanged here).

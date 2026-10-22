@@ -27,15 +27,15 @@
   // status: 'recovered' (held), 'lost' (known only from the record), 'reconstructed'
   var VERSIONS = [
     { id: 'ms-first', label: 'Manuscript, before revision', date: '1886–1891', sort: 18860000, authors: 'Herman Melville',
-      fork: 'ms', status: 'reconstructed', medium: 'Manuscript (Houghton Library, bMS 188 (363)), transcribed by MEL',
+      fork: 'ms', status: 'reconstructed', medium: 'Manuscript (Houghton Library, MS Am 188 (363)), transcribed by MEL',
       summary: 'The leaves with Melville’s deletions kept and his additions left out, read from MEL’s encoding of the manuscript. The leaves were written over five years, cut, pinned and renumbered, so this is the state of each line before revision, not a draft that existed whole.',
       build: ms('first') },
     { id: 'ms-final', label: 'Manuscript, last readings', date: '1891', sort: 18910900, authors: 'Herman Melville',
-      fork: 'ms', status: 'recovered', medium: 'Manuscript (Houghton Library, bMS 188 (363)), transcribed by MEL',
+      fork: 'ms', status: 'recovered', medium: 'Manuscript (Houghton Library, MS Am 188 (363)), transcribed by MEL',
       summary: 'The leaves with Melville’s additions kept and his deletions taken out, as he left them at his death in September 1891. Marks by Elizabeth Shaw Melville and Raymond Weaver are left as they stand.',
       build: ms('final') },
     { id: 'ms-dipl', label: 'Manuscript, diplomatic', date: '1886–1891', sort: 18910500, authors: 'Herman Melville',
-      fork: 'ms', status: 'recovered', medium: 'Manuscript (Houghton Library, bMS 188 (363)), transcribed by MEL',
+      fork: 'ms', status: 'recovered', medium: 'Manuscript (Houghton Library, MS Am 188 (363)), transcribed by MEL',
       summary: 'Every reading on the leaves: additions as \\text/, deletions as ⟦text⟧. Revisions by other hands are included.',
       build: ms('diplomatic') },
     { id: 'mel-rt', label: 'MEL reading text', date: '2020s', sort: 20200000, authors: 'John Bryant and MEL’s editors',
