@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.21 (2026-10-22)
+
+- The kit at 0.77.0: Book joins the text and the leaf. Hover a revision and its box lights on the leaf; with the pointer on the leaf every revision's box shows faintly, and a click on one goes to its text; the slider lights the boxes of the revisions made at its stage.
+
 ## 0.1.20 (2026-10-22)
 
 - Text ▾ gains two lenses: How the story grew (the words standing in each chapter at each stage of composition, by Book's rule) and Revisions (every revision, with its before and after, stage, hand and medium, searchable, each a link into Read). The manuscript's document now numbers each revision, pairs MEL's substitutions, and gives each revision's medium and its zone on the leaf, with the zones' boxes and each leaf's size.

@@ -79,6 +79,9 @@
         T.yes('nearly every zone a revision names has a box (' + noZone.length + ' of ' + zoned + ' do not)', noZone.length < zoned * 0.03);
         T.yes('most revisions name a zone', zoned > revs * 0.9);
         T.eq('every leaf has its size', pbSized, pbs);
+        // boxes are read as MEL writes them: about 2,300 have uly > lry and 3,500 ulx > lrx in MEL's
+        // own XML (the way a box was drawn in TextLab), so a view orders the corners
+        T.eq('a box as MEL writes it (img_11_z017, “Highland”, top below bottom)', dd.zones.img_11_z017, [623, 2400, 994, 2269]);
         var first = bs[0].lines[0].map(function (L) { return L.raw; });
         T.group('Document, readings');
         T.yes('before revision: “some one signal”', first.some(function (t) { return /some one signal/.test(t); }));
