@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.23 (2026-10-25)
+
+- The kit at 0.79.0: a click on a revision's box keeps its text highlighted until the next action ("Highlight this in panel"); in the enlarged leaf, a box under the pointer shows its words, what the revision is, and its stage and hand.
+
 ## 0.1.22 (2026-10-22)
 
 - The kit at 0.78.0: the enlarged leaf has the revision boxes too (lit on hover, the stage's in red, a click going to the text); in Compare with, a passage of the reading text under the pointer lights its leaf in the manuscript, and the boxes of the revisions it holds.
