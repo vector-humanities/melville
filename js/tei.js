@@ -36,7 +36,9 @@
  * zone of the leaf it is written in (zone); a deletion and addition MEL pairs in <subst> share a
  * mark { k: 'subst', id }. The manuscript's document gives the zones' boxes on the leaf image
  * (zones: { id: [ulx, uly, lrx, lry] }, in the pixels of the leaf as encoded), and each pb the
- * leaf's size (size: [w, h]).
+ * leaf's size (size: [w, h]). Where MEL notes that text on a leaf is transcribed with another
+ * ("[See next leaf for transcription of text on this mount.]"), the pb carries it as
+ * elsewhere: [{ to, note }], to being the leaf that holds the text.
  */
 (function (root) {
   'use strict';
@@ -120,6 +122,11 @@
     var self = this;
     this.notes.forEach(function (nb) { self.blocks.push(nb); }); this.notes = [];
   };
+  // a note of MEL's that text on the leaf is transcribed elsewhere, kept on the leaf's pb
+  Doc.prototype.elsewhere = function (note) {
+    if (!this.pb) return;
+    (this.pb.elsewhere = this.pb.elsewhere || []).push({ note: note });
+  };
   Doc.prototype.leaf = function (id, iiif, size) {
     if (!id) return;
     var b = this.block, t = b && b.t, rend = b && b.rend;
@@ -129,6 +136,7 @@
     var n = this.lines.length, pb = { t: 'pb', facs: id, n0: n, n1: n, spans: [] };
     if (iiif) pb.iiif = { id: iiif, v: 3 };
     if (size && size[0] && size[1]) pb.size = size;
+    this.pb = pb;
     this.blocks.push(pb);
     if (t) this.open(t, { rend: rend, cont: true });
   };
@@ -178,6 +186,8 @@
       else if (n === 'metamark') {
         var fn = att(c, 'function');
         if (NOTEXT[fn]) continue;
+        var said = /\[(?:See|Ed\. Note)[^\]]*transcription[^\]]*\]/i.exec(c.textContent);
+        if (said) D.elsewhere(said[0]);
         inThis = mode === 'diplomatic' || fn !== 'composition-information';
         ms(c, mode, D, fn ? marks.concat(mark('metamark', c, { function: fn })) : marks, key && inThis, restored, svc);
       }
@@ -254,6 +264,20 @@
     }
   }
 
+  // the leaf each of MEL's notes points to: the next leaf; a leaf by its number ("see leaf 561");
+  // or, for a chapter ("See Ch. 19 …"), the other image of the same leaf (img_521 and img_521b)
+  function elsewhere(blocks) {
+    var pbs = blocks.filter(function (b) { return b.t === 'pb'; }), ids = pbs.map(function (b) { return b.facs; });
+    pbs.forEach(function (pb, i) {
+      (pb.elsewhere || []).forEach(function (e) {
+        var m;
+        if (/next leaf/i.test(e.note)) e.to = ids[i + 1];
+        else if ((m = /leaf (\d+\w?)/i.exec(e.note))) e.to = 'img_' + m[1];
+        else if (/Ch\.\s*\d+/i.test(e.note)) e.to = /b$/.test(pb.facs) ? pb.facs.slice(0, -1) : pb.facs + 'b';
+        if (e.to && ids.indexOf(e.to) < 0) delete e.to;
+      });
+    });
+  }
   function body(d) { return all(d, 'body')[0]; }
   root.MelTEI = {
     // { text, doc }
@@ -263,6 +287,7 @@
       ms(body(d), mode || 'final', D, [], true, false, svc);
       var r = D.result();
       r.doc.zones = svc.zones;
+      elsewhere(r.doc.blocks);
       return r;
     },
     reading: function (xml) { var D = new Doc(sentences); rt(body(parse(xml)), D, []); return D.result(); },

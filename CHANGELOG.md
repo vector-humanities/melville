@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.24 (2026-10-25)
+
+- Where MEL notes that a leaf's text is transcribed with another leaf (img_7's lower slip on img_9; img_521 and img_521b; img_561b on img_561), the manuscript's document records it on the leaf break (elsewhere: [{ to, note }]) for Book to lead there.
+
 ## 0.1.23 (2026-10-25)
 
 - The kit at 0.79.0: a click on a revision's box keeps its text highlighted until the next action ("Highlight this in panel"); in the enlarged leaf, a box under the pointer shows its words, what the revision is, and its stage and hand.

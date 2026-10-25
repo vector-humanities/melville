@@ -82,6 +82,9 @@
         // boxes are read as MEL writes them: about 2,300 have uly > lry and 3,500 ulx > lrx in MEL's
         // own XML (the way a box was drawn in TextLab), so a view orders the corners
         T.eq('a box as MEL writes it (img_11_z017, “Highland”, top below bottom)', dd.zones.img_11_z017, [623, 2400, 994, 2269]);
+        // MEL's notes that a leaf's text is transcribed with another leaf
+        var ew = {}; dd.blocks.forEach(function (bl) { if (bl.t === 'pb' && bl.elsewhere) ew[bl.facs] = bl.elsewhere.map(function (e) { return e.to || '?'; }).join(','); });
+        T.eq('the leaves whose text is transcribed elsewhere, and where', ew, { img_7: 'img_9', img_521: 'img_521b', img_521b: 'img_521', img_561b: 'img_561' });
         var first = bs[0].lines[0].map(function (L) { return L.raw; });
         T.group('Document, readings');
         T.yes('before revision: “some one signal”', first.some(function (t) { return /some one signal/.test(t); }));
