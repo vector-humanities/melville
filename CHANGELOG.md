@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.25 (2026-10-27)
+
+- The kit at 0.80.0: the enlarged leaf zooms and pans; a link (Share, in the leaf's details and in the panel) opens Book on the same leaf, zoom, stage and highlighted revision; a leaf whose text MEL transcribes elsewhere leads there (img_7's lower slip to img_9).
+
 ## 0.1.24 (2026-10-25)
 
 - Where MEL notes that a leaf's text is transcribed with another leaf (img_7's lower slip on img_9; img_521 and img_521b; img_561b on img_561), the manuscript's document records it on the leaf break (elsewhere: [{ to, note }]) for Book to lead there.
