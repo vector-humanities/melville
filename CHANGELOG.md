@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.26 (2026-10-27)
+
+- The bench's DOI from Zenodo, 10.5281/zenodo.23715253 (all versions; v0.1.25 is 10.5281/zenodo.23715254), in the README with a citation. The kit at 0.84.0 (its project builder, which this bench does not use, and a Beside menu in Read for a version of several files).
+
 ## 0.1.25 (2026-10-27)
 
 - The kit at 0.80.0: the enlarged leaf zooms and pans; a link (Share, in the leaf's details and in the panel) opens Book on the same leaf, zoom, stage and highlighted revision; a leaf whose text MEL transcribes elsewhere leads there (img_7's lower slip to img_9).

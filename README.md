@@ -1,8 +1,11 @@
 # Melville Research Bench
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23715253.svg)](https://doi.org/10.5281/zenodo.23715253)
+
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.1.25 (bench-kit 0.80.0)  
-**Live:** https://vector-humanities.github.io/melville/
+**Version:** 0.1.26 (bench-kit 0.84.0)  
+**Live:** https://vector-humanities.github.io/melville/  
+**DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 
 A bench for reading, annotating and comparing Herman Melville's *Billy Budd* and his short tales in their versions: the manuscript's states of revision, the editions made from it, and the magazine and book texts of the tales. It is built on [bench-kit](https://github.com/critical-code-studies/bench-kit), the modules shared by the critical code studies benches (SHRDLU, Spacewar!, ELIZA), and is the first of them whose texts are prose.
 
@@ -40,6 +43,12 @@ python3 -m http.server 8000
 ```
 
 and open `http://localhost:8000/`. The texts are fetched from GitHub, so the bench needs a network connection.
+
+## Citing the bench
+
+Berry, D. M. and Jonik, M. (2026) *Melville Research Bench*. Zenodo. https://doi.org/10.5281/zenodo.23715253.
+
+The DOI above resolves to the latest version. Each release has its own DOI on Zenodo: version 0.1.25 is [10.5281/zenodo.23715254](https://doi.org/10.5281/zenodo.23715254).
 
 ## Licence
 
