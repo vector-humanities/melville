@@ -1,6 +1,6 @@
 # Melville Research Bench
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23715253.svg)](https://doi.org/10.5281/zenodo.23715253)
+<a href="https://doi.org/10.5281/zenodo.23715253"><img src="https://zenodo.org/badge/1428696893.svg" alt="DOI"></a>
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
 **Version:** 0.1.26 (bench-kit 0.84.0)  
