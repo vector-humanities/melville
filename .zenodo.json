@@ -3,7 +3,7 @@
   "upload_type": "software",
   "description": "<p>A research bench for reading, annotating and comparing Herman Melville's <i>Billy Budd</i> and his short tales in their versions: the manuscript's states of revision, the editions made from it, and the magazine and book texts of the tales. A research project of David M. Berry and Michael Jonik (University of Sussex), built on bench-kit. The texts are read at runtime from the Melville Electronic Library's TEI (github.com/performant-software/mel-website); none of MEL's transcription or encoding is included in this record. The manuscript is in the Houghton Library, Harvard University, MS Am 188 (363).</p>",
   "creators": [
-    { "name": "Berry, David M.", "affiliation": "University of Sussex" },
+    { "name": "Berry, David M.", "affiliation": "University of Sussex", "orcid": "0000-0002-7737-5586" },
     { "name": "Jonik, Michael", "affiliation": "University of Sussex" }
   ],
   "license": "GPL-3.0",
