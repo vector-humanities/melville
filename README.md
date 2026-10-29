@@ -3,7 +3,7 @@
 <a href="https://doi.org/10.5281/zenodo.23715253"><img src="https://zenodo.org/badge/1428696893.svg" alt="DOI"></a>
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.1.26 (bench-kit 0.84.0)  
+**Version:** 0.1.27 (bench-kit 0.84.4)  
 **Live:** https://vector-humanities.github.io/melville/  
 **DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 
