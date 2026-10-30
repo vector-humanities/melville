@@ -55,7 +55,7 @@
                   ESM: 'ESM, a hand written as a stage', RW: 'RW, a hand written as a stage', Ht: 'Ht, the library’s foliation', v: 'v' },
       // Book (kit/book.js): the manuscript's three states as one text with a slider through the stages
       states: { source: 'ms-dipl', first: 'ms-first', last: 'ms-final', label: 'Manuscript' },
-      stageHands: ['HM'], mainHand: 'HM',
+      stageHands: ['HM'], mainHand: 'HM', folioWord: 'Houghton folio',
       words: { page: 'leaf', all: 'Every revision' },
       // the leaves held in img/leaves/, made from Harvard's own image service with the permission of the
       // Houghton Library (30 October 2026); tools/leaves.py fetches them and writes js/leaves.js and
