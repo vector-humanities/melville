@@ -1,17 +1,60 @@
 {
   "title": "Melville Research Bench",
   "upload_type": "software",
-  "description": "<p>A research bench for reading, annotating and comparing Herman Melville's <i>Billy Budd</i> and his short tales in their versions: the manuscript's states of revision, the editions made from it, and the magazine and book texts of the tales. A research project of David M. Berry and Michael Jonik (University of Sussex), built on bench-kit. The texts are read at runtime from the Melville Electronic Library's TEI (github.com/performant-software/mel-website); none of MEL's transcription or encoding is included in this record. The manuscript is in the Houghton Library, Harvard University, MS Am 188 (363).</p>",
+  "description": "<p>A research bench for reading, annotating and comparing Herman Melville's <i>Billy Budd</i> and his short tales in their versions: the manuscript's states of revision, the editions made from it, and the magazine and book texts of the tales. A research project of David M. Berry and Michael Jonik (University of Sussex), built on bench-kit. The texts are read at runtime from the Melville Electronic Library's TEI (github.com/performant-software/mel-website); none of MEL's transcription or encoding is included in this record. The manuscript is in the Houghton Library, Harvard University: Herman Melville papers (MS Am 188-188.6), Box 19, Volume 2, MS Am 188 (363). The record includes web derivatives of the manuscript's 449 leaves (img/leaves/), made from Harvard's IIIF image service and reproduced with the permission of the Houghton Library, Harvard University (granted 30 October 2026, for non-commercial research and teaching); img/leaves/provenance.csv gives each file's archival location, Houghton's folio and Harvard's sequence, and its source URLs.</p>",
   "creators": [
-    { "name": "Berry, David M.", "affiliation": "University of Sussex", "orcid": "0000-0002-7737-5586" },
-    { "name": "Jonik, Michael", "affiliation": "University of Sussex" }
+    {
+      "name": "Berry, David M.",
+      "affiliation": "University of Sussex",
+      "orcid": "0000-0002-7737-5586"
+    },
+    {
+      "name": "Jonik, Michael",
+      "affiliation": "University of Sussex"
+    }
   ],
   "license": "GPL-3.0",
-  "keywords": ["Herman Melville", "Billy Budd", "genetic criticism", "fluid text", "digital editions", "TEI", "manuscript studies", "bench-kit", "vector humanities"],
+  "keywords": [
+    "Herman Melville",
+    "Billy Budd",
+    "genetic criticism",
+    "fluid text",
+    "digital editions",
+    "TEI",
+    "manuscript studies",
+    "bench-kit",
+    "vector humanities"
+  ],
   "related_identifiers": [
-    { "identifier": "https://vector-humanities.github.io/melville/", "relation": "isDocumentedBy", "resource_type": "other" },
-    { "identifier": "https://github.com/critical-code-studies/bench-kit", "relation": "requires", "resource_type": "software" },
-    { "identifier": "https://melville.electroniclibrary.org/versions-of-billy-budd", "relation": "references", "resource_type": "other" },
-    { "identifier": "https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388", "relation": "references", "resource_type": "other" }
+    {
+      "identifier": "https://vector-humanities.github.io/melville/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://github.com/critical-code-studies/bench-kit",
+      "relation": "requires",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://melville.electroniclibrary.org/versions-of-billy-budd",
+      "relation": "references",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388",
+      "relation": "references",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://nrs.harvard.edu/URN-3:FHCL.HOUGH:4686413",
+      "relation": "isDerivedFrom",
+      "resource_type": "image"
+    },
+    {
+      "identifier": "https://nrs.harvard.edu/URN-3:FHCL.HOUGH:4686413:MANIFEST:3",
+      "relation": "isDerivedFrom",
+      "resource_type": "other"
+    }
   ]
 }

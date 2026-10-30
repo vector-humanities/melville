@@ -34,6 +34,13 @@
       var b = { v: v, dialect: v.dialect, parts: L.parts, asm: null }; index(b);
       // the Book view's document, a part at a time (js/tei.js), where a part has one
       if (L.parts.some(function (p) { return p.doc; })) b.doc = L.parts.map(function (p) { return p.doc; });
+      // a leaf held (js/leaves.js) links to its page in Harvard's own image service (IIIF 2), in
+      // place of MEL's copy of it, and carries Houghton's folio
+      var held = root.MelLeaves || {};
+      (b.doc || []).forEach(function (d) { if (d) d.blocks.forEach(function (bl) {
+        var h = bl.t === 'pb' && held[bl.facs];
+        if (h) { bl.iiif = { id: h.iiif, v: 2 }; bl.folio = h.folio; bl.seq = h.seq; }
+      }); });
       return b;
     }
   });

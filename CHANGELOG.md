@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.2.0 (2026-10-30)
+
+- The Houghton version. The manuscript's 449 leaves are made from Harvard's own IIIF image service and held in the bench with the permission of the Houghton Library, Harvard University (30 October 2026). Every file's archival location (Herman Melville papers, MS Am 188-188.6, Box 19, Volume 2, MS Am 188 (363), with Houghton's folio and Harvard's sequence) and its source URLs are in img/leaves/provenance.csv. Book's enlarged leaf links to the page in Harvard's image service, and its credit names the Houghton Library.
+
 ## 0.1.28 (2026-10-30)
 
 - The manuscript's 449 leaves held in the bench (img/leaves/), with the permission of the Houghton Library, Harvard University (30 October 2026): 560 pixels wide beside the text, no more than 1,600 on the long side for the enlarged view, each credited to Houghton with the call number and links to the finding aid and Harvard's digital copy. Book shows them from the bench's own files, so they come as fast as the bench does. tools/leaves.py fetches them.

@@ -1,9 +1,7 @@
 # Melville Research Bench
 
-[![DOI](https://zenodo.org/badge/1428696893.svg)](https://doi.org/10.5281/zenodo.23715253)
-
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.1.28 (bench-kit 0.84.4)  
+**Version:** 0.2.0 (bench-kit 0.84.4)  
 **Live:** https://vector-humanities.github.io/melville/  
 **DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 
@@ -22,7 +20,7 @@ A bench for reading, annotating and comparing Herman Melville's *Billy Budd* and
 
 The manuscript is a line of the leaf to a line. Each leaf begins with a line `[img_N]`, MEL's image number; the reading text marks the leaves it is edited from in the same way, so Collate can set the two side by side leaf by leaf.
 
-The manuscript is in the Houghton Library, Harvard University (MS Am 188 (363)). The images of its 449 leaves are held in `img/leaves/` (560 pixels wide beside the text, and no more than 1,600 pixels on the long side for the enlarged view) with the permission of the Houghton Library, granted by Leslie A. Morris, Gore Vidal Curator of Modern Books and Manuscripts, on 30 October 2026, for non-commercial research and teaching. Each is credited to Houghton Library, Harvard University, MS Am 188 (363), with links to the [finding aid](https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388) and [Harvard's digital copy](http://nrs.harvard.edu/urn-3:FHCL.Hough:4686413). `tools/leaves.py` fetches them from the leaves' IIIF services.
+The manuscript is in the Houghton Library, Harvard University: Herman Melville papers (MS Am 188-188.6), Box 19, Volume 2, MS Am 188 (363). The images of its 449 leaves are held in `img/leaves/`, made from Harvard's own IIIF image service (560 pixels wide beside the text, and about 1,600 pixels on the long side for the enlarged view), with the permission of the Houghton Library, granted by Leslie A. Morris, Gore Vidal Curator of Modern Books and Manuscripts, on 30 October 2026, for non-commercial research and teaching. Each is credited to the Houghton Library, and `img/leaves/provenance.csv` gives every file's archival location (with Houghton's folio and Harvard's sequence) and its source URLs in Harvard's [digital copy](https://nrs.harvard.edu/URN-3:FHCL.HOUGH:4686413) and [IIIF manifest](https://nrs.harvard.edu/URN-3:FHCL.HOUGH:4686413:MANIFEST:3); see also the [finding aid](https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388). `tools/leaves.py` makes them.
 
 ## What is here
 
@@ -53,3 +51,5 @@ The DOI above resolves to the latest version. Each release has its own DOI on Ze
 ## Licence
 
 The bench's code is GPL-3.0 (`LICENSE`); the kit is GPL-3.0. Melville's texts are in the public domain. The transcriptions, encoding and notes the bench reads are MEL's and remain under MEL's terms.
+
+[![DOI](https://zenodo.org/badge/1428696893.svg)](https://doi.org/10.5281/zenodo.23715253)

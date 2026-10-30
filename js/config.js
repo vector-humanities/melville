@@ -29,7 +29,7 @@
       doiBadge: 'https://zenodo.org/badge/1428696893.svg',      // Zenodo's badge for the repository
       purpose: 'A bench for reading, annotating and comparing Herman Melville’s <i>Billy Budd</i> and his short tales in their versions: the manuscript’s states of revision, the editions made from it, and the magazine and book texts of the tales. The first bench-kit bench for prose.',
       inside: 'The Melville Electronic Library’s TEI, read from MEL’s repository and divided into lines: the manuscript a line of the leaf to a line, the reading text a sentence to a line. Each leaf is marked [img_N], MEL’s image number.',
-      sources: 'The Melville Electronic Library (MEL), <a href="https://melville.electroniclibrary.org/versions-of-billy-budd" target="_blank" rel="noopener"><i>Versions of Billy Budd</i></a>, John Bryant and MEL’s editors; its data at <a href="https://github.com/performant-software/mel-website" target="_blank" rel="noopener">github.com/performant-software/mel-website</a>. The manuscript is in the Houghton Library, Harvard University (MS Am 188 (363)); the images of its leaves are Houghton’s, held here with the library’s permission. Nothing of MEL’s transcription is copied into this repository.',
+      sources: 'The Melville Electronic Library (MEL), <a href="https://melville.electroniclibrary.org/versions-of-billy-budd" target="_blank" rel="noopener"><i>Versions of Billy Budd</i></a>, John Bryant and MEL’s editors; its data at <a href="https://github.com/performant-software/mel-website" target="_blank" rel="noopener">github.com/performant-software/mel-website</a>. The manuscript is in the Houghton Library, Harvard University (MS Am 188 (363)); the images of its leaves are Houghton’s, made from Harvard’s own image service and held here with the library’s permission, each with its archival location and source in img/leaves/provenance.csv. Nothing of MEL’s transcription is copied into this repository.',
       code: 'https://github.com/vector-humanities/melville',
       catalogue: { skip: [], held: 'read from MEL' }
     },
@@ -57,13 +57,15 @@
       states: { source: 'ms-dipl', first: 'ms-first', last: 'ms-final', label: 'Manuscript' },
       stageHands: ['HM'], mainHand: 'HM',
       words: { page: 'leaf', all: 'Every revision' },
-      // the leaves held in img/leaves/ (tools/leaves.py, js/leaves.js), with the permission of the Houghton
-      // Library (30 October 2026); a leaf not held is shown from its IIIF service
+      // the leaves held in img/leaves/, made from Harvard's own image service with the permission of the
+      // Houghton Library (30 October 2026); tools/leaves.py fetches them and writes js/leaves.js and
+      // img/leaves/provenance.csv (each file's archival location and URLs). A leaf not held is shown from
+      // its IIIF service
       image: function (pb) {
-        var held = root.MelLeaves || [];
-        return pb.facs && held.indexOf(pb.facs) >= 0 ? { src: 'img/leaves/' + pb.facs + '.jpg', large: 'img/leaves/' + pb.facs + '-large.jpg' } : null;
+        var held = root.MelLeaves || {};
+        return pb.facs && held[pb.facs] ? { src: 'img/leaves/' + pb.facs + '.jpg', large: 'img/leaves/' + pb.facs + '-large.jpg' } : null;
       },
-      imageCredit: 'Houghton Library, Harvard University, MS Am 188 (363). Reproduced with the permission of the Houghton Library. <a href="https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388" target="_blank" rel="noopener">Finding aid ↗</a> · <a href="http://nrs.harvard.edu/urn-3:FHCL.Hough:4686413" target="_blank" rel="noopener">Harvard’s digital copy ↗</a>',
+      imageCredit: 'Houghton Library, Harvard University, Herman Melville papers (MS Am 188-188.6), Box 19, Volume 2: Billy Budd, MS Am 188 (363). Reproduced with the permission of the Houghton Library. The folio and the file’s source are given for every leaf in <a href="https://github.com/vector-humanities/melville/blob/main/img/leaves/provenance.csv" target="_blank" rel="noopener">img/leaves/provenance.csv ↗</a>. <a href="https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388" target="_blank" rel="noopener">Finding aid ↗</a> · <a href="http://nrs.harvard.edu/urn-3:FHCL.Hough:4686413" target="_blank" rel="noopener">Harvard’s digital copy ↗</a>',
       versions: ['ms-final', 'mel-rt']
     },
     group: '',                                             // the Hypothesis group's ID, once one is made
