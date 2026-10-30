@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.1.28 (2026-10-30)
+
+- The manuscript's 449 leaves held in the bench (img/leaves/), with the permission of the Houghton Library, Harvard University (30 October 2026): 560 pixels wide beside the text, no more than 1,600 on the long side for the enlarged view, each credited to Houghton with the call number and links to the finding aid and Harvard's digital copy. Book shows them from the bench's own files, so they come as fast as the bench does. tools/leaves.py fetches them.
+
 ## 0.1.27 (2026-10-29)
 
 - The DOI in the About box: a DOI row with Zenodo's badge (10.5281/zenodo.23715253, every version), and Cite as ending with it. Only a release published on GitHub gets a DOI of its own (v0.1.25 is 10.5281/zenodo.23715254), so the row gives the DOI of every version. The kit at 0.84.4.
