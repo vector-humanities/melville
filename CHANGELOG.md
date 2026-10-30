@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.2.1 (2026-10-30)
+
+- A band on each leaf for every line of its main text (pb.lines in Book's document), so every line can be selected on the image, not only the revised ones. MEL gives boxes only for its revisions; the bands are fitted through the boxes of each leaf's deletions and inline additions, with a typical spacing on leaves that have too few, and marked measured where a box lies on the band. Book draws them once bench-kit supports them (requested).
+
 ## 0.2.0 (2026-10-30)
 
 - The Houghton version. The manuscript's 449 leaves are made from Harvard's own IIIF image service and held in the bench with the permission of the Houghton Library, Harvard University (30 October 2026). Every file's archival location (Herman Melville papers, MS Am 188-188.6, Box 19, Volume 2, MS Am 188 (363), with Houghton's folio and Harvard's sequence) and its source URLs are in img/leaves/provenance.csv. Book's enlarged leaf links to the page in Harvard's image service, and its credit names the Houghton Library.

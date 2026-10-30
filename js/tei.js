@@ -38,7 +38,10 @@
  * (zones: { id: [ulx, uly, lrx, lry] }, in the pixels of the leaf as encoded), and each pb the
  * leaf's size (size: [w, h]). Where MEL notes that text on a leaf is transcribed with another
  * ("[See next leaf for transcription of text on this mount.]"), the pb carries it as
- * elsewhere: [{ to, note }], to being the leaf that holds the text.
+ * elsewhere: [{ to, note }], to being the leaf that holds the text. MEL gives boxes only for its
+ * revisions, so each pb also carries an estimated band for every line of the leaf's main text,
+ * lines: [{ n, box: [ulx, uly, lrx, lry], measured }], placed by a fit through the boxes of the
+ * leaf's deletions and inline additions; measured is true where such a box lies on the band.
  */
 (function (root) {
   'use strict';
@@ -264,6 +267,77 @@
     }
   }
 
+  // A band on the leaf for each line of its main text. A deletion, or an addition written inline,
+  // sits on its line, so a small box (no taller than 7% of the leaf; MEL's larger boxes enclose whole
+  // passages) gives a point on the line's height. The lines are taken as evenly spaced: a straight
+  // line through the points (the median of the slopes between points on different lines, Theil-Sen)
+  // gives each line's height and the spacing. A leaf with fewer than two lines measured takes the
+  // spacing, and with none the first line's height, typical of the leaves that have them; lines
+  // that would run off the leaf are drawn closer. The bands run across the width the small boxes
+  // cover; measured is true where a box lies on the band.
+  function lineBands(blocks, zones) {
+    // a leaf MEL breaks into two (img_583) is fitted as one, and each pb takes its own lines' bands
+    var leaf = null, own = null, by = [], facs = {};
+    blocks.forEach(function (bl) {
+      if (bl.t === 'pb') {
+        leaf = facs[bl.facs] = facs[bl.facs] || { pb: bl, pbs: [], lines: {}, at: {}, seen: {} };
+        if (leaf.pbs.length === 0) by.push(leaf);
+        leaf.pbs.push(own = { pb: bl, ns: {} }); return;
+      }
+      if (!leaf || bl.t !== 'ab' || bl.rend) return;
+      var H = (leaf.pb.size || [0, 0])[1];
+      bl.spans.forEach(function (sp) {
+        if (sp.n == null || !/\S/.test(sp.s)) return;
+        leaf.lines[sp.n] = 1; own.ns[sp.n] = 1;
+        sp.marks.forEach(function (m) {
+          var z = m.zone && zones[m.zone];
+          if (!z || leaf.seen[m.zone + ' ' + sp.n] || !(m.k === 'erased' || m.k === 'added' && (m.place || 'inline') === 'inline')) return;
+          var bx = [Math.min(z[0], z[2]), Math.min(z[1], z[3]), Math.max(z[0], z[2]), Math.max(z[1], z[3])];
+          if (H && bx[3] - bx[1] > H * 0.07) return;
+          leaf.seen[m.zone + ' ' + sp.n] = 1;
+          (leaf.at[sp.n] = leaf.at[sp.n] || []).push(bx);
+        });
+      });
+    });
+    function median(a) { a = a.slice().sort(function (x, y) { return x - y; }); return a.length ? a[a.length >> 1] : null; }
+    function fit(L) {
+      var ns = Object.keys(L.lines).map(Number).sort(function (a, b) { return a - b; }), pts = [];
+      ns.forEach(function (n, i) { (L.at[n] || []).forEach(function (b) { pts.push({ i: i, y: (b[1] + b[3]) / 2 }); }); });
+      var H = (L.pb.size || [0, 0])[1], slopes = [];
+      for (var j = 0; j < pts.length; j++) for (var k = j + 1; k < pts.length; k++)
+        if (pts[k].i !== pts[j].i) slopes.push((pts[k].y - pts[j].y) / (pts[k].i - pts[j].i));
+      var s = median(slopes);
+      if (s != null && H && (s < H * 0.015 || s > H * 0.08)) s = null;
+      L.ns = ns; L.pts = pts; L.H = H; L.W = (L.pb.size || [0, 0])[0];
+      if (s != null) { L.s = s; L.y0 = median(pts.map(function (p) { return p.y - s * p.i; })); }
+    }
+    by.forEach(fit);
+    var fitted = by.filter(function (L) { return L.s != null && L.H; });
+    var S = median(fitted.map(function (L) { return L.s / L.H; })), Y = median(fitted.map(function (L) { return L.y0 / L.H; }));
+    by.forEach(function (L) {
+      if (!L.ns.length || !L.H || S == null) return;
+      if (L.s == null) {
+        L.s = S * L.H;
+        L.y0 = L.pts.length ? median(L.pts.map(function (p) { return p.y - L.s * p.i; })) : Y * L.H;
+      }
+      // keep every band on the leaf: closer spacing if the lines would not fit, then moved within it
+      var top = L.H * 0.02, bottom = L.H * 0.98, m = L.ns.length;
+      if (L.s * m > bottom - top) L.s = (bottom - top) / m;
+      L.y0 = Math.min(Math.max(L.y0, top + L.s / 2), bottom - L.s * (m - 0.5));
+      var boxes = [].concat.apply([], L.ns.map(function (n) { return L.at[n] || []; }));
+      var x0 = L.W * 0.12, x1 = L.W * 0.88;
+      if (boxes.length) {
+        var xs0 = boxes.map(function (b) { return b[0]; }).sort(function (a, b) { return a - b; }), xs1 = boxes.map(function (b) { return b[2]; }).sort(function (a, b) { return a - b; });
+        x0 = Math.min(x0, xs0[Math.floor(xs0.length * 0.05)]); x1 = Math.max(x1, xs1[Math.min(xs1.length - 1, Math.floor(xs1.length * 0.95))]);
+      }
+      var bands = L.ns.map(function (n, i) {
+        var y = L.y0 + L.s * i, y0 = Math.max(0, Math.round(y - L.s / 2)), y1 = Math.min(L.H, Math.round(y + L.s / 2));
+        var on = (L.at[n] || []).some(function (b) { var c = (b[1] + b[3]) / 2; return c >= y0 && c <= y1; });
+        return { n: n, box: [Math.round(x0), y0, Math.round(x1), y1], measured: on };
+      });
+      L.pbs.forEach(function (o) { o.pb.lines = bands.filter(function (l) { return o.ns[l.n]; }); });
+    });
+  }
   // the leaf each of MEL's notes points to: the next leaf; a leaf by its number ("see leaf 561");
   // or, for a chapter ("See Ch. 19 …"), the other image of the same leaf (img_521 and img_521b)
   function elsewhere(blocks) {
@@ -288,6 +362,7 @@
       var r = D.result();
       r.doc.zones = svc.zones;
       elsewhere(r.doc.blocks);
+      lineBands(r.doc.blocks, svc.zones);
       return r;
     },
     reading: function (xml) { var D = new Doc(sentences); rt(body(parse(xml)), D, []); return D.result(); },

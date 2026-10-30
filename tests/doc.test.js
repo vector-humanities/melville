@@ -85,6 +85,23 @@
         // MEL's notes that a leaf's text is transcribed with another leaf
         var ew = {}; dd.blocks.forEach(function (bl) { if (bl.t === 'pb' && bl.elsewhere) ew[bl.facs] = bl.elsewhere.map(function (e) { return e.to || '?'; }).join(','); });
         T.eq('the leaves whose text is transcribed elsewhere, and where', ew, { img_7: 'img_9', img_521: 'img_521b', img_521b: 'img_521', img_561b: 'img_561' });
+        // a band on the leaf for each line of its main text, estimated from the revisions' boxes
+        var leaf = null, want = [], bandBad = [], bands = 0, measured = 0;
+        dd.blocks.forEach(function (bl) {
+          if (bl.t === 'pb') { leaf = {}; want.push(leaf); return; }
+          if (leaf && bl.t === 'ab' && !bl.rend) bl.spans.forEach(function (sp) { if (sp.n != null && /\S/.test(sp.s)) leaf[sp.n] = 1; });
+        });
+        dd.blocks.filter(function (bl) { return bl.t === 'pb'; }).forEach(function (bl, k) {
+          var ls = bl.lines || [], W = bl.size[0], H = bl.size[1];
+          if (ls.map(function (l) { return l.n; }).join() !== Object.keys(want[k]).join()) bandBad.push(bl.facs + ' lines');
+          ls.forEach(function (l, i) {
+            var b = l.box; bands++; if (l.measured) measured++;
+            if (!(b[0] >= 0 && b[1] >= 0 && b[2] <= W && b[3] <= H && b[2] > b[0] && b[3] > b[1])) bandBad.push(bl.facs + ':' + l.n + ' off the leaf');
+            if (i && b[1] < ls[i - 1].box[3] - 1) bandBad.push(bl.facs + ':' + l.n + ' above the line before');
+          });
+        });
+        T.eq('every line of a leaf’s main text has a band, on the leaf and below the one before', bandBad.slice(0, 5), []);
+        T.yes('a quarter or more of the bands lie on a revision’s box (' + measured + ' of ' + bands + ')', measured > bands / 4);
         var first = bs[0].lines[0].map(function (L) { return L.raw; });
         T.group('Document, readings');
         T.yes('before revision: “some one signal”', first.some(function (t) { return /some one signal/.test(t); }));
