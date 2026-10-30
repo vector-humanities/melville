@@ -2,6 +2,9 @@
  * The kit's README lists every setting. */
 (function (root) {
   'use strict';
+  // the leaves whose photograph has Harvard's colour card on the left (doc.trim)
+  var cardLeft = {};
+  'img_109 img_110 img_188 img_198 img_202 img_212 img_272 img_316 img_325 img_407 img_408 img_492 img_498 img_532 img_584 img_672 img_801 img_827'.split(' ').forEach(function (id) { cardLeft[id] = 1; });
   root.SW.BENCH = {
     name: 'Melville',
     title: 'Melville Research Bench',
@@ -68,6 +71,14 @@
         if (!L) return null;
         return { src: 'img/leaves/' + pb.facs + '.jpg', large: 'img/leaves/' + pb.facs + '-large.jpg',
                  get sharp() { return L.iiif && root.SW.store.get('fullLeaves', true) !== false ? L.iiif + '/full/max/0/default.jpg' : null; } };
+      },
+      // each leaf's image trimmed of the colour card and ruler Harvard photographs beside it (Settings ▸ Book
+      // ▸ The pages' edges; a reader's own trim overrides it). Measured on all 449 leaves, 30 October 2026:
+      // the card is on the right of 431, its left edge at 0.861-0.932 of the width, the paper always 0.043
+      // or more clear of it; on the left of the leaves in cardLeft (mostly overlays photographed from
+      // behind), its right edge at 0.066-0.139, the paper from about 0.17
+      trim: function (pb) {
+        return cardLeft[pb.facs] ? { l: 0.15 } : { r: pb.facs === 'img_826' ? 0.14 : 0.135 };
       },
       imageCredit: 'Houghton Library, Harvard University, Herman Melville papers (MS Am 188-188.6), Box 19, Volume 2: Billy Budd, MS Am 188 (363). Reproduced with the permission of the Houghton Library. The folio and the file’s source are given for every leaf in <a href="https://github.com/vector-humanities/melville/blob/main/img/leaves/provenance.csv" target="_blank" rel="noopener">img/leaves/provenance.csv ↗</a>. <a href="https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388" target="_blank" rel="noopener">Finding aid ↗</a> · <a href="http://nrs.harvard.edu/urn-3:FHCL.Hough:4686413" target="_blank" rel="noopener">Harvard’s digital copy ↗</a>',
       versions: ['ms-final', 'mel-rt']
