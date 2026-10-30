@@ -60,10 +60,14 @@
       // the leaves held in img/leaves/, made from Harvard's own image service with the permission of the
       // Houghton Library (30 October 2026); tools/leaves.py fetches them and writes js/leaves.js and
       // img/leaves/provenance.csv (each file's archival location and URLs). A leaf not held is shown from
-      // its IIIF service
+      // its IIIF service. The enlarged leaf also takes Harvard's full-size image (sharp), fetched by the
+      // reader's browser from Harvard's service, while Settings ▸ Book ▸ Full-size leaves is on (js/main.js);
+      // read as the leaf opens, so the setting holds at once
       image: function (pb) {
-        var held = root.MelLeaves || {};
-        return pb.facs && held[pb.facs] ? { src: 'img/leaves/' + pb.facs + '.jpg', large: 'img/leaves/' + pb.facs + '-large.jpg' } : null;
+        var held = root.MelLeaves || {}, L = pb.facs && held[pb.facs];
+        if (!L) return null;
+        return { src: 'img/leaves/' + pb.facs + '.jpg', large: 'img/leaves/' + pb.facs + '-large.jpg',
+                 get sharp() { return L.iiif && root.SW.store.get('fullLeaves', true) !== false ? L.iiif + '/full/max/0/default.jpg' : null; } };
       },
       imageCredit: 'Houghton Library, Harvard University, Herman Melville papers (MS Am 188-188.6), Box 19, Volume 2: Billy Budd, MS Am 188 (363). Reproduced with the permission of the Houghton Library. The folio and the file’s source are given for every leaf in <a href="https://github.com/vector-humanities/melville/blob/main/img/leaves/provenance.csv" target="_blank" rel="noopener">img/leaves/provenance.csv ↗</a>. <a href="https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388" target="_blank" rel="noopener">Finding aid ↗</a> · <a href="http://nrs.harvard.edu/urn-3:FHCL.Hough:4686413" target="_blank" rel="noopener">Harvard’s digital copy ↗</a>',
       versions: ['ms-final', 'mel-rt']

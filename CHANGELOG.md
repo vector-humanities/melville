@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.2.3 (2026-10-30)
+
+- bench-kit 0.87.0: Book's enlarged leaf zooms and moves as Paratexts' pictures do (pinch, wheel, double-click, a bar with Fit and 1:1, 0.5–40×), and is shown from Harvard's full-size image, fetched from Harvard's image service as the leaf opens (Settings ▸ Book ▸ Full-size leaves, on by default; off, the bench's 1,600-pixel copy). Large revision boxes lie beneath the line bands, so every line can be reached.
+
 ## 0.2.2 (2026-10-30)
 
 - The kit at 0.86.0: Book draws each leaf's line bands beside the text and in the enlarged leaf, so any line can be selected on the image (hover lights it in the text, a click highlights it in the panel; estimated bands are marked). The enlarged leaf's details give Houghton's folio and Harvard's sequence, e.g. "img_3 (Houghton folio 1, seq. 3)".
