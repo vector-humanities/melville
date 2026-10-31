@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.2.5 (2026-10-31)
+
+- bench-kit 0.89.0: a leaf can be rated out of three stars in Book's enlarged leaf (a Rating row in its details, as Paratexts' items and the findings have), shared through the group's annotations.
+
 ## 0.2.4 (2026-10-30)
 
 - bench-kit 0.88.0: each leaf's image is trimmed of the colour card and ruler Harvard photographs beside it (on the right of 431 leaves, on the left of 18), beside the text and enlarged; Settings ▸ Book ▸ The pages' edges sets a trim of your own. The enlarged leaf takes the leaf's shape, and its details wrap within their column.
