@@ -80,6 +80,8 @@
       trim: function (pb) {
         return cardLeft[pb.facs] ? { l: 0.15 } : { r: pb.facs === 'img_826' ? 0.14 : 0.135 };
       },
+      // the credit's line shown before it is opened in the enlarged leaf's details: the library and call number
+      imageCreditShort: 'Houghton Library, Harvard University, MS Am 188 (363)',
       imageCredit: 'Houghton Library, Harvard University, Herman Melville papers (MS Am 188-188.6), Box 19, Volume 2: Billy Budd, MS Am 188 (363). Reproduced with the permission of the Houghton Library. The folio and the file’s source are given for every leaf in <a href="https://github.com/vector-humanities/melville/blob/main/img/leaves/provenance.csv" target="_blank" rel="noopener">img/leaves/provenance.csv ↗</a>. <a href="https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388" target="_blank" rel="noopener">Finding aid ↗</a> · <a href="http://nrs.harvard.edu/urn-3:FHCL.Hough:4686413" target="_blank" rel="noopener">Harvard’s digital copy ↗</a>',
       versions: ['ms-final', 'mel-rt']
     },
