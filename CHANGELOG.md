@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.2.7 (2026-10-31)
+
+- bench-kit 0.90.2: the enlarged leaf stays open on a click on the image, the grey round it or its details (such as the credit's fold), and closes with ✕, Esc or a click outside.
+
 ## 0.2.6 (2026-10-31)
 
 - bench-kit 0.90.1: bookmarks in Book (a red bookmark at a leaf's top right, beside the text and enlarged; 🔖 Bookmarks in the toolbar lists them); the enlarged leaf's details are tighter, with the image's credit folded behind "Houghton Library, Harvard University, MS Am 188 (363)" (doc.imageCreditShort).
