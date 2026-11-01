@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.2.8 (2026-11-01)
+
+- The bench's name on one line in the top bar.
+
 ## 0.2.7 (2026-10-31)
 
 - bench-kit 0.90.2: the enlarged leaf stays open on a click on the image, the grey round it or its details (such as the credit's fold), and closes with ✕, Esc or a click outside.
