@@ -1,7 +1,7 @@
 # Melville Research Bench
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.3.1 (bench-kit 0.91.0)  
+**Version:** 0.3.2 (bench-kit 0.92.0)  
 **Live:** https://vector-humanities.github.io/melville/  
 **DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 
@@ -31,7 +31,7 @@ The manuscript is in the Houghton Library, Harvard University: Herman Melville p
   - **Words**: the lines that contain a word, word frequencies, a word cloud stepped through the chapters or the manuscript's stages, collocates with every occurrence in context, and rare words with their definitions in Webster's 1913.
   - **Distant reading**: distinctive words (log-likelihood, or the Mann–Whitney ρ over chunks), topics (latent Dirichlet allocation, seeded), trends and where words occur, the vocabulary's measures (moving-average type-token ratio, Yule's K, sentence length, Zipf and Heaps), stylometry (Burrows's Delta and principal components on the most frequent words), and a model of the difference (a logistic regression trained to tell two sets of passages or two versions apart, judged on chunks it did not see).
 
-  A version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the manuscript its leaves, each in the chapter of the reading text that first marks it. The statistics are `js/textstats.js`; the lenses `js/analyse.js` and `js/distant.js`. 📕 **Look up**, on a word selected in Read or Book, gives its entries in Webster's Revised Unabridged Dictionary (1913) with its frequency in present-day English (wordfreq); `tools/dictionary.py` makes `data/webster.json` and `data/wordfreq.json`.
+  A version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the manuscript its leaves, each in the chapter of the reading text that first marks it. The statistics and the word cloud are the kit's (`kit/textstats.js`, `kit/wordcloud.js`), the topics `js/topics.js`; the lenses `js/analyse.js` and `js/distant.js`. 📕 **Look up**, on a word selected in Read or Book, gives its entries in Webster's Revised Unabridged Dictionary (1913) with its frequency in present-day English (wordfreq); `tools/dictionary.py` makes `data/webster.json` and `data/wordfreq.json`.
 - **Versions ▾**: each version's record, **Collate** (as text, or leaf by leaf) and **Genealogy**.
 - **Findings**, **My notes**, **Paratexts** and **Help**, as in every bench-kit bench.
 
@@ -58,6 +58,7 @@ The works the Text ▾ lenses take their methods from.
 - Griffiths, T. L. and Steyvers, M. (2004) 'Finding scientific topics', *Proceedings of the National Academy of Sciences*, 101(suppl. 1), pp. 5228–5235. https://doi.org/10.1073/pnas.0307752101.
 - Jockers, M. L. (2013) *Macroanalysis: Digital Methods and Literary History*. Urbana: University of Illinois Press.
 - Moretti, F. (2000) 'Conjectures on world literature', *New Left Review*, 1, pp. 54–68.
+- Mueller, A. C. (2026) *word_cloud* (version 1.9.6). https://github.com/amueller/word_cloud. The word cloud's layout.
 - Speer, R. (2023) *wordfreq* (version 3.1.1). https://github.com/rspeer/wordfreq.
 - Underwood, T. (2011) 'Identifying diction that characterizes an author or genre: why Dunning's may not be the best method', *The Stone and the Shell*, 9 November. https://tedunderwood.com/2011/11/09/identifying-the-terms-that-characterize-an-author-or-genre-why-dunnings-may-not-be-the-best-method/.
 - Underwood, T. (2012) 'Topic modeling made just simple enough', *The Stone and the Shell*, 7 April. https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/.

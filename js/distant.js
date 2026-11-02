@@ -1,7 +1,7 @@
 /*
  * distant.js - lenses of distant reading on Billy Budd, added to those of js/analyse.js in Text ▾ (kit/lenses.js
- * draws them). The methods are js/textstats.js (to become bench-kit's) and, until the kit's are released,
- * js/topics.js for topics and js/cloud.js for the word cloud; the dictionary is the kit's (SW.dict). A
+ * draws them). The methods are the kit's: kit/textstats.js, kit/wordcloud.js and the dictionary (SW.dict),
+ * with js/topics.js for topics until the kit's topics module is released. A
  * version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the
  * manuscript its leaves, each in the chapter of the reading text that first marks it. The stages are the
  * manuscript's, by Book's rule (SW.book.shownAt), whichever version is open.
@@ -196,7 +196,7 @@
     fmtEl.innerHTML = '<summary>Format and colour</summary><div class="toolbar ds-bar">' +
       '<label>Colour ' + sel('colour', [['change', 'by change from the step before'], ['ink', 'ink'], ['one', 'one colour'], ['shade', 'one colour, shaded by count'], ['size', 'by size'], ['many', 'many colours']]) + '</label> ' +
       '<label data-for="hue">' + sel('hue', HUES) + '</label> <label data-for="own"><input type="color" data-f="own" value="' + esc(F.own) + '"></label> ' +
-      '<label>Font ' + sel('font', Object.keys(SW.cloud.FONTS).map(function (k) { return [k, SW.cloud.FONTS[k][0]]; })) + '</label> ' +
+      '<label>Font ' + sel('font', Object.keys(SW.wordcloud.FONTS).map(function (k) { return [k, SW.wordcloud.FONTS[k][0]]; })) + '</label> ' +
       chk('bold', 'bold') + ' ' + chk('caps', 'capitals') + ' ' +
       '<label>Upright ' + sel('upright', [['0', 'none'], ['0.15', 'a few'], ['0.5', 'half'], ['1', 'all']]) + '</label> ' +
       '<label>Shape ' + sel('shape', [['rect', 'rectangle'], ['oval', 'oval'], ['round', 'round']]) + '</label> ' +
@@ -208,7 +208,7 @@
     }
     showHue();
     // the layout's options: what changes a word's box
-    function shapeOpts() { return { font: SW.cloud.FONTS[F.font][1], weight: F.bold ? 'bold' : 'normal', caps: F.caps, upright: +F.upright, shape: F.shape, pad: +F.pad, contrast: F.contrast }; }
+    function shapeOpts() { return { font: SW.wordcloud.FONTS[F.font][1], weight: F.bold ? 'bold' : 'normal', caps: F.caps, upright: +F.upright, shape: F.shape, pad: +F.pad, contrast: F.contrast }; }
     function hash(w) { for (var h = 0, i = 0; i < w.length; i++) h = (h * 31 + w.charCodeAt(i)) | 0; return Math.abs(h); }
     var stepWrap = el('div', { class: 'ds-stepwrap' }), fig = el('div', { class: 'ds-cloud' }), cmp = el('div', { class: 'ds-cmp' });
     c.appendChild(bar); c.appendChild(fmtEl); c.appendChild(stepWrap); c.appendChild(fig); c.appendChild(cmp); el0.appendChild(c);
@@ -271,13 +271,13 @@
           data.forEach(function (d) { TS.top(filtered(d.counts), n).forEach(function (x) { mx[x[0]] = Math.max(mx[x[0]] || 0, x[1]); }); });
           var big = TS.top(mx, Math.round(n * 1.8));
           var scale = big.length ? big[0][1] : 1;
-          layout = { scale: scale, r: SW.cloud.cloud(big.map(function (x) { return { w: x[0], n: x[1] }; }), Object.assign({}, o, { max: 54 })) };
+          layout = { scale: scale, r: SW.wordcloud.cloud(big.map(function (x) { return { w: x[0], n: x[1] }; }), Object.assign({}, o, { max: 54 })) };
           layoutKey = key;
         }
         o.places = layout.r.places; o.scale = layout.scale; o.max = 54;
       }
       items = top.map(item);
-      var r = SW.cloud.cloud(items, o);
+      var r = SW.wordcloud.cloud(items, o);
       cur.svg = r.svg; cur.label = stp.label;
       fig.innerHTML = '';
       fig.appendChild(stp.note && !top.length ? el('p', { class: 'hint' }, stp.note) : svgBox(r.svg));

@@ -117,10 +117,8 @@ button.badge.err { cursor: pointer; font: inherit; }
 @media (max-width: 900px) { .vlang { display: none; } }
 
 /* ---------- the distant-reading lenses (js/distant.js) ---------- */
-/* the word cloud (js/cloud.js), its own font as measured (bench.css sets svg text in mono) */
-.ts-cloud { display: block; width: 100%; height: auto; }
-.ts-cloud text { font-family: inherit; cursor: pointer; }
-.ts-cloud text:hover { fill: var(--amber); }
+/* the word cloud (kit/wordcloud.js): a word under the pointer in the accent */
+.wc-cloud text:hover { fill: var(--amber); }
 .ds-bar { position: static; flex-wrap: wrap; gap: 8px; padding: 0 0 8px; }
 .ds-bar label { display: inline-flex; align-items: center; gap: 4px; font-size: 12.5px; }
 .ds-bar label[hidden], .ds-bar select[hidden] { display: none; }

@@ -10,7 +10,7 @@
  */
 (function (root) {
   'use strict';
-  var K = {}, T = (root.SW && root.SW.textstats) || require('./textstats.js');
+  var K = {}, T = (root.SW && root.SW.textstats) || require('../kit/textstats.js');
   function sum(xs) { var s = 0; for (var i = 0; i < xs.length; i++) s += xs[i]; return s; }
   // docs: arrays of words (stopwords already out). o: k (10), alpha (0.1), beta (0.01), seed (1)
   K.LDA = function (docs, o) {
