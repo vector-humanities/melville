@@ -2,6 +2,12 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.9 (2026-11-02)
+
+- **On bench-kit 0.97.1:** Help ▸ Getting set up (in place of Joining the annotation group), two steps for each service (join, then the token) and a checklist in the guide and in ⚙ Settings ▸ Annotations; an empty stored Hypothesis group falls back to the bench's.
+- **Lens 8 (Topics) is retired into the Topics tab**, which does what it did on the kit's engine (mallette, as MALLET) and more: published models, the seed check, and the manuscript at any stage without MEL's composition notes. `js/topics.js` (Melville's own LDA) and its three checks are gone. The number 8 is kept and not reused; a link to lens 8 opens the Topics tab.
+- **A second topic model, the manuscript before revision** (M-511fea): eight topics of stage 0, made with the reading-text model's settings (K 8, min 2) so that the two differ only in their text. Four of its topics match the reading text's by cosine (Vere and the court, Billy, Claggart, the deck and the watch) and two fall just below; one (back, took, aloft, pipe) recurs in no other seed. Its note in the Topics tab gives the figures.
+
 ## 0.3.8 (2026-11-02)
 
 - **On bench-kit 0.96.1:** the Topics tab's parts 2–9 (the topics, documents and topics, a topic through the text, a word's, a document's and a selection's topics, across the stages, steadiness across seeds), Help ▸ Topic models, and topics compared by cosine. Read is a plain tab; versions open from File ▾ ▸ Open a version… (⌘O), and Read keeps its place.

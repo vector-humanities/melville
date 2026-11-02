@@ -1,14 +1,14 @@
 /*
  * distant.js - lenses of distant reading on Billy Budd, added to those of js/analyse.js in Text ▾ (kit/lenses.js
- * draws them). The methods are the kit's: kit/textstats.js, kit/wordcloud.js and the dictionary (SW.dict),
- * with js/topics.js for topics until the kit's topics module is released. A
+ * draws them). The methods are the kit's: kit/textstats.js, kit/wordcloud.js and the dictionary (SW.dict);
+ * topics are the kit's Topics tab (kit/topics.js), made from the documents at the foot of this file. A
  * version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the
  * manuscript its leaves, each in the chapter of the reading text that first marks it. The stages are the
  * manuscript's, by Book's rule (SW.book.shownAt), whichever version is open.
  *   5  Word frequencies         9  Trends                    13 Words added and erased
  *   6  Word cloud               10 Collocates                14 Rare words (bench-kit's SW.dict)
  *   7  Distinctive words        11 Vocabulary                15 A model of the difference
- *   8  Topics                   12 Stylometry
+ *   8  (Topics: now the Topics tab) 12 Stylometry
  * Keep the numbers stable, so that a lens can be named in discussion.
  */
 (function (root) {
@@ -410,73 +410,6 @@
     return function () { return blocks; };
   }
   function short(v) { return SW.refOf(v.id) + ' ' + v.label; }
-
-  // ---------- 8 topics ----------
-  var topicCache = {};
-  function topics(b, el0) {
-    var blocks = [], job = null;
-    var c = wide(card('Topics', 'Topics found by latent Dirichlet allocation: the text cut into chunks of 400 words, common words and words that occur fewer than 3 times left out, and each chunk modelled as a mixture of topics, each topic a distribution over words. The sampling is seeded, so the same settings give the same topics; another seed gives other topics, and topics that recur across seeds are the steadier. Click a topic for the chunks that carry most of it.'));
-    var bar = el('div', { class: 'toolbar ds-bar' });
-    bar.innerHTML = '<select data-k="k">' + [5, 8, 12, 16, 20].map(function (k) { return opt(k, k + ' topics', k === (+keep('k') || 12)); }).join('') + '</select> <label>seed <input type="number" data-k="seed" value="' + (+keep('seed') || 1) + '" min="1" style="width:5em"></label> <select data-k="iter">' + [200, 400, 800].map(function (n) { return opt(n, n + ' sweeps', n === 400); }).join('') + '</select> <button class="btn" data-k="run">Model</button>';
-    var out = el('div'), detail = el('div', { class: 'ds-detail' });
-    c.appendChild(bar); c.appendChild(out); c.appendChild(detail); el0.appendChild(c);
-    var all = null;
-    function run() {
-      if (job) job.cancel();
-      var K = +SW.$('[data-k="k"]', bar).value, seed = +SW.$('[data-k="seed"]', bar).value || 1, iter = +SW.$('[data-k="iter"]', bar).value;
-      keep('k', K); keep('seed', seed);
-      var S = stop(), freq = TS.counts(all.toks), docs = [], whose = [];
-      all.chs.forEach(function (ch, ci) {
-        var cs = TS.chunks(ch.toks.map(function (w, i) { return i; }), 400);
-        cs.forEach(function (ixs) {
-          docs.push(ixs.map(function (i) { return ch.toks[i]; }).filter(function (w) { return !S[w] && w.length > 2 && freq[w] >= 3; }));
-          whose.push({ ch: ci, from: ixs[0], to: ixs[ixs.length - 1] });
-        });
-      });
-      var key = b.v.id + '|' + K + '|' + seed + '|' + iter;
-      out.innerHTML = ''; detail.innerHTML = '';
-      if (topicCache[key]) { show(topicCache[key], docs, whose); return; }
-      var prog = el('p', { class: 'hint' }, 'Modelling ' + docs.length + ' chunks…'); out.appendChild(prog);
-      job = SW.topics.lda(docs, { k: K, seed: seed, iter: iter, words: 15,
-        progress: function (i, n) { prog.textContent = 'Modelling ' + docs.length + ' chunks: sweep ' + i + ' of ' + n + '…'; },
-        done: function (r) { topicCache[key] = r; job = null; if (out.isConnected) show(r, docs, whose); } });
-    }
-    function show(r, docs, whose) {
-      out.innerHTML = '';
-      out.appendChild(el('p', { class: 'hint' }, docs.length + ' chunks, ' + r.vocab.toLocaleString('en-GB') + ' distinct words, ' + r.k + ' topics, ' + r.iterations + ' sweeps.'));
-      var order = r.topics.slice().sort(function (a, x) { return x.share - a.share; });
-      var list = el('div', { class: 'ds-topics' });
-      list.innerHTML = order.map(function (t) {
-        return '<button type="button" data-t="' + t.k + '"><b>' + (t.k + 1) + '</b> <span class="ds-share">' + (100 * t.share).toFixed(1) + '%</span> ' + t.words.slice(0, 10).map(function (x) { return esc(x[0]); }).join(' ') + '</button>';
-      }).join('');
-      out.appendChild(list);
-      // each chapter's mean share of each topic
-      var M = all.chs.map(function () { return order.map(function () { return 0; }); }), n = all.chs.map(function () { return 0; });
-      whose.forEach(function (w, d) { n[w.ch]++; order.forEach(function (t, j) { M[w.ch][j] += r.theta[d][t.k]; }); });
-      M.forEach(function (row, i) { row.forEach(function (_, j) { row[j] = n[i] ? row[j] / n[i] : 0; }); });
-      var h = el('div', { class: 'ds-heatwrap' });
-      h.innerHTML = '<h4>The topics in each chapter</h4>' + TS.heat(all.chs.map(function (ch) { return ch.label; }), order.map(function (t) { return String(t.k + 1); }), M, {
-        title: function (i, j, v) { return all.chs[i].label + ', topic ' + (order[j].k + 1) + ' (' + order[j].words.slice(0, 4).map(function (x) { return x[0]; }).join(' ') + '): ' + (100 * v).toFixed(0) + '%'; } });
-      out.appendChild(h);
-      list.addEventListener('click', function (e) { var bt = e.target.closest('[data-t]'); if (bt) chunksOf(+bt.dataset.t, r, whose); });
-      h.addEventListener('click', function (e) { var td = e.target.closest('td[data-j]'); if (td) chunksOf(order[+td.dataset.j].k, r, whose); });
-      blocks = [SW.tableBlock('Topics (' + r.k + ', seed ' + SW.$('[data-k="seed"]', bar).value + ', ' + r.iterations + ' sweeps)', ['Topic', 'Share', 'Words'], order.map(function (t) { return [t.k + 1, (100 * t.share).toFixed(1) + '%', t.words.map(function (x) { return x[0]; }).join(' ')]; })),
-        SW.tableBlock('The topics in each chapter (mean share of its chunks)', ['Chapter'].concat(order.map(function (t) { return 'T' + (t.k + 1); })), M.map(function (row, i) { return [all.chs[i].label].concat(row.map(function (v) { return (100 * v).toFixed(0) + '%'; })); }))];
-    }
-    function chunksOf(k, r, whose) {
-      SW.$$('[data-t]', out).forEach(function (x) { x.classList.toggle('on', +x.dataset.t === k); });
-      var t = r.topics[k], ds = whose.map(function (w, d) { return { w: w, v: r.theta[d][k] }; }).sort(function (a, x) { return x.v - a.v; }).slice(0, 8);
-      detail.innerHTML = '<h4>Topic ' + (k + 1) + ': ' + t.words.map(function (x) { return wordLink(x[0]); }).join(' ') + '</h4>' + ds.map(function (d) {
-        var ch = all.chs[d.w.ch], at = ch.at[d.w.from], words = ch.cased.slice(d.w.from, d.w.from + 40).join(' ');
-        return '<p class="ds-chunk"><span class="ds-share">' + (100 * d.v).toFixed(0) + '%</span> ' + lineLink(at[0], at[1], ch.label + ', line ' + at[1]) + ': ' + esc(words) + ' …</p>';
-      }).join('');
-    }
-    bar.addEventListener('click', function (e) { if (e.target.closest('[data-k="run"]')) run(); });
-    var w8 = wait(out);
-    chaptersOf(b).then(function (a) { all = a; w8.remove(); run(); }).catch(function (e) { w8.textContent = e.message; });
-    linkLines(c);
-    return function () { return blocks; };
-  }
 
   // ---------- 9 trends ----------
   function wordsIn(s) { return String(s || '').toLowerCase().split(/[,;]+/).map(function (x) { return x.trim().replace(/[’]/g, "'"); }).filter(Boolean); }
@@ -888,7 +821,7 @@
     [5, 'Word frequencies', 'The words by how often they occur'],
     [6, 'Word cloud', 'The most frequent words, stepped through the chapters or the stages'],
     [7, 'Distinctive words', 'The words that set one part of the text apart from another'],
-    [8, 'Topics', 'Topics found by latent Dirichlet allocation, and where they fall'],
+    [8, 'Topics', 'Moved to the Topics tab'],
     [9, 'Trends', 'How often words occur through the chapters, and where'],
     [10, 'Collocates', 'The words that occur near a word, and every occurrence in context'],
     [11, 'Vocabulary', 'Distinct words, type-token ratio, Yule’s K, sentence length, Zipf and Heaps'],
@@ -896,8 +829,17 @@
     [13, 'Words added and erased', 'The words of Melville’s additions against those of his deletions'],
     [14, 'Rare words', 'Words rare in English today, with Webster’s 1913 definitions'],
     [15, 'A model of the difference', 'How well the words tell two sets of passages apart']]);
-  Lz.menus = { text: [['The manuscript', [1, 3, 4, 13]], ['Words', [2, 5, 6, 10, 14]], ['Distant reading', [7, 8, 9, 11, 12, 15]]] };
-  Object.assign(Lz.one, { 5: freqs, 6: cloudLens, 7: distinctive, 8: topics, 9: trends, 10: collocates, 11: vocabulary, 12: stylometry, 13: revisionWords, 14: rare, 15: modelLens });
+  Lz.menus = { text: [['The manuscript', [1, 3, 4, 13]], ['Words', [2, 5, 6, 10, 14]], ['Distant reading', [7, 9, 11, 12, 15]]] };
+  // lens 8, Topics, is the kit's Topics tab since 0.3.9: its number is kept, not reused, and a link to it
+  // opens the tab (the address is put right before kit/shell.js reads it)
+  Lz.skip = (Lz.skip || []).concat([8]);
+  (function () {
+    var q = new URLSearchParams(root.location ? root.location.search : '');
+    if (q.get('lens') !== '8') return;
+    q.delete('lens'); q.set('tab', 'topics');
+    root.history.replaceState(root.history.state, '', '?' + q.toString() + root.location.hash);
+  })();
+  Object.assign(Lz.one, { 5: freqs, 6: cloudLens, 7: distinctive, 9: trends, 10: collocates, 11: vocabulary, 12: stylometry, 13: revisionWords, 14: rare, 15: modelLens });
   Object.assign(Lz.across, { 5: freqsAcross, 7: distinctiveAcross, 9: trendsAcross, 11: vocabularyAcross, 12: stylometryAcross, 15: modelAcross });
 
   // ---------- documents for the kit's topics (SW.BENCH.topics.documents) ----------

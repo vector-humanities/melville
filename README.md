@@ -1,7 +1,7 @@
 # Melville Research Bench
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.3.8 (bench-kit 0.96.1)  
+**Version:** 0.3.9 (bench-kit 0.97.1)  
 **Live:** https://vector-humanities.github.io/melville/  
 **DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 
@@ -31,7 +31,7 @@ The manuscript is in the Houghton Library, Harvard University: Herman Melville p
   - **Words**: the lines that contain a word, word frequencies, a word cloud stepped through the chapters or the manuscript's stages, collocates with every occurrence in context, and rare words with their definitions in Webster's 1913.
   - **Distant reading**: distinctive words (log-likelihood, or the Mann–Whitney ρ over chunks), topics (latent Dirichlet allocation, seeded), trends and where words occur, the vocabulary's measures (moving-average type-token ratio, Yule's K, sentence length, Zipf and Heaps), stylometry (Burrows's Delta and principal components on the most frequent words), and a model of the difference (a logistic regression trained to tell two sets of passages or two versions apart, judged on chunks it did not see).
 
-  A version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the manuscript its leaves, each in the chapter of the reading text that first marks it. The statistics and the word cloud are the kit's (`kit/textstats.js`, `kit/wordcloud.js`), the topics `js/topics.js`; the lenses `js/analyse.js` and `js/distant.js`. 📕 **Look up**, on a word selected in Read or Book, gives its entries in Webster's Revised Unabridged Dictionary (1913) with its frequency in present-day English (wordfreq); `tools/dictionary.py` makes `data/webster.json` and `data/wordfreq.json`.
+  A version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the manuscript its leaves, each in the chapter of the reading text that first marks it. The statistics, the word cloud and the topics are the kit's (`kit/textstats.js`, `kit/wordcloud.js`, and `kit/topics.js` on mallette for the Topics tab, which took the place of lens 8 in 0.3.9); the lenses are `js/analyse.js` and `js/distant.js`, which also gives the Topics tab its documents. 📕 **Look up**, on a word selected in Read or Book, gives its entries in Webster's Revised Unabridged Dictionary (1913) with its frequency in present-day English (wordfreq); `tools/dictionary.py` makes `data/webster.json` and `data/wordfreq.json`.
 - **Versions ▾**: each version's record, **Collate** (as text, or leaf by leaf) and **Genealogy**.
 - **Findings**, **My notes**, **Paratexts** and **Help**, as in every bench-kit bench.
 

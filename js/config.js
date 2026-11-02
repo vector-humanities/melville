@@ -20,7 +20,9 @@
     // the topic models published (kit/topics.js; made with kit/tools/topics.js); documents, sets and source
     // are js/distant.js's
     topics: { models: [{ id: 'M-f555e1', name: 'The reading text, eight topics', url: 'topics/M-f555e1.json',
-      note: 'Eight topics of MEL’s reading text, in 80 chunks of about 400 words. Topics 2, 3 and 5–8 recur in all four other seeds of the check, topic 1 in three, topic 4 (war, mutiny, naval) in two: read topic 4 with caution. Topics are matched across seeds by the cosine of their word probabilities. The reading text is MEL’s edition, not Melville’s last state of the manuscript.' }] },
+      note: 'Eight topics of MEL’s reading text, in 80 chunks of about 400 words. Topics 2, 3 and 5–8 recur in all four other seeds of the check, topic 1 in three, topic 4 (war, mutiny, naval) in two: read topic 4 with caution. Topics are matched across seeds by the cosine of their word probabilities. The reading text is MEL’s edition, not Melville’s last state of the manuscript.' },
+    { id: 'M-511fea', name: 'The manuscript before revision, eight topics', url: 'topics/M-511fea.json',
+      note: 'Eight topics of the manuscript before revision (stage 0), in 65 chunks of about 400 words, without MEL’s composition notes. Made with the reading-text model’s settings (K 8, min 2) so that the two differ only in their text. Topics 2, 6 and 8 recur in all four other seeds of the check, 1, 3 and 7 in three, 5 in two; topic 4 (back, took, aloft, pipe) in none, so read it as noise. Against the reading text, by cosine: topics 2 (Vere, the court), 8 (Billy), 5 (Claggart) and 6 (the deck, the watch) match, and 1 (war, mutiny, 0.698) and 3 (the human heart, the purser, 0.669) fall just below the threshold of 0.703. The count depends on the settings: with min 3, two topics match. The list of stages is still to be settled.' }] },
     // prose: no comment mark; a leaf's mark ([img_5]) stands where a routine would begin
     lang: 'plain',
     comment: false,
