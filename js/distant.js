@@ -175,6 +175,9 @@
   }
 
   // ---------- 6 word cloud ----------
+  // a shared cloud's settings, read as the page loads (the bench rewrites the address once it starts) and
+  // used the first time the lens opens
+  var SHARED = SW.readQuery().cloud || '';
   function cloudLens(b, el0) {
     var cur = { svg: '', rows: [], label: '' };
     var c = wide(card('Word cloud', 'The most frequent words, sized by count.'));
@@ -182,17 +185,29 @@
     how.innerHTML = '<summary>How it works</summary><p class="hint">Step through the chapters, or the manuscript’s stages: the words standing at each stage, or those added or erased in it. Green is more than at the step before, red fewer. With “keep each word in its place”, words hold their positions and only their size changes. Click a word for its lines.</p>';
     c.appendChild(how);
     var bar = el('div', { class: 'toolbar ds-bar' });
-    var src = keep('cloudSrc') || 'whole';
+    // a shared cloud (?cloud=src:chapters,step:20,shape:oval,…) opens as it was shared; its format is not kept
+    var L = {};
+    SHARED.split(',').forEach(function (kv) { var i = kv.indexOf(':'); if (i > 0) L[kv.slice(0, i)] = kv.slice(i + 1); });
+    SHARED = '';
+    var src = L.src || keep('cloudFrom') || 'chapters', mode0 = L.mode || 'standing', n0 = +L.n || 80, step0 = +L.step || 0;
+    var stable0 = L.stable != null ? L.stable === '1' : src === 'stages' && mode0 === 'standing';
     bar.innerHTML = '<select data-k="src">' + opt('whole', 'The whole text', src === 'whole') + opt('chapters', 'Chapter by chapter', src === 'chapters') + opt('stages', 'Stage by stage (the manuscript)', src === 'stages') + '</select> ' +
-      '<select data-k="mode">' + opt('standing', 'the words standing') + opt('added', 'the words added') + opt('erased', 'the words erased') + '</select> ' +
-      '<label class="check"><input type="checkbox" data-k="every"> every substage</label> ' +
-      '<label class="check"><input type="checkbox" data-k="stable"' + (src === 'stages' ? ' checked' : '') + '> keep each word in its place</label> ' +
-      '<label class="check"><input type="checkbox" data-k="stop" checked> leave out common words</label> ' +
-      '<select data-k="n">' + [40, 80, 150].map(function (n) { return opt(n, n + ' words', n === 80); }).join('') + '</select>';
-    // format and colour, kept from visit to visit
-    var F = Object.assign({ colour: 'change', hue: 'var(--amber)', own: '#2a6f97', font: 'serif', bold: false, caps: false, upright: '0', shape: 'rect', pad: '4', contrast: 'sqrt' }, keep('cloudFmt') || {});
+      '<select data-k="mode">' + opt('standing', 'the words standing', mode0 === 'standing') + opt('added', 'the words added', mode0 === 'added') + opt('erased', 'the words erased', mode0 === 'erased') + '</select> ' +
+      '<label class="check"><input type="checkbox" data-k="every"' + (L.every === '1' ? ' checked' : '') + '> every substage</label> ' +
+      '<label class="check"><input type="checkbox" data-k="stable"' + (stable0 ? ' checked' : '') + '> keep each word in its place</label> ' +
+      '<label class="check"><input type="checkbox" data-k="stop"' + (L.stop !== '0' ? ' checked' : '') + '> leave out common words</label> ' +
+      '<select data-k="n">' + [40, 80, 150].map(function (n) { return opt(n, n + ' words', n === n0); }).join('') + '</select> ' +
+      '<button type="button" class="btn" data-k="share" title="Share a link to this cloud, at this step and with this format">' + SW.SHARE_ICON + ' Share</button>';
+    // format and colour, kept from visit to visit; a shared cloud's own for this visit
+    var F = Object.assign({ colour: 'many', hue: 'var(--amber)', own: '#2a6f97', font: 'serif', bold: false, caps: false, upright: '0.5', shape: 'oval', pad: '4', contrast: 'sqrt' }, keep('cloudFormat') || {});
+    Object.keys(F).forEach(function (k) { if (L[k] != null) F[k] = k === 'bold' || k === 'caps' ? L[k] === '1' : L[k]; });
     var HUES = [['var(--amber)', 'Accent'], ['var(--beam)', 'Beam'], ['var(--violet)', 'Violet'], ['var(--green)', 'Green'], ['var(--red)', 'Red'], ['var(--text)', 'Ink'], ['own', 'Your own']];
     function sel(k, list) { return '<select data-f="' + k + '">' + list.map(function (x) { return opt(x[0], x[1], String(F[k]) === String(x[0])); }).join('') + '</select>'; }
+    // the kit's shapes where it lists them (SW.wordcloud.SHAPES), else the three it has always had
+    function SHAPES() {
+      var S = SW.wordcloud.SHAPES;
+      return S ? Object.keys(S).map(function (k) { return [k, S[k][0]]; }) : [['rect', 'Rectangle'], ['oval', 'Oval'], ['round', 'Circle']];
+    }
     function chk(k, label) { return '<label class="check"><input type="checkbox" data-f="' + k + '"' + (F[k] ? ' checked' : '') + '> ' + label + '</label>'; }
     var fmtEl = el('details', { class: 'ds-fmt' });
     if (keep('cloudFmtOpen')) fmtEl.open = true;
@@ -202,7 +217,7 @@
       '<label>Font ' + sel('font', Object.keys(SW.wordcloud.FONTS).map(function (k) { return [k, SW.wordcloud.FONTS[k][0]]; })) + '</label> ' +
       chk('bold', 'bold') + ' ' + chk('caps', 'capitals') + ' ' +
       '<label>Upright ' + sel('upright', [['0', 'none'], ['0.15', 'a few'], ['0.5', 'half'], ['1', 'all']]) + '</label> ' +
-      '<label>Shape ' + sel('shape', [['rect', 'rectangle'], ['oval', 'oval'], ['round', 'round']]) + '</label> ' +
+      '<label>Shape ' + sel('shape', SHAPES()) + '</label> ' +
       '<label>Spacing ' + sel('pad', [['1', 'tight'], ['4', 'normal'], ['10', 'loose']]) + '</label> ' +
       '<label>Sizes ' + sel('contrast', [['log', 'closer together'], ['sqrt', 'normal'], ['linear', 'further apart']]) + '</label></div>';
     function showHue() {
@@ -219,7 +234,7 @@
     function v(k) { var x = SW.$('[data-k="' + k + '"]', bar); return x.type === 'checkbox' ? x.checked : x.value; }
     function show(k, on) { SW.$('[data-k="' + k + '"]', bar).closest(k === 'mode' ? 'select' : 'label').hidden = !on; }
     function prepare() {
-      var s = v('src'); keep('cloudSrc', s);
+      var s = v('src'); keep('cloudFrom', s);
       show('mode', s === 'stages'); show('every', s === 'stages');
       fig.innerHTML = ''; cmp.innerHTML = ''; stepWrap.innerHTML = '';
       var w8 = wait(fig, s === 'stages' ? 'Reading the manuscript at each stage…' : 'Reading…');
@@ -240,10 +255,12 @@
       P.then(function (steps) {
         w8.remove(); data = steps; layout = null;
         if (steps.length > 1) {
-          var sp = TS.stepper({ labels: steps.map(function (x) { return x.label; }), value: 0, title: 'Step', change: draw });
+          var at = Math.min(step0, steps.length - 1);
+          var sp = TS.stepper({ labels: steps.map(function (x) { return x.label; }), value: at, title: 'Step', change: draw });
           stepWrap.appendChild(sp);
-        }
-        draw(0);
+          step0 = 0;
+          draw(at);
+        } else draw(0);
       }).catch(function (e) { w8.textContent = e.message; });
     }
     function filtered(cs) { var S = v('stop') ? stop() : null, o = Object.create(null); for (var w in cs) if (!(S && S[w]) && w.length > 1) o[w] = cs[w]; return o; }
@@ -308,13 +325,22 @@
       // the added and erased words are each laid out afresh
       if (e.target.dataset.k === 'mode' || e.target.dataset.k === 'src') SW.$('[data-k="stable"]', bar).checked = v('src') === 'stages' && v('mode') === 'standing';
       if (/^(src|mode|every)$/.test(e.target.dataset.k)) prepare(); else { layout = null; var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); } });
+    function share() {
+      var st = SW.$('.ts-step', stepWrap), q = ['src:' + v('src')];
+      if (v('src') === 'stages') q.push('mode:' + v('mode'), 'every:' + (v('every') ? 1 : 0));
+      q.push('stable:' + (v('stable') ? 1 : 0), 'stop:' + (v('stop') ? 1 : 0), 'n:' + v('n'), 'step:' + (st ? st.value() : 0));
+      Object.keys(F).forEach(function (k) { if (k !== 'own' || F.hue === 'own') q.push(k + ':' + (F[k] === true ? 1 : F[k] === false ? 0 : F[k])); });
+      var url = SW.permalink({ v: SW.state.v, tab: 'analyse', lens: 6, cloud: q.join(',') }).replace(/%3A/g, ':').replace(/%2C/g, ',');
+      SW.share({ url: url, title: 'Word cloud: ' + cur.label });
+    }
+    bar.addEventListener('click', function (e) { if (e.target.closest('[data-k="share"]')) share(); });
     function redraw() { var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); }
     fmtEl.addEventListener('toggle', function () { keep('cloudFmtOpen', fmtEl.open); });
-    fmtEl.addEventListener('input', function (e) { if (e.target.dataset.f === 'own') { F.own = e.target.value; keep('cloudFmt', F); redraw(); } });
+    fmtEl.addEventListener('input', function (e) { if (e.target.dataset.f === 'own') { F.own = e.target.value; keep('cloudFormat', F); redraw(); } });
     fmtEl.addEventListener('change', function (e) {
       var k = e.target.dataset.f; if (!k) return;
       F[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value;
-      keep('cloudFmt', F); showHue(); redraw();
+      keep('cloudFormat', F); showHue(); redraw();
     });
     fig.addEventListener('click', function (e) { var t = e.target.closest('text[data-w]'); if (t) toWord(t.dataset.w); });
     linkLines(cmp);

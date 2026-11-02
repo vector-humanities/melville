@@ -72,6 +72,7 @@
     return { cancel: function () { stop = true; } };
   };
 
-  if (root.SW) root.SW.topics = K;
+  // added to SW.topics, which the kit's topics.js also builds, rather than replacing it
+  if (root.SW) root.SW.topics = Object.assign(root.SW.topics || {}, K);
   if (typeof module !== 'undefined' && module.exports) module.exports = K;
 })(typeof window !== 'undefined' ? window : globalThis);

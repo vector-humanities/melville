@@ -2,6 +2,13 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.5 (2026-11-02)
+
+- **On bench-kit 0.93.0.** **Word cloud:** eight shapes in the Shape menu (rectangle, square, oval, circle, diamond, hexagon, triangle, heart), built from the kit's list (`SW.wordcloud.SHAPES`), so new shapes in the kit appear without a change here. The kit's menu switches (`menusOff`) and Topics tab come with it; the tab stays off until the config sets `topics`. 336/336.
+- **Word cloud: Share.** A Share button beside the word count makes a link to the cloud as it is shown: the text or stages, the step, the number of words and the whole format (`?…&lens=6&cloud=src:chapters,step:20,shape:oval,…`). The link opens the cloud as shared without changing the reader's own saved format.
+- **Word cloud: new defaults.** Chapter by chapter, many colours, half the words upright, an oval. Settings saved before are stored afresh, so every reader starts from these.
+- `js/topics.js` adds its functions to `SW.topics` rather than replacing it, ready for the kit's `topics.js`, which builds on the same object.
+
 ## 0.3.4 (2026-11-02)
 
 - **Word cloud:** the cloud fills its card at any window width (it stayed 880 px wide in a wide window, with the rest of the card empty), no taller than three-quarters of the screen. "Keep each word in its place" is on by default only for the words standing at each stage; chapter by chapter, each step is laid out afresh and fills the space. The description is one line, with the rest under "How it works".
