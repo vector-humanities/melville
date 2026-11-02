@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.3 (2026-11-02)
+
+- **On bench-kit 0.92.1**, whose word-cloud checks now use a fixed width for each letter, so they pass on GitHub's test machines (which lack Georgia) as they do here. Nothing in the bench changes. 308/308.
+
 ## 0.3.2 (2026-11-02)
 
 - **On bench-kit 0.92.0**, which takes in Melville's text statistics and word cloud. The lenses use the kit's `kit/textstats.js` and `kit/wordcloud.js`; `js/textstats.js`, `css/textstats.css` and `js/cloud.js` are gone. The word cloud's layout is now the kit's, after Andreas Mueller's word_cloud: small words settle into the gaps between large ones, and a word too big for the space left is drawn smaller rather than dropped. Format and colour works as before.
