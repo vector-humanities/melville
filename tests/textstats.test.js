@@ -77,6 +77,18 @@
       eq('a word with no count at the next step not drawn', step.drawn.sort(), ['sea', 'ship']);
       var size = /data-w="sea"/.test(step.svg) && +/font-size="([\d.]+)"[^>]*data-w="sea"/.exec(step.svg)[1];
       eq('drawn smaller where its count is lower', size < first.places.sea.size, true);
+      var many = 'sea ship sail mast deck hold keel boom spar yard helm rope'.split(' ').map(function (w, i) { return { w: w, n: 20 - i }; });
+      var up = SW.cloud.cloud(many, { measure: measure, upright: 1 });
+      eq('all upright: every word turned, its box taller than wide', Object.keys(up.places).every(function (w) { var P = up.places[w]; return P.up && P.h > P.w; }) && /rotate\(-90 /.test(up.svg), true);
+      var round = SW.cloud.cloud(many, { measure: measure, shape: 'round', width: 760, height: 420 });
+      eq('round: every box inside the circle of the height', Object.keys(round.places).every(function (w) {
+        var P = round.places[w], R = 208;
+        return [[-1, -1], [1, -1], [-1, 1], [1, 1]].every(function (s) { var dx = P.x + s[0] * P.w / 2 - 380, dy = P.y + s[1] * P.h / 2 - 210; return dx * dx + dy * dy <= R * R + 1; });
+      }), true);
+      var caps = SW.cloud.cloud([{ w: 'sea', n: 3, alpha: 0.5 }], { measure: measure, caps: true, weight: 'bold' });
+      eq('capitals, bold and an opacity drawn; the word kept for its link', [/>SEA<\/text>/.test(caps.svg), /font-weight="bold"/.test(caps.svg), /fill-opacity="0.50"/.test(caps.svg), /data-w="sea"/.test(caps.svg)], [true, true, true, true]);
+      var flat = SW.cloud.cloud([{ w: 'sea', n: 100 }, { w: 'ship', n: 1 }], { measure: measure, contrast: 'log' }), steep = SW.cloud.cloud([{ w: 'sea', n: 100 }, { w: 'ship', n: 1 }], { measure: measure, contrast: 'linear' });
+      eq('sizes closer together by the log of the count, further apart by the count', flat.places.ship.size > steep.places.ship.size, true);
     });
   });
 })();

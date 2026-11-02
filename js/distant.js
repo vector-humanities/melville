@@ -177,7 +177,7 @@
   // ---------- 6 word cloud ----------
   function cloudLens(b, el0) {
     var cur = { svg: '', rows: [], label: '' };
-    var c = wide(card('Word cloud', 'The most frequent words, sized by their count. Step through the chapters, or through the manuscript’s stages of composition: the words standing at each stage, or those Melville added or erased in it (the change in each word’s count from the stage before). With “keep each word in its place”, a word stays where it is from step to step and only its size changes. Green: more than at the step before; red: fewer. Click a word for its lines.'));
+    var c = wide(card('Word cloud', 'The most frequent words, sized by their count. Step through the chapters, or through the manuscript’s stages of composition: the words standing at each stage, or those Melville added or erased in it (the change in each word’s count from the stage before). With “keep each word in its place”, a word stays where it is from step to step and only its size changes. Coloured by change, green is more than at the step before and red fewer. Format and colour sets the colours, the font, the shape of the cloud and how many words stand upright. Click a word for its lines.'));
     var bar = el('div', { class: 'toolbar ds-bar' });
     var src = keep('cloudSrc') || 'whole';
     bar.innerHTML = '<select data-k="src">' + opt('whole', 'The whole text', src === 'whole') + opt('chapters', 'Chapter by chapter', src === 'chapters') + opt('stages', 'Stage by stage (the manuscript)', src === 'stages') + '</select> ' +
@@ -186,8 +186,32 @@
       '<label class="check"><input type="checkbox" data-k="stable" checked> keep each word in its place</label> ' +
       '<label class="check"><input type="checkbox" data-k="stop" checked> leave out common words</label> ' +
       '<select data-k="n">' + [40, 80, 150].map(function (n) { return opt(n, n + ' words', n === 80); }).join('') + '</select>';
+    // format and colour, kept from visit to visit
+    var F = Object.assign({ colour: 'change', hue: 'var(--amber)', own: '#2a6f97', font: 'serif', bold: false, caps: false, upright: '0', shape: 'rect', pad: '4', contrast: 'sqrt' }, keep('cloudFmt') || {});
+    var HUES = [['var(--amber)', 'Accent'], ['var(--beam)', 'Beam'], ['var(--violet)', 'Violet'], ['var(--green)', 'Green'], ['var(--red)', 'Red'], ['var(--text)', 'Ink'], ['own', 'Your own']];
+    function sel(k, list) { return '<select data-f="' + k + '">' + list.map(function (x) { return opt(x[0], x[1], String(F[k]) === String(x[0])); }).join('') + '</select>'; }
+    function chk(k, label) { return '<label class="check"><input type="checkbox" data-f="' + k + '"' + (F[k] ? ' checked' : '') + '> ' + label + '</label>'; }
+    var fmtEl = el('details', { class: 'ds-fmt' });
+    if (keep('cloudFmtOpen')) fmtEl.open = true;
+    fmtEl.innerHTML = '<summary>Format and colour</summary><div class="toolbar ds-bar">' +
+      '<label>Colour ' + sel('colour', [['change', 'by change from the step before'], ['ink', 'ink'], ['one', 'one colour'], ['shade', 'one colour, shaded by count'], ['size', 'by size'], ['many', 'many colours']]) + '</label> ' +
+      '<label data-for="hue">' + sel('hue', HUES) + '</label> <label data-for="own"><input type="color" data-f="own" value="' + esc(F.own) + '"></label> ' +
+      '<label>Font ' + sel('font', Object.keys(SW.cloud.FONTS).map(function (k) { return [k, SW.cloud.FONTS[k][0]]; })) + '</label> ' +
+      chk('bold', 'bold') + ' ' + chk('caps', 'capitals') + ' ' +
+      '<label>Upright ' + sel('upright', [['0', 'none'], ['0.15', 'a few'], ['0.5', 'half'], ['1', 'all']]) + '</label> ' +
+      '<label>Shape ' + sel('shape', [['rect', 'rectangle'], ['oval', 'oval'], ['round', 'round']]) + '</label> ' +
+      '<label>Spacing ' + sel('pad', [['1', 'tight'], ['4', 'normal'], ['10', 'loose']]) + '</label> ' +
+      '<label>Sizes ' + sel('contrast', [['log', 'closer together'], ['sqrt', 'normal'], ['linear', 'further apart']]) + '</label></div>';
+    function showHue() {
+      SW.$('[data-for="hue"]', fmtEl).hidden = !/^(one|shade)$/.test(F.colour);
+      SW.$('[data-for="own"]', fmtEl).hidden = SW.$('[data-for="hue"]', fmtEl).hidden || F.hue !== 'own';
+    }
+    showHue();
+    // the layout's options: what changes a word's box
+    function shapeOpts() { return { font: SW.cloud.FONTS[F.font][1], weight: F.bold ? 'bold' : 'normal', caps: F.caps, upright: +F.upright, shape: F.shape, pad: +F.pad, contrast: F.contrast }; }
+    function hash(w) { for (var h = 0, i = 0; i < w.length; i++) h = (h * 31 + w.charCodeAt(i)) | 0; return Math.abs(h); }
     var stepWrap = el('div', { class: 'ds-stepwrap' }), fig = el('div', { class: 'ds-cloud' }), cmp = el('div', { class: 'ds-cmp' });
-    c.appendChild(bar); c.appendChild(stepWrap); c.appendChild(fig); c.appendChild(cmp); el0.appendChild(c);
+    c.appendChild(bar); c.appendChild(fmtEl); c.appendChild(stepWrap); c.appendChild(fig); c.appendChild(cmp); el0.appendChild(c);
     var data = null, layout = null, layoutKey = '';
     function v(k) { var x = SW.$('[data-k="' + k + '"]', bar); return x.type === 'checkbox' ? x.checked : x.value; }
     function show(k, on) { SW.$('[data-k="' + k + '"]', bar).closest(k === 'mode' ? 'select' : 'label').hidden = !on; }
@@ -226,27 +250,33 @@
       var prev = stp.prev ? filtered(stp.prev) : null, items;
       // chapters differ in length: compared by rate
       var N = TS.total(stp.counts) || 1, Np = stp.prev ? TS.total(stp.prev) || 1 : 1;
-      function colour(w) {
+      var hue = F.hue === 'own' ? F.own : F.hue, maxN = top.length ? top[0][1] : 1;
+      function colour(w, rank) {
+        if (F.colour === 'ink') return 'var(--text)';
+        if (F.colour === 'one' || F.colour === 'shade') return hue;
+        if (F.colour === 'size') return rank < top.length * 0.1 ? 'var(--amber)' : rank < top.length * 0.35 ? 'var(--beam)' : 'var(--text-dim)';
+        if (F.colour === 'many') return TS.PALETTE[hash(w) % 5];
         if (stp.fill) return stp.fill;
         if (!prev) return 'var(--text)';
         var a = stp.rel ? (cs[w] || 0) / N : cs[w] || 0, z = stp.rel ? (prev[w] || 0) / Np : prev[w] || 0;
         return a > z * 1.0001 ? 'var(--green)' : a < z * 0.9999 ? 'var(--red)' : 'var(--text)';
       }
-      var o = { width: 880, height: 440, seed: 11 };
+      function item(x, i) { return { w: x[0], n: x[1], fill: colour(x[0], i), alpha: F.colour === 'shade' ? 0.3 + 0.7 * Math.sqrt(x[1] / maxN) : null }; }
+      var o = Object.assign({ width: 880, height: 440, seed: 11 }, shapeOpts());
       if (stable) {
-        var key = [v('src'), v('mode'), v('every'), v('stop'), n].join('|');
+        var key = [v('src'), v('mode'), v('every'), v('stop'), n, JSON.stringify(shapeOpts())].join('|');
         if (layoutKey !== key || !layout) {
           // the layout: every word in any step's top n, at its largest count over the steps
           var mx = Object.create(null);
           data.forEach(function (d) { TS.top(filtered(d.counts), n).forEach(function (x) { mx[x[0]] = Math.max(mx[x[0]] || 0, x[1]); }); });
           var big = TS.top(mx, Math.round(n * 1.8));
           var scale = big.length ? big[0][1] : 1;
-          layout = { scale: scale, r: SW.cloud.cloud(big.map(function (x) { return { w: x[0], n: x[1] }; }), { width: o.width, height: o.height, seed: 11, max: 54 }) };
+          layout = { scale: scale, r: SW.cloud.cloud(big.map(function (x) { return { w: x[0], n: x[1] }; }), Object.assign({}, o, { max: 54 })) };
           layoutKey = key;
         }
         o.places = layout.r.places; o.scale = layout.scale; o.max = 54;
-        items = top.map(function (x) { return { w: x[0], n: x[1], fill: colour(x[0]) }; });
-      } else items = top.map(function (x) { return { w: x[0], n: x[1], fill: colour(x[0]) }; });
+      }
+      items = top.map(item);
       var r = SW.cloud.cloud(items, o);
       cur.svg = r.svg; cur.label = stp.label;
       fig.innerHTML = '';
@@ -273,6 +303,14 @@
       // the added and erased words change too much from stage to stage to hold one layout
       if (e.target.dataset.k === 'mode' || e.target.dataset.k === 'src') SW.$('[data-k="stable"]', bar).checked = !(v('src') === 'stages' && v('mode') !== 'standing');
       if (/^(src|mode|every)$/.test(e.target.dataset.k)) prepare(); else { layout = null; var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); } });
+    function redraw() { var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); }
+    fmtEl.addEventListener('toggle', function () { keep('cloudFmtOpen', fmtEl.open); });
+    fmtEl.addEventListener('input', function (e) { if (e.target.dataset.f === 'own') { F.own = e.target.value; keep('cloudFmt', F); redraw(); } });
+    fmtEl.addEventListener('change', function (e) {
+      var k = e.target.dataset.f; if (!k) return;
+      F[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value;
+      keep('cloudFmt', F); showHue(); redraw();
+    });
     fig.addEventListener('click', function (e) { var t = e.target.closest('text[data-w]'); if (t) toWord(t.dataset.w); });
     linkLines(cmp);
     prepare();

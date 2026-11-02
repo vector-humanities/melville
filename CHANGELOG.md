@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.1 (2026-11-02)
+
+- **Word cloud (lens 6): Format and colour.** Colour by change from the step before (as before), ink, one colour (the theme's accent, beam, violet, green, red or ink, or one of your own), one colour shaded by count, by size, or many colours (each word keeps its colour from step to step). Font (Georgia, Old style, Sans serif, Typewriter), bold, capitals; words upright (none, a few, half, all); the cloud's shape (rectangle, oval, round, with the sizes scaled to fit); spacing; and how far apart the sizes run (by the log of the count, its square root, or the count). Kept from visit to visit; "keep each word in its place" lays the words out again when a setting changes a word's box. 284/284 checks.
+
 ## 0.3.0 (2026-11-02)
 
 - **Text ▾: eleven lenses of distant reading** (lenses 5–15), in three groups (The manuscript, Words, Distant reading), each in this version and most across the versions, with its export:
