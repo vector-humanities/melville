@@ -185,56 +185,44 @@
     how.innerHTML = '<summary>How it works</summary><p class="hint">Step through the chapters, or the manuscript’s stages: the words standing at each stage, or those added or erased in it. Green is more than at the step before, red fewer. With “keep each word in its place”, words hold their positions and only their size changes. Click a word for its lines.</p>';
     c.appendChild(how);
     var bar = el('div', { class: 'toolbar ds-bar' });
-    // a shared cloud (?cloud=src:chapters,step:20,shape:oval,…) opens as it was shared; its format is not kept
-    var L = {};
-    SHARED.split(',').forEach(function (kv) { var i = kv.indexOf(':'); if (i > 0) L[kv.slice(0, i)] = kv.slice(i + 1); });
+    bar.innerHTML = '<select data-k="src">' + opt('whole', 'The whole text') + opt('chapters', 'Chapter by chapter') + opt('stages', 'Stage by stage (the manuscript)') + '</select> ' +
+      '<select data-k="mode">' + opt('standing', 'the words standing') + opt('added', 'the words added') + opt('erased', 'the words erased') + '</select> ' +
+      '<label class="check"><input type="checkbox" data-k="every"> every substage</label> ' +
+      '<select data-k="n">' + [40, 80, 150].map(function (n) { return opt(n, n + ' words'); }).join('') + '</select> ';
+    // the view: the kit's look and details (its control: Look, ⚙, Default View) and this lens's own part,
+    // kept from visit to visit; a shared cloud (?cloud=…) opens as it was shared, and is kept only once
+    // the reader changes something in it
+    var DEF = { src: 'chapters', mode: 'standing', every: 0, stable: 0, stop: 1, n: 80, step: 0 };
+    var linked = SHARED ? SW.wordcloud.decode(SHARED) : null, step0 = 0;
     SHARED = '';
-    var src = L.src || keep('cloudFrom') || 'chapters', mode0 = L.mode || 'standing', n0 = +L.n || 80, step0 = +L.step || 0;
-    var stable0 = L.stable != null ? L.stable === '1' : src === 'stages' && mode0 === 'standing';
-    bar.innerHTML = '<select data-k="src">' + opt('whole', 'The whole text', src === 'whole') + opt('chapters', 'Chapter by chapter', src === 'chapters') + opt('stages', 'Stage by stage (the manuscript)', src === 'stages') + '</select> ' +
-      '<select data-k="mode">' + opt('standing', 'the words standing', mode0 === 'standing') + opt('added', 'the words added', mode0 === 'added') + opt('erased', 'the words erased', mode0 === 'erased') + '</select> ' +
-      '<label class="check"><input type="checkbox" data-k="every"' + (L.every === '1' ? ' checked' : '') + '> every substage</label> ' +
-      '<label class="check"><input type="checkbox" data-k="stable"' + (stable0 ? ' checked' : '') + '> keep each word in its place</label> ' +
-      '<label class="check"><input type="checkbox" data-k="stop"' + (L.stop !== '0' ? ' checked' : '') + '> leave out common words</label> ' +
-      '<select data-k="n">' + [40, 80, 150].map(function (n) { return opt(n, n + ' words', n === n0); }).join('') + '</select> ' +
-      '<button type="button" class="btn" data-k="share" title="Share a link to this cloud, at this step and with this format">' + SW.SHARE_ICON + ' Share</button>';
-    // format and colour, kept from visit to visit; a shared cloud's own for this visit
-    var F = Object.assign({ colour: 'many', hue: 'var(--amber)', own: '#2a6f97', font: 'serif', bold: false, caps: false, upright: '0.5', shape: 'oval', pad: '4', contrast: 'sqrt' }, keep('cloudFormat') || {});
-    Object.keys(F).forEach(function (k) { if (L[k] != null) F[k] = k === 'bold' || k === 'caps' ? L[k] === '1' : L[k]; });
-    var HUES = [['var(--amber)', 'Accent'], ['var(--beam)', 'Beam'], ['var(--violet)', 'Violet'], ['var(--green)', 'Green'], ['var(--red)', 'Red'], ['var(--text)', 'Ink'], ['own', 'Your own']];
-    function sel(k, list) { return '<select data-f="' + k + '">' + list.map(function (x) { return opt(x[0], x[1], String(F[k]) === String(x[0])); }).join('') + '</select>'; }
-    // the kit's shapes where it lists them (SW.wordcloud.SHAPES), else the three it has always had
-    function SHAPES() {
-      var S = SW.wordcloud.SHAPES;
-      return S ? Object.keys(S).map(function (k) { return [k, S[k][0]]; }) : [['rect', 'Rectangle'], ['oval', 'Oval'], ['round', 'Circle']];
+    var more = el('div', { class: 'ds-more' });
+    more.innerHTML = '<label class="check"><input type="checkbox" data-k="stable"> keep each word in its place</label><br>' +
+      '<label class="check"><input type="checkbox" data-k="stop"> leave out common words</label>';
+    function v(k) { var x = SW.$('[data-k="' + k + '"]', bar) || SW.$('[data-k="' + k + '"]', more); return x.type === 'checkbox' ? x.checked : x.value; }
+    function stepAt() { var st = SW.$('.ts-step', stepWrap); return st ? st.value() : 0; }
+    function viewGet() { return { src: v('src'), mode: v('mode'), every: v('every') ? 1 : 0, stable: v('stable') ? 1 : 0, stop: v('stop') ? 1 : 0, n: +v('n'), step: stepAt() }; }
+    function viewSet(x) {
+      x = Object.assign({}, DEF, x);
+      [['src', x.src], ['mode', x.mode], ['every', !!+x.every], ['stable', !!+x.stable], ['stop', !!+x.stop], ['n', String(x.n)]].forEach(function (y) {
+        var e = SW.$('[data-k="' + y[0] + '"]', bar) || SW.$('[data-k="' + y[0] + '"]', more); if (e.type === 'checkbox') e.checked = y[1]; else e.value = y[1];
+      });
+      step0 = +x.step || 0; layout = null; prepare();
     }
-    function chk(k, label) { return '<label class="check"><input type="checkbox" data-f="' + k + '"' + (F[k] ? ' checked' : '') + '> ' + label + '</label>'; }
-    var fmtEl = el('details', { class: 'ds-fmt' });
-    if (keep('cloudFmtOpen')) fmtEl.open = true;
-    fmtEl.innerHTML = '<summary>Format and colour</summary><div class="toolbar ds-bar">' +
-      '<label>Colour ' + sel('colour', [['change', 'by change from the step before'], ['ink', 'ink'], ['one', 'one colour'], ['shade', 'one colour, shaded by count'], ['size', 'by size'], ['many', 'many colours']]) + '</label> ' +
-      '<label data-for="hue">' + sel('hue', HUES) + '</label> <label data-for="own"><input type="color" data-f="own" value="' + esc(F.own) + '"></label> ' +
-      '<label>Font ' + sel('font', Object.keys(SW.wordcloud.FONTS).map(function (k) { return [k, SW.wordcloud.FONTS[k][0]]; })) + '</label> ' +
-      chk('bold', 'bold') + ' ' + chk('caps', 'capitals') + ' ' +
-      '<label>Upright ' + sel('upright', [['0', 'none'], ['0.15', 'a few'], ['0.5', 'half'], ['1', 'all']]) + '</label> ' +
-      '<label>Shape ' + sel('shape', SHAPES()) + '</label> ' +
-      '<label>Spacing ' + sel('pad', [['1', 'tight'], ['4', 'normal'], ['10', 'loose']]) + '</label> ' +
-      '<label>Sizes ' + sel('contrast', [['log', 'closer together'], ['sqrt', 'normal'], ['linear', 'further apart']]) + '</label></div>';
-    function showHue() {
-      SW.$('[data-for="hue"]', fmtEl).hidden = !/^(one|shade)$/.test(F.colour);
-      SW.$('[data-for="own"]', fmtEl).hidden = SW.$('[data-for="hue"]', fmtEl).hidden || F.hue !== 'own';
-    }
-    showHue();
-    // the layout's options: what changes a word's box
-    function shapeOpts() { return { font: SW.wordcloud.FONTS[F.font][1], weight: F.bold ? 'bold' : 'normal', caps: F.caps, upright: +F.upright, shape: F.shape, pad: +F.pad, contrast: F.contrast }; }
-    function hash(w) { for (var h = 0, i = 0; i < w.length; i++) h = (h * 31 + w.charCodeAt(i)) | 0; return Math.abs(h); }
+    var frame = SW.wordcloud.frame({ name: function () { return 'word-cloud-' + String(cur.label).toLowerCase().replace(/[^a-z0-9]+/g, '-'); }, ref: function () { return SW.refsOf([b.v.id]); } });
+    var F = null;
+    var ctl = SW.wordcloud.control({ key: 'ds.cloud', value: linked && linked.format, frame: frame, more: more,
+      view: { defaults: DEF, get: viewGet, set: viewSet }, colours: [['change', 'by change from the step before']],
+      change: function (f) { F = f; linked = null; layout = null; redraw(); } });
+    F = ctl.value();
+    bar.appendChild(ctl);
+    bar.insertAdjacentHTML('beforeend', ' <button type="button" class="btn" data-k="share" title="Share a link to this cloud, at this step and with this look">' + SW.SHARE_ICON + ' Share</button>');
     var stepWrap = el('div', { class: 'ds-stepwrap' }), fig = el('div', { class: 'ds-cloud' }), cmp = el('div', { class: 'ds-cmp' });
-    c.appendChild(bar); c.appendChild(fmtEl); c.appendChild(stepWrap); c.appendChild(fig); c.appendChild(cmp); el0.appendChild(c);
+    c.appendChild(bar); c.appendChild(stepWrap); c.appendChild(fig); c.appendChild(cmp); el0.appendChild(c);
     var data = null, layout = null, layoutKey = '';
-    function v(k) { var x = SW.$('[data-k="' + k + '"]', bar); return x.type === 'checkbox' ? x.checked : x.value; }
     function show(k, on) { SW.$('[data-k="' + k + '"]', bar).closest(k === 'mode' ? 'select' : 'label').hidden = !on; }
+    var gen = 0;
     function prepare() {
-      var s = v('src'); keep('cloudFrom', s);
+      var s = v('src'), g = ++gen;
       show('mode', s === 'stages'); show('every', s === 'stages');
       fig.innerHTML = ''; cmp.innerHTML = ''; stepWrap.innerHTML = '';
       var w8 = wait(fig, s === 'stages' ? 'Reading the manuscript at each stage…' : 'Reading…');
@@ -253,6 +241,7 @@
         return all.chs.map(function (ch, i) { return { label: ch.label, counts: TS.counts(ch.toks), prev: i ? TS.counts(all.chs[i - 1].toks) : null, rel: true }; });
       });
       P.then(function (steps) {
+        if (g !== gen) return;   // a later choice has taken over
         w8.remove(); data = steps; layout = null;
         if (steps.length > 1) {
           var at = Math.min(step0, steps.length - 1);
@@ -267,24 +256,20 @@
     function draw(i) {
       if (!data) return;
       var stp = data[i], n = +v('n'), cs = filtered(stp.counts), top = TS.top(cs, n), stable = v('stable') && data.length > 1;
-      var prev = stp.prev ? filtered(stp.prev) : null, items;
+      var prev = stp.prev ? filtered(stp.prev) : null;
       // chapters differ in length: compared by rate
       var N = TS.total(stp.counts) || 1, Np = stp.prev ? TS.total(stp.prev) || 1 : 1;
-      var hue = F.hue === 'own' ? F.own : F.hue, maxN = top.length ? top[0][1] : 1;
-      function colour(w, rank) {
-        if (F.colour === 'ink') return 'var(--text)';
-        if (F.colour === 'one' || F.colour === 'shade') return hue;
-        if (F.colour === 'size') return rank < top.length * 0.1 ? 'var(--amber)' : rank < top.length * 0.35 ? 'var(--beam)' : 'var(--text-dim)';
-        if (F.colour === 'many') return TS.PALETTE[hash(w) % 5];
+      // this lens's own colouring: the words added or erased, and the change from the step before
+      function colour(x) {
         if (stp.fill) return stp.fill;
+        if (F.colour !== 'change') return null;
         if (!prev) return 'var(--text)';
-        var a = stp.rel ? (cs[w] || 0) / N : cs[w] || 0, z = stp.rel ? (prev[w] || 0) / Np : prev[w] || 0;
+        var a = stp.rel ? (cs[x.w] || 0) / N : cs[x.w] || 0, z = stp.rel ? (prev[x.w] || 0) / Np : prev[x.w] || 0;
         return a > z * 1.0001 ? 'var(--green)' : a < z * 0.9999 ? 'var(--red)' : 'var(--text)';
       }
-      function item(x, i) { return { w: x[0], n: x[1], fill: colour(x[0], i), alpha: F.colour === 'shade' ? 0.3 + 0.7 * Math.sqrt(x[1] / maxN) : null }; }
-      var o = Object.assign({ width: 880, height: 440, seed: 11 }, shapeOpts());
+      var o = Object.assign({ width: 880, height: 440, seed: 11 }, SW.wordcloud.options(F));
       if (stable) {
-        var key = [v('src'), v('mode'), v('every'), v('stop'), n, JSON.stringify(shapeOpts())].join('|');
+        var key = [v('src'), v('mode'), v('every'), v('stop'), n, JSON.stringify(SW.wordcloud.options(F))].join('|');
         if (layoutKey !== key || !layout) {
           // the layout: every word in any step's top n, at its largest count over the steps
           var mx = Object.create(null);
@@ -296,11 +281,11 @@
         }
         o.places = layout.r.places; o.scale = layout.scale; o.max = 54;
       }
-      items = top.map(item);
+      var items = SW.wordcloud.colour(top.map(function (x) { return { w: x[0], n: x[1] }; }), F, { colour: colour });
       var r = SW.wordcloud.cloud(items, o);
       cur.svg = r.svg; cur.label = stp.label;
       fig.innerHTML = '';
-      fig.appendChild(stp.note && !top.length ? el('p', { class: 'hint' }, stp.note) : svgBox(r.svg));
+      if (stp.note && !top.length) fig.appendChild(el('p', { class: 'hint' }, stp.note)); else { fig.appendChild(frame); frame.show(r.svg); }
       if (!top.length && !stp.note) fig.appendChild(el('p', { class: 'hint' }, 'No words at this step.'));
       cur.rows = top.map(function (x) { return [x[0], x[1]]; });
       // what changed since the step before
@@ -318,33 +303,31 @@
       }
       var unplaced = stable ? top.filter(function (x) { return r.drawn.indexOf(x[0]) < 0; }).map(function (x) { return x[0]; }) : r.dropped;
       if (unplaced.length) cmp.appendChild(el('p', { class: 'hint' }, (stable ? 'Without a place in the layout held from step to step: ' : 'Not fitted in: ') + unplaced.join(', ') + '.'));
+      // the view kept (and Default View shown or not), unless it is a shared one not yet changed
+      if (!linked) ctl.refresh();
     }
     bar.addEventListener('change', function (e) {
+      var k = e.target.dataset && e.target.dataset.k; if (!k) return;
+      linked = null;
       // a layout held over the steps leaves most of its places empty at any one step, so it is held only
       // for the words standing at each stage, where a word's staying put matters more; the chapters and
       // the added and erased words are each laid out afresh
-      if (e.target.dataset.k === 'mode' || e.target.dataset.k === 'src') SW.$('[data-k="stable"]', bar).checked = v('src') === 'stages' && v('mode') === 'standing';
-      if (/^(src|mode|every)$/.test(e.target.dataset.k)) prepare(); else { layout = null; var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); } });
+      if (k === 'mode' || k === 'src') SW.$('[data-k="stable"]', more).checked = v('src') === 'stages' && v('mode') === 'standing';
+      if (/^(src|mode|every)$/.test(k)) { step0 = 0; prepare(); } else { layout = null; redraw(); }
+    });
+    stepWrap.addEventListener('click', function () { linked = null; }, true);
+    stepWrap.addEventListener('input', function () { linked = null; }, true);
     function share() {
-      var st = SW.$('.ts-step', stepWrap), q = ['src:' + v('src')];
-      if (v('src') === 'stages') q.push('mode:' + v('mode'), 'every:' + (v('every') ? 1 : 0));
-      q.push('stable:' + (v('stable') ? 1 : 0), 'stop:' + (v('stop') ? 1 : 0), 'n:' + v('n'), 'step:' + (st ? st.value() : 0));
-      Object.keys(F).forEach(function (k) { if (k !== 'own' || F.hue === 'own') q.push(k + ':' + (F[k] === true ? 1 : F[k] === false ? 0 : F[k])); });
-      var url = SW.permalink({ v: SW.state.v, tab: 'analyse', lens: 6, cloud: q.join(',') }).replace(/%3A/g, ':').replace(/%2C/g, ',');
+      var url = SW.permalink({ v: SW.state.v, tab: 'analyse', lens: 6, cloud: ctl.share() }).replace(/%3A/g, ':').replace(/%2C/g, ',');
       SW.share({ url: url, title: 'Word cloud: ' + cur.label });
     }
     bar.addEventListener('click', function (e) { if (e.target.closest('[data-k="share"]')) share(); });
-    function redraw() { var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); }
-    fmtEl.addEventListener('toggle', function () { keep('cloudFmtOpen', fmtEl.open); });
-    fmtEl.addEventListener('input', function (e) { if (e.target.dataset.f === 'own') { F.own = e.target.value; keep('cloudFormat', F); redraw(); } });
-    fmtEl.addEventListener('change', function (e) {
-      var k = e.target.dataset.f; if (!k) return;
-      F[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value;
-      keep('cloudFormat', F); showHue(); redraw();
-    });
+    function redraw() { draw(stepAt()); }
     fig.addEventListener('click', function (e) { var t = e.target.closest('text[data-w]'); if (t) toWord(t.dataset.w); });
     linkLines(cmp);
-    prepare();
+    // the way back (kit/lenses.js): the cloud as it was left, step and all
+    SW.lenses.state(6, function () { return ctl.share(); }, function (s) { viewSet(SW.wordcloud.decode(s).view); });
+    viewSet(linked ? linked.view : ctl.kept && ctl.kept.view ? ctl.kept.view : DEF);
     return function () { return [TS.figure(cur.svg, 'Word cloud: ' + cur.label), SW.tableBlock('Words in the cloud: ' + cur.label, ['Word', 'Count'], cur.rows)]; };
   }
 
@@ -911,5 +894,75 @@
   Lz.menus = { text: [['The manuscript', [1, 3, 4, 13]], ['Words', [2, 5, 6, 10, 14]], ['Distant reading', [7, 8, 9, 11, 12, 15]]] };
   Object.assign(Lz.one, { 5: freqs, 6: cloudLens, 7: distinctive, 8: topics, 9: trends, 10: collocates, 11: vocabulary, 12: stylometry, 13: revisionWords, 14: rare, 15: modelLens });
   Object.assign(Lz.across, { 5: freqsAcross, 7: distinctiveAcross, 9: trendsAcross, 11: vocabularyAcross, 12: stylometryAcross, 15: modelAcross });
-  SW.distant = { chaptersOf: chaptersOf, stageStates: stageStates };
+
+  // ---------- documents for the kit's topics (SW.BENCH.topics.documents) ----------
+  // The reading text, or the manuscript at a stage, in chunks of about 400 words within chapters, in the
+  // kit's document shape: { id, label, tokens (lower-cased, stopwords kept), meta: { chapter (its number,
+  // or null), chapterLabel, leaf, from: [p, n], to: [p, n], seq (its place in reading order), stage } }.
+  // An id is made from the set, the chapter and the chunk's place in it ('rt-c12-2', 'st3-c12-2',
+  // 'st3-x-1' outside the reading text), so it is the same from build to build. kit/topics.js and the
+  // kit's tools/topics.js call it in the page.
+  function chapterNo(label) { var m = /^Chapter (\d+)$/.exec(label); return m ? +m[1] : null; }
+  function chapterKey(label) { var n = chapterNo(label); return label === NOT_RT ? 'x' : n != null ? 'c' + n : label.toLowerCase().replace(/[^a-z0-9]+/g, '-'); }
+  // each line's leaf, '[p:n]' → 'img_7'
+  function leafOfLines(b) {
+    var o = {};
+    b.parts.forEach(function (pt, p) { var cur = null; b.lines[p].forEach(function (L) { var m = LEAF.exec(L.raw); if (m) cur = m[1]; else o[p + ':' + L.n] = cur; }); });
+    return o;
+  }
+  // groups: [{ label, toks, at }], in reading order
+  function chunkDocs(prefix, groups, size, leafOf, stage) {
+    var docs = [], where = stage == null ? '' : ', ' + (stage ? 'stage ' + STAGES[stage - 1] : 'before revision');
+    groups.forEach(function (g) {
+      var idx = []; for (var i = 0; i < g.toks.length; i++) idx.push(i);
+      var cs = TS.chunks(idx, size);
+      cs.forEach(function (ix, k) {
+        var a = g.at[ix[0]], z = g.at[ix[ix.length - 1]];
+        docs.push({ id: prefix + '-' + chapterKey(g.label) + '-' + (k + 1), label: g.label + (cs.length > 1 ? ', ' + (k + 1) + ' of ' + cs.length : '') + where,
+          tokens: ix.map(function (i) { return g.toks[i]; }),
+          meta: { chapter: chapterNo(g.label), chapterLabel: g.label, leaf: leafOf[a[0] + ':' + a[1]] || null, from: a, to: z, seq: docs.length, stage: stage == null ? null : stage } });
+      });
+    });
+    return docs;
+  }
+  function readingDocs(size) {
+    return SW.build('mel-rt').then(function (b) {
+      return chaptersOf(b).then(function (all) { return chunkDocs('rt', all.chs, size, leafOfLines(b), null); });
+    });
+  }
+  // the manuscript at stage st (0 before revision … STAGES.length): the spans Book shows then, line by line,
+  // each line in the reading-text chapter of its leaf; leaves not in the reading text kept, as their own
+  function stageDocs(st, size) {
+    if (!(st >= 0 && st <= STAGES.length)) return Promise.reject(new Error('No stage ' + st + ': the stages are 0 to ' + STAGES.length));
+    return Promise.all([SW.build('ms-dipl'), stageStates()]).then(function (r) {
+      var b = r[0], doc = r[1].doc, K = SW.book, AT = K.stageMap(STAGES), hands = (SW.BENCH.doc || {}).stageHands || null;
+      return chaptersOf(b).then(function (ms) {
+        var lineCh = {}, lines = {}, order = [], by = {};
+        ms.chs.forEach(function (c) { c.at.forEach(function (a) { lineCh[a[0] + ':' + a[1]] = c.label; }); });
+        doc.blocks.forEach(function (bl) {
+          if (bl.t === 'pb') return;
+          bl.spans.forEach(function (sp) {
+            if (!K.shownAt(sp.marks, st, AT, hands)) return;
+            if (!lines[sp.n]) { lines[sp.n] = []; order.push(sp.n); }
+            lines[sp.n].push(sp.s);
+          });
+        });
+        order.forEach(function (n) {
+          var lab = lineCh['0:' + n] || NOT_RT, g = by[lab] = by[lab] || { label: lab, toks: [], at: [] };
+          TS.tokens(lines[n].join('').replace(/[⟦⟧\\/]/g, '')).forEach(function (t) { g.toks.push(t); g.at.push([0, n]); });
+        });
+        var groups = ms.chs.map(function (c) { return by[c.label]; }).filter(Boolean);
+        if (by[NOT_RT] && groups.indexOf(by[NOT_RT]) < 0) groups.push(by[NOT_RT]);
+        return chunkDocs('st' + st, groups, size, leafOfLines(b), st);
+      });
+    });
+  }
+  SW.BENCH.topics = SW.BENCH.topics || {};
+  // o: set 'reading' or 'stage', stage (for 'stage'), chunk (400 words)
+  SW.BENCH.topics.documents = function (o) {
+    o = o || {};
+    var size = o.chunk || 400;
+    return o.set === 'stage' ? stageDocs(+o.stage, size) : readingDocs(size);
+  };
+  SW.distant = { chaptersOf: chaptersOf, stageStates: stageStates, stageSteps: stageSteps, documents: SW.BENCH.topics.documents };
 })(this);

@@ -2,6 +2,16 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.6 (2026-11-02)
+
+- **On bench-kit 0.94.0. Word cloud on the kit's control:** one toolbar row (text or stages, word count, Look ▾, ⚙, Default View, Share). The looks are the kit's (Oval, the default, as you chose it; Classic, Ink on paper, Poster, Typewriter, Heart); ⚙ holds colour, hue, font, shape, upright, spacing, sizes, bold and capitals, with "keep each word in its place" and "leave out common words". The Format and colour panel is gone, and with it the free colour picker until the kit's control has one.
+- **Kept from visit to visit:** the whole view, the step included. **Default View** shows once the view is not the default (chapter by chapter, 80 words, Oval, the first step) and puts it all back, the zoom too.
+- **Zoom and export:** − Fit + (50% to 400%), SVG, PNG and My notes, from the kit's frame.
+- **Share links** carry the look and only what differs (`cloud=look:oval,shape:heart,src:chapters,…,step:20`); links from 0.3.5 open as before. A shared cloud is not kept as the reader's own until they change it.
+- **Back:** a word clicked in the cloud opens its lines with "← Word cloud" in the tab row; it and the browser's Back return to the cloud at the step it was left.
+- **Documents for the kit's topics:** `SW.BENCH.topics.documents({ set, stage, chunk })` gives the reading text (`set: 'reading'`), or the manuscript at a stage (`set: 'stage'`, 0 before revision to 33), in 400-word chunks within chapters, in the kit's document shape: ids stable from build to build (`rt-c12-2`, `st3-c12-2`, `st3-x-1`), the chapter's number and label, the leaf, the first and last lines, the place in reading order. Leaves not in the reading text are kept at each stage as their own. The reading text makes 80 documents, the manuscript 69 before revision and 83 at the last stage. The Topics tab stays off until there is a model. 13 more checks.
+- 384/384.
+
 ## 0.3.5 (2026-11-02)
 
 - **On bench-kit 0.93.0.** **Word cloud:** eight shapes in the Shape menu (rectangle, square, oval, circle, diamond, hexagon, triangle, heart), built from the kit's list (`SW.wordcloud.SHAPES`), so new shapes in the kit appear without a change here. The kit's menu switches (`menusOff`) and Topics tab come with it; the tab stays off until the config sets `topics`. 336/336.
