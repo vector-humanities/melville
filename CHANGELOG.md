@@ -2,6 +2,12 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.8 (2026-11-02)
+
+- **On bench-kit 0.96.1:** the Topics tab's parts 2–9 (the topics, documents and topics, a topic through the text, a word's, a document's and a selection's topics, across the stages, steadiness across seeds), Help ▸ Topic models, and topics compared by cosine. Read is a plain tab; versions open from File ▾ ▸ Open a version… (⌘O), and Read keeps its place.
+- **The published model rebuilt with the cosine check: M-f555e1** in place of M-771c6b (`topics/M-f555e1.json`; M-771c6b is in the 0.3.7 release). The same trial, MEL's reading text in 80 chunks of about 400 words at 8 and 12 topics, minimum counts 2 and 3, five seeds each, with topics matched across seeds by the cosine of their word probabilities (threshold 0.695, the lower quartile of 357 best-match pairs). K 8, minimum count 2 is again the steadiest (85% recur by cosine, 79% by Jaccard), and its steadiest seed is now 3. Topics 2, 3 and 5–8 recur in all four other seeds, topic 1 (nature, knowledge, power, world, human) in three, topic 4 (war, mutiny, naval, act) in two. The file records the check, the bench at 0.3.8 and MEL's commit; fingerprint 70201ece, as before.
+- **For the kit's topic views:** each document names the version its lines are in (`meta.v`: `mel-rt` or `ms-dipl`); `SW.BENCH.topics.open(doc)` opens a reading-text document in Read at its lines, and a stage document in Book at its stage (`SW.book.openAt`, kit 0.96.1); a model made before `meta.v` is read from the id. `SW.BENCH.topics.tokens(text)` gives a passage's words as the documents have them, for 🧩 Topics on a selection. Model ids and fingerprints are unchanged. 412/412.
+
 ## 0.3.7 (2026-11-02)
 
 - **The source of a topic model:** `SW.BENCH.topics.source()` gives the bench's version and MEL's repository at the commit `js/versions.js` pins, for the kit to record in each model file and to warn when the text a model was made from has moved on.

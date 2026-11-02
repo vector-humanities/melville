@@ -1,7 +1,7 @@
 # Melville Research Bench
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.3.7 (bench-kit 0.95.0)  
+**Version:** 0.3.8 (bench-kit 0.96.1)  
 **Live:** https://vector-humanities.github.io/melville/  
 **DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 

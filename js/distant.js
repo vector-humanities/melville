@@ -902,8 +902,9 @@
 
   // ---------- documents for the kit's topics (SW.BENCH.topics.documents) ----------
   // The reading text, or the manuscript at a stage, in chunks of about 400 words within chapters, in the
-  // kit's document shape: { id, label, tokens (lower-cased, stopwords kept), meta: { chapter (its number,
-  // or null), chapterLabel, leaf, from: [p, n], to: [p, n], seq (its place in reading order), stage } }.
+  // kit's document shape: { id, label, tokens (lower-cased, stopwords kept), meta: { v (the version its lines
+  // are in), chapter (its number, or null), chapterLabel, leaf, from: [p, n], to: [p, n], seq (its place in
+  // reading order), stage } }.
   // An id is made from the set, the chapter and the chunk's place in it ('rt-c12-2', 'st3-c12-2',
   // 'st3-x-1' outside the reading text), so it is the same from build to build. kit/topics.js and the
   // kit's tools/topics.js call it in the page.
@@ -916,7 +917,7 @@
     return o;
   }
   // groups: [{ label, toks, at }], in reading order
-  function chunkDocs(prefix, groups, size, leafOf, stage) {
+  function chunkDocs(prefix, groups, size, leafOf, stage, vid) {
     var docs = [], where = stage == null ? '' : ', ' + (stage ? 'stage ' + STAGES[stage - 1] : 'before revision');
     groups.forEach(function (g) {
       var idx = []; for (var i = 0; i < g.toks.length; i++) idx.push(i);
@@ -925,14 +926,14 @@
         var a = g.at[ix[0]], z = g.at[ix[ix.length - 1]];
         docs.push({ id: prefix + '-' + chapterKey(g.label) + '-' + (k + 1), label: g.label + (cs.length > 1 ? ', ' + (k + 1) + ' of ' + cs.length : '') + where,
           tokens: ix.map(function (i) { return g.toks[i]; }),
-          meta: { chapter: chapterNo(g.label), chapterLabel: g.label, leaf: leafOf[a[0] + ':' + a[1]] || null, from: a, to: z, seq: docs.length, stage: stage == null ? null : stage } });
+          meta: { v: vid, chapter: chapterNo(g.label), chapterLabel: g.label, leaf: leafOf[a[0] + ':' + a[1]] || null, from: a, to: z, seq: docs.length, stage: stage == null ? null : stage } });
       });
     });
     return docs;
   }
   function readingDocs(size) {
     return SW.build('mel-rt').then(function (b) {
-      return chaptersOf(b).then(function (all) { return chunkDocs('rt', all.chs, size, leafOfLines(b), null); });
+      return chaptersOf(b).then(function (all) { return chunkDocs('rt', all.chs, size, leafOfLines(b), null, 'mel-rt'); });
     });
   }
   // the manuscript at stage st (0 before revision … STAGES.length): the spans Book shows then, line by line,
@@ -958,7 +959,7 @@
         });
         var groups = ms.chs.map(function (c) { return by[c.label]; }).filter(Boolean);
         if (by[NOT_RT] && groups.indexOf(by[NOT_RT]) < 0) groups.push(by[NOT_RT]);
-        return chunkDocs('st' + st, groups, size, leafOfLines(b), st);
+        return chunkDocs('st' + st, groups, size, leafOfLines(b), st, 'ms-dipl');
       });
     });
   }
@@ -976,6 +977,19 @@
       return [[0, 'Before revision']].concat(STAGES.map(function (id, i) { return [i + 1, 'Stage ' + id]; }));
     } }
   ];
+  // a document's text at its lines, in its own version: a stage's document in Book at its stage (where
+  // the kit has SW.book.openAt), the reading text's in Read; a model made before meta.v (as M-771c6b) is
+  // read from the id: rt- the reading text, st<n>- the diplomatic transcription at stage n
+  SW.BENCH.topics.open = function (doc) {
+    var m = doc.meta || {}, a = m.from, z = m.to || a, st = /^st(\d+)-/.exec(doc.id);
+    var v = m.v || (/^rt-/.test(doc.id) ? 'mel-rt' : st ? 'ms-dipl' : null);
+    var stage = m.stage != null ? m.stage : st ? +st[1] : null;
+    if (!a) return;
+    var at = { p: a[0], n0: a[1], n1: z[0] === a[0] ? z[1] : a[1] };
+    if (stage != null && SW.book && SW.book.openAt) SW.book.openAt(v, at, stage); else SW.openAt(v, at);
+  };
+  // a passage's words as the documents have them, for 🧩 Topics on a selection
+  SW.BENCH.topics.tokens = function (text) { return TS.tokens(String(text).replace(/[⟦⟧\\/]/g, '')); };
   // what the documents are made from, recorded in a model file so the kit can warn when the text has moved
   // on: the bench's version, and MEL's repository at the commit js/versions.js pins
   SW.BENCH.topics.source = function () {
