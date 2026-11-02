@@ -115,3 +115,41 @@ button.badge.err { cursor: pointer; font: inherit; }
 /* ---------- the language, beside the picker ---------- */
 .vlang { font: 10px var(--mono); letter-spacing: 0.5px; color: var(--text-faint); margin-left: 8px; white-space: nowrap; }
 @media (max-width: 900px) { .vlang { display: none; } }
+
+/* ---------- the distant-reading lenses (js/distant.js) ---------- */
+/* the word cloud (js/cloud.js), its own font as measured (bench.css sets svg text in mono) */
+.ts-cloud { display: block; width: 100%; height: auto; }
+.ts-cloud text { font-family: inherit; cursor: pointer; }
+.ts-cloud text:hover { fill: var(--amber); }
+.ds-bar { position: static; flex-wrap: wrap; gap: 8px; padding: 0 0 8px; }
+.ds-bar label { display: inline-flex; align-items: center; gap: 4px; font-size: 12.5px; }
+.ds-bar label[hidden], .ds-bar select[hidden] { display: none; }
+.ds-two { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+@media (max-width: 800px) { .ds-two { grid-template-columns: 1fr; } }
+.ds-fig { background: var(--plate); border: 1px solid var(--plate-line); border-radius: 6px; padding: 6px; margin: 6px 0; }
+.ds-cloud .ds-fig { padding: 10px; }
+.ds-cmp { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; font-size: 13px; }
+.ds-cmp h4, .card h4 { margin: 10px 0 4px; font-size: 12px; letter-spacing: 0.4px; color: var(--text-dim); font-weight: 600; }
+.ds-cmp p { margin: 0; line-height: 1.7; }
+.ds-d { font: 11px var(--mono); }
+.ds-d.up { color: var(--green); }
+.ds-d.down { color: var(--red); }
+.ds-topics { display: flex; flex-direction: column; gap: 2px; margin: 6px 0 10px; }
+.ds-topics button { text-align: left; background: none; border: 1px solid transparent; border-radius: 4px; padding: 3px 6px; font: 13px var(--serif); color: var(--text); cursor: pointer; }
+.ds-topics button:hover, .ds-topics button.on { border-color: var(--line); background: var(--surface-2); }
+.ds-topics b { font: 600 11px var(--mono); color: var(--amber); display: inline-block; min-width: 1.8em; }
+.ds-share { font: 11px var(--mono); color: var(--text-dim); display: inline-block; min-width: 3.4em; }
+.ds-heatwrap { overflow-x: auto; }
+.ds-detail .ds-chunk { font: 13px/1.5 var(--serif); margin: 4px 0; }
+.ds-kwic { max-height: 360px; }
+.ds-kwic td { font: 13px var(--serif); padding: 1px 6px; white-space: nowrap; }
+.ds-kwic td.l { text-align: right; color: var(--text-dim); max-width: 22em; overflow: hidden; text-overflow: ellipsis; direction: rtl; }
+.ds-kwic td.k { font-weight: 600; color: var(--amber); }
+.ds-pulls p { font: 13px/1.7 var(--serif); margin: 4px 0; }
+.ds-picks { display: flex; flex-wrap: wrap; gap: 4px 10px; margin: 0 0 8px; font-size: 12.5px; }
+.ds-acc { font: 14px var(--serif); }
+.ds-acc b { font-size: 20px; color: var(--amber); }
+.ds-rare { max-height: 620px; }
+.ds-rare details summary { cursor: pointer; font: 13px var(--serif); color: var(--text); }
+.ds-rare .ds-as { color: var(--text-dim); font-style: italic; }
+.ds-rare .ds-dict { max-width: 46em; max-height: none; margin: 4px 0 8px; }

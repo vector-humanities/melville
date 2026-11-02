@@ -85,6 +85,11 @@
       imageCredit: 'Houghton Library, Harvard University, Herman Melville papers (MS Am 188-188.6), Box 19, Volume 2: Billy Budd, MS Am 188 (363). Reproduced with the permission of the Houghton Library. The folio and the file’s source are given for every leaf in <a href="https://github.com/vector-humanities/melville/blob/main/img/leaves/provenance.csv" target="_blank" rel="noopener">img/leaves/provenance.csv ↗</a>. <a href="https://hollisarchives.lib.harvard.edu/catalog/hou00338_hou00338c00388" target="_blank" rel="noopener">Finding aid ↗</a> · <a href="http://nrs.harvard.edu/urn-3:FHCL.Hough:4686413" target="_blank" rel="noopener">Harvard’s digital copy ↗</a>',
       versions: ['ms-final', 'mel-rt']
     },
+    // 📕 Look up in Read and Book, and the Rare words lens (js/distant.js): Webster's 1913, the entries the
+    // texts' words need, and the words' frequencies in present-day English; both made by tools/dictionary.py
+    dictionaries: [{ id: 'webster', name: 'Webster’s Revised Unabridged Dictionary (1913)', short: 'Webster’s 1913', url: 'data/webster.json',
+                     credit: 'Webster’s Revised Unabridged Dictionary (1913), from Project Gutenberg’s text (ebook 29765); the definitions only.', licence: 'Public domain in the United States' }],
+    wordFreq: { url: 'data/wordfreq.json', name: 'wordfreq', credit: 'Robyn Speer, wordfreq 3: Zipf frequency in present-day English (CC BY-SA 4.0).' },
     group: '',                                             // the Hypothesis group's ID, once one is made
     relation: 'Billy Budd, ',
     topShare: false,

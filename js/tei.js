@@ -176,6 +176,7 @@
   Doc.prototype.result = function () { this.close(); return { text: this.lines.join('\n') + '\n', doc: { blocks: this.blocks } }; };
 
   // ---------- the manuscript ----------
+  var MOUNT = '[This leaf is not part of this stage of the text. Advance the slider (above) to see it.]';
   function ms(node, mode, D, marks, key, restored, svc) {
     for (var c = node.firstChild; c; c = c.nextSibling) {
       if (c.nodeType === 3) { D.put(c.nodeValue, marks, key); continue; }
@@ -192,7 +193,10 @@
         var said = /\[(?:See|Ed\. Note)[^\]]*transcription[^\]]*\]/i.exec(c.textContent);
         if (said) D.elsewhere(said[0]);
         inThis = mode === 'diplomatic' || fn !== 'composition-information';
-        ms(c, mode, D, fn ? marks.concat(mark('metamark', c, { function: fn })) : marks, key && inThis, restored, svc);
+        var mm = fn ? marks.concat(mark('metamark', c, { function: fn })) : marks;
+        // MEL's note that a mount's text is transcribed on the next leaf, shown as the bench's own words
+        if (said && /next leaf/i.test(said[0]) && c.textContent.trim() === said[0]) D.put(MOUNT, mm, key && inThis);
+        else ms(c, mode, D, mm, key && inThis, restored, svc);
       }
       else if (n === 'add') {
         m = marks.concat(mark('added', c, { place: att(c, 'place'), rend: att(c, 'rend') }));

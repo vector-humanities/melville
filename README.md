@@ -1,7 +1,7 @@
 # Melville Research Bench
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.2.8 (bench-kit 0.90.2)  
+**Version:** 0.3.0 (bench-kit 0.91.0)  
 **Live:** https://vector-humanities.github.io/melville/  
 **DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 
@@ -26,7 +26,12 @@ The manuscript is in the Houghton Library, Harvard University: Herman Melville p
 
 - **Read**: each version line by line, with a search, annotations shared through a Hypothesis group, citations, export to Word and Markdown, and a reading edition.
 - **Book**: the text set in leaves, each beside its image from Houghton; the manuscript as one text with a slider through its stages of composition (Play, Every revision); a second text facing it at the same leaf (Compare); annotation and links from a selection.
-- **Text ▾**: lenses for the revisions on each leaf and for the lines that contain a word, in one version or across them.
+- **Text ▾**: lenses on a version, or across the versions, in three groups.
+  - **The manuscript**: the revisions on each leaf, how the story grew stage by stage, every revision with its stage, hand and medium, and the words of Melville's additions set against those of his deletions.
+  - **Words**: the lines that contain a word, word frequencies, a word cloud stepped through the chapters or the manuscript's stages, collocates with every occurrence in context, and rare words with their definitions in Webster's 1913.
+  - **Distant reading**: distinctive words (log-likelihood, or the Mann–Whitney ρ over chunks), topics (latent Dirichlet allocation, seeded), trends and where words occur, the vocabulary's measures (moving-average type-token ratio, Yule's K, sentence length, Zipf and Heaps), stylometry (Burrows's Delta and principal components on the most frequent words), and a model of the difference (a logistic regression trained to tell two sets of passages or two versions apart, judged on chunks it did not see).
+
+  A version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the manuscript its leaves, each in the chapter of the reading text that first marks it. The statistics are `js/textstats.js`; the lenses `js/analyse.js` and `js/distant.js`. 📕 **Look up**, on a word selected in Read or Book, gives its entries in Webster's Revised Unabridged Dictionary (1913) with its frequency in present-day English (wordfreq); `tools/dictionary.py` makes `data/webster.json` and `data/wordfreq.json`.
 - **Versions ▾**: each version's record, **Collate** (as text, or leaf by leaf) and **Genealogy**.
 - **Findings**, **My notes**, **Paratexts** and **Help**, as in every bench-kit bench.
 
@@ -42,6 +47,23 @@ python3 -m http.server 8000
 
 and open `http://localhost:8000/`. The texts are fetched from GitHub, so the bench needs a network connection.
 
+## Methods: a bibliography
+
+The works the Text ▾ lenses take their methods from.
+
+- Blei, D. M., Ng, A. Y. and Jordan, M. I. (2003) 'Latent Dirichlet allocation', *Journal of Machine Learning Research*, 3, pp. 993–1022.
+- Burrows, J. (2002) ''Delta': a measure of stylistic difference and a guide to likely authorship', *Literary and Linguistic Computing*, 17(3), pp. 267–287. https://doi.org/10.1093/llc/17.3.267.
+- Covington, M. A. and McFall, J. D. (2010) 'Cutting the Gordian knot: the moving-average type–token ratio (MATTR)', *Journal of Quantitative Linguistics*, 17(2), pp. 94–100. https://doi.org/10.1080/09296171003643098.
+- Dunning, T. (1993) 'Accurate methods for the statistics of surprise and coincidence', *Computational Linguistics*, 19(1), pp. 61–74. https://aclanthology.org/J93-1003/.
+- Griffiths, T. L. and Steyvers, M. (2004) 'Finding scientific topics', *Proceedings of the National Academy of Sciences*, 101(suppl. 1), pp. 5228–5235. https://doi.org/10.1073/pnas.0307752101.
+- Jockers, M. L. (2013) *Macroanalysis: Digital Methods and Literary History*. Urbana: University of Illinois Press.
+- Moretti, F. (2000) 'Conjectures on world literature', *New Left Review*, 1, pp. 54–68.
+- Speer, R. (2023) *wordfreq* (version 3.1.1). https://github.com/rspeer/wordfreq.
+- Underwood, T. (2011) 'Identifying diction that characterizes an author or genre: why Dunning's may not be the best method', *The Stone and the Shell*, 9 November. https://tedunderwood.com/2011/11/09/identifying-the-terms-that-characterize-an-author-or-genre-why-dunnings-may-not-be-the-best-method/.
+- Underwood, T. (2012) 'Topic modeling made just simple enough', *The Stone and the Shell*, 7 April. https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/.
+- Underwood, T. (2019) *Distant Horizons: Digital Evidence and Literary Change*. Chicago: University of Chicago Press.
+- *Webster's Revised Unabridged Dictionary* (1913). Springfield, MA: G. & C. Merriam. Project Gutenberg ebook 29765.
+
 ## Citing the bench
 
 Berry, D. M. and Jonik, M. (2026) *Melville Research Bench*. Zenodo. https://doi.org/10.5281/zenodo.23715253.
@@ -50,6 +72,6 @@ The DOI above resolves to the latest version. Each release has its own DOI on Ze
 
 ## Licence
 
-The bench's code is GPL-3.0 (`LICENSE`); the kit is GPL-3.0. Melville's texts are in the public domain. The transcriptions, encoding and notes the bench reads are MEL's and remain under MEL's terms.
+The bench's code is GPL-3.0 (`LICENSE`); the kit is GPL-3.0. Melville's texts are in the public domain. The transcriptions, encoding and notes the bench reads are MEL's and remain under MEL's terms. `data/webster.json` is taken from Webster's Revised Unabridged Dictionary (1913), in the public domain in the United States (from Project Gutenberg's text; the definitions only); `data/wordfreq.json` is from wordfreq, CC BY-SA 4.0.
 
 [![DOI](https://zenodo.org/badge/1428696893.svg)](https://doi.org/10.5281/zenodo.23715253)

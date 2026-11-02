@@ -2,6 +2,25 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.0 (2026-11-02)
+
+- **Text ▾: eleven lenses of distant reading** (lenses 5–15), in three groups (The manuscript, Words, Distant reading), each in this version and most across the versions, with its export:
+  - **5 Word frequencies**: the words by count and rate per 10,000, overall or in a chapter.
+  - **6 Word cloud**: the most frequent words, stepped through the chapters or the manuscript's stages (the words standing, added or erased at each), each word kept in its place from step to step, green where it has more than at the step before and red where fewer.
+  - **7 Distinctive words**: a chapter or run of chapters against the rest or another, by log-likelihood (G²) or the Mann–Whitney ρ over 250-word chunks; across the versions, what revision brought in and took out.
+  - **8 Topics**: latent Dirichlet allocation on 400-word chunks, seeded, with the topics in each chapter and the chunks that carry most of a topic.
+  - **9 Trends**: words per 10,000 by chapter, and a stroke for each occurrence through the text.
+  - **10 Collocates**: the words near a word, by G² and PMI, with every occurrence in context.
+  - **11 Vocabulary**: distinct words, moving-average type-token ratio, hapax legomena, Yule's K, sentence length, Zipf's and Heaps' laws with their fitted exponents.
+  - **12 Stylometry**: Burrows's Delta and principal components of the chapters on the most frequent words; across the versions, every version's chapters together.
+  - **13 Words added and erased**: the words of Melville's additions against those of his deletions, by stage and hand.
+  - **14 Rare words**: words rare in present-day English (wordfreq), with their entries in Webster's Revised Unabridged Dictionary (1913), by Webster's field (Nautical, Law, Military …).
+  - **15 A model of the difference**: a logistic regression trained to tell two sets of chapters, or two versions, apart, with its accuracy on chunks it did not see and the words it leans on.
+- bench-kit 0.91.0: 📕 **Look up** on a word selected in Read or Book, from Webster's 1913 (`data/webster.json`) with the word's frequency (`data/wordfreq.json`), both made by `tools/dictionary.py`; Settings ▸ Dictionaries. File ▾ and Help read "Back up my data" and "Restore my data (non-destructive)".
+- bench-kit 0.90.3: A− and A+ set Book's text size while Book is open.
+- Book: MEL's note on img_7's mount reads "[This leaf is not part of this stage of the text. Advance the slider (above) to see it.]".
+- Tests: 34 checks of the statistics, topics and cloud on small texts worked by hand (`tests/textstats.test.js`); 280 in all.
+
 ## 0.2.8 (2026-11-01)
 
 - The bench's name on one line in the top bar.
