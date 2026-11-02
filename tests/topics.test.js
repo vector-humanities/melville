@@ -55,6 +55,10 @@
       eq('ids unique, and named for the stage', unique(stN) && stN.every(function (x) { return x.id.indexOf('st' + last + '-') === 0 && x.meta.stage === last; }), true);
       var x = stN.filter(function (d) { return d.meta.chapterLabel === 'Not in the reading text'; });
       eq('leaves not in the reading text kept, as their own', x.length > 0 && x.every(function (d) { return d.meta.chapter === null && /-x-/.test(d.id); }), true);
+      var said = st0.concat(stN).map(function (d) { return d.tokens.join(' '); }).join(' ');
+      eq('notes on the composition left out (MEL’s, as “[See leaf image 499 …]”, and Melville’s memos)', [/leaf image/.test(said), /superseded by text on leaf/.test(said), /saturday nov/.test(said)], [false, false, false]);
+      var src = SW.BENCH.topics.source();
+      eq('the source recorded with a model: the bench’s version and MEL at its pinned commit', [src.bench === SW.VERSION, src.sources[0].name, /^[0-9a-f]{40}$/.test(src.sources[0].commit), src.sources[0].commit === SWVersions.MEL.commit], [true, 'MEL', true, true]);
       return D({ set: 'stage', stage: last + 1 }).then(function () { eq('a stage past the last refused', 'given', 'refused'); }, function (e) { eq('a stage past the last refused', /No stage/.test(e.message), true); });
     });
   });

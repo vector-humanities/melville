@@ -96,6 +96,11 @@
   function wait(c, text) { var p = el('p', { class: 'hint' }, text || 'Reading…'); c.appendChild(p); return p; }
 
   // ---------- the manuscript's stages: the words standing at each ----------
+  // Melville's text at a stage leaves out what the diplomatic transcription holds beside it: notes on the
+  // composition (metamarks of function composition-information: MEL's bracketed notes, as "[See leaf
+  // image 499 …]", and Melville's own memos and dates), as the bench's readings of the manuscript (MS1,
+  // MS) leave them out (js/tei.js)
+  function ofTheWork(sp) { return !sp.marks.some(function (m) { return m.k === 'metamark' && m.function === 'composition-information'; }); }
   var stP = null;
   function stageStates() {
     if (!stP) stP = SW.build('ms-dipl').then(function (b) {
@@ -105,7 +110,7 @@
       for (var st = 0; st <= STAGES.length; st++) {
         var parts = [], last = null;
         spans.forEach(function (sp) {
-          if (!K.shownAt(sp.marks, st, AT, hands)) return;
+          if (!K.shownAt(sp.marks, st, AT, hands) || !ofTheWork(sp)) return;
           parts.push((last != null && sp.n !== last ? ' ' : '') + sp.s); last = sp.n;
         });
         counts.push(TS.counts(TS.tokens(parts.join('').replace(/[⟦⟧\\/]/g, ''))));
@@ -942,7 +947,7 @@
         doc.blocks.forEach(function (bl) {
           if (bl.t === 'pb') return;
           bl.spans.forEach(function (sp) {
-            if (!K.shownAt(sp.marks, st, AT, hands)) return;
+            if (!K.shownAt(sp.marks, st, AT, hands) || !ofTheWork(sp)) return;
             if (!lines[sp.n]) { lines[sp.n] = []; order.push(sp.n); }
             lines[sp.n].push(sp.s);
           });
@@ -963,6 +968,19 @@
     o = o || {};
     var size = o.chunk || 400;
     return o.set === 'stage' ? stageDocs(+o.stage, size) : readingDocs(size);
+  };
+  // the sets a reader may model in the Topics tab, and the tool's --set and --choice
+  SW.BENCH.topics.sets = [
+    { id: 'reading', label: 'The reading text' },
+    { id: 'stage', label: 'The manuscript at a stage', param: 'stage', choices: function () {
+      return [[0, 'Before revision']].concat(STAGES.map(function (id, i) { return [i + 1, 'Stage ' + id]; }));
+    } }
+  ];
+  // what the documents are made from, recorded in a model file so the kit can warn when the text has moved
+  // on: the bench's version, and MEL's repository at the commit js/versions.js pins
+  SW.BENCH.topics.source = function () {
+    var M = (root.SWVersions || {}).MEL || {};
+    return { bench: SW.VERSION, sources: [{ name: 'MEL', repo: M.repo, commit: M.commit }] };
   };
   SW.distant = { chaptersOf: chaptersOf, stageStates: stageStates, stageSteps: stageSteps, documents: SW.BENCH.topics.documents };
 })(this);

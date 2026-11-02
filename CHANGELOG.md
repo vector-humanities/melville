@@ -2,6 +2,12 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.7 (2026-11-02)
+
+- **The source of a topic model:** `SW.BENCH.topics.source()` gives the bench's version and MEL's repository at the commit `js/versions.js` pins, for the kit to record in each model file and to warn when the text a model was made from has moved on.
+- **The manuscript at a stage is Melville's text only.** The stage documents, and the counts the word cloud steps through, left in the notes on the composition that the diplomatic transcription holds: MEL's bracketed notes ("[See leaf image 499 …]", the mount note) and Melville's memos and dates. They now leave them out, as the bench's MS1 and MS readings always have: 1,144 words fewer before revision (65 documents, 80 at the last stage). A check that the notes stay out.
+- **On bench-kit 0.95.0, with a Topics tab.** The kit's topics engine (`kit/mallette.js`, `kit/topics.js`, on mallette 0.2.1) is loaded, and the tab shows Melville's first published model, **M-771c6b, "The reading text, eight topics"** (`topics/M-771c6b.json`): MEL's reading text in 80 chunks of about 400 words, the bench's stopwords, minimum word length 3, minimum count 2, seed 5. It was chosen from 8 and 12 topics at minimum counts 2 and 3, five seeds each, as the steadiest: 79% of its topics recur across seeds. Topics 2–5, 7 and 8 recur in all four other seeds, topic 1 in three, topic 6 (war, act, king, officers, martial) in one. The file records the check, the bench's version and MEL's commit. Readers can also run their own models in the tab, of the reading text or the manuscript at any of its 34 states (`SW.BENCH.topics.sets`). The Topics lens (8) stays on `js/topics.js` for now. 399/399.
+
 ## 0.3.6 (2026-11-02)
 
 - **On bench-kit 0.94.0. Word cloud on the kit's control:** one toolbar row (text or stages, word count, Look ▾, ⚙, Default View, Share). The looks are the kit's (Oval, the default, as you chose it; Classic, Ink on paper, Poster, Typewriter, Heart); ⚙ holds colour, hue, font, shape, upright, spacing, sizes, bold and capitals, with "keep each word in its place" and "leave out common words". The Format and colour panel is gone, and with it the free colour picker until the kit's control has one.

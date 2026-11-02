@@ -17,6 +17,10 @@
     forks: [['ms', 'Manuscript'], ['ed', 'Editions']],
     start: 'mel-rt',
     picker: false,                                          // no version picker in the top bar: the versions are in Read ▾
+    // the topic models published (kit/topics.js; made with kit/tools/topics.js); documents, sets and source
+    // are js/distant.js's
+    topics: { models: [{ id: 'M-771c6b', name: 'The reading text, eight topics', url: 'topics/M-771c6b.json',
+      note: 'Eight topics of MEL’s reading text, in 80 chunks of about 400 words. Topics 2–5, 7 and 8 recur in all four other seeds of the check, topic 1 in three, topic 6 in one: read topic 6 with caution. The reading text is MEL’s edition, not Melville’s last state of the manuscript.' }] },
     // prose: no comment mark; a leaf's mark ([img_5]) stands where a routine would begin
     lang: 'plain',
     comment: false,
