@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.4 (2026-11-02)
+
+- **Word cloud:** the cloud fills its card at any window width (it stayed 880 px wide in a wide window, with the rest of the card empty), no taller than three-quarters of the screen. "Keep each word in its place" is on by default only for the words standing at each stage; chapter by chapter, each step is laid out afresh and fills the space. The description is one line, with the rest under "How it works".
+
 ## 0.3.3 (2026-11-02)
 
 - **On bench-kit 0.92.1**, whose word-cloud checks now use a fixed width for each letter, so they pass on GitHub's test machines (which lack Georgia) as they do here. Nothing in the bench changes. 308/308.

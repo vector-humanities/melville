@@ -177,13 +177,16 @@
   // ---------- 6 word cloud ----------
   function cloudLens(b, el0) {
     var cur = { svg: '', rows: [], label: '' };
-    var c = wide(card('Word cloud', 'The most frequent words, sized by their count. Step through the chapters, or through the manuscript’s stages of composition: the words standing at each stage, or those Melville added or erased in it (the change in each word’s count from the stage before). With “keep each word in its place”, a word stays where it is from step to step and only its size changes. Coloured by change, green is more than at the step before and red fewer. Format and colour sets the colours, the font, the shape of the cloud and how many words stand upright. Click a word for its lines.'));
+    var c = wide(card('Word cloud', 'The most frequent words, sized by count.'));
+    var how = el('details', { class: 'ds-fmt' });
+    how.innerHTML = '<summary>How it works</summary><p class="hint">Step through the chapters, or the manuscript’s stages: the words standing at each stage, or those added or erased in it. Green is more than at the step before, red fewer. With “keep each word in its place”, words hold their positions and only their size changes. Click a word for its lines.</p>';
+    c.appendChild(how);
     var bar = el('div', { class: 'toolbar ds-bar' });
     var src = keep('cloudSrc') || 'whole';
     bar.innerHTML = '<select data-k="src">' + opt('whole', 'The whole text', src === 'whole') + opt('chapters', 'Chapter by chapter', src === 'chapters') + opt('stages', 'Stage by stage (the manuscript)', src === 'stages') + '</select> ' +
       '<select data-k="mode">' + opt('standing', 'the words standing') + opt('added', 'the words added') + opt('erased', 'the words erased') + '</select> ' +
       '<label class="check"><input type="checkbox" data-k="every"> every substage</label> ' +
-      '<label class="check"><input type="checkbox" data-k="stable" checked> keep each word in its place</label> ' +
+      '<label class="check"><input type="checkbox" data-k="stable"' + (src === 'stages' ? ' checked' : '') + '> keep each word in its place</label> ' +
       '<label class="check"><input type="checkbox" data-k="stop" checked> leave out common words</label> ' +
       '<select data-k="n">' + [40, 80, 150].map(function (n) { return opt(n, n + ' words', n === 80); }).join('') + '</select>';
     // format and colour, kept from visit to visit
@@ -300,8 +303,10 @@
       if (unplaced.length) cmp.appendChild(el('p', { class: 'hint' }, (stable ? 'Without a place in the layout held from step to step: ' : 'Not fitted in: ') + unplaced.join(', ') + '.'));
     }
     bar.addEventListener('change', function (e) {
-      // the added and erased words change too much from stage to stage to hold one layout
-      if (e.target.dataset.k === 'mode' || e.target.dataset.k === 'src') SW.$('[data-k="stable"]', bar).checked = !(v('src') === 'stages' && v('mode') !== 'standing');
+      // a layout held over the steps leaves most of its places empty at any one step, so it is held only
+      // for the words standing at each stage, where a word's staying put matters more; the chapters and
+      // the added and erased words are each laid out afresh
+      if (e.target.dataset.k === 'mode' || e.target.dataset.k === 'src') SW.$('[data-k="stable"]', bar).checked = v('src') === 'stages' && v('mode') === 'standing';
       if (/^(src|mode|every)$/.test(e.target.dataset.k)) prepare(); else { layout = null; var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); } });
     function redraw() { var s = SW.$('.ts-step', stepWrap); draw(s ? s.value() : 0); }
     fmtEl.addEventListener('toggle', function () { keep('cloudFmtOpen', fmtEl.open); });

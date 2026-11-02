@@ -119,6 +119,8 @@ button.badge.err { cursor: pointer; font: inherit; }
 /* ---------- the distant-reading lenses (js/distant.js) ---------- */
 /* the word cloud (kit/wordcloud.js): a word under the pointer in the accent */
 .wc-cloud text:hover { fill: var(--amber); }
+/* the cloud filling its card at any width, as it does at 800 px; no taller than most of the screen */
+.ds-cloud .wc-cloud { width: 100%; height: auto; max-height: 75vh; }
 .ds-bar { position: static; flex-wrap: wrap; gap: 8px; padding: 0 0 8px; }
 .ds-bar label { display: inline-flex; align-items: center; gap: 4px; font-size: 12.5px; }
 .ds-bar label[hidden], .ds-bar select[hidden] { display: none; }
