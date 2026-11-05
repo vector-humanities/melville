@@ -1,0 +1,1872 @@
+{
+ "title": "Library",
+ "intro": "<p>Texts for wider reading on <i>Billy Budd</i>: the editions, Melville’s sources and naval history, the Somers affair, his reading, and the criticism. Texts in the public domain are held here; the rest link to where they are published. Each entry says under what licence.</p>",
+ "items": [
+  {
+   "id": "lib-butler-1777-essay-legality-impressing",
+   "title": "An essay on the legality of impressing seamen",
+   "author": "Butler, Charles",
+   "date": "1777",
+   "kind": "book",
+   "lang": "en",
+   "note": "Anonymous essay on the legal basis of impressing seamen into the navy, catalogued as \"[by C. Butler]\". Its subject is the law under which Billy is taken from the merchantman Rights-of-Man. Oxford University copy digitised by Google.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/anessayonlegali00butlgoog",
+   "file": "library/files/lib-butler-1777-essay-legality-impressing.pdf",
+   "source": "Internet Archive metadata and OCR title page checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "impressment",
+    "royal-navy",
+    "law"
+   ]
+  },
+  {
+   "id": "lib-1777-sailors-advocate-first",
+   "title": "The sailors advocate: first printed in 1727-8: to which is now prefixed, some strictures, drawn from the statutes and records, relating to the pretended right of taking away men by force, under the name of pressing seamen",
+   "author": "",
+   "date": "1777",
+   "kind": "book",
+   "lang": "en",
+   "note": "A 1777 reprint of the first number of a 1728 periodical against impressment, with new prefatory \"strictures\" from the statutes and records disputing the \"pretended right\" of pressing seamen.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/sailorsadvocatef00londuoft",
+   "file": "library/files/lib-1777-sailors-advocate-first.pdf",
+   "source": "Internet Archive metadata checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "impressment",
+    "royal-navy"
+   ]
+  },
+  {
+   "id": "lib-m-arthur-1792-treatise-principles-practice",
+   "title": "A treatise of the principles and practice of naval courts-martial, with an appendix, containing original papers and documents illustrative of the text, opinions of counsel upon remarkable cases, the forms preparatory to trial, and proceedings of the court to judgment and execution",
+   "author": "M'Arthur, John",
+   "date": "1792",
+   "kind": "book",
+   "lang": "en",
+   "note": "Treatise on Royal Navy courts martial as they stood five years before the 1797 mutinies, by John M'Arthur, styled on the title page secretary to Lord Hood.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/atreatiseprinci00conggoog",
+   "file": "library/files/lib-m-arthur-1792-treatise-principles-practice.pdf",
+   "source": "Internet Archive metadata and OCR text checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "articles-of-war",
+    "court-martial",
+    "royal-navy"
+   ]
+  },
+  {
+   "id": "lib-great-britain-1797-act-better-prevention",
+   "title": "An Act for the better Prevention and Punishment of Attempts to seduce Persons serving in His Majesty's Forces, by Sea or Land, from their Duty and Allegiance to His Majesty, or to incite them to Mutiny or Disobedience (Incitement to Mutiny Act 1797), 37 Geo. 3 c. 70",
+   "author": "Great Britain. Parliament",
+   "date": "1797-06",
+   "kind": "legal text",
+   "lang": "en",
+   "note": "Statute passed in June 1797, during the Nore mutiny, making it a capital felony to \"seduce\" seamen or soldiers from their duty or incite them to mutiny or to a mutinous assembly.",
+   "licence": "Public domain (Crown copyright material under the Open Government Licence)",
+   "url": "https://www.legislation.gov.uk/apgb/Geo3/37/70/contents",
+   "file": "library/files/lib-great-britain-1797-act-better-prevention.pdf",
+   "source": "legislation.gov.uk pages and original-print PDF read 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "mutiny",
+    "nore",
+    "law",
+    "articles-of-war"
+   ]
+  },
+  {
+   "id": "lib-parker-1797-memoirs-richard-parker",
+   "title": "Memoirs of Richard Parker, the mutineer; together with an account at large of his trial by Court Martial, defence, sentence, and execution and a narrative of the mutiny at the Nore and Sheerness",
+   "author": "Parker, Richard",
+   "date": "1797",
+   "kind": "book",
+   "lang": "en",
+   "note": "Contemporary memoir of Richard Parker with an account of his court martial, sentence and execution and a narrative of the Nore mutiny from its beginning to its suppression.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-richard-parke_parker-richard-mutineer_1797",
+   "tags": [
+    "nore",
+    "mutiny",
+    "parker"
+   ]
+  },
+  {
+   "id": "lib-1797-annual-register-or",
+   "title": "The Annual Register, or a View of the History, Politics, and Literature, for the Year 1797. Volume 39",
+   "author": "",
+   "date": "1797",
+   "kind": "book",
+   "lang": "en",
+   "note": "Dodsley's Annual Register for 1797, whose history of the year and chronicle cover the fleet mutinies at Spithead and the Nore, the seamen's delegates and the trial and execution of Richard Parker.",
+   "licence": "Public domain (Public Domain Mark)",
+   "url": "https://archive.org/details/s25id13211520",
+   "tags": [
+    "spithead",
+    "nore",
+    "mutiny",
+    "parker"
+   ]
+  },
+  {
+   "id": "lib-parker-1797-trial-richard-parker",
+   "title": "The trial of Richard Parker, for mutiny, &c. &c. on board of His Majesty's fleet at the Nore. To which is added, an account of his behaviour during the whole proceedings, and at the place of execution",
+   "author": "Parker, Richard",
+   "date": "1797",
+   "kind": "legal text",
+   "lang": "en",
+   "note": "Chapbook account of the court martial held aboard HMS Neptune off Greenhithe from 22 June 1797 of Richard Parker, president of the delegates in the Nore mutiny, with his conduct at his execution.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/bim_eighteenth-century_the-trial-of-richard-par_parker-richard-mutinee_1797",
+   "file": "library/files/lib-parker-1797-trial-richard-parker.pdf",
+   "source": "Internet Archive metadata and OCR title page checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "nore",
+    "mutiny",
+    "court-martial",
+    "parker"
+   ]
+  },
+  {
+   "id": "lib-parker-1797-whole-trial-defence",
+   "title": "The whole trial and defence of Richard Parker, president of the delegates, for mutiny, &c. on board the Sandwich, ... at the Nore, in May, 1797. Before a court martial, ... on Thursday, 22d of June, 1797",
+   "author": "Parker, Richard",
+   "date": "1797",
+   "kind": "legal text",
+   "lang": "en",
+   "note": "Contemporary pamphlet report of the court martial and defence of Richard Parker, leader of the Nore mutiny aboard HMS Sandwich in May 1797.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/bim_eighteenth-century_the-whole-trial-and-defe_parker-richard_1797",
+   "file": "library/files/lib-parker-1797-whole-trial-defence.pdf",
+   "source": "Internet Archive metadata checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "nore",
+    "mutiny",
+    "court-martial",
+    "parker"
+   ]
+  },
+  {
+   "id": "lib-nelson-1798-london-gazette-extraordinary",
+   "title": "The London Gazette Extraordinary, no. 15065, 2 October 1798 [Nelson's dispatch on the Battle of the Nile]",
+   "author": "Nelson, Horatio Nelson, Viscount",
+   "date": "1798-10-02",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Gazette Extraordinary printing Nelson's letter from the Vanguard \"off the Mouth of the Nile\", 3 August 1798, reporting the victory of 1 August over the French fleet, with his covering letter to Lord St Vincent, the line of battle and lists of killed and wounded (pp. 915-918).",
+   "licence": "Public domain (Crown copyright material under the Open Government Licence)",
+   "url": "https://www.thegazette.co.uk/London/issue/15065/page/915",
+   "file": "library/files/lib-nelson-1798-london-gazette-extraordinary.pdf",
+   "source": "Gazette page and PDF read 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "nelson",
+    "nile",
+    "newspaper"
+   ]
+  },
+  {
+   "id": "lib-collingwood-1805-london-gazette-extraordinary",
+   "title": "The London Gazette Extraordinary, no. 15858, 6 November 1805 [Collingwood's Trafalgar dispatches]",
+   "author": "Collingwood, Cuthbert Collingwood, Baron",
+   "date": "1805-11-06",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Gazette Extraordinary printing Vice-Admiral Collingwood's dispatches from the Euryalus off Cape Trafalgar, 22 October 1805, announcing the \"ever to be lamented Death\" of Nelson in the victory over the combined French and Spanish fleets (pp. 1365-1368).",
+   "licence": "Public domain (Crown copyright material under the Open Government Licence)",
+   "url": "https://www.thegazette.co.uk/London/issue/15858/page/1365",
+   "file": "library/files/lib-collingwood-1805-london-gazette-extraordinary.pdf",
+   "source": "Gazette page and PDF read 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "nelson",
+    "trafalgar",
+    "newspaper"
+   ]
+  },
+  {
+   "id": "lib-beatty-1807-authentic-narrative-death",
+   "title": "Authentic narrative of the death of Lord Nelson: with the circumstances preceding, attending, and subsequent to that event: the professional report on his lordship's wound. And several interesting anecdotes",
+   "author": "Beatty, William",
+   "date": "1807",
+   "kind": "book",
+   "lang": "en",
+   "note": "The account by the surgeon of HMS Victory of Nelson's wounding and death at Trafalgar, the source Southey drew on for his death scene.",
+   "licence": "Public domain (Public Domain Mark)",
+   "url": "https://archive.org/details/b22036611_0001",
+   "file": "library/files/lib-beatty-1807-authentic-narrative-death.pdf",
+   "source": "Internet Archive metadata checked 2026-11-05; McGowan, Miranda 26 (2022); held from 2026-11-05",
+   "tags": [
+    "nelson",
+    "trafalgar",
+    "beatty"
+   ]
+  },
+  {
+   "id": "lib-urquhart-1816-letter-wm-wilberforce",
+   "title": "A letter to Wm. Wilberforce, Esq. M.P. on the subject of impressment: calling on him and the philanthropists of this country to prove those feelings of sensibility they expressed in the cause of humanity on negro slavery, by acting with the same ardour and zeal in the cause of British seamen",
+   "author": "Urquhart, Thomas",
+   "date": "1816",
+   "kind": "book",
+   "lang": "en",
+   "note": "Post-war pamphlet by Thomas Urquhart comparing the impressment of British seamen with the slave trade and calling on Wilberforce to oppose it. Boston Public Library copy, [2], 22 pp.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/lettertowmwilber00urqu",
+   "file": "library/files/lib-urquhart-1816-letter-wm-wilberforce.pdf",
+   "source": "Internet Archive metadata checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "impressment",
+    "royal-navy"
+   ]
+  },
+  {
+   "id": "lib-jerrold-1830-mutiny-at-nore",
+   "title": "The mutiny at the Nore: a nautical drama, in three acts",
+   "author": "Jerrold, Douglas",
+   "date": "1830",
+   "kind": "book",
+   "lang": "en",
+   "note": "Acting edition of Jerrold's nautical melodrama about Richard Parker and the Nore mutiny, as no. 39 of Cumberland's Minor Theatre (London: G. H. Davidson), with remarks by \"D.-G.\" and a wood engraving after R. Cruikshank; the catalogue date is \"[1830?]\". Melville's Marginalia Online, as recorded in the related reading…",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/mutinyatnorenaut0000jerr",
+   "file": "library/files/lib-jerrold-1830-mutiny-at-nore.pdf",
+   "source": "Internet Archive metadata checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "nore",
+    "mutiny",
+    "parker",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-southey-1831-life-nelson",
+   "title": "The Life of Nelson",
+   "author": "Southey, Robert",
+   "date": "1831",
+   "kind": "book",
+   "lang": "en",
+   "note": "An early Harper printing of Southey's biography of Nelson, covering the Nile, Copenhagen and Trafalgar.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/lifeofnelson00soutiala",
+   "file": "library/files/lib-southey-1831-life-nelson.pdf",
+   "source": "Internet Archive metadata checked 2026-11-05; McGowan, Miranda 26 (2022), read 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "nelson",
+    "southey",
+    "trafalgar",
+    "nile"
+   ]
+  },
+  {
+   "id": "lib-neale-1842-history-mutiny-at",
+   "title": "History of the Mutiny at Spithead and the Nore: with an enquiry into its origin and treatment: and suggestions for the prevention of future discontent in the Royal Navy",
+   "author": "Neale, William Johnson",
+   "date": "1842",
+   "kind": "book",
+   "lang": "en",
+   "note": "A narrative history of the 1797 fleet mutinies at Spithead and the Nore, published anonymously as no. 80 of Tegg's Family Library and catalogued under W. Johnson Neale.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/historyofmutinya00neal",
+   "file": "library/files/lib-neale-1842-history-mutiny-at.pdf",
+   "source": "Internet Archive metadata checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "spithead",
+    "nore",
+    "mutiny",
+    "royal-navy"
+   ]
+  },
+  {
+   "id": "lib-united-states-1842-records-general-courts",
+   "title": "Records of General Courts Martial and Courts of Inquiry of the Navy Department, Volume 46: Case 844: December 28, 1842 - March 28, 1843",
+   "author": "United States. Navy Department",
+   "date": "1842-12-28/1843-03-28",
+   "kind": "legal text",
+   "lang": "en",
+   "note": "The National Archives' digitised microfilm (publication M273, reel 49) of the manuscript record of Mackenzie's court martial at the New York Navy Yard (minutes dated from February 1843; the volume's dates begin on 28 December 1842, when the court of inquiry convened); the extracted text includes the judge advocate's…",
+   "licence": "Public domain",
+   "url": "https://catalog.archives.gov/id/521121636",
+   "tags": [
+    "somers",
+    "court-martial",
+    "court-of-inquiry",
+    "mackenzie",
+    "manuscript"
+   ]
+  },
+  {
+   "id": "lib-united-states-1842-somers-starboard-side",
+   "title": "Somers, starboard side, under sail",
+   "author": "United States. Navy Department. Bureau of Ships",
+   "date": "1842",
+   "kind": "image",
+   "lang": "en",
+   "note": "Photograph of an artwork depicting the brig Somers under sail, in the Bureau of Ships' Naval History Photographs (Record Group 19, local identifier 19-N-11508).",
+   "licence": "Public domain",
+   "url": "https://catalog.archives.gov/id/512981",
+   "file": "library/files/lib-united-states-1842-somers-starboard-side.jpg",
+   "source": "National Archives Catalog record and Pieces of History post read 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "somers",
+    "photograph"
+   ]
+  },
+  {
+   "id": "lib-mackenzie-1843-case-somers-mutiny",
+   "title": "Case of the Somers' Mutiny: Defence of Alexander Slidell Mackenzie, Commander of the U.S. Brig Somers, Before the Court Martial Held at the Navy Yard, Brooklyn",
+   "author": "Mackenzie, Alexander Slidell",
+   "date": "1843",
+   "kind": "legal text",
+   "lang": "en",
+   "note": "Transcription by the Navy Department Library (Naval History and Heritage Command) of Mackenzie's written defence before his 1843 court martial, first printed at the Tribune Office, 160 Nassau Street, New York.",
+   "licence": "Public domain",
+   "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/case-somers-mutiny-1843.html",
+   "tags": [
+    "somers",
+    "court-martial",
+    "mackenzie"
+   ]
+  },
+  {
+   "id": "lib-mackenzie-1843-mutiny-board-somers",
+   "title": "Mutiny on Board the Somers [Mackenzie's narrative], The Journal (Huntingdon, Pa.), 25 January and 1 February 1843",
+   "author": "Mackenzie, Alexander Slidell",
+   "date": "1843-01-25/1843-02-01",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "A provincial reprinting, in two front-page instalments, of Mackenzie's narrative of the mutiny and executions on the Somers, introduced as the narrative \"read before the Naval Court of Inquiry\" and identical with his official report to the Secretary of the Navy.",
+   "licence": "Public domain",
+   "url": "https://panewsarchive.psu.edu/lccn/sn86071455/1843-01-25/ed-1/seq-1/",
+   "file": "library/files/lib-mackenzie-1843-mutiny-board-somers.pdf",
+   "source": "Page OCR read 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "somers",
+    "newspaper",
+    "mackenzie",
+    "gansevoort"
+   ]
+  },
+  {
+   "id": "lib-united-states-1843-proceedings-court-inquiry",
+   "title": "Proceedings of the court of inquiry appointed to inquire into the intended mutiny on board the United States brig of war Somers, on the high seas: held on board the United States ship North Carolina lying at the Navy Yard, New-York: with a full account of the execution of Spencer, Cromwell and Small, on board said vessel",
+   "author": "United States. Navy. Court of Inquiry (Mackenzie : 1842); Mackenzie, Alexander Slidell",
+   "date": "1843",
+   "kind": "book",
+   "lang": "en",
+   "note": "Report of the naval court of inquiry held aboard the USS North Carolina at the New York Navy Yard, \"reported for The New-York Tribune\" and printed by its publishers.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/proceedingscour00navygoog",
+   "file": "library/files/lib-united-states-1843-proceedings-court-inquiry.pdf",
+   "source": "Internet Archive metadata and OCR text checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "somers",
+    "court-of-inquiry",
+    "mackenzie",
+    "gansevoort"
+   ]
+  },
+  {
+   "id": "lib-mackenzie-1843-sunbury-american-shamokin",
+   "title": "Sunbury American and Shamokin Journal (Sunbury, Pa.), 14 January 1843, page 1 [Mackenzie's report on the Somers]",
+   "author": "Mackenzie, Alexander Slidell",
+   "date": "1843-01-14",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Front page carrying Mackenzie's account, dated from the brig Somers at New York in December 1842, of confronting Spencer on the quarterdeck, ordering Lieutenant Gansevoort to arrest him and place him in double irons, and the orders for his guard.",
+   "licence": "Public domain",
+   "url": "https://panewsarchive.psu.edu/lccn/sn85054702/1843-01-14/ed-1/seq-1/",
+   "file": "library/files/lib-mackenzie-1843-sunbury-american-shamokin.pdf",
+   "source": "Page OCR read 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "somers",
+    "newspaper",
+    "mackenzie",
+    "gansevoort"
+   ]
+  },
+  {
+   "id": "lib-sumner-1843-mutiny-somers-art",
+   "title": "The Mutiny of the Somers [Art. IX, review of Case of the Somers Mutiny: Defence of Alexander Slidell Mackenzie, and History of the Mutiny at Spithead and the Nore]",
+   "author": "Sumner, Charles",
+   "date": "1843-07",
+   "kind": "review",
+   "lang": "en",
+   "note": "Unsigned review article in The North American Review, vol.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/jstor-25099656",
+   "file": "library/files/lib-sumner-1843-mutiny-somers-art.pdf",
+   "source": "Internet Archive metadata and OCR text checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "somers",
+    "mackenzie",
+    "spithead",
+    "nore",
+    "mutiny"
+   ]
+  },
+  {
+   "id": "lib-mackenzie-1844-proceedings-naval-court",
+   "title": "Proceedings of the naval court martial in the case of Alexander Slidell Mackenzie, a commander in the navy of the United States, &c.: including the charges and specifications of charges, preferred against him by the Secretary of the Navy. To which is annexed, an elaborate review, by James Fennimore [sic] Cooper",
+   "author": "Mackenzie, Alexander Slidell; Cooper, James Fenimore",
+   "date": "1844",
+   "kind": "book",
+   "lang": "en",
+   "note": "The published record of Mackenzie's court martial (1843) for the hangings of Philip Spencer, Samuel Cromwell and Elisha Small aboard the brig Somers, with the charges, testimony and defence, followed by Cooper's review of the proceedings (from p. 263).",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/cu31924032559100",
+   "file": "library/files/lib-mackenzie-1844-proceedings-naval-court.pdf",
+   "source": "Internet Archive metadata and OCR text checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "somers",
+    "court-martial",
+    "mackenzie",
+    "gansevoort",
+    "cooper"
+   ]
+  },
+  {
+   "id": "lib-neale-1845-history-mutiny-at",
+   "title": "History of the Mutiny at Spithead and the Nore (New York Society Library copy borrowed by Melville, 1890)",
+   "author": "Neale, William Johnson",
+   "date": "1845",
+   "kind": "book",
+   "lang": "en",
+   "note": "Digital copy at Melville's Marginalia Online of the New York Society Library's copy (Z-M N347 M8) of Neale's anonymously published History of the Mutiny at Spithead and the Nore (Philadelphia: G. B. Zieber, 1845), Sealts no. 383.1.",
+   "licence": "Public domain",
+   "url": "https://melvillesmarginalia.org/PreviewMode.aspx?DocumentID=45",
+   "tags": [
+    "marginalia",
+    "nore",
+    "spithead",
+    "mutiny",
+    "new-york-society-library",
+    "late-reading"
+   ]
+  },
+  {
+   "id": "lib-nelson-1845-dispatches-letters-vice",
+   "title": "The dispatches and letters of Vice Admiral Lord Viscount Nelson, with notes by Sir Nicholas Harris Nicolas. Vol. 7",
+   "author": "Nelson, Horatio Nelson, Viscount; Nicolas, Nicholas Harris",
+   "date": "1845/1846",
+   "kind": "book",
+   "lang": "en",
+   "note": "The final volume of Nicolas's seven-volume edition, covering 1805 and Trafalgar, with Nelson's diary prayer before the battle and the codicil to his will he added on the morning of 21 October, the moment Billy Budd's chapter 4 recalls (\"At Trafalgar Nelson on the brink of opening the fight sat down and wrote\").",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/dispatchesletter07nels",
+   "tags": [
+    "nelson",
+    "trafalgar",
+    "letters"
+   ]
+  },
+  {
+   "id": "lib-melville-1850-white-jacket-or",
+   "title": "White Jacket; or, The World in a Man-of-War. Vol. I",
+   "author": "Melville, Herman",
+   "date": "1850",
+   "kind": "book",
+   "lang": "en",
+   "note": "Volume 1 of the first edition (London: Richard Bentley, 1850; the American edition was published by Harper the same year).",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/melvillewhitejacket01",
+   "tags": [
+    "white-jacket",
+    "jack-chase",
+    "articles-of-war",
+    "flogging"
+   ]
+  },
+  {
+   "id": "lib-southey-1855-life-nelson-herman",
+   "title": "The Life of Nelson (Herman Melville copy)",
+   "author": "Southey, Robert",
+   "date": "1855",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's marked and annotated copy of Southey's Life of Nelson (New York: Harper, 1855; Harper's Family Library no. 6), Houghton Library *AC85.M4977.Zz855s, Sealts no. 481.",
+   "licence": "Public domain",
+   "url": "https://nrs.harvard.edu/urn-3:FHCL.HOUGH:8818309",
+   "file": "library/files/lib-southey-1855-life-nelson-herman.jpg",
+   "source": "https://melvillesmarginalia.org/ (Online Catalog, Sealts 481); Harvard LibraryCloud record; held from 2026-11-05",
+   "tags": [
+    "marginalia",
+    "nelson",
+    "elizabeth-melville",
+    "houghton"
+   ]
+  },
+  {
+   "id": "lib-thomson-1880-city-dreadful-night",
+   "title": "The City of Dreadful Night and Other Poems (Herman Melville copy)",
+   "author": "Thomson, James",
+   "date": "1880",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's autographed and marked copy (London: Reeves and Turner, 1880), Houghton Library *AC85.M4977.Zz880t, Sealts no. 517, inscribed \"Herman Melville From Mr James Billson Leicester England Jan 1885.\"",
+   "licence": "Public domain",
+   "url": "https://id.lib.harvard.edu/alma/990071545660203941/catalog",
+   "tags": [
+    "marginalia",
+    "thomson",
+    "billson",
+    "late-reading",
+    "houghton"
+   ]
+  },
+  {
+   "id": "lib-james-1886-naval-history-great",
+   "title": "The naval history of Great Britain, from the declaration of war by France in 1793, to the accession of George IV. A new edition, with additions and notes, bringing the work down to 1827. Vol. 2",
+   "author": "James, William",
+   "date": "1886",
+   "kind": "book",
+   "lang": "en",
+   "note": "Volume 2 of the Bentley six-volume edition, covering 1797, including the Spithead and Nore mutinies.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/navalhistoryofgr02jameuoft",
+   "file": "library/files/lib-james-1886-naval-history-great.pdf",
+   "source": "Internet Archive metadata and OCR text checked 2026-11-05; phrase located in the OCR and compared with Project Gutenberg ebook 76513 (Billy Budd, 1924 text); held from 2026-11-05",
+   "tags": [
+    "william-james",
+    "naval-history",
+    "spithead",
+    "nore",
+    "mutiny"
+   ]
+  },
+  {
+   "id": "lib-samuels-1887-from-forecastle-cabin",
+   "title": "From the Forecastle to the Cabin (Herman Melville copy, 1887)",
+   "author": "Samuels, Samuel",
+   "date": "1887",
+   "kind": "book",
+   "lang": "en",
+   "note": "Captain Samuel Samuels's memoir (New York: Harper, 1887); the url is a University of California copy at the Internet Archive.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/fromforecastleto00samurich",
+   "file": "library/files/lib-samuels-1887-from-forecastle-cabin.pdf",
+   "source": "Melville's Marginalia Online, Online Catalog, decade of acquisition 1880s; Internet Archive metadata; held from 2026-11-05",
+   "tags": [
+    "marginalia",
+    "late-reading",
+    "berkshire-historical-society"
+   ]
+  },
+  {
+   "id": "lib-melville-1888-john-marr-other",
+   "title": "John Marr and Other Sailors, with Some Sea-Pieces",
+   "author": "Melville, Herman; Royster, Paul",
+   "date": "1888",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Online text-based facsimile by Paul Royster (University of Nebraska-Lincoln) of Melville's privately printed John Marr and Other Sailors (New York: De Vinne Press, 1888; 25 copies), preserving line and page breaks, spelling and signatures, with a facsimile of the 1924 Constable text and ASCII texts as related files.",
+   "licence": "Public domain",
+   "url": "https://digitalcommons.unl.edu/libraryscience/18/",
+   "tags": [
+    "john-marr",
+    "edition",
+    "darbies"
+   ]
+  },
+  {
+   "id": "lib-schopenhauer-1888-world-as-will",
+   "title": "The World as Will and Idea (Herman Melville copy)",
+   "author": "Schopenhauer, Arthur; Haldane, R. B. (translator); Kemp, J. (translator)",
+   "date": "1888/1890",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's marked copy of the Haldane and Kemp translation (London: Trübner, 1888-90, 3 v.), Houghton Library *AC85.M4977.Zz888s, Sealts no. 448.",
+   "licence": "Public domain",
+   "url": "https://id.lib.harvard.edu/alma/990037270060203941/catalog",
+   "tags": [
+    "marginalia",
+    "schopenhauer",
+    "late-reading",
+    "houghton"
+   ]
+  },
+  {
+   "id": "lib-salt-1889-life-james-thomson",
+   "title": "The Life of James Thomson (\"B. V.\") (Herman Melville copy)",
+   "author": "Salt, Henry Stephens",
+   "date": "1889",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's marked copy (London: Reeves and Turner, 1889), Houghton Library *AC85.M4977.Zz889s, Sealts no. 435, inscribed \"To Herman Melville from H. S. Salt.\"",
+   "licence": "Public domain",
+   "url": "https://id.lib.harvard.edu/alma/990035641360203941/catalog",
+   "tags": [
+    "marginalia",
+    "thomson",
+    "salt",
+    "late-reading",
+    "houghton",
+    "elizabeth-melville"
+   ]
+  },
+  {
+   "id": "lib-schopenhauer-1890-counsels-maxims-herman",
+   "title": "Counsels and Maxims (Herman Melville copy)",
+   "author": "Schopenhauer, Arthur; Saunders, T. Bailey (translator)",
+   "date": "1890",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's marked and annotated copy of Counsels and Maxims, the second part of the Aphorismen zur Lebensweisheit (London: Sonnenschein, 1890), Houghton Library *AC85.M4977.Zz890s2, Sealts no. 444.",
+   "licence": "Public domain",
+   "url": "https://id.lib.harvard.edu/alma/990012123760203941/catalog",
+   "tags": [
+    "marginalia",
+    "schopenhauer",
+    "late-reading",
+    "houghton",
+    "new-york-society-library"
+   ]
+  },
+  {
+   "id": "lib-new-york-1891-herman-melville-new",
+   "title": "Herman Melville (New York Times editorial, 2 October 1891)",
+   "author": "New York Times",
+   "date": "1891-10-02",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Unsigned New York Times item headed \"HERMAN MELVILLE.\" in the issue of Friday 2 October 1891 (page 4 according to the Literary Hub link), published four days after his death and following the paper's brief obituary of 29 September.",
+   "licence": "Public domain",
+   "url": "https://timesmachine.nytimes.com/timesmachine/1891/10/02/103339739.html",
+   "tags": [
+    "obituary",
+    "death",
+    "new-york-times"
+   ]
+  },
+  {
+   "id": "lib-new-york-1891-obituary-new-york",
+   "title": "Obituary (New York Times, 29 September 1891)",
+   "author": "New York Times",
+   "date": "1891-09-29",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The New York Times obituary column of Tuesday 29 September 1891 (TimesMachine headline \"OBITUARY.\"), linked by Literary Hub (Dan Sheehan, 28 Sep 2021) as the Times's short notice of Melville's death at 104 East Twenty-sixth Street on 28 September, which misprints Moby-Dick as \"Mobie Dick\".",
+   "licence": "Public domain",
+   "url": "https://timesmachine.nytimes.com/timesmachine/1891/09/29/103339196.html",
+   "tags": [
+    "obituary",
+    "death",
+    "new-york-times"
+   ]
+  },
+  {
+   "id": "lib-schopenhauer-1891-religion-dialogue-other",
+   "title": "Religion: A Dialogue, and Other Essays (Herman Melville copy)",
+   "author": "Schopenhauer, Arthur; Saunders, T. Bailey (translator)",
+   "date": "1891",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's marked and annotated copy of the second edition (London: Sonnenschein, 1891; HOLLIS gives 1890), Houghton Library *AC85.M4977.Zz890s, Sealts no. 445.",
+   "licence": "Public domain",
+   "url": "https://id.lib.harvard.edu/alma/990022352810203941/catalog",
+   "tags": [
+    "marginalia",
+    "schopenhauer",
+    "late-reading",
+    "houghton"
+   ]
+  },
+  {
+   "id": "lib-schopenhauer-1891-studies-pessimism-herman",
+   "title": "Studies in Pessimism (Herman Melville copy)",
+   "author": "Schopenhauer, Arthur; Saunders, T. Bailey (translator)",
+   "date": "1891",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's marked copy of Studies in Pessimism, a Series of Essays, second edition (London: Sonnenschein, 1891), Houghton Library *AC85.M4977.Zz891s2, Sealts no. 446.",
+   "licence": "Public domain",
+   "url": "https://id.lib.harvard.edu/alma/990035853010203941/catalog",
+   "tags": [
+    "marginalia",
+    "schopenhauer",
+    "late-reading",
+    "houghton"
+   ]
+  },
+  {
+   "id": "lib-schopenhauer-1891-wisdom-life-herman",
+   "title": "The Wisdom of Life (Herman Melville copy)",
+   "author": "Schopenhauer, Arthur; Saunders, T. Bailey (translator)",
+   "date": "1891",
+   "kind": "book",
+   "lang": "en",
+   "note": "Melville's marked copy of The Wisdom of Life, the first part of the Aphorismen zur Lebensweisheit, second edition (London: Sonnenschein, 1891; HOLLIS gives 1890), Houghton Library *AC85.M4977.Zz891s, Sealts no. 447.",
+   "licence": "Public domain",
+   "url": "https://id.lib.harvard.edu/alma/990016135270203941/catalog",
+   "tags": [
+    "marginalia",
+    "schopenhauer",
+    "late-reading",
+    "houghton"
+   ]
+  },
+  {
+   "id": "lib-melville-1891-timoleon-etc",
+   "title": "Timoleon, Etc.",
+   "author": "Melville, Herman; Royster, Paul",
+   "date": "1891",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Online facsimile by Paul Royster (University of Nebraska-Lincoln) of Timoleon, Etc. (New York: Caxton Press, May 1891; 25 copies), the last book Melville published, with a facsimile of the 1924 Constable text and ASCII texts as supplementary files.",
+   "licence": "Public domain",
+   "url": "https://digitalcommons.unl.edu/libraryscience/16/",
+   "tags": [
+    "timoleon",
+    "edition"
+   ]
+  },
+  {
+   "id": "lib-melville-1892-white-jacket-or",
+   "title": "White-Jacket; or, The World in a Man-of-War (United States Book Company, 1892)",
+   "author": "Melville, Herman",
+   "date": "1892",
+   "kind": "book",
+   "lang": "en",
+   "note": "The posthumous American reissue of White-Jacket, \"Copyright, 1892, by Elizabeth S. Melville\", published the year after Melville's death.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/cu31924022426831",
+   "file": "library/files/lib-melville-1892-white-jacket-or.pdf",
+   "source": "Internet Archive metadata and OCR text checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "white-jacket",
+    "jack-chase",
+    "articles-of-war",
+    "impressment",
+    "nelson",
+    "elizabeth-melville"
+   ]
+  },
+  {
+   "id": "lib-macmechan-1899-best-sea-story",
+   "title": "The Best Sea Story Ever Written",
+   "author": "MacMechan, Archibald",
+   "date": "1899",
+   "kind": "article",
+   "lang": "en",
+   "note": "Offprint of MacMechan's essay on Moby-Dick, \"Reprinted from Queen's quarterly, vol.",
+   "licence": "Public domain",
+   "url": "https://n2t.net/ark:/69429/m04t6f18sf3q",
+   "tags": [
+    "revival",
+    "macmechan",
+    "moby-dick",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-weaver-1919-centennial-herman-melville",
+   "title": "The Centennial of Herman Melville",
+   "author": "Weaver, Raymond M.",
+   "date": "1919-08-02",
+   "kind": "article",
+   "lang": "en",
+   "note": "Raymond Weaver's centennial essay in The Nation, vol.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/sim_nation_1919-08-02_109_2822",
+   "file": "library/files/lib-weaver-1919-centennial-herman-melville.pdf",
+   "source": "Internet Archive full text of the issue (contents list and p. 145); held from 2026-11-05",
+   "tags": [
+    "revival",
+    "weaver",
+    "centennial"
+   ]
+  },
+  {
+   "id": "lib-weaver-1921-herman-melville-mariner",
+   "title": "Herman Melville: Mariner and Mystic",
+   "author": "Weaver, Raymond M.",
+   "date": "1921",
+   "kind": "book",
+   "lang": "en",
+   "note": "The first full biography of Melville (New York: George H. Doran, 1921), written with access, as Weaver's preface says, to the manuscripts, letters, journals, annotated books and photographs held by Melville's granddaughter Eleanor Melville Metcalf.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/cu31924014249373",
+   "file": "library/files/lib-weaver-1921-herman-melville-mariner.pdf",
+   "source": "Internet Archive metadata and full text; held from 2026-11-05",
+   "tags": [
+    "revival",
+    "weaver",
+    "biography",
+    "metcalf"
+   ]
+  },
+  {
+   "id": "lib-melville-1924-billy-budd-other",
+   "title": "Billy Budd and Other Prose Pieces (The Works of Herman Melville, vol. 13)",
+   "author": "Melville, Herman; Weaver, Raymond M.",
+   "date": "1924",
+   "kind": "edition",
+   "lang": "en",
+   "note": "First printing of Billy Budd, as \"Billy Budd, Foretopman\", edited by Raymond M. Weaver as volume XIII of the Constable Standard Edition of Melville's works (London, Bombay, Sydney: Constable, 1924; limited to 750 copies; viii, 399 pages).",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/billybuddotherpr0000herm",
+   "file": "library/files/lib-melville-1924-billy-budd-other.pdf",
+   "source": "Title page checked in the Internet Archive OCR text; HathiTrust MARC record 103274954 (full view), checked 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "edition",
+    "weaver",
+    "first-edition",
+    "constable",
+    "daniel-orme"
+   ]
+  },
+  {
+   "id": "lib-melville-1924-works-herman-melville",
+   "title": "The Works of Herman Melville, vol. 16: Poems",
+   "author": "Melville, Herman",
+   "date": "1924",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Volume XVI of the Constable Standard Edition, collecting Melville's verse, including Battle-Pieces, John Marr and Other Sailors and Timoleon.",
+   "licence": "Public domain",
+   "url": "https://catalog.hathitrust.org/Record/001423701",
+   "tags": [
+    "edition",
+    "constable",
+    "john-marr",
+    "timoleon"
+   ]
+  },
+  {
+   "id": "lib-hunt-1925-attempted-mutiny-u",
+   "title": "The Attempted Mutiny on the U. S. Brig \"Somers\"",
+   "author": "Hunt, Livingston",
+   "date": "1925-11",
+   "kind": "article",
+   "lang": "en",
+   "note": "Long article by Rear Admiral Livingston Hunt (SC), U.S.N., Ret., in U.S. Naval Institute Proceedings vol.",
+   "licence": "Public domain",
+   "url": "https://www.usni.org/magazines/proceedings/1925/november/attempted-mutiny-u-s-brig-somers",
+   "tags": [
+    "somers",
+    "gansevoort",
+    "mackenzie",
+    "naval-history"
+   ]
+  },
+  {
+   "id": "lib-freeman-1926-herman-melville-english",
+   "title": "Herman Melville (English Men of Letters)",
+   "author": "Freeman, John",
+   "date": "1926",
+   "kind": "book",
+   "lang": "en",
+   "note": "Critical biography by the English poet John Freeman (New York: The Macmillan Company, 1926; also London: Macmillan, 1926), one of the first books to discuss Billy Budd after its 1924 printing; the Merrill Studies casebook (1970) reprints an extract on it.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/hermanmelville0000john",
+   "file": "library/files/lib-freeman-1926-herman-melville-english.pdf",
+   "source": "Internet Archive; held from 2026-11-05",
+   "tags": [
+    "criticism",
+    "revival",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-forster-1927-aspects-novel",
+   "title": "Aspects of the Novel",
+   "author": "Forster, E. M.",
+   "date": "1927",
+   "kind": "book",
+   "lang": "en",
+   "note": "Forster's Clark Lectures (New York: Harcourt, Brace and Co., 1927), whose chapter 'Prophecy' discusses Billy Budd three years after its first printing, an early response the Merrill Studies casebook (1970) reprints.",
+   "licence": "Public domain in the US; in copyright in the UK and elsewhere",
+   "url": "https://archive.org/details/aspectsofnovel0000fors",
+   "tags": [
+    "criticism",
+    "revival",
+    "forster",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-melville-1928-shorter-novels-herman",
+   "title": "Shorter Novels of Herman Melville",
+   "author": "Melville, Herman; Weaver, Raymond",
+   "date": "1928",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Weaver's second printing of Billy Budd, as \"Billy Budd, Foretopman\", in a volume with \"Benito Cereno\", \"Bartleby, the Scrivener\" and \"The Encantadas\", with an introduction by Raymond Weaver (New York: Horace Liveright, [c1928]; li, 328 pages; Black and Gold Library).",
+   "licence": "Public domain",
+   "url": "https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h2nv99b46",
+   "file": "library/files/lib-melville-1928-shorter-novels-herman.pdf",
+   "source": "HathiTrust MARC record 101865389 and Harvard LibraryCloud record 990015079420203941; Internet Archive title verso checked in OCR text, 2026-11-05; held from 2026-11-05",
+   "tags": [
+    "edition",
+    "weaver",
+    "liveright"
+   ]
+  },
+  {
+   "id": "lib-mumford-1929-herman-melville-mumford",
+   "title": "Herman Melville (Mumford, 1929)",
+   "author": "Mumford, Lewis",
+   "date": "1929",
+   "kind": "book",
+   "lang": "en",
+   "note": "Lewis Mumford's Revival biography, copyright 1929 by Harcourt, Brace; this Internet Archive copy is the Literary Guild of America printing (New York, 1929).",
+   "licence": "Public domain in the US; in copyright in the UK and elsewhere",
+   "url": "https://archive.org/details/hermanmelville00mumf",
+   "tags": [
+    "revival",
+    "mumford",
+    "biography",
+    "criticism",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-watson-1933-melville-s-testament",
+   "title": "Melville's Testament of Acceptance",
+   "author": "Watson, E. L. Grant",
+   "date": "1933-06",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essay in The New England Quarterly, vol. 6, no. 2 (June 1933), pp. 319-327, reading Billy Budd as Melville's late reconciliation with the order that destroys Billy. Its title gave its name to the 'acceptance' side of the debate that Withim's 'Testament of Resistance' (1959) answered.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/359128",
+   "tags": [
+    "criticism",
+    "acceptance-reading",
+    "revival"
+   ]
+  },
+  {
+   "id": "lib-anderson-1940-genesis-billy-budd",
+   "title": "The Genesis of Billy Budd",
+   "author": "Anderson, Charles Roberts",
+   "date": "1940-11",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in American Literature 12, no. 3 (November 1940), beginning p. 329 on the origins of Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2921032",
+   "tags": [
+    "sources",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1946-billy-budd-foretopman-2",
+   "title": "Billy Budd, Foretopman (John Lehmann, 1946): copies in the Britten Pears library",
+   "author": "Melville, Herman; Plomer, William",
+   "date": "1946",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Britten Pears Arts records for two copies of the John Lehmann edition (London, 1946; 124 p.) with William Plomer's introduction.",
+   "licence": "In copyright",
+   "url": "https://www.bpacatalogue.org/books/1-9700061",
+   "tags": [
+    "opera",
+    "britten",
+    "edition",
+    "plomer",
+    "foretopman"
+   ]
+  },
+  {
+   "id": "lib-melville-1946-billy-budd-foretopman",
+   "title": "Billy Budd, Foretopman: A Novel (Lehmann, 1946)",
+   "author": "Melville, Herman; Plomer, William",
+   "date": "1946",
+   "kind": "edition",
+   "lang": "en",
+   "note": "First separately published edition of Billy Budd, with an introduction by William Plomer (London: John Lehmann, 1946; 124 pages; 16 cm).",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990091671590203941/catalog",
+   "tags": [
+    "edition",
+    "plomer",
+    "lehmann"
+   ]
+  },
+  {
+   "id": "lib-melville-1948-melville-s-billy",
+   "title": "Melville's Billy Budd",
+   "author": "Melville, Herman; Freeman, F. Barron",
+   "date": "1948",
+   "kind": "edition",
+   "lang": "en",
+   "note": "F. Barron Freeman's edition (Cambridge: Harvard University Press, 1948; xiv, 381 pages, with facsimiles), described on its title page as \"The complete text of the novel and of the unpublished short story\"; it prints \"Billy Budd, Foretopman\" (p. 127) and Freeman's reconstructed earlier version \"Baby Budd, Sailor\" (p.…",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990015192680203941/catalog",
+   "tags": [
+    "edition",
+    "freeman",
+    "harvard"
+   ]
+  },
+  {
+   "id": "lib-quasimodo-1949-billy-budd-un",
+   "title": "Billy Budd: un atto di Salvatore Quasimodo (libretto for Ghedini's opera)",
+   "author": "Quasimodo, Salvatore; Ghedini, Giorgio Federico",
+   "date": "1949",
+   "kind": "book",
+   "lang": "it",
+   "note": "Britten Pears Arts catalogue record for the printed libretto (Milan: Edizioni Suvini Zerboni, 1949; 18, [ii] p.) of Giorgio Federico Ghedini's one-act opera Billy Budd, text by Salvatore Quasimodo, the first operatic setting of the story.",
+   "licence": "In copyright",
+   "url": "https://www.bpacatalogue.org/music/2-9200001",
+   "tags": [
+    "opera",
+    "ghedini",
+    "quasimodo",
+    "adaptation"
+   ]
+  },
+  {
+   "id": "lib-williams-1949-review-melville-s",
+   "title": "Review of Melville's Billy Budd, edited by F. Barron Freeman",
+   "author": "Williams, Stanley T.",
+   "date": "1949-11",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in American Literature, vol. 21, no. 3 (November 1949), pp. 367-368, of Freeman's 1948 Harvard University Press edition, which it introduces through 'the history of the Billy Budd manuscripts' (Williams).",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/2921263",
+   "tags": [
+    "review",
+    "edition",
+    "freeman",
+    "manuscript"
+   ]
+  },
+  {
+   "id": "lib-anderson-1949-second-trip-byzantium",
+   "title": "Second Trip to Byzantium",
+   "author": "Anderson, Quentin",
+   "date": "1949",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in The Kenyon Review, vol. 11, no. 3 (Summer 1949), pp. 516-520, of Freeman's edition, Melville's Billy Budd (Harvard, 1948). It discusses Freeman's text, which reproduces with its footnotes every reading Freeman could make out in the manuscript.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/4333079",
+   "tags": [
+    "review",
+    "edition",
+    "freeman",
+    "manuscript"
+   ]
+  },
+  {
+   "id": "lib-schiffman-1950-melville-s-final",
+   "title": "Melville's Final Stage, Irony: A Re-Examination of Billy Budd Criticism",
+   "author": "Schiffman, Joseph",
+   "date": "1950-05",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essay in American Literature, vol. 22, no. 2 (May 1950), pp. 128-136, surveying the 'acceptance' readings from Watson onward and arguing for irony. It contests Freeman's 1948 reading of the tale as Christian acceptance.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/2921745",
+   "tags": [
+    "criticism",
+    "ironist-reading",
+    "acceptance-reading",
+    "freeman"
+   ]
+  },
+  {
+   "id": "lib-1951-tempo-no-21",
+   "title": "Tempo, no. 21 (Autumn 1951): Billy Budd articles",
+   "author": "",
+   "date": "1951",
+   "kind": "article",
+   "lang": "en",
+   "note": "Issue of Boosey & Hawkes's music quarterly Tempo published ahead of the opera's Covent Garden premiere, with Ronald Mason, 'Herman Melville and \"Billy Budd\"' (pp. 6-8), Eric Crozier, 'The British Navy in 1797' (pp. 9-11), an unsigned 'Billy Budd: A Synopsis' (pp. 12-21; doi:10.1017/S0040298200054887) and Basil Coleman…",
+   "licence": "In copyright",
+   "url": "https://www.cambridge.org/core/journals/tempo/issue/CFC77902A340C9A35973A2E41BF9CAA9",
+   "tags": [
+    "opera",
+    "britten",
+    "crozier",
+    "premiere",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-leyda-1951-melville-log-documentary",
+   "title": "The Melville Log: A Documentary Life of Herman Melville, 1819-1891",
+   "author": "Leyda, Jay",
+   "date": "1951",
+   "kind": "book",
+   "lang": "en",
+   "note": "Leyda's chronological compilation of documents of Melville's life (New York: Harcourt, Brace, 1951, 2 v.), running to his death in 1891 and the first notices of it. Reissued with a new supplementary chapter by Gordian Press, New York, 1969.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/melvillelogdocum0002leyd",
+   "tags": [
+    "revival",
+    "leyda",
+    "melville-log",
+    "reference"
+   ]
+  },
+  {
+   "id": "lib-metcalf-1953-herman-melville-cycle",
+   "title": "Herman Melville: Cycle and Epicycle",
+   "author": "Metcalf, Eleanor Melville",
+   "date": "1953",
+   "kind": "book",
+   "lang": "en",
+   "note": "Family history and documents of Melville by his granddaughter Eleanor Melville Metcalf (Cambridge: Harvard University Press, 1953).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/hermanmelvillecy0000metc",
+   "tags": [
+    "metcalf",
+    "family-papers",
+    "biography"
+   ]
+  },
+  {
+   "id": "lib-braswell-1957-melville-s-billy",
+   "title": "Melville's Billy Budd as \"An Inside Narrative\"",
+   "author": "Braswell, William",
+   "date": "1957-05",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essay in American Literature, vol. 29, no. 2 (May 1957), pp. 133-146, on the meaning of the subtitle 'An Inside Narrative'.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/2922102",
+   "tags": [
+    "criticism",
+    "inside-narrative",
+    "subtitle"
+   ]
+  },
+  {
+   "id": "lib-withim-1959-billy-budd-testament",
+   "title": "Billy Budd: Testament of Resistance",
+   "author": "Withim, Phil",
+   "date": "1959-06",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essay in Modern Language Quarterly, vol. 20, no. 2 (June 1959), pp. 115-127, arguing that the narrative is ironic and that Vere's judgement is not endorsed. It answers the reading of Watson's 'Melville's Testament of Acceptance' (1933) and is a founding text of the ironist reading.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00182702-20-2-115",
+   "tags": [
+    "criticism",
+    "ironist-reading",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-hayford-1959-somers-mutiny-affair",
+   "title": "The Somers Mutiny Affair: A Book of Primary Source Materials",
+   "author": "Hayford, Harrison",
+   "date": "1959",
+   "kind": "book",
+   "lang": "en",
+   "note": "A casebook of documents on the Somers affair edited by Harrison Hayford, who three years later co-edited the 1962 Chicago edition of Billy Budd with Merton M. Sealts, Jr. It gathers contemporary materials on Mackenzie, Philip Spencer and the brig, with a bibliography (224 pp.). Internet Archive lending copy.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/somersmutinyaffa0000unse_y5t7",
+   "tags": [
+    "somers",
+    "hayford-sealts",
+    "mackenzie"
+   ]
+  },
+  {
+   "id": "lib-melville-1961-billy-budd-other",
+   "title": "Billy Budd, and Other Tales (Signet, 1961)",
+   "author": "Melville, Herman; Thorp, Willard",
+   "date": "1961",
+   "kind": "edition",
+   "lang": "en",
+   "note": "New American Library (Signet Classic) paperback with an afterword by Willard Thorp (336 pages), whose text is \"Based on the text edited by Frederic Barron Freeman and corrected by Elizabeth Treeman\".",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990067526620203941/catalog",
+   "tags": [
+    "edition",
+    "freeman",
+    "treeman",
+    "paperback"
+   ]
+  },
+  {
+   "id": "lib-stafford-1961-melville-s-billy",
+   "title": "Melville's Billy Budd and the Critics",
+   "author": "Stafford, William T.",
+   "date": "1961",
+   "kind": "book",
+   "lang": "en",
+   "note": "Casebook of criticism on the novella (Wadsworth, Belmont, Calif., 1961), edited by William T. Stafford; a second edition followed in 1968 (viii, 272 p.). Both are on the Internet Archive as borrowable copies.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/melvillesbillybu00staf",
+   "tags": [
+    "criticism",
+    "casebook"
+   ]
+  },
+  {
+   "id": "lib-ives-1962-billy-budd-articles",
+   "title": "Billy Budd and the Articles of War",
+   "author": "Ives, C. B.",
+   "date": "1962-03",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in American Literature 34, no. 1 (March 1962), beginning p. 31, on the naval law under which Billy is tried.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2922243",
+   "tags": [
+    "articles-of-war",
+    "law-and-literature",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1962-billy-budd-sailor",
+   "title": "Billy Budd, Sailor (An Inside Narrative): Reading Text and Genetic Text",
+   "author": "Melville, Herman; Hayford, Harrison; Sealts, Merton M., Jr.",
+   "date": "1962",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Harrison Hayford and Merton M. Sealts Jr.'s edition \"edited from the manuscript with introduction and notes\" (Chicago: University of Chicago Press, 1962; ix, 431 pages, facsimiles, tables), giving a reading text and a genetic text of the manuscript.",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990017418500203941/catalog",
+   "tags": [
+    "edition",
+    "hayford-sealts",
+    "genetic-text",
+    "chicago"
+   ]
+  },
+  {
+   "id": "lib-coxe-1962-billy-budd-play",
+   "title": "Billy Budd: A Play in Three Acts (Coxe and Chapman)",
+   "author": "Coxe, Louis O.; Chapman, Robert",
+   "date": "1962",
+   "kind": "book",
+   "lang": "en",
+   "note": "Internet Archive copy (borrowable) of the Hill and Wang, New York, 1962 printing of the Coxe and Chapman stage adaptation, first published by Princeton University Press in 1951 with a foreword by Brooks Atkinson.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/billybudd00loui",
+   "tags": [
+    "stage",
+    "coxe-chapman",
+    "adaptation"
+   ]
+  },
+  {
+   "id": "lib-arendt-1963-revolution",
+   "title": "On Revolution",
+   "author": "Arendt, Hannah",
+   "date": "1963",
+   "kind": "book",
+   "lang": "en",
+   "note": "Arendt's comparative study of the American and French revolutions (Library of Congress record for the Faber and Faber, London, edition of 1963; the Viking Press published it in New York the same year).",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/64003915",
+   "tags": [
+    "criticism",
+    "political-theory",
+    "arendt"
+   ]
+  },
+  {
+   "id": "lib-howard-1963-review-billy-budd",
+   "title": "Review of Billy Budd, Sailor, edited by Harrison Hayford and Merton M. Sealts, Jr. (Nineteenth-Century Fiction, 1963)",
+   "author": "Howard, Leon",
+   "date": "1963-03",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in Nineteenth-Century Fiction, vol.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/2932633",
+   "tags": [
+    "review",
+    "edition",
+    "hayford-sealts",
+    "genetic-text"
+   ]
+  },
+  {
+   "id": "lib-thompson-1964-review-billy-budd",
+   "title": "Review of Billy Budd, Sailor, edited by Harrison Hayford and Merton M. Sealts, Jr. (American Literature, 1964)",
+   "author": "Thompson, Lawrance",
+   "date": "1964-03",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in American Literature, vol. 36, no. 1 (March 1964), pp. 76-79, of the Hayford and Sealts edition (1962). JSTOR spells the reviewer 'Lawrence Thompson'; he is the author of Melville's Quarrel with God (1952).",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/2923505",
+   "tags": [
+    "review",
+    "edition",
+    "hayford-sealts",
+    "genetic-text"
+   ]
+  },
+  {
+   "id": "lib-charvat-1964-review-billy-budd",
+   "title": "Review of Billy Budd, Sailor: An Inside Narrative, by Herman Melville",
+   "author": "Charvat, William",
+   "date": "1964-07",
+   "kind": "review",
+   "lang": "en",
+   "note": "Short review in South Atlantic Quarterly, vol.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00382876-63-3-440",
+   "tags": [
+    "review",
+    "edition",
+    "hayford-sealts"
+   ]
+  },
+  {
+   "id": "lib-malbone-1966-how-shall-we",
+   "title": "How Shall We Teach the New Billy Budd, Sailor?",
+   "author": "Malbone, Raymond G.",
+   "date": "1966-03",
+   "kind": "article",
+   "lang": "en",
+   "note": "Two-page note in College English, vol. 27, no. 6 (March 1966), pp. 499-500, on teaching the novella from the new Hayford and Sealts text (1962).",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/374028",
+   "tags": [
+    "reception",
+    "hayford-sealts",
+    "edition",
+    "teaching"
+   ]
+  },
+  {
+   "id": "lib-springer-1970-merrill-studies-billy",
+   "title": "The Merrill Studies in Billy Budd",
+   "author": "Springer, Haskell S.",
+   "date": "1970",
+   "kind": "book",
+   "lang": "en",
+   "note": "Casebook of reception and criticism (Charles E. Merrill, Columbus, Ohio, 1970; xii, 142 p.), opening with an extract from John Middleton Murry's 'Herman Melville's Silence' (1924), the earliest response to the first printing that it reprints, then John Freeman (1926), E. M. Forster's Aspects of the Novel (1927),…",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/merrillstudiesin0000spri",
+   "tags": [
+    "criticism",
+    "casebook",
+    "revival",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-vincent-1971-twentieth-century-interpretations",
+   "title": "Twentieth Century Interpretations of Billy Budd: A Collection of Critical Essays",
+   "author": "Vincent, Howard P.",
+   "date": "1971",
+   "kind": "book",
+   "lang": "en",
+   "note": "Prentice-Hall casebook (Englewood Cliffs, N.J., 1971) of critical essays on the novella, compiled by Howard P. Vincent.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/twentiethcentury00vinc",
+   "tags": [
+    "criticism",
+    "casebook"
+   ]
+  },
+  {
+   "id": "lib-sealts-1974-early-lives-melville",
+   "title": "The Early Lives of Melville: Nineteenth-Century Biographical Sketches and Their Authors",
+   "author": "Sealts, Merton M., Jr.",
+   "date": "1974",
+   "kind": "book",
+   "lang": "en",
+   "note": "Sealts's edition of the nineteenth-century biographical sketches of Melville with accounts of their authors (Madison: University of Wisconsin Press, 1974).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/earlylivesofmelv0000seal",
+   "tags": [
+    "sealts",
+    "elizabeth-melville",
+    "memoranda",
+    "biography"
+   ]
+  },
+  {
+   "id": "lib-melville-1975-billy-budd-sailor",
+   "title": "Billy Budd, Sailor (An Inside Narrative) (Bobbs-Merrill, 1975)",
+   "author": "Melville, Herman; Stern, Milton R.",
+   "date": "1975",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Edition \"Edited, with an introduction and annotation by Milton R. Stern\" (Indianapolis: Bobbs-Merrill, 1975; lx, 184 pages, illustrations; bibliography pp. xlviii-lix).",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990006771850203941/catalog",
+   "tags": [
+    "edition",
+    "stern"
+   ]
+  },
+  {
+   "id": "lib-cover-1975-justice-accused-antislavery",
+   "title": "Justice Accused: Antislavery and the Judicial Process",
+   "author": "Cover, Robert M.",
+   "date": "1975",
+   "kind": "book",
+   "lang": "en",
+   "note": "Cover's study of antislavery judges who enforced the fugitive slave laws, first published by Yale University Press in 1975.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.12987/9780300161953",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere",
+    "shaw"
+   ]
+  },
+  {
+   "id": "lib-scorza-1979-time-before-steamships",
+   "title": "In the Time Before Steamships: Billy Budd, the Limits of Politics, and Modernity",
+   "author": "Scorza, Thomas J.",
+   "date": "1979",
+   "kind": "book",
+   "lang": "en",
+   "note": "Political-theory reading of the novella (Northern Illinois University Press, DeKalb, 1979; xli, 210 p.). Internet Archive copy, borrowable.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/intimebeforestea0000scor",
+   "tags": [
+    "criticism",
+    "political-theory"
+   ]
+  },
+  {
+   "id": "lib-johnson-1979-melville-s-fist",
+   "title": "Melville's Fist: The Execution of \"Billy Budd\"",
+   "author": "Johnson, Barbara",
+   "date": "1979",
+   "kind": "article",
+   "lang": "en",
+   "note": "Deconstructive reading in Studies in Romanticism, vol.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/25600211",
+   "tags": [
+    "criticism",
+    "deconstruction",
+    "reading"
+   ]
+  },
+  {
+   "id": "lib-melville-1984-pierre-israel-potter",
+   "title": "Pierre; Israel Potter; The Piazza Tales; The Confidence-Man; Uncollected Prose; Billy Budd, Sailor (Library of America 24)",
+   "author": "Melville, Herman; Hayford, Harrison",
+   "date": "1984",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Library of America volume 24 (New York: Literary Classics of the United States, 1984; 1478 pages), with Harrison Hayford named in the catalogue record; it ends with \"Billy Budd, Sailor (an inside narrative)\".",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990003021510203941/catalog",
+   "tags": [
+    "edition",
+    "library-of-america",
+    "hayford-sealts"
+   ]
+  },
+  {
+   "id": "lib-weisberg-1984-failure-word-protagonist",
+   "title": "The Failure of the Word: The Protagonist as Lawyer in Modern Fiction",
+   "author": "Weisberg, Richard H.",
+   "date": "1984",
+   "kind": "book",
+   "lang": "en",
+   "note": "Weisberg's study of lawyers and legalistic speakers in modern fiction (Yale University Press, 1984), including a reading of Vere as a figure who manipulates the law at Billy's drumhead court.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/84002309",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere",
+    "trial"
+   ]
+  },
+  {
+   "id": "lib-mcfarland-1985-sea-dangers-affair",
+   "title": "Sea Dangers: The Affair of the Somers",
+   "author": "McFarland, Philip James",
+   "date": "1985",
+   "kind": "book",
+   "lang": "en",
+   "note": "A narrative history of the Somers affair, its participants and its aftermath, with a bibliography (pp. 291-296) and index.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/seadangersaffair00mcfa",
+   "tags": [
+    "somers",
+    "mackenzie"
+   ]
+  },
+  {
+   "id": "lib-posner-1988-law-literature-misunderstood",
+   "title": "Law and Literature: A Misunderstood Relation",
+   "author": "Posner, Richard A.",
+   "date": "1988",
+   "kind": "book",
+   "lang": "en",
+   "note": "Posner's survey of law in literature and literary approaches to law (Harvard University Press, 1988), which disputes Weisberg's reading of Vere.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/88011210",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-sealts-1988-melville-s-reading",
+   "title": "Melville's Reading (revised and enlarged edition, 1988)",
+   "author": "Sealts, Merton M., Jr.",
+   "date": "1988",
+   "kind": "book",
+   "lang": "en",
+   "note": "Sealts's check-list of books owned and borrowed by Melville, revised and enlarged (Columbia: University of South Carolina Press, 1988), which assigns the Sealts numbers used by Melville's Marginalia Online; first published in the Harvard Library Bulletin, 1948-50, and in book form 1966.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/melvillesreading0000seal",
+   "tags": [
+    "sealts",
+    "melvilles-reading",
+    "reference"
+   ]
+  },
+  {
+   "id": "lib-weisberg-1989-accepting-inside-narrator",
+   "title": "Accepting the Inside Narrator's Challenge: Billy Budd and the \"Legalistic\" Reader",
+   "author": "Weisberg, Richard H.",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Weisberg's statement of his case against Vere in Cardozo Studies in Law and Literature, vol.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/1535685X.1989.11015640",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere",
+    "trial",
+    "inside-narrative"
+   ]
+  },
+  {
+   "id": "lib-thomas-1989-billy-budd-untold",
+   "title": "Billy Budd and the Untold Story of the Law",
+   "author": "Thomas, Brook",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Brook Thomas's contribution to the Billy Budd symposium in Cardozo Studies in Law and Literature, vol.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/1535685X.1989.11015641",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "trial"
+   ]
+  },
+  {
+   "id": "lib-posner-1989-comment-richard-weisberg",
+   "title": "Comment on Richard Weisberg's Interpretation of Billy Budd",
+   "author": "Posner, Richard A.",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Richard A. Posner's reply to Weisberg in Cardozo Studies in Law and Literature, vol.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/1535685X.1989.11015642",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere",
+    "trial"
+   ]
+  },
+  {
+   "id": "lib-sedgwick-1990-epistemology-closet",
+   "title": "Epistemology of the Closet",
+   "author": "Sedgwick, Eve Kosofsky",
+   "date": "1990",
+   "kind": "book",
+   "lang": "en",
+   "note": "Sedgwick's study of the modern homo/heterosexual definition, published by the University of California Press, Berkeley, in 1990.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/90035697",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-parker-1990-reading-billy-budd",
+   "title": "Reading Billy Budd",
+   "author": "Parker, Hershel",
+   "date": "1990",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book-length reading of the novella (Northwestern University Press, 1990; vi, 190 p.) built on the Hayford-Sealts Genetic Text, following the work's growth from the ballad 'Billy in the Darbies' through the later expansions and placing it in Melville's last years.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/90021487",
+   "tags": [
+    "criticism",
+    "genetic-text",
+    "hayford-sealts",
+    "manuscript"
+   ]
+  },
+  {
+   "id": "lib-cooke-1993-benjamin-britten-billy",
+   "title": "Benjamin Britten, Billy Budd",
+   "author": "Cooke, Mervyn; Reed, Philip",
+   "date": "1993",
+   "kind": "book",
+   "lang": "en",
+   "note": "Cambridge Opera Handbook on Britten's opera by Mervyn Cooke and Philip Reed (Cambridge University Press, 1993; xii, 180 p., with illustrations, music examples and facsimiles).",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/92025834",
+   "tags": [
+    "opera",
+    "britten",
+    "forster",
+    "adaptation"
+   ]
+  },
+  {
+   "id": "lib-phillips-1994-billy-budd-as",
+   "title": "Billy Budd as Anti-Homophobic Text",
+   "author": "Phillips, Kathy J.",
+   "date": "1994-12",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essay in College English, vol. 56, no. 8 (December 1994), pp. 896-910, reading the novella's treatment of desire between men as a critique of homophobia.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/378768",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-melville-society-1999-leviathan-journal-melville",
+   "title": "Leviathan: A Journal of Melville Studies",
+   "author": "The Melville Society",
+   "date": "1999/2026",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Melville Society's journal, published three times a year by Johns Hopkins University Press (on Project MUSE from vol.",
+   "licence": "In copyright",
+   "url": "https://muse.jhu.edu/journal/601",
+   "tags": [
+    "melville-society",
+    "leviathan",
+    "reference"
+   ]
+  },
+  {
+   "id": "lib-goldberg-2000-somers-mutiny-1842",
+   "title": "The Somers mutiny of 1842",
+   "author": "Goldberg, Angus Ephraim",
+   "date": "2000",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "PhD thesis, University of St Andrews (supervisor Steve Spackman), on the Somers affair.",
+   "licence": "In copyright",
+   "url": "https://hdl.handle.net/10023/2695",
+   "tags": [
+    "somers",
+    "mackenzie"
+   ]
+  },
+  {
+   "id": "lib-parker-2002-herman-melville-biography",
+   "title": "Herman Melville: A Biography, Volume 2, 1851-1891",
+   "author": "Parker, Hershel",
+   "date": "2002",
+   "kind": "book",
+   "lang": "en",
+   "note": "Second volume of Parker's biography (Baltimore: Johns Hopkins University Press, 2002; 1,056 pp.), covering 1851 to Melville's death and so the Custom House retirement, the late reading and the composition of Billy Budd, 1886-1891.",
+   "licence": "In copyright",
+   "url": "https://openlibrary.org/books/OL7870843M",
+   "tags": [
+    "biography",
+    "parker",
+    "late-years"
+   ]
+  },
+  {
+   "id": "lib-yannella-2002-new-essays-billy",
+   "title": "New Essays on Billy Budd",
+   "author": "Yannella, Donald",
+   "date": "2002",
+   "kind": "book",
+   "lang": "en",
+   "note": "Collection in Cambridge's American Novel series, edited by Donald Yannella (Cambridge University Press, 2002; online 2009), with essays by Larry J. Reynolds on labour unrest, Gail Coffler on religion and myth, Robert Milder on 'Old man Melville', and John Wenke, 'Melville's indirection: Billy Budd, the genetic text,…",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/CBO9780511613746",
+   "tags": [
+    "criticism",
+    "genetic-text",
+    "hayford-sealts"
+   ]
+  },
+  {
+   "id": "lib-bryant-2002-fluid-text-theory",
+   "title": "The Fluid Text: A Theory of Revision and Editing for Book and Screen",
+   "author": "Bryant, John",
+   "date": "2002-10",
+   "kind": "book",
+   "lang": "en",
+   "note": "Bryant's theory of revision and editing (University of Michigan Press, 2002; Editorial Theory and Literary Criticism series), worked out on the versions of Typee.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.3998/mpub.12024",
+   "tags": [
+    "criticism",
+    "fluid-text",
+    "textual-theory",
+    "mel"
+   ]
+  },
+  {
+   "id": "lib-melton-2003-hanging-offense-strange",
+   "title": "A Hanging Offense: The Strange Affair of the Warship Somers",
+   "author": "Melton, Buckner F.",
+   "date": "2003",
+   "kind": "book",
+   "lang": "en",
+   "note": "A history of the Somers affair; the holder's summary says it \"traces the 1842 mutiny aboard the U.S. brig-of-war Somers\" through the executions and Mackenzie's court martial.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/hangingoffensest0000melt",
+   "tags": [
+    "somers",
+    "mackenzie"
+   ]
+  },
+  {
+   "id": "lib-arjomand-2010-e-m-forster",
+   "title": "E. M. Forster's Billy Budd and the Collaborative Work of Opera",
+   "author": "Arjomand, Minou",
+   "date": "2010-11",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Theatre Survey, vol. 51, no. 2 (November 2010), pp. 225-245, on how Forster, Crozier and Britten worked together on the libretto.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/S0040557410000311",
+   "tags": [
+    "opera",
+    "britten",
+    "forster",
+    "crozier",
+    "libretto"
+   ]
+  },
+  {
+   "id": "lib-parker-2012-melville-biography-inside",
+   "title": "Melville Biography: An Inside Narrative",
+   "author": "Parker, Hershel",
+   "date": "2012",
+   "kind": "book",
+   "lang": "en",
+   "note": "Parker on the making of his two-volume biography and on Melville biographical scholarship (Evanston: Northwestern University Press, 2012; xix, 587 p.). Part I includes the chapter \"Creating the new Melville log and writing the biography\" and one on desiderata and discoveries in archives and databases; the subtitle…",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990136181210203941/catalog",
+   "tags": [
+    "biography",
+    "parker",
+    "melville-log"
+   ]
+  },
+  {
+   "id": "lib-rochlitz-2012-sea-changes-melville",
+   "title": "Sea-changes: Melville - Forster - Britten: The Story of Billy Budd and its Operatic Adaptation",
+   "author": "Rochlitz, Hanna",
+   "date": "2012",
+   "kind": "book",
+   "lang": "en",
+   "note": "Open-access monograph (Universitätsverlag Göttingen, 2012; 594 p.) on Forster's part in adapting the novella for Britten's opera.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.17875/gup2012-399",
+   "tags": [
+    "opera",
+    "britten",
+    "forster",
+    "libretto",
+    "adaptation"
+   ]
+  },
+  {
+   "id": "lib-melville-2017-billy-budd-sailor",
+   "title": "Billy Budd, Sailor and Other Uncompleted Writings",
+   "author": "Melville, Herman; Hayford, Harrison; MacDougall, Alma A.; Sandberg, Robert A.; Tanselle, G. Thomas; Parker, Hershel",
+   "date": "2017",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Volume 13 of the Northwestern-Newberry Writings of Herman Melville (Evanston and Chicago: Northwestern University Press and the Newberry Library, 2017; xii, 998 pages), containing Billy Budd, Sailor, Weeds and Wildings, Parthenope, and uncollected prose and poetry, with a historical note by Hershel Parker.",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/99153700044403941/catalog",
+   "tags": [
+    "edition",
+    "northwestern-newberry",
+    "hayford-sealts"
+   ]
+  },
+  {
+   "id": "lib-howe-2020-essay-legal-aspects",
+   "title": "Essay on the Legal Aspects of Somers Affair and Bibliography",
+   "author": "Howe, David",
+   "date": "2020-05-12",
+   "kind": "article",
+   "lang": "en",
+   "note": "A lawyer's essay hosted by the Navy Department Library, carrying the note that it \"represents the views of the author\" and not those of the Naval Historical Center.",
+   "licence": "In copyright",
+   "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/somers-essay-on-legal-aspects-of-somers-affair.html",
+   "tags": [
+    "somers",
+    "law-and-literature",
+    "articles-of-war",
+    "gansevoort",
+    "bibliography"
+   ]
+  },
+  {
+   "id": "lib-mcgowan-2022-melville-s-reliquary",
+   "title": "Melville's Reliquary Reformations",
+   "author": "McGowan, Tony",
+   "date": "2022-10-20",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Miranda 26 (2022), issue \"Melville's Measures\", on Melville's use of the \"Nelson Archive\" in Billy Budd: Southey's Life of Nelson in Melville's annotated 1855 Harper copy (Houghton AC85 M4977 Zz855s, with Elizabeth Shaw Melville's note that it was kept for reference for Billy Budd), William Beatty's…",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4000/miranda.47664",
+   "tags": [
+    "nelson",
+    "southey",
+    "beatty",
+    "criticism",
+    "sources"
+   ]
+  },
+  {
+   "id": "lib-melville-2024-billy-budd-sailor",
+   "title": "Billy Budd, Sailor (Pennyroyal Press, 2024)",
+   "author": "Melville, Herman; Moser, Barry",
+   "date": "2024",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Grolier Club exhibit entry for the Pennyroyal Press centenary edition (Northampton, MA, 2024), \"Utilizing the Melville Electronic Library reading text\" with fourteen woodcuts by Barry Moser; 50 copies printed letterpress by Bradley Hutchinson in Austin, Texas, bound by Jace Graf at Cloverleaf Studio.",
+   "licence": "In copyright",
+   "url": "https://grolierclub.omeka.net/exhibits/show/billy-budd/item/4586",
+   "tags": [
+    "edition",
+    "mel",
+    "moser",
+    "fine-press"
+   ]
+  },
+  {
+   "id": "lib-melville-2025-billy-budd-sailor",
+   "title": "Billy Budd, Sailor (An Inside Narrative) (University of Chicago Press, 2025)",
+   "author": "Melville, Herman; Moser, Barry; Bryant, John; Kelley, Wyn; Ohge, Christopher",
+   "date": "2025",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Trade edition with sixteen illustrations by Barry Moser (116 pages) that, in the publisher's words, \"adapts the text of the critical edition of the novella prepared for the Melville Electronic Library\" by John Bryant, Wyn Kelley and Christopher Ohge.",
+   "licence": "In copyright",
+   "url": "https://press.uchicago.edu/ucp/books/book/chicago/B/bo256158293.html",
+   "tags": [
+    "edition",
+    "mel",
+    "moser"
+   ]
+  }
+ ]
+}

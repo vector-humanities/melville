@@ -2,6 +2,11 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.10 (2026-11-05)
+
+- **On bench-kit 0.98.0:** the Library, and the kit's other new parts (the Images tab, Open a folder, Book's Compare for up to four texts, dictionaries in any language), which Melville leaves off.
+- **The Library**, a tab after Paratexts: 109 texts for wider reading on *Billy Budd*, from the paratexts hunt of 5 November. 28 are public domain and held in `library/files/` (261 MB): Weaver's 1924 printing and his 1928 text, the Somers court of inquiry and court martial, Richard Parker's trials, the 1797 Act against incitement to mutiny, the Gazettes of the Nile and Trafalgar, Southey, William James, *White-Jacket*, Weaver's 1919 article and 1921 biography, John Freeman's *Herman Melville*, and the pamphlets on impressment. 81 link out to where they are published, each with its licence: the later editions and the criticism. Forster's *Aspects of the Novel* and Mumford's *Herman Melville* are public domain in the US only, so they link out, with the group's copies in Paratexts.
+
 ## 0.3.9 (2026-11-02)
 
 - **On bench-kit 0.97.1:** Help ▸ Getting set up (in place of Joining the annotation group), two steps for each service (join, then the token) and a checklist in the guide and in ⚙ Settings ▸ Annotations; an empty stored Hypothesis group falls back to the bench's.
