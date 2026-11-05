@@ -124,7 +124,7 @@
     comparePrefix: 'Billy Budd: ',
     genealogy: { set: ['ms-first', 'ms-final', 'mel-rt'], line: 'main', lineNames: { main: 'Manuscript to reading text' } },
     figureNum: { print: '#1f3f66', paper: '#1f3f66', phosphor: '#1f3f66' },
-    paratexts: { org: 'vector-humanities', repo: 'melville_paratexts', cache: 'melville-paratexts' },   // a private repository, to be made
+    paratexts: { org: 'vector-humanities', repo: 'melville_paratexts', cache: 'melville-paratexts' },   // a private repository (made 2026-11-05)
     examples: { date: 'e.g. 1888-11-16, or 1888', archive: 'e.g. Houghton Library', versions: 'e.g. ms-final, mel-rt',
                 refs: 'e.g. [REF: BB-RT, chapter-1.xml:12]', publisher: 'e.g. University of Chicago Press', finding: 'F1' },
     stemma: { root: 'ms-first', lostBetween: {}, skip: [], lostOnTrunk: false },
