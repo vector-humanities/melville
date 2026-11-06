@@ -933,6 +933,20 @@
    ]
   },
   {
+   "id": "lib-melville-1938-billy-budd-vortoppmann",
+   "title": "Billy Budd, Vortoppmann auf der \"Indomitable\"",
+   "author": "Melville, Herman",
+   "date": "1938",
+   "kind": "edition",
+   "lang": "de",
+   "note": "German translation, Hamburg. 151 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/52046760",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-anderson-1940-genesis-billy-budd",
    "title": "The Genesis of Billy Budd",
    "author": "Anderson, Charles Roberts",
@@ -945,6 +959,78 @@
    "tags": [
     "sources",
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1942-billy-budd-benito",
+   "title": "Billy Budd, Benito Cereno and The Enchanted Isles",
+   "author": "Melville, Herman; Van Doren, Carl",
+   "date": "1942",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Foreword by Carl Van Doren. Headed \"Three shorter novels by the author of Moby Dick\".",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/42022295",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-melville-1942-storia",
+   "title": "La storia",
+   "author": "Melville, Herman; Montale, Eugenio",
+   "date": "1942",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian translation edited and translated by Eugenio Montale; catalogued by the Library of Congress under Melville with the title as given, in the sequence of Billy Budd records. Title to be checked against the book. 208 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/45012915",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-roper-1944-index-herman-melville",
+   "title": "An Index of Herman Melville's Mardi, Moby-Dick, Pierre, and Billy Budd",
+   "author": "Roper, Gordon H.",
+   "date": "1944",
+   "kind": "other",
+   "lang": "en",
+   "note": "Typescript index, 257 leaves.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/74185316",
+   "tags": [
+    "reference"
+   ]
+  },
+  {
+   "id": "lib-1944-billy-budd",
+   "title": "Billy Budd",
+   "author": "",
+   "date": "1944",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Harvard University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4159/harvard.9780674865815.c10",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1946-billy-budd-foretopman",
+   "title": "Billy Budd, Foretopman: A Novel (Lehmann, 1946)",
+   "author": "Melville, Herman; Plomer, William",
+   "date": "1946",
+   "kind": "edition",
+   "lang": "en",
+   "note": "First separately published edition of Billy Budd, with an introduction by William Plomer (London: John Lehmann, 1946; 124 pages; 16 cm).",
+   "licence": "In copyright",
+   "url": "https://id.lib.harvard.edu/alma/990091671590203941/catalog",
+   "tags": [
+    "edition",
+    "plomer",
+    "lehmann"
    ]
   },
   {
@@ -966,22 +1052,6 @@
    ]
   },
   {
-   "id": "lib-melville-1946-billy-budd-foretopman",
-   "title": "Billy Budd, Foretopman: A Novel (Lehmann, 1946)",
-   "author": "Melville, Herman; Plomer, William",
-   "date": "1946",
-   "kind": "edition",
-   "lang": "en",
-   "note": "First separately published edition of Billy Budd, with an introduction by William Plomer (London: John Lehmann, 1946; 124 pages; 16 cm).",
-   "licence": "In copyright",
-   "url": "https://id.lib.harvard.edu/alma/990091671590203941/catalog",
-   "tags": [
-    "edition",
-    "plomer",
-    "lehmann"
-   ]
-  },
-  {
    "id": "lib-melville-1948-melville-s-billy",
    "title": "Melville's Billy Budd",
    "author": "Melville, Herman; Freeman, F. Barron",
@@ -995,6 +1065,34 @@
     "edition",
     "freeman",
     "harvard"
+   ]
+  },
+  {
+   "id": "lib-freeman-1948-melville-s-billy",
+   "title": "Melville's Billy Budd the complete text of the novel and of the unpublished short story",
+   "author": "Freeman, F. B.; Melville, Herman 1819-1891",
+   "date": "1948",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Cambridge, Mass. Harvard Univ. Press.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307184860",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-quasimodo-1949-billy-budd-riduzione",
+   "title": "Billy Budd Riduzione per canto e pianoforte",
+   "author": "Quasimodo, Salvatore 1901-1968; Ghedini, Giorgio Federico 1892-1965",
+   "date": "1949",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Milano Zerboni.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306672561",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -1049,6 +1147,34 @@
    ]
   },
   {
+   "id": "lib-melville-1950-al-bahhar-al",
+   "title": "al-Baḥḥār al-wasīm: Bīlī Badd",
+   "author": "Melville, Herman; Ḥabīb, Muṣṭafá Ṭaha",
+   "date": "[1950-1959]",
+   "kind": "edition",
+   "lang": "ar",
+   "note": "Arabic translation with a preface by the translator, Franklin Book Program no. A251. Cairo.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2020363067",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-melville-1950-billy-budd-voormarsgast",
+   "title": "Billy Budd, voormarsgast",
+   "author": "Melville, Herman; Palm, Johan M.",
+   "date": "1950",
+   "kind": "edition",
+   "lang": "nl",
+   "note": "Dutch translation by Johan M. Palm.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/74207811",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-schiffman-1950-melville-s-final",
    "title": "Melville's Final Stage, Irony: A Re-Examination of Billy Budd Criticism",
    "author": "Schiffman, Joseph",
@@ -1063,6 +1189,35 @@
     "ironist-reading",
     "acceptance-reading",
     "freeman"
+   ]
+  },
+  {
+   "id": "lib-coleman-1951-billy-budd-stage",
+   "title": "Billy Budd on the Stage",
+   "author": "Coleman, Basil; Piper, John",
+   "date": "1951",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0040298200054899",
+   "tags": [
+    "criticism",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-mason-1951-herman-melville-billy",
+   "title": "Herman Melville and “Billy Budd”",
+   "author": "Mason, Ronald",
+   "date": "1951",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0040298200054863",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -1101,6 +1256,34 @@
    ]
   },
   {
+   "id": "lib-melville-1952-selected-writings-herman-2",
+   "title": "Selected Writings of Herman Melville: Complete Short Stories, Typee and Billy Budd, Foretopman",
+   "author": "Melville, Herman",
+   "date": "1952",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Modern Library collection, 903 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/51014537",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-melville-1952-selected-writings-herman",
+   "title": "Selected writings of Herman Melville complete short stories ; Typee, Billy Budd, foretopman",
+   "author": "Melville, Herman 1819-1891",
+   "date": "1952",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in New York Ramdom House.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/308088247",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-metcalf-1953-herman-melville-cycle",
    "title": "Herman Melville: Cycle and Epicycle",
    "author": "Metcalf, Eleanor Melville",
@@ -1115,6 +1298,59 @@
     "family-papers",
     "biography"
    ]
+  },
+  {
+   "id": "lib-levine-1954-craftsman-s-memory",
+   "title": "The Craftsman's Memory: Billy Budd in the Context of the Earlier Novels",
+   "author": "Levine, Stuart",
+   "date": "1954",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/44702273",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-masque-1956-poster-billy-budd",
+   "title": "Poster, \"Billy Budd,\" 1956.",
+   "author": "Masque., Belle",
+   "date": "1956",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Villanova, Pa.: Villanova University.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/132634198",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-chapman-1956-program-belle-masque",
+   "title": "Program, Belle Masque, \"Billy Budd,\" December 6-8, 1956.",
+   "author": "Chapman, Robert Harris.; Coxe, Louis O., 1918-1993.; Melville, Herman, 1819-1891.; Society., Belle Masque",
+   "date": "1956",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Villanova, Pa.: Villanova College.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/70525746",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-1957-color-photo-first",
+   "title": "Color photo, first caption reads Bruce Snyder , second caption reads Billy Budd (May 1957) . Photo depicts actor reclining on bench in sailor costume. Cast list shows that he played Billy Budd ., May 1957",
+   "author": "",
+   "date": "1957",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/157526868"
   },
   {
    "id": "lib-braswell-1957-melville-s-billy",
@@ -1165,6 +1401,60 @@
    ]
   },
   {
+   "id": "lib-1960-billy-budd-drama",
+   "title": "Billy Budd Drama Will Open at U of S",
+   "author": "",
+   "date": "1960",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Times-Shamrock Communications.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/414941540"
+  },
+  {
+   "id": "lib-1960-university-players-offer",
+   "title": "University Players to Offer Billy Budd, Noted Sea Play",
+   "author": "",
+   "date": "1960",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Times-Shamrock Communications.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/414941503",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-melville-1961-billy-budd-inside",
+   "title": "Billy Budd An inside narrative. And other tales. With an afterword by Willard Thorp",
+   "author": "Melville, Herman 1819-1891",
+   "date": "1961",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in New York New American Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307608455",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-melville-1961-billy-budd-other-2",
+   "title": "Billy Budd and other tales",
+   "author": "Melville, Herman 1819-1891",
+   "date": "1961",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in New York New American Libr..",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307578793",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-melville-1961-billy-budd-other",
    "title": "Billy Budd, and Other Tales (Signet, 1961)",
    "author": "Melville, Herman; Thorp, Willard",
@@ -1182,6 +1472,35 @@
    ]
   },
   {
+   "id": "lib-melville-1961-billy-budd-piazza",
+   "title": "Billy Budd and The Piazza Tales",
+   "author": "Melville, Herman",
+   "date": "1961",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Dolphin paperback, copyright 1956.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/61002625",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-glossop-1961-billy-budd-op",
+   "title": "Billy Budd op. 50 ; Libretto ... adapted from the story by Herman Melville",
+   "author": "Glossop, Peter 1928-2008; Chorus, Ambrosian Opera; Britten, Benjamin 1913-1976; Langdon, Michael 1920-1991; Pears, Peter 1910-1986; Shirley-Quirk, John 1931-2014; School, Wandsworth; Orchestra, London Symphony; Crozier, Eric 1914-1994; Forster, E. M. 1879-1970",
+   "date": "1961",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in London Decca.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307713206",
+   "tags": [
+    "criticism",
+    "opera"
+   ]
+  },
+  {
    "id": "lib-stafford-1961-melville-s-billy",
    "title": "Melville's Billy Budd and the Critics",
    "author": "Stafford, William T.",
@@ -1194,6 +1513,22 @@
    "tags": [
     "criticism",
     "casebook"
+   ]
+  },
+  {
+   "id": "lib-coxe-1962-billy-budd-play",
+   "title": "Billy Budd: A Play in Three Acts (Coxe and Chapman)",
+   "author": "Coxe, Louis O.; Chapman, Robert",
+   "date": "1962",
+   "kind": "book",
+   "lang": "en",
+   "note": "Internet Archive copy (borrowable) of the Hill and Wang, New York, 1962 printing of the Coxe and Chapman stage adaptation, first published by Princeton University Press in 1951 with a foreword by Brooks Atkinson.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/billybudd00loui",
+   "tags": [
+    "stage",
+    "coxe-chapman",
+    "adaptation"
    ]
   },
   {
@@ -1230,20 +1565,15 @@
    ]
   },
   {
-   "id": "lib-coxe-1962-billy-budd-play",
-   "title": "Billy Budd: A Play in Three Acts (Coxe and Chapman)",
-   "author": "Coxe, Louis O.; Chapman, Robert",
-   "date": "1962",
-   "kind": "book",
+   "id": "lib-1963-study-melville-u27s",
+   "title": "A Study on Melville\\u27s Billy Budd",
+   "author": "道, 高橋",
+   "date": "1963",
+   "kind": "other",
    "lang": "en",
-   "note": "Internet Archive copy (borrowable) of the Hill and Wang, New York, 1962 printing of the Coxe and Chapman stage adaptation, first published by Princeton University Press in 1951 with a foreword by Brooks Atkinson.",
-   "licence": "In copyright",
-   "url": "https://archive.org/details/billybudd00loui",
-   "tags": [
-    "stage",
-    "coxe-chapman",
-    "adaptation"
-   ]
+   "note": "Listed in CORE.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/122577833"
   },
   {
    "id": "lib-arendt-1963-revolution",
@@ -1279,6 +1609,22 @@
    ]
   },
   {
+   "id": "lib-charvat-1964-review-billy-budd",
+   "title": "Review of Billy Budd, Sailor: An Inside Narrative, by Herman Melville",
+   "author": "Charvat, William",
+   "date": "1964-07",
+   "kind": "review",
+   "lang": "en",
+   "note": "Short review in South Atlantic Quarterly, vol.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00382876-63-3-440",
+   "tags": [
+    "review",
+    "edition",
+    "hayford-sealts"
+   ]
+  },
+  {
    "id": "lib-thompson-1964-review-billy-budd",
    "title": "Review of Billy Budd, Sailor, edited by Harrison Hayford and Merton M. Sealts, Jr. (American Literature, 1964)",
    "author": "Thompson, Lawrance",
@@ -1296,19 +1642,198 @@
    ]
   },
   {
-   "id": "lib-charvat-1964-review-billy-budd",
-   "title": "Review of Billy Budd, Sailor: An Inside Narrative, by Herman Melville",
-   "author": "Charvat, William",
-   "date": "1964-07",
-   "kind": "review",
+   "id": "lib-hassenpflug-1964-gospel-according-melville",
+   "title": "The Gospel According to Melville : BILLY BUDD as an Altered Christ-Parable",
+   "author": "Hassenpflug, Glenn",
+   "date": "1964",
+   "kind": "article",
    "lang": "en",
-   "note": "Short review in South Atlantic Quarterly, vol.",
-   "licence": "In copyright",
-   "url": "https://doi.org/10.1215/00382876-63-3-440",
+   "note": "Article in TheScholarsRepository@LLU: Digital Archive of Research, Scholarship & Creative Works.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/112344289",
    "tags": [
-    "review",
-    "edition",
-    "hayford-sealts"
+    "criticism",
+    "theology"
+   ]
+  },
+  {
+   "id": "lib-melville-1965-billy-budd-benito",
+   "title": "Billy Budd; Benito Cereno",
+   "author": "Melville, Herman; Geismar, Maxwell; Shore, Robert",
+   "date": "1965",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Introduction by Maxwell Geismar, paintings by Robert Shore. Limited to 1,500 copies.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/65004445",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-melville-1965-billy-budd-foretopman",
+   "title": "Billy Budd, Foretopman",
+   "author": "Melville, Herman; Leavitt, Hart Day",
+   "date": "1965",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Bantam paperback with Hart Day Leavitt named as contributor.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/65017433",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater",
+   "title": "Billy Budd, Theater Stage Scene (1 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291207179",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater-2",
+   "title": "Billy Budd, Theater Stage Scene (2 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291207255",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater-3",
+   "title": "Billy Budd, Theater Stage Scene (3 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291207122",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater-4",
+   "title": "Billy Budd, Theater Stage Scene (4 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291206991",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater-5",
+   "title": "Billy Budd, Theater Stage Scene (5 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291206988",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater-6",
+   "title": "Billy Budd, Theater Stage Scene (6 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291206996",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater-7",
+   "title": "Billy Budd, Theater Stage Scene (7 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291207000",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-reynolds-1965-billy-budd-theater-8",
+   "title": "Billy Budd, Theater Stage Scene (8 of 8)",
+   "author": "Reynolds, Harry Reuben,--1898-1974",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Digitized by: Utah State University, Merrill-Cazier Library.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/291206998",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-lowrey-1965-character-type-innocence",
+   "title": "The character-type of innocence in Herman Melville's Billy Budd",
+   "author": "Lowrey, Lucille Y., 1928-",
+   "date": "1965",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/2292615"
+  },
+  {
+   "id": "lib-melville-1966-billy-budd-forettopman",
+   "title": "Billy Budd, forettopman : What be fell him in the year of the great mutiny",
+   "author": "Melville, Herman",
+   "date": "1966",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Pyramid Books.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/83290887",
+   "tags": [
+    "naval-history"
+   ]
+  },
+  {
+   "id": "lib-sealts-1966-billy-budd-sailor",
+   "title": "Billy Budd, sailor (An inside narrative). From the ms. with introd. and notes",
+   "author": "Sealts, Merton M.; Melville, Herman 1819-1891; Hayford, Harrison",
+   "date": "1966",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Chicago Phoenix Books.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307608454",
+   "tags": [
+    "criticism",
+    "narrative"
    ]
   },
   {
@@ -1329,6 +1854,250 @@
    ]
   },
   {
+   "id": "lib-payne-1967-billy-budd-bbc",
+   "title": "‘Billy Budd’ on BBC 2",
+   "author": "Payne, Anthony",
+   "date": "1967",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0040298200036895",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1967-billy-budd-sailor-2",
+   "title": "Billy Budd, Sailor, and Other Stories",
+   "author": "Melville, Herman; Beaver, Harold",
+   "date": "1967",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Selection edited with an introduction by Harold Beaver; also includes John Marr and Daniel Orme. 465 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/68002041",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-melville-1967-billy-budd-sailor",
+   "title": "Billy Budd, sailor And other stories. Selected and ed. with an introd. by Harold Beaver",
+   "author": "Melville, Herman 1819-1891",
+   "date": "1967",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in Harmondsworth, Middlesex Penguin Books.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306178177",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-vance-1967-ironies-billy-budd",
+   "title": "The Ironies in Billy Budd and Melville's Evaluation of Man",
+   "author": "Vance, Lon Dean",
+   "date": "1967",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, Old Dominion University.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.25777/50fv-2n92",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-mcquitty-1968-rhetorical-approach-melville",
+   "title": "A rhetorical approach to Melville\\u27s “Bartleby”, “Benito Cereno”, and “Billy Budd”",
+   "author": "McQuitty, Robert Alan",
+   "date": "1968",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in SURFACE at Syracuse University.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/400592081",
+   "tags": [
+    "criticism",
+    "race",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-baker-1968-art-director-s",
+   "title": "An art director's approach to a production of Louis O. Coxe and Robert Chapman's Billy Budd",
+   "author": "Baker, John Robert, 1940-",
+   "date": "1968",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, The University of Arizona..",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/338790518",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-martin-1968-billy-budd-benito",
+   "title": "Billy Budd [and] Benito Cereno",
+   "author": "Martin, Sister, O.P.",
+   "date": "1968",
+   "kind": "other",
+   "lang": "en",
+   "note": "Study guide prepared for Barnes & Noble. 96 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/68021333",
+   "tags": [
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-emerson-1968-billy-budd-typee",
+   "title": "Billy Budd and Typee notes",
+   "author": "Emerson, O. B.",
+   "date": "1968",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Lincoln, Nebr. Cliffs notes.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306715999",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-glossop-1968-billy-budd-op",
+   "title": "Billy Budd op. 50",
+   "author": "Glossop, Peter 1928-2008; Chorus, Ambrosian Opera; Britten, Benjamin 1913-1976; Langdon, Michael 1920-1991; Pears, Peter 1910-1986; Shirley-Quirk, John 1931-2014; Orchestra, London Symphony",
+   "date": "1968",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: New York, N.Y. London.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307713207"
+  },
+  {
+   "id": "lib-britten-1968-billy-budd-op",
+   "title": "Billy Budd op. 50 ; adapted from the story by Herman Melville",
+   "author": "Britten, Benjamin 1913-1976; Langdon, Michael 1920-1991; Lumsden, Norman 1906-2001; Pears, Peter 1910-1986; Shirley-Quirk, John 1931-2014; Orchestra, London Symphony; Forster, E. M. 1879-1970; Burgess, Russell 1931-1979; Glossop, Peter 1928-2008; McCarthy, John 1919-2009; Chorus, Ambrosian Opera; School, Wandsworth; Crozier, Eric 1914-1994; Tear, Robert 1939-2011; Bryn-Jones, Delme; Brannigan, Owen 1908-1973",
+   "date": "1968",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in London Decca.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307713202",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-wood-1968-religious-allegory-herman",
+   "title": "Religious allegory in Herman Melville's Billy Budd",
+   "author": "Wood, William Brittingham",
+   "date": "1968",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, Virginia Polytechnic Institute.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/163664652",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "theology",
+    "race",
+    "naval-history",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-macquitty-1969-historical-approach-melville",
+   "title": "A historical approach to Melville's \"Bartleby\", \"Benito Cereno\", and \"Billy Budd\"",
+   "author": "MacQuitty, Robert A.",
+   "date": "1969",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Tylers Green, High Wycombe Univ. Microfilms.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307589833",
+   "tags": [
+    "criticism",
+    "race"
+   ]
+  },
+  {
+   "id": "lib-pascnyn-1969-study-evil-melville",
+   "title": "A Study of Evil in Melville's Bartleby the Scrivener Benito Cereno and Billy Budd",
+   "author": "Pascnyn, Kwitoslawa",
+   "date": "1969",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, Old Dominion University.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.25777/s5r1-tr82",
+   "tags": [
+    "criticism",
+    "race"
+   ]
+  },
+  {
+   "id": "lib-bergquist-1969-metamorphosis-billy-budd",
+   "title": "The Metamorphosis of Billy Budd",
+   "author": "Bergquist, Peter Lord",
+   "date": "1969",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/150968327"
+  },
+  {
+   "id": "lib-melville-1970-billy-budd-other",
+   "title": "Billy Budd, and Other Stories",
+   "author": "Melville, Herman; Ferguson, Alfred",
+   "date": "1970",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Introduction by Alfred Ferguson, suggestions for reading and discussion by Allen Kirschner.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/76016646",
+   "tags": [
+    "editing",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-melville-1970-billy-budd-doverne",
+   "title": "Billy Budd. Dôverné rozprávanie",
+   "author": "Melville, Herman; Mihal, Ján",
+   "date": "1970",
+   "kind": "edition",
+   "lang": "sk",
+   "note": "Slovak translation by Ján Mihal with an afterword by Zdeno Pištek. Bratislava.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/75572209",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-locke-1970-implications-holy-trinity",
+   "title": "The Implications of the Holy Trinity & Its Antithesis in Billy Budd",
+   "author": "Locke, Nancy",
+   "date": "1970",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in TopSCHOLAR®.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/14408302",
+   "tags": [
+    "criticism",
+    "theology",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-springer-1970-merrill-studies-billy",
    "title": "The Merrill Studies in Billy Budd",
    "author": "Springer, Haskell S.",
@@ -1346,6 +2115,78 @@
    ]
   },
   {
+   "id": "lib-gilstrap-1971-critical-examination-periodical",
+   "title": "A Critical Examination of Periodical Criticism of Billy Budd from 1940 to 1970",
+   "author": "Gilstrap, Jess; null, null; Gilstrap, Jess",
+   "date": "1971",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, FHSU Scholars Repository.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.58809/uifk4540",
+   "tags": [
+    "criticism",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-stern-1971-billy-budd-herman",
+   "title": "Billy Budd (Herman Melville) [sound recording]",
+   "author": "Stern, Milton R.",
+   "date": "1971",
+   "kind": "lecture",
+   "lang": "en",
+   "note": "Cassette lecture in the series 19th Century American Writers, no. 524.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/72750467",
+   "tags": [
+    "pedagogy",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-occhiogrosso-1971-billy-budd-reader",
+   "title": "Billy Budd With reader's guide",
+   "author": "Occhiogrosso, Benedetto; Melville, Herman 1819-1891",
+   "date": "1971",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in New York, N.Y. Amsco School Publ..",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306715959",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-brown-1971-holy-oblivion-reading",
+   "title": "Holy oblivion : a reading of Herman Melville\\u27s Billy Budd, sailor. --",
+   "author": "Brown, David John",
+   "date": "1971",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Simon Fraser University.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/170212108",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-han-1971-innocence-natural-fepravity",
+   "title": "Innocence and Natural Fepravity in «Paradise lost»,«Phèdre», and «Billy Budd»",
+   "author": "Han, Pierre",
+   "date": "1971",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in PERSEE Program.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.3406/rbph.1971.6109",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-vincent-1971-twentieth-century-interpretations",
    "title": "Twentieth Century Interpretations of Billy Budd: A Collection of Critical Essays",
    "author": "Vincent, Howard P.",
@@ -1358,6 +2199,51 @@
    "tags": [
     "criticism",
     "casebook"
+   ]
+  },
+  {
+   "id": "lib-friedman-1973-melville-s-billy",
+   "title": "Melville's Billy Budd: 'A Sort of Upright Barbarian\"",
+   "author": "FRIEDMAN, IRENE",
+   "date": "1973",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of Toronto Press Inc. (UTPress).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.3138/cras-004-01-07",
+   "tags": [
+    "criticism",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-merrill-1973-narrative-voice-billy",
+   "title": "The Narrative Voice in Billy Budd",
+   "author": "Merrill, Robert",
+   "date": "1973",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Duke University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00267929-34-3-283",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-crozier-1974-billy-budd",
+   "title": "Billy Budd",
+   "author": "Crozier, Eric; Melville, Herman; Britten, Benjamin; Forster, Edward Morgan; del Liceu, Societat del Gran Teatre; Pamias, Juan A.",
+   "date": "1974",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Barcelona :.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/39124245",
+   "tags": [
+    "criticism",
+    "britten"
    ]
   },
   {
@@ -1410,6 +2296,132 @@
    ]
   },
   {
+   "id": "lib-tomlinson-1975-glass-ship-innocence",
+   "title": "The Glass Ship: Innocence and Authority in Redburn, Pierre and Billy Budd",
+   "author": "Tomlinson, Howard Holmes",
+   "date": "1975",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/151144605"
+  },
+  {
+   "id": "lib-scalera-mcclintock-1976-billy-budd-e",
+   "title": "Billy Budd e la negazione dell'innocenza",
+   "author": "Scalera McClintock, Giuliana",
+   "date": "1976",
+   "kind": "book",
+   "lang": "it",
+   "note": "Italian monograph on Billy Budd and innocence. 115 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/76485305",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-fussell-1976-billy-budd-melville",
+   "title": "\"Billy Budd\": Melville's Happy Ending",
+   "author": "Fussell, Mary Everett Burton",
+   "date": "1976",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in JSTOR.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/25599996",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-floyd-1977-billy-budd-psychological",
+   "title": "Billy Budd: a psychological autopsy.",
+   "author": "Floyd, N M",
+   "date": "1977",
+   "kind": "article",
+   "lang": "en",
+   "note": "The American imago; a psychoanalytic journal for the arts and sciences 34.1, pp. 28-49. Article in The American imago; a psychoanalytic journal for the arts and sciences 34.1, pp. 28-49.",
+   "licence": "In copyright",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/879000/",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-dement-1977-horologicals-chronometricals-structure",
+   "title": "Horologicals and chronometricals as structure : Pierre, \"The Encantadas,\" and Billy Budd",
+   "author": "Dement, Lonnie Vernon",
+   "date": "1977",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/135543591",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-mohr-1977-fall-fall-billy",
+   "title": "The Fall in The Fall, Billy Budd and \"Young Goodman Brown\"",
+   "author": "Mohr, Linda Stephenson",
+   "date": "1977",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/128345783",
+   "tags": [
+    "criticism",
+    "theology",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-schneider-1978-melville-s-use",
+   "title": "Melville's Use of the Vere-Fairfax Lineage in Billy Budd",
+   "author": "Schneider, Joseph Leondar",
+   "date": "1978",
+   "kind": "article",
+   "lang": "en",
+   "note": "Names 26.2. Article in Names 26.2.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1179/nam.1978.26.2.129",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-crozier-1979-billy-budd-adapted",
+   "title": "Billy Budd (adapted from the story by Herman Melville)",
+   "author": "Crozier, Eric; Forster, E. M.",
+   "date": "1979",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in Columbia University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.7312/herb92208-018",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1979-billy-budd-other",
+   "title": "Billy Budd- and other tales",
+   "author": "Melville, Herman-1819-",
+   "date": "1979",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in A Signet Classic New American.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/10461132",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-scorza-1979-time-before-steamships",
    "title": "In the Time Before Steamships: Billy Budd, the Limits of Politics, and Modernity",
    "author": "Scorza, Thomas J.",
@@ -1438,6 +2450,272 @@
     "criticism",
     "deconstruction",
     "reading"
+   ]
+  },
+  {
+   "id": "lib-shyer-1979-opera-new-york",
+   "title": "Opera in New York: Billy Budd at the Met",
+   "author": "Shyer, Laurence",
+   "date": "1979",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Duke University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00440167-10-2-137",
+   "tags": [
+    "criticism",
+    "opera"
+   ]
+  },
+  {
+   "id": "lib-anderson-1980-billy-budd-caine",
+   "title": "Billy Budd, The Caine Mutiny, and Fiedler's Contingency Model : an inferential analysis of leadership",
+   "author": "Anderson, Lane Schofield; Greensboro, NC DOCKS at The University of North Carolina at",
+   "date": "1980",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/80073466",
+   "tags": [
+    "naval-history"
+   ]
+  },
+  {
+   "id": "lib-gress-1980-herman-melville-paul",
+   "title": "Herman Melville and Paul Tillich: An Ontological Interpretation of Billy Budd",
+   "author": "Gress, Michael E.",
+   "date": "1980",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in The Keep.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/50645818",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere",
+    "claggart",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-sheldon-1980-melville-s-billy",
+   "title": "Melville's Billy Budd",
+   "author": "Sheldon, Leslie E.",
+   "date": "1980",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/00144940.1980.9939327",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-coxe-1981-billy-budd-based",
+   "title": "Billy Budd Based on a novel by Herman Melville",
+   "author": "Coxe, Louis Osborne; Chapman, Robert",
+   "date": "1981",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in New York Hill & Wang.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306257997",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-aytur-1981-meaning-billy-budd",
+   "title": "The meaning of Billy Budd",
+   "author": "Aytür, Necla",
+   "date": "1981",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Selçuk Üniversitesi Edebiyat Fakültesi.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/276130157",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-1981-tragedy-captain-vere",
+   "title": "The Tragedy of Captain Vere's Judgment in Billy Budd",
+   "author": "倉橋, 洋子",
+   "date": "1981",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 東海学園女子短期大学.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/350089618",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-kolenda-1982-innocence-sacrificed-melvilles",
+   "title": "Innocence Sacrificed: Melville’s Billy Budd",
+   "author": "Kolenda, Konstantin",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Springer Science and Business Media LLC.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/978-1-349-05961-4_4",
+   "tags": [
+    "criticism",
+    "theology"
+   ]
+  },
+  {
+   "id": "lib-coffler-1982-melville-s-billy",
+   "title": "Melville's Billy Budd, Sailor",
+   "author": "Coffler, Gail H.",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/00144940.1982.9939358",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-1983-study-melville-apos",
+   "title": "(A) Study on Melville&apos;s Billy Budd",
+   "author": "金玉禮",
+   "date": "1983",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, 이화여자대학교 대학원.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/373199883",
+   "tags": [
+    "criticism",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-nori-1983-avventure-del-discorso",
+   "title": "Le avventure del discorso in \"Billy Budd\"",
+   "author": "NORI, Giuseppe",
+   "date": "1983",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, place:ROMA.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/127700978",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-haroun-1983-mythic-element-melville",
+   "title": "The mythic element in Melville\\u27s Billy Budd and Conrad\\u27s Heart of darkness",
+   "author": "Haroun, Magda",
+   "date": "1983",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in AUC Knowledge Fountain.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/154170213",
+   "tags": [
+    "criticism",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-1984-billy-budd",
+   "title": "Billy Budd : 三つの主題をめぐって",
+   "author": "即席, 水雄",
+   "date": "1984",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 山口大学文理学部・教育学部・教養部.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/20739562",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-laskin-1984-herman-melville-s",
+   "title": "Herman Melville's Billy Budd & Typee",
+   "author": "Laskin, David 1953-",
+   "date": "1984",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Woodbury, NY u.a. Barron.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/307158524",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-domnarski-1984-law-literature-criticism",
+   "title": "Law-Literature Criticism: Charting a Desirable Course With Billy Budd",
+   "author": "Domnarski, William",
+   "date": "1984",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Journal of Legal Education.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/376465924",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-1984-melville-european-romanticism",
+   "title": "Melville and European romanticism: studies on Melville's relations to major European romantic writers",
+   "author": "",
+   "date": "1984",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of Virginia.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.18130/v3-n80j-xx16",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "theology",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-1984-more-effective-than",
+   "title": "More Effective Than Words: The Role of Non-Verbal Communication in Billy Budd",
+   "author": "",
+   "date": "1984",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Walter de Gruyter GmbH.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1515/9783110869897-060",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1984-pierre-israel-potter-2",
+   "title": "Pierre; Israel Potter;The Piazza Talels;The Confidence-Man; Uncollected Prose ; Billy Budd Sailor",
+   "author": "Melville ,Herman",
+   "date": "1984",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in The Library of Amerika.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/10463139",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -1474,6 +2752,34 @@
    ]
   },
   {
+   "id": "lib-melville-1985-billy-budd",
+   "title": "Billy Budd",
+   "author": "Melville, Herman 1819-1891",
+   "date": "1985",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Hamburg Ed. Maritim.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306534877",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-britten-1985-billy-budd-opus",
+   "title": "Billy Budd opus 50 ; an opera in two acts",
+   "author": "Britten, Benjamin 1913-1976; Forster, E. M. 1879-1970; Unger, Alfred H.; Melville, Herman 1819-1891",
+   "date": "1985",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: London u.a. Boosey & Hawkes.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306257582",
+   "tags": [
+    "opera"
+   ]
+  },
+  {
    "id": "lib-mcfarland-1985-sea-dangers-affair",
    "title": "Sea Dangers: The Affair of the Somers",
    "author": "McFarland, Philip James",
@@ -1486,6 +2792,102 @@
    "tags": [
     "somers",
     "mackenzie"
+   ]
+  },
+  {
+   "id": "lib-gonyer-1986-dilemma-law-justice",
+   "title": "The dilemma of law and justice in Melville\\u27s “Billy Budd”",
+   "author": "Gonyer, Jacqueline Good",
+   "date": "1986",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in ScholarWorks@UTEP.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/351873230",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-melville-1987-billy-budd-sailor",
+   "title": "Billy Budd, Sailor: An Inside Narrative",
+   "author": "Melville, Herman; Alterman, Benjamin; Alterman, Deborah",
+   "date": "1987",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Limited edition of 185 copies with wood engravings by Deborah Alterman, text from Hayford and Sealts 1962.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/91123795",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-barclay-1987-call-me-billy",
+   "title": "Call me Billy Budd: An exploration of being at a loss for words.",
+   "author": "Barclay, Michael W.",
+   "date": "1987",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in American Psychological Association (APA).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/08873267.1987.9976796",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-posner-1987-billy-budd-buchenwald",
+   "title": "From Billy Budd to Buchenwald",
+   "author": "Posner, Richard",
+   "date": "1987",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/311252450",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-bloom-1987-herman-melville-s",
+   "title": "Herman Melville's Billy Budd, Benito Cereno, Bartleby the Scrivener, and Other Tales",
+   "author": "Bloom, Harold",
+   "date": "1987",
+   "kind": "book",
+   "lang": "en",
+   "note": "Collection of seven critical essays on Melville's shorter fiction, including Billy Budd and The Piazza Tales, edited with an introduction by Bloom.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/86029960",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1988-billy-budd",
+   "title": "Billy Budd",
+   "author": "Melville, Herman",
+   "date": "1988",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Aerie Books.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/83289960"
+  },
+  {
+   "id": "lib-guild-book-1988-bound-vary-guild",
+   "title": "Bound to Vary: A Guild of Book Workers Exhibition of Unique Fine Bindings on the Married Mettle Press Limited Edition of Billy Budd, Sailor",
+   "author": "Guild of Book Workers",
+   "date": "1988",
+   "kind": "other",
+   "lang": "en",
+   "note": "Exhibition catalogue for a show at the Metropolitan Museum of Art, 1987-88, and ten other institutions, 1988-89. Bindings on the 1987 Married Mettle Press edition.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2010545432",
+   "tags": [
+    "reception"
    ]
   },
   {
@@ -1539,6 +2941,21 @@
    ]
   },
   {
+   "id": "lib-sedgwick-1989-billy-budd-after",
+   "title": "Billy Budd: after the homosexual",
+   "author": "Sedgwick, Eve Kosofsky",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/367307239",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
    "id": "lib-thomas-1989-billy-budd-untold",
    "title": "Billy Budd and the Untold Story of the Law",
    "author": "Thomas, Brook",
@@ -1569,6 +2986,49 @@
     "law-and-literature",
     "vere",
     "trial"
+   ]
+  },
+  {
+   "id": "lib-posner-1989-comment-richard-weisberg-2",
+   "title": "Comment on Richard Weisberg\\u27s Interpretation of Billy Budd",
+   "author": "Posner, Richard A.",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Chicago Unbound.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/407684164",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-milder-1989-critical-essays-melville",
+   "title": "Critical essays on Melville's Billy Budd, sailor",
+   "author": "Milder, Robert",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Boston, Mass. Hall.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306947018",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-mailloux-1989-judging-judge-billy",
+   "title": "Judging the Judge: Billy Budd and Proof to All Sophistries",
+   "author": "Mailloux, Steven J.",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Digital Commons at Loyola Marymount University and Loyola Law School.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/74214488",
+   "tags": [
+    "criticism",
+    "law-and-literature"
    ]
   },
   {
@@ -1605,6 +3065,63 @@
    ]
   },
   {
+   "id": "lib-1991-chapter-eight-billy",
+   "title": "Chapter Eight. BILLY BUDD",
+   "author": "",
+   "date": "1991",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Walter de Gruyter GmbH.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1515/9781400862146.155",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-williams-1992-billy-budd",
+   "title": "Billy Budd",
+   "author": "Williams, Guy R.",
+   "date": "1992",
+   "kind": "other",
+   "lang": "en",
+   "note": "Stage adaptation for young adult performers. 32 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/91050833",
+   "tags": [
+    "stage",
+    "adaptation"
+   ]
+  },
+  {
+   "id": "lib-gaakeer-1992-tragische-ironie-van",
+   "title": "De Tragische Ironie van Billy Budd, Sailor",
+   "author": "Gaakeer, Jeanne",
+   "date": "1992",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Gouda Quint.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/392249931",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-munk-1992-nomine-diaboli-extreme",
+   "title": "In Nomine Diaboli: An Extreme Interpretation of Billy Budd",
+   "author": "Munk, Linda",
+   "date": "1992",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Springer Science and Business Media LLC.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/978-1-349-22575-0_3",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-cooke-1993-benjamin-britten-billy",
    "title": "Benjamin Britten, Billy Budd",
    "author": "Cooke, Mervyn; Reed, Philip",
@@ -1622,6 +3139,63 @@
    ]
   },
   {
+   "id": "lib-claridge-1993-reading-billy-budd",
+   "title": "Reading 'Billy Budd' - Parker,H",
+   "author": "Claridge, G. Henry",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Oxford univ press united kingdom.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/res/xliv.176.601",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-colquhoun-1993-importance-supportive-environment",
+   "title": "The importance of a supportive environment for educational involvement: Billy Budd\\u27s perspective",
+   "author": "Colquhoun, Jason D",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in CommonKnowledge.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/61673204",
+   "tags": [
+    "criticism",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-spender-1993-watching-billy-budd",
+   "title": "Watching Billy Budd",
+   "author": "Spender, Stephen",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Springer Science and Business Media LLC.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/978-1-349-12850-1_31",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-michael-1994-billy-budd-allegory",
+   "title": "Billy Budd: An Allegory on the Rights of Man",
+   "author": "Michael, Colette",
+   "date": "1994",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Springer Netherlands.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/978-94-011-1946-7_17",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-phillips-1994-billy-budd-as",
    "title": "Billy Budd as Anti-Homophobic Text",
    "author": "Phillips, Kathy J.",
@@ -1634,6 +3208,306 @@
    "tags": [
     "criticism",
     "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-birk-1994-fated-boy-karpman",
+   "title": "\"Fated boy\": Karpman's drama triangle and Melville's Billy Budd.",
+   "author": "Birk, J F",
+   "date": "1994",
+   "kind": "article",
+   "lang": "en",
+   "note": "Literature and medicine 13.2, pp. 274-83. Article in Literature and medicine 13.2, pp. 274-83.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lm.2010.0025",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-dorsey-1994-making-new-work",
+   "title": "MAKING A NEW WORK : MELVILLE, BRITTEN, AND BILLY BUDD",
+   "author": "Dorsey, KLEITZ",
+   "date": "1994",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/68500114",
+   "tags": [
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-dyer-1994-narcissism-novels-herman",
+   "title": "Narcissism in the novels of Herman Melville.",
+   "author": "Dyer, S K",
+   "date": "1994",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Psychiatric quarterly 65.1, pp. 15-30. Article in The Psychiatric quarterly 65.1, pp. 15-30.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/bf02354329",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-1995-billy-budd-posthumous",
+   "title": "Billy Budd (posthumous)",
+   "author": "",
+   "date": "1995",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511570445.017",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-birk-1995-herman-melville-s",
+   "title": "Herman Melville's Billy Budd and the Cybernetic Imagination",
+   "author": "Birk, John F.",
+   "date": "1995",
+   "kind": "book",
+   "lang": "en",
+   "note": "Monograph; catalogue subjects include Melville's knowledge of technology, literature and technology in the nineteenth century, cybernetics and androids in literature. 255 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/95000723",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-aydnoglu-1995-sea-voyage-conrad",
+   "title": "The Sea Voyage in Conrad's Heart of Darkness and Melville's Billy Budd",
+   "author": "Aydınoğlu, Nazife",
+   "date": "1995",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Dokuz Eylül Üniversitesi Buca Eğitim Fakültesi.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/58381034",
+   "tags": [
+    "criticism",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-cruz-1996-des-encontros-com",
+   "title": "(Des)encontros com Adão : Alusões Bíblicas em Billy Budd, Sailor de Herman Melville",
+   "author": "Cruz, Susana Maria dos Santos R. da",
+   "date": "1996",
+   "kind": "thesis",
+   "lang": "pt",
+   "note": "Thesis, Universidade do Porto.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.34626/n322-kb37",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-minkowitz-1996-herman-melville-s",
+   "title": "Herman Melville's Billy Budd",
+   "author": "Minkowitz, Miriam",
+   "date": "1996",
+   "kind": "other",
+   "lang": "en",
+   "note": "Study guide, illustrated by Michael Kupka. 84 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/95072134",
+   "tags": [
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-bloom-1996-herman-melville-s",
+   "title": "Herman Melville's Billy Budd, Benito Cereno, & Bartleby the Scrivener",
+   "author": "Bloom, Harold",
+   "date": "1996",
+   "kind": "other",
+   "lang": "en",
+   "note": "A Contemporary Literary Views book: biography of the author, thematic and structural analysis, critical extracts and an index of themes, edited by Bloom. 80 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/95045113",
+   "tags": [
+    "pedagogy",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-lawry-1996-justice-billy-budd",
+   "title": "Justice in Billy Budd",
+   "author": "Lawry, Robert P.",
+   "date": "1996",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Case Western Reserve University School of Law Scholarly Commons.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/38495238",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-1996-tragedy-modern-rationalism",
+   "title": "(The) tragedy of modern rationalism as seen in Billy Budd, sailor",
+   "author": "신경자",
+   "date": "1996",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, 이화여자대학교.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/373197427",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "empire",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-koguchi-1997-symbolical-reading-billy",
+   "title": "A SYMBOLICAL READING OF BILLY BUDD",
+   "author": "KOGUCHI, Hiroyuki",
+   "date": "1997",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 岐阜経済大学学会.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/376727576",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-saunders-1997-billy-budd-federal",
+   "title": "Billy Budd and the Federal Sentencing Mandates",
+   "author": "Saunders, Kevin W.",
+   "date": "1997",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in unknown.",
+   "licence": "CC BY-NC 4.0",
+   "url": "https://doi.org/10.17613/58gj-0p97",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-melville-1997-billy-budd-sailor",
+   "title": "Billy Budd, Sailor and Selected Tales",
+   "author": "Melville, Herman; Milder, Robert",
+   "date": "1997",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Edited with an introduction and notes by Robert Milder. xlvii, 410 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/97008211",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-barba-1997-billy-budd-una",
+   "title": "Billy Budd, una història de llops i anyells",
+   "author": "Barba, Carles",
+   "date": "1997",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/333356582",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-troy-1997-its-me-not",
+   "title": "Its me, not the sentence they'll suspend - Melville's \"Billy Budd\"",
+   "author": "Troy, Mark",
+   "date": "1997",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/374895974",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-1997-discrepant-chain-billy",
+   "title": "The Discrepant Chain in Billy Budd, Sailor",
+   "author": "杉浦, 亮; 12103; Sugiura, Ryo; 12102; スギウラ, リョウ; 12104",
+   "date": "1997",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/126425442",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-1998-billy-budd-other",
+   "title": "Billy Budd and Other Tales",
+   "author": "Melville, Herman; Oates, Joyce Carol",
+   "date": "1998",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Signet Classic with an introduction by Joyce Carol Oates and a revised bibliography, copyright 1948 text.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/97062337",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-1998-billy-budd-bartleby",
+   "title": "Billy Budd, Bartleby, the scrivener, etc",
+   "author": "前田, 禮子; マエダ, レイコ; MAEDA, Reiko",
+   "date": "1998",
+   "kind": "other",
+   "lang": "ja",
+   "note": "Listed in CORE: 大手前女子大学.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/166674292"
+  },
+  {
+   "id": "lib-melville-1999-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Melville, Herman; Patell, Cyrus R. K.",
+   "date": "1999",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Edition with an introduction by Cyrus R. K. Patell.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/00503334",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-hindley-1999-eros-life-death",
+   "title": "Eros in life and death: Billy Budd and Death in Venice",
+   "author": "Hindley, Clifford",
+   "date": "1999",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Cambridge University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/ccol9780521573849.010",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -1653,6 +3527,140 @@
    ]
   },
   {
+   "id": "lib-braverman-1999-melville-s-billy",
+   "title": "Melville's BILLY BUDD, SAILOR",
+   "author": "Braverman, Albert S.",
+   "date": "1999",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/00144949909596994",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-budd-1999-power-chance-rule",
+   "title": "Power, chance and the rule of law – Billy Budd, Sailor",
+   "author": "Budd, Billy",
+   "date": "1999-06-13",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511549342.006",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-schlavensky-1999-journey-s-end",
+   "title": "The Journey's End, Herman Melville in Billy Budd, Sailor, an Inside Narrative",
+   "author": "Schlavensky, Linda",
+   "date": "1999",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/362901483",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-girardi-2000-billy-budd-come",
+   "title": "Billy Budd come Desdemona?",
+   "author": "GIRARDI, MICHELE",
+   "date": "2000",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: place:Venezia.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/66151884",
+   "tags": [
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-gaakeer-2000-verborgenheid-ongerechtigheid-over",
+   "title": "De verborgenheid der ongerechtigheid. Over: Herman Melville. Billy Budd, Sailor",
+   "author": "Gaakeer, Jeanne",
+   "date": "2000",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Boom Juridische Uitgevers.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/383954285",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-yoder-2000-fated-boy-billy",
+   "title": "Fated Boy: Billy Budd and the Laws of War",
+   "author": "Yoder, Edwin M., Jr.",
+   "date": "2000",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in DOCS@RWU.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/290442424",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-2000-herman-melville-s",
+   "title": "Herman Melville's Billy Budd",
+   "author": "",
+   "date": "2000",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of Virginia.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.18130/v3232q",
+   "tags": [
+    "criticism",
+    "naval-history",
+    "editing",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-melville-2000-moby-dick-billy",
+   "title": "Moby-Dick, Billy Budd, and Other Writings",
+   "author": "Melville, Herman",
+   "date": "2000",
+   "kind": "edition",
+   "lang": "en",
+   "note": "First Library of America college edition. 996 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/99057965",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-phillips-2000-one-those-aliens",
+   "title": "''One of Those Aliens'': Empire and Homosexuality in Melville's Billy Budd",
+   "author": "Phillips, Kathy J.",
+   "date": "2000",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/104021300750022580",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "empire"
+   ]
+  },
+  {
    "id": "lib-goldberg-2000-somers-mutiny-1842",
    "title": "The Somers mutiny of 1842",
    "author": "Goldberg, Angus Ephraim",
@@ -1665,6 +3673,77 @@
    "tags": [
     "somers",
     "mackenzie"
+   ]
+  },
+  {
+   "id": "lib-yoder-2001-melvilles-billy-budd",
+   "title": "Melville’s Billy Budd and the Trials of Captain Vere",
+   "author": "Yoder, Edwin M., Jr.",
+   "date": "2001",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Scholarship Commons.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/317673654",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-2001-melville-billy-budd",
+   "title": "Melville의 Billy Budd, Sailor 연구 : 절대성 부재 시대의 법과 사회와 개인",
+   "author": "이현정",
+   "date": "2001",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, 서울대학교 대학원.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/83797502",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-morra-2002-song-not-without",
+   "title": "A song not without words: singing \"Billy Budd\"",
+   "author": "Morra, Irene",
+   "date": "2002",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Rodopi.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/387357402",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-whittall-2002-billy-budd",
+   "title": "Billy Budd",
+   "author": "Whittall, Arnold",
+   "date": "2002",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Oxford University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/gmo/9781561592630.article.o009276",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-reynolds-2002-billy-budd-american",
+   "title": "Billy Budd and American labor unrest: the case for striking back",
+   "author": "Reynolds, Larry J.",
+   "date": "2002-07-25",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511613746.003",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -1684,6 +3763,21 @@
    ]
   },
   {
+   "id": "lib-wenke-2002-melville-s-indirection",
+   "title": "Melville's indirection: Billy Budd , the genetic text, and “the deadly space between”",
+   "author": "Wenke, John",
+   "date": "2002-07-25",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511613746.006",
+   "tags": [
+    "criticism",
+    "genetic-text"
+   ]
+  },
+  {
    "id": "lib-yannella-2002-new-essays-billy",
    "title": "New Essays on Billy Budd",
    "author": "Yannella, Donald",
@@ -1697,6 +3791,68 @@
     "criticism",
     "genetic-text",
     "hayford-sealts"
+   ]
+  },
+  {
+   "id": "lib-muller-2002-recht-und-literatur",
+   "title": "Recht und Literatur als friedlose Konstellation",
+   "author": "Müller, Wolfgang Hans",
+   "date": "2002",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in DataCite: Freie Universität Berlin.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.17169/refubium-15485",
+   "tags": [
+    "law-and-literature",
+    "politics",
+    "narrative",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-836776-2002-recognizing-billy-budd",
+   "title": "Recognizing 'Billy Budd' in 'Beau Travail': epistemology and hermeneutics of an auteurist 'free' adaptation",
+   "author": "(836776), Catherine Grant",
+   "date": "2002",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/286639448",
+   "tags": [
+    "criticism",
+    "film"
+   ]
+  },
+  {
+   "id": "lib-coffler-2002-religion-myth-meaning",
+   "title": "Religion, myth, and meaning in the art of Billy Budd, Sailor",
+   "author": "Coffler, Gail",
+   "date": "2002-07-25",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Cambridge University Press (CUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511613746.004",
+   "tags": [
+    "criticism",
+    "theology"
+   ]
+  },
+  {
+   "id": "lib-whitesell-2002-review-philip-rupprecht",
+   "title": "Review of Philip Rupprecht. 2001. Britten’s Musical Language. Cambridge: Cambridge University Press",
+   "author": "Whitesell, Lloyd",
+   "date": "2002",
+   "kind": "review",
+   "lang": "en",
+   "note": "Current Musicology no. 74, pp. No 74 (2002): Current Musicology. Review in Current Musicology no. 74, pp. No 74 (2002): Current Musicology.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.7916/cm.v0i74.4913",
+   "tags": [
+    "criticism",
+    "britten"
    ]
   },
   {
@@ -1732,6 +3888,597 @@
    ]
   },
   {
+   "id": "lib-nori-2003-billy-budd",
+   "title": "Billy Budd",
+   "author": "NORI, Giuseppe",
+   "date": "2003",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, place:Torino.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/30965806",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-snodgrass-2003-billy-budd-typee",
+   "title": "Billy Budd & Typee: Notes",
+   "author": "Snodgrass, Mary Ellen",
+   "date": "2003",
+   "kind": "other",
+   "lang": "en",
+   "note": "Study guide covering both works, new edition. 77 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2003272381",
+   "tags": [
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-marvel-2003-readings-billy-budd",
+   "title": "Readings on Billy Budd",
+   "author": "Marvel, Laura",
+   "date": "2003",
+   "kind": "book",
+   "lang": "en",
+   "note": "Edited collection of criticism on Billy Budd for students. 186 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2002072573",
+   "tags": [
+    "criticism",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-gay-2004-herman-melville-benjamin",
+   "title": "De Herman Melville à Benjamin Britten : Billy Budd ou les liaisons incertaines",
+   "author": "Gay, Marie-Agnès",
+   "date": "2004",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Publication de l'Université Jean Moulin - Lyon 3.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/405019268",
+   "tags": [
+    "criticism",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-ramirez-2004-essay-voiceless-billy",
+   "title": "ESSAY: Voiceless Billy Budd: Melville\\u27s Tribute to the Sixth Amendment",
+   "author": "Ramirez, Juan, Jr.; Ronner, Amy D.",
+   "date": "2004",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in CWSL Scholarly Commons.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/38402838",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-takeuchi-2004-language-body-sexuality",
+   "title": "Language, Body, and Sexuality in Billy Budd",
+   "author": "TAKEUCHI, Katsunori; 1000040253918; 竹内, 勝徳; 3635",
+   "date": "2004",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Kagoshima University.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/374608538",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-gilabert-barbera-2005-billy-budd-h",
+   "title": "Billy Budd: from H. Melville to E. M. Forster, or Plutarch's way to Plató",
+   "author": "Gilabert Barberà, Pau",
+   "date": "2005",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/6713438",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "queer-reading",
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-russell-2005-law-literature-herman",
+   "title": "Law and Literature in Herman Melville's Moby Dick and Billy Budd",
+   "author": "Russell, Chandra",
+   "date": "2005",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/151142337",
+   "tags": [
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-adi-nugroho-2005-self-deception-captain",
+   "title": "The self-deception of captain vere in Herman Melville`s Billy Budd Foretopman",
+   "author": "Adi Nugroho, Prananto Nindyo",
+   "date": "2005",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/337046104",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-melville-2006-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Melville, Herman; Helal, Kathleen",
+   "date": "2006",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Pocket Books paperback with supplementary material by Kathleen Helal.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2006299200",
+   "tags": [
+    "editing",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-harris-2006-i-limiti-del",
+   "title": "I limiti del paradigma giuridico nei racconti a Melville: Bartleby Lo Scrivano e Billy Budd",
+   "author": "Harris, Pamela",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/354284300",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-vermeulen-2006-musikale-karakterisering-benjamin",
+   "title": "Musikale karakterisering in Benjamin Britten se opera Billy Budd",
+   "author": "Vermeulen, Karen",
+   "date": "2006",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, North-West University.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/37628495",
+   "tags": [
+    "criticism",
+    "vere",
+    "claggart",
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-brett-2006-salvation-seabritten-s",
+   "title": "Salvation at SeaBritten's Billy Budd",
+   "author": "Brett, Philip",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of California Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1525/california/9780520246096.003.0005",
+   "tags": [
+    "criticism",
+    "theology",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-fuller-2006-far-shining-sail",
+   "title": "The Far-Shining Sail: A Glimpse of Salvation in Britten's Billy Budd",
+   "author": "Fuller, Michael",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in JSTOR.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/25434380",
+   "tags": [
+    "criticism",
+    "theology",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-marra-2006-una-giustizia-senza",
+   "title": "Una giustizia senza diritti. La condanna di Billy Budd",
+   "author": "MARRA, REALINO",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in place:Bologna.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/304607088",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-krasker-2007-billy-budd-281239",
+   "title": "Billy Budd 281239",
+   "author": "Krasker, Robert,",
+   "date": "2007",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/157359108",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-mendus-2007-innocent-before-god",
+   "title": "Innocent Before God: Politics, Morality and the Case of Billy Budd",
+   "author": "Mendus, Susan",
+   "date": "2007",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Cambridge University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511599736.003",
+   "tags": [
+    "criticism",
+    "politics",
+    "theology"
+   ]
+  },
+  {
+   "id": "lib-wenke-2007-melville-s-transhistorical",
+   "title": "Melville's Transhistorical Voice: Billy Budd, Sailor and the Fragmentation of Forms",
+   "author": "Wenke, John",
+   "date": "2007",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Wiley.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1002/9780470996782.ch32",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-vermeulen-2007-musikale-narratief-benjamin",
+   "title": "Musikale narratief in Benjamin Britten se opera Billy Budd",
+   "author": "Vermeulen, K.; Spies, B.",
+   "date": "2007",
+   "kind": "article",
+   "lang": "af",
+   "note": "Literator 28.1, pp. 85-104. Article in Literator 28.1, pp. 85-104.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.4102/lit.v28i1.152",
+   "tags": [
+    "criticism",
+    "naval-history",
+    "vere",
+    "claggart",
+    "narrative",
+    "opera"
+   ]
+  },
+  {
+   "id": "lib-perez-2007-queer-afterlife-billy",
+   "title": "The Queer Afterlife of Billy Budd",
+   "author": "Pérez, Hiram",
+   "date": "2007",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in NYU Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.18574/nyu/9781479818655.003.0002",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-2007-truth-uncompromisingly-told",
+   "title": "Truth uncompromisingly told : Narrative Subversion in Billy Budd, Sailor",
+   "author": "米山, 正文; Yoneyama, Masafumi; ヨネヤマ, マサフミ",
+   "date": "2007",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: 宇都宮大学国際学部.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/170144656",
+   "tags": [
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-2008-typical-villain-typical",
+   "title": "A Typical Villain, a Typical Man: Vere in Melville's \"Billy Budd\"",
+   "author": "조재진, null",
+   "date": "2008",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in The New Korean Association of English Language and Literature.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.25151/nkje.2008.50.3.005",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-claviez-2008-aesthetics-ethics-otherness",
+   "title": "Aesthetics & Ethics: Otherness and Moral Imagination from Aristotle to Levinas and from Uncle Tom's Cabin to House Made of Dawn",
+   "author": "Claviez, Thomas",
+   "date": "2008",
+   "kind": "book",
+   "lang": "en",
+   "note": "Study of otherness and moral imagination; the Library of Congress subject headings name Billy Budd among the literary works treated.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2008380701",
+   "tags": [
+    "philosophy",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-gilabert-barbera-2008-billy-budd-h",
+   "title": "Billy Budd: de H. Melville a E. M. Forster, o la via Plutarquea hacia Platón",
+   "author": "Gilabert Barberà, Pau",
+   "date": "2008",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/319377427",
+   "tags": [
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-gilabert-barbera-2008-billy-budd-h-2",
+   "title": "Billy Budd: de H. Melville a E. M. Forster, o la via Plutarquea vers Plató",
+   "author": "Gilabert Barberà, Pau",
+   "date": "2008",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/319371376",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-russo-2008-hanging-billy-budd",
+   "title": "Hanging with Billy Budd",
+   "author": "Russo, William; Merlin, Jan",
+   "date": "2008",
+   "kind": "book",
+   "lang": "en",
+   "note": "Traces the character through versions in stage, opera, television, film, musical, radio and graphic novel, with a list of premieres of selected productions.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2008901790",
+   "tags": [
+    "reception",
+    "stage",
+    "film",
+    "opera"
+   ]
+  },
+  {
+   "id": "lib-zaleznik-2008-herman-melvilles-billy",
+   "title": "Herman Melville’s Billy Budd: A Study of Character",
+   "author": "Zaleznik, Abraham",
+   "date": "2008",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Springer Science and Business Media LLC.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1057/9780230614154_15",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-rochlitz-2008-british-melville-revival",
+   "title": "The British Melville Revival, Billy Budd, and E.M. Forster's Visions of a Queer Utopia",
+   "author": "Rochlitz, Hanna",
+   "date": "2008",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Raja Peary Mohan College.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/369349072",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-battistini-2008-thomas-paine-nella",
+   "title": "Thomas Paine nella trasmissione atlantica della rivoluzione",
+   "author": "Battistini, Matteo <1979>",
+   "date": "2008",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Alma Mater Studiorum - Università di Bologna.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.6092/unibo/amsdottorato/819",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics",
+    "empire",
+    "naval-history",
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-melville-2009-billy-budd-other",
+   "title": "Billy Budd and Other Tales",
+   "author": "Melville, Herman; Markels, Julian; Oates, Joyce Carol",
+   "date": "2009",
+   "kind": "edition",
+   "lang": "en",
+   "note": "New introduction by Julian Markels, afterword by Joyce Carol Oates; text based on Freeman, corrected by Elizabeth Treeman.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2013658273",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-jorif-2009-how-slave-narratives",
+   "title": "How Slave Narratives Influenced American Literature: A Source for Herman Melville's Billy Budd",
+   "author": "Jorif, Rolando Leodore",
+   "date": "2009",
+   "kind": "book",
+   "lang": "en",
+   "note": "Monograph with a foreword by Jon-Christian Suggs. Final chapter takes up the slave narrative's use of agape and Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2009030322",
+   "tags": [
+    "race",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-zimmerman-2009-las-coordenadas-del",
+   "title": "Las coordenadas del paso al acto",
+   "author": "Zimmerman, Daniel",
+   "date": "2009",
+   "kind": "article",
+   "lang": "es",
+   "note": "Desde el Jardín de Freud 0.9, pp. 17-22. Article in Desde el Jardín de Freud 0.9, pp. 17-22.",
+   "licence": "No licence stated; free to read",
+   "url": "http://www.revistas.unal.edu.co/index.php/jardin/article/view/12189",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-gilmore-2009-speak-man-billy",
+   "title": "\"Speak, man!\": Billy Budd in the Crucible of Reconstruction",
+   "author": "Gilmore, M. T.",
+   "date": "2009",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Oxford University Press (OUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/alh/ajp022",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-sarmento-2010-all-boat-is",
+   "title": "All the boat is a stage: classical tragedy meets American narrative: re-readind Melville's Billy Budd, Sailor",
+   "author": "Sarmento, Clara",
+   "date": "2010",
+   "kind": "article",
+   "lang": "en",
+   "note": "Máthesis, pp. n. 19 (2010). Article in Máthesis, pp. n. 19 (2010).",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.34632/mathesis.2010.5183",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "theology",
+    "narrative",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-melville-2010-bartleby-scribe-billy",
+   "title": "Bartleby le scribe; Billy Budd, marin; et autres romans",
+   "author": "Melville, Herman; Jaworski, Philippe; Lapoujade, David; Parker, Hershel",
+   "date": "2010",
+   "kind": "edition",
+   "lang": "fr",
+   "note": "French translations, edition under the direction of Philippe Jaworski. xlii, 1377 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2010442307",
+   "tags": [
+    "translation",
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-2010-billy-budd",
+   "title": "Billy Budd",
+   "author": "",
+   "date": "2010",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Glyndebourne Festival Opera.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5040/9781350895058"
+  },
+  {
+   "id": "lib-gilabert-barbera-2010-billy-budd-h",
+   "title": "Billy Budd: de H. Melville a E. M. Forster, o la via Plutarquea hacia Platón",
+   "author": "Gilabert Barberà, Pau",
+   "date": "2010",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/79901046",
+   "tags": [
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-gilabert-barbera-2010-billy-budd-h-2",
+   "title": "Billy Budd: de H. Melville a E. M. Forster, o la via Plutarquea vers Plató",
+   "author": "Gilabert Barberà, Pau",
+   "date": "2010",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/79901020",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-gilabert-barbera-2010-billy-budd-h-3",
+   "title": "Billy Budd: from H. Melville to E. M. Forster, or Plutarch's way to Plató",
+   "author": "Gilabert Barberà, Pau",
+   "date": "2010",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/79901017",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "queer-reading",
+    "opera",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-arjomand-2010-e-m-forster",
    "title": "E. M. Forster's Billy Budd and the Collaborative Work of Opera",
    "author": "Arjomand, Minou",
@@ -1747,6 +4494,315 @@
     "forster",
     "crozier",
     "libretto"
+   ]
+  },
+  {
+   "id": "lib-mathesis-2010-mathesis-n-19",
+   "title": "Máthesis, n. 19 (2010)",
+   "author": "Máthesis",
+   "date": "2010",
+   "kind": "article",
+   "lang": "pt",
+   "note": "Article in Máthesis.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.34632/mathesis.2010.n19",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "narrative",
+    "film",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-small-2010-evil-character-philosophical",
+   "title": "The evil character : a philosophical analysis illuminated by literature",
+   "author": "Small, Luc",
+   "date": "2010",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in DataCite: The Australian National University.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.25911/5d5fcaddb4215",
+   "tags": [
+    "law-and-literature",
+    "philosophy",
+    "theology",
+    "naval-history",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-2010-irony-imperial-dream",
+   "title": "The Irony of Imperial Dream: A Postcolonial Study of Herman Melville’s Billy Budd, Sailor",
+   "author": "柯少芬",
+   "date": "2010",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/24176291",
+   "tags": [
+    "criticism",
+    "race",
+    "empire"
+   ]
+  },
+  {
+   "id": "lib-garner-2010-two-intertwined-narratives",
+   "title": "The Two Intertwined Narratives in Herman Melville's Billy Budd: A Study of an Author's Literary Method",
+   "author": "Garner, Stanton",
+   "date": "2010",
+   "kind": "book",
+   "lang": "en",
+   "note": "Monograph on Melville's technique in Billy Budd, with a foreword by John Wenke. 195 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2010006068",
+   "tags": [
+    "criticism",
+    "narrative",
+    "genetic-text"
+   ]
+  },
+  {
+   "id": "lib-becker-2010-why-moralize-upon",
+   "title": "\"Why moralize upon it?\" : Questions of morality and guilt in Herman Melville's \"Bartleby, the Scrivener\", \"Benito Cereno\", and Billy Budd, Sailor",
+   "author": "Becker, Niels",
+   "date": "2010",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Heidelberg University Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.11588/heidok.00010739",
+   "tags": [
+    "criticism",
+    "race"
+   ]
+  },
+  {
+   "id": "lib-bogalecki-2011-beyond-politics-re",
+   "title": "Beyond the Politics of Re-fusal? Herman Melville’s Billy Budd as a Tract on Translation.",
+   "author": "Bogalecki, Piotr",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Wyższa Szkoła Europejska im. ks. Józefa Tischnera.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/138686996",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy",
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-fruscione-2011-billy-darbies-page",
+   "title": "“Billy in the Darbies … and on Page, Stage, and Screen: Adaptations of Melville's Billy Budd”",
+   "author": "Fruscione, Joseph",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Wiley.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2011.01487_1.x",
+   "tags": [
+    "criticism",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-green-2011-britten-s-haunting",
+   "title": "Britten's “Haunting Melodies”: The Music of Billy Budd as the Universal Language of Human Emotion",
+   "author": "Green, Marcia",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Wiley.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2011.01487_2.x",
+   "tags": [
+    "criticism",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-2011-earthly-law-divine",
+   "title": "Earthly Law and Divine Law Some Reflections on the Reading of Billy Budd",
+   "author": "鄭和周",
+   "date": "2011",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Department of English, NTNU.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/15323380",
+   "tags": [
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-kahn-2011-shylock-billy-budd",
+   "title": "From Shylock to Billy Budd: The Literary “Headline Trial”",
+   "author": "Kahn, Michael A.",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Scholarship Commons.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/342917863",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-rey-2011-testament-melville-penser",
+   "title": "Le Testament de Melville: Penser le bien et le mal avec Billy Budd",
+   "author": "Rey, Olivier",
+   "date": "2011",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Gallimard.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/335157009",
+   "tags": [
+    "criticism",
+    "empire"
+   ]
+  },
+  {
+   "id": "lib-andres-2011-bellipotent-heterotopia-total",
+   "title": "The Bellipotent as Heterotopia, Total Institution, and Colony: Billy Budd and Other Spaces in Melville's Mediterranean",
+   "author": "ANDRÉS, RODRIGO",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Wiley.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2011.01516.x",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-stensrud-2011-dirty-work-telltale",
+   "title": "The Dirty Work of a Telltale: Narrative Ethics in Melville's The Confidence-Man and Billy Budd",
+   "author": "Stensrud, Craig",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/301525610",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-spanos-2011-exceptionalist-state-state",
+   "title": "The Exceptionalist State and the State of Exception: Herman Melville's Billy Budd, Sailor",
+   "author": "Spanos, William V.",
+   "date": "2011",
+   "kind": "book",
+   "lang": "en",
+   "note": "Monograph. Chapters give a counter-history of the novella's criticism and a symptomatic reading, then read it against American exceptionalism and the state of exception after 11 September 2001.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2010019682",
+   "tags": [
+    "politics",
+    "philosophy",
+    "empire"
+   ]
+  },
+  {
+   "id": "lib-mckeown-2011-theme-violence-later",
+   "title": "The theme of violence in the later fiction of Herman Melville",
+   "author": "McKeown, Thomas Wilson",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of British Columbia.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.14288/1.0102210",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "race",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-mcgowan-2011-weaponizing-billy-budd",
+   "title": "Weaponizing Billy Budd",
+   "author": "McGowan, Tony",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Wiley.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2011.01487_4.x",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-francavilla-2012-billy-budd-era",
+   "title": "Billy Budd era capoverdiano",
+   "author": "Francavilla, Roberto",
+   "date": "2012",
+   "kind": "article",
+   "lang": "en",
+   "note": "Palaver 1.Palaver, Volume 1 n.s. (2012), pp. 31-44. Article in Palaver 1.Palaver, Volume 1 n.s. (2012), pp. 31-44.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1285/i22804250v1p31",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-2012-billy-budd-matrose",
+   "title": "Billy Budd, Matrose (Innenansichten einer Geschichte)",
+   "author": "Melville, Herman",
+   "date": "2012",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Carl Hanser Verlag.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.3139/9783446300019.007",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-visconti-2012-forum-su-giustizia",
+   "title": "Forum su \"Giustizia & Letteratura\". La legge in mare: Melville da \"Benito Cereno\" a \"Billy Budd\"",
+   "author": "Visconti, Arianna",
+   "date": "2012",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/309720281",
+   "tags": [
+    "law-and-literature",
+    "race"
+   ]
+  },
+  {
+   "id": "lib-lopez-2012-estrategia-del-acoso",
+   "title": "La estrategia del acoso. Análisis de la novela \"Billy Budd\", de Herman Melville, en clave de acoso laboral",
+   "author": "López, Julián Antonio Paniagua",
+   "date": "2012",
+   "kind": "article",
+   "lang": "en",
+   "note": "Impossibilia: Revista Internacional de Estudios Literarios no. 4, pp. 156-169. Article in Impossibilia: Revista Internacional de Estudios Literarios no. 4, pp. 156-169.",
+   "licence": "No licence stated; free to read",
+   "url": "http://www.impossibilia.org/static/descargas/numero-4/estrategia-acoso-analisis-novela-billbudd-herman-melville-clave-acoso-laboral-julian-antonio-paniagua-lopez.pdf",
+   "tags": [
+    "criticism",
+    "law-and-literature"
    ]
   },
   {
@@ -1784,6 +4840,594 @@
    ]
   },
   {
+   "id": "lib-madigan-2012-u27and-good-bye",
+   "title": "\\u27And Good-Bye to You Too, Old Rights of Man’: Ethical Dilemmas and Billy Budd",
+   "author": "Madigan, Tim; MacCammon, Linda",
+   "date": "2012",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Fisher Digital Publications.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/27587728",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "naval-history",
+    "pedagogy",
+    "film"
+   ]
+  },
+  {
+   "id": "lib-alba-2013-melville-s-childhood",
+   "title": "Melville's Childhood experiences and their influence on his personality and writings",
+   "author": "Alba, Julieta Ojeda",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Cuadernos de Investigación Filológica 19.0, pp. 77-87. Article in Cuadernos de Investigación Filológica 19.0, pp. 77-87.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.18172/cif.2334",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-reynolds-2013-podcast-billy-budd",
+   "title": "Podcast: Billy Budd",
+   "author": "Reynolds, Peggy; Allen, Thomas; Stedall, Ellie; Plumley, Gavin",
+   "date": "2013",
+   "kind": "podcast",
+   "lang": "en",
+   "note": "Glyndebourne, Festival podcast. Festival 2013 podcast for Britten's centenary year, produced by Mair Bosworth, on the opera, its setting in the French revolutionary wars, Melville's novella as libretto source, and its all-male cast.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.glyndebourne.com/festival/podcast-billy-budd/",
+   "tags": [
+    "podcast",
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-2013-reading-man-like",
+   "title": "Reading a Man Like a Book: Bodies and Texts in Billy Budd",
+   "author": "",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9780203507094-7",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-weaver-2013-moral-world-billy",
+   "title": "The Moral World of Billy Budd",
+   "author": "Weaver, Russell",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Peter Lang, International Academic Publishers.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.3726/978-1-4539-1141-9",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-caze-2014-billy-budd-et",
+   "title": "Billy Budd et Benjamin Britten : figures de la répétition",
+   "author": "Cazé, Antoine",
+   "date": "2014",
+   "kind": "article",
+   "lang": "fr",
+   "note": "Article in Presses universitaires de Paris Ouest.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/167650495",
+   "tags": [
+    "criticism",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-lorenzo-zolezzi-2014-el-proceso-en",
+   "title": "El proceso en la literatura. Análisis de los aspectos jurídicos de tres obras emblemáticas: Los papeles póstumos del Club Pickwick, de Dickens; Billy Budd, de Melville; y La hoguera de las vanidades, de Tom Wolfe",
+   "author": "Lorenzo Zolezzi Ibárcena",
+   "date": "2014",
+   "kind": "article",
+   "lang": "es",
+   "note": "Article in OpenAlex.",
+   "licence": "CC BY",
+   "url": "https://doi.org/10.60692/1v0e3-32085",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics",
+    "opera",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-wozniakowska-2014-introduction",
+   "title": "Introduction",
+   "author": "Woźniakowska, Agnieszka; Łakowicz-Dopiera, Anna",
+   "date": "2014",
+   "kind": "article",
+   "lang": "en",
+   "note": "Review of International American Studies 7.1. Article in Review of International American Studies 7.1.",
+   "licence": "No licence stated; free to read",
+   "url": "https://journals.us.edu.pl/index.php/RIAS/article/view/3984",
+   "tags": [
+    "criticism",
+    "politics",
+    "race",
+    "film",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-liisberg-2014-med-jussen-som",
+   "title": "Med jussen som utgangspunkt. Et blikk på rett og litteratur-disiplinens behandling av \"Billy Budd, Sailor\"",
+   "author": "Liisberg, Erlend",
+   "date": "2014",
+   "kind": "thesis",
+   "lang": "nb",
+   "note": "Thesis, The University of Bergen.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/19295692",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-weaver-2014-moral-world-billy",
+   "title": "The Moral World of Billy Budd",
+   "author": "Weaver, Russell",
+   "date": "2014",
+   "kind": "book",
+   "lang": "en",
+   "note": "Monograph. Reviews the critical heritage including Brodtkorb, Scorza, Parker, Garner and Wenke, then analyses Billy, Claggart, Vere and the novella's dichotomies. 284 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2013011883",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-fruzinska-2014-young-men-sea",
+   "title": "The Young Men and the Sea: Sea/Ocean as a Space of Maturation?",
+   "author": "Fruzińska, Justyna",
+   "date": "2014",
+   "kind": "article",
+   "lang": "en",
+   "note": "Review of International American Studies 7.1. Article in Review of International American Studies 7.1.",
+   "licence": "No licence stated; free to read",
+   "url": "https://journals.us.edu.pl/index.php/RIAS/article/view/4043",
+   "tags": [
+    "criticism",
+    "race"
+   ]
+  },
+  {
+   "id": "lib-2015-5-hidden-suns",
+   "title": "5. Hidden Suns and Phenomenal Men: The Confidence- Man, Billy Budd",
+   "author": "",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Walter de Gruyter GmbH.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1515/9781400871643-007",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-beatrix-2015-alterity-american-literature",
+   "title": "Alterity in American literature: the faces of the Other in Melville’s Moby-Dick and Billy Budd",
+   "author": "Beatrix, Pernelle",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/40607174",
+   "tags": [
+    "criticism",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-skredsvig-2015-billy-lily-feminist",
+   "title": "Billy as Lily: A feminist reading of Billy Budd",
+   "author": "Skredsvig, Kari Meyers",
+   "date": "2015",
+   "kind": "article",
+   "lang": "es",
+   "note": "Revista de Filología y Lingüística de la Universidad de Costa Rica 16.2. Article in Revista de Filología y Lingüística de la Universidad de Costa Rica 16.2.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.15517/rfl.v16i2.19422",
+   "tags": [
+    "criticism",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-girardi-2015-billy-budd-e",
+   "title": "Billy Budd e Capitan Vere, un Otello refoulé",
+   "author": "GIRARDI, Michele",
+   "date": "2015",
+   "kind": "article",
+   "lang": "it",
+   "note": "Article in .",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/10377687",
+   "tags": [
+    "criticism",
+    "vere",
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-uribarri-carpintero-2015-billy-budd-y",
+   "title": "Billy Budd y el dilema moral (Opinión)",
+   "author": "Uribarri Carpintero, Gonzalo",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Universidad La Salle, Facultad de Derecho.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/170529779",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-derail-2015-eros-et-ares",
+   "title": "Eros et Arès, les enfants de la guerre dans Billy Budd de Melville",
+   "author": "Derail, Agnes",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Klincksieck.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/404818162",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-kusca-gungor-2015-katip-bartleby-billy",
+   "title": "Katip Bartleby - Billy Budd",
+   "author": "Kuşca Güngör, Sibel",
+   "date": "2015",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/363107981",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-kennedy-hewitt-2015-more-effective-than",
+   "title": "More effective than words: the role of Kinesics, paralanguage and proxemics in Billy Budd",
+   "author": "Kennedy - Hewitt, Elizabeth",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/320662325",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-donelan-2015-spectral-history-inexplicable",
+   "title": "Spectral History and Inexplicable Bonds: \"Being Inarticulate\" in Melville's Billy Budd, Sailor (An Inside Narrative)",
+   "author": "Donelan, Cynthia",
+   "date": "2015",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, English.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/294197779",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy",
+    "race",
+    "narrative",
+    "opera"
+   ]
+  },
+  {
+   "id": "lib-2015-narrative-voice-melville",
+   "title": "The narrative voice in Melville's Redburn, Moby Dick and Billy Budd",
+   "author": "Αναστασοπούλου, Μαρία Θ.",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/13976828",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-2015-narrative-voice-melville-2",
+   "title": "The narrative voice in Melville\\u27s Redburn, Moby Dick and Billy Budd",
+   "author": "Αναστασοπούλου, Μαρία Θ.",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/353507654",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-francalanci-2016-etica-ou-acao",
+   "title": "A ética, ou a ação de julgar entre o bem e o mal: reflexões arendtianas em torno a Billy Budd",
+   "author": "Francalanci, Carla",
+   "date": "2016",
+   "kind": "article",
+   "lang": "pt",
+   "note": "Viso 9.17, pp. 88-102. Article in Viso 9.17, pp. 88-102.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.22409/1981-4062/v17i/207",
+   "tags": [
+    "criticism",
+    "politics",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-melville-2016-billy-budd-bartleby",
+   "title": "Billy Budd, Bartleby, and Other Stories",
+   "author": "Melville, Herman; Coviello, Peter",
+   "date": "2016",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Penguin Classics edition, introduction and notes by Peter Coviello. xxviii, 335 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2015034976",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-charyn-2016-billy-budd-kgb",
+   "title": "Billy Budd, KGB",
+   "author": "Charyn, Jerome; Boucq, François",
+   "date": "2016",
+   "kind": "other",
+   "lang": "en",
+   "note": "Graphic novel inspired by the novella, about a Soviet agent operating in New York under the name Billy Budd. Introduction by Paul Pope.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2016021703",
+   "tags": [
+    "reception",
+    "adaptation"
+   ]
+  },
+  {
+   "id": "lib-melville-2016-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Melville, Herman",
+   "date": "2016",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Melville House paperback, text as in the 1924 Constable volume per its title page verso. 127 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2016021229",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-melville-2016-billy-budd-sailor-2",
+   "title": "Billy Budd, Sailor: (An Inside Narrative)",
+   "author": "Melville, Herman; Everton, Michael J.",
+   "date": "2016",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Broadview edition edited by Michael J. Everton. 227 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2016479748",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-lariguet-2016-el-desafio-billy",
+   "title": "El desafío de Billy Budd. Dilemas morales y dimensión institucional del derecho",
+   "author": "Lariguet, Guillermo",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in México.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/364580415",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-lopez-2016-estrategia-del-acoso",
+   "title": "La estrategia del acoso. Análisis de la novela Billy Budd , de Herman Melville, en clave de acoso laboral",
+   "author": "López, Julián Antonio Paniagua",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Impossibilia: Revista Internacional de Estudios Literarios no. 4. Article in Impossibilia: Revista Internacional de Estudios Literarios no. 4.",
+   "licence": "No licence stated; free to read",
+   "url": "http://impossibilia.org/ojs3/index.php/impossibilia/article/view/35",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-2016-re-visioning-missing",
+   "title": "Re-visioning the 'missing' scene: Critical and tonal trajectories in Britten's 'Billy Budd'",
+   "author": "",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/jrma/122.2.258",
+   "tags": [
+    "criticism",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-oh-2016-reading-billy-budd",
+   "title": "Reading Billy Budd, Sailor as the Homoerotic National Elegy",
+   "author": "Oh, Ye Sul",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 서울대학교 인문대학 영어영문학과.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/83838951",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy",
+    "theology",
+    "queer-reading",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-aytur-2016-meaning-billy-budd",
+   "title": "THE MEANING OF BILLY BUDD",
+   "author": "AYTÜR, Necla",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Selçuk Üniversitesi Edebiyat Fakültesi Dergisi 0.1, pp. 27-33. Article in Selçuk Üniversitesi Edebiyat Fakültesi Dergisi 0.1, pp. 27-33.",
+   "licence": "No licence stated; free to read",
+   "url": "http://sefad.selcuk.edu.tr/sefad/article/view/177",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-arouimi-2016-ecrire-selon-rose",
+   "title": "Écrire selon la rose: Melville, Bosco, Kafka, Hugo",
+   "author": "Arouimi, Michel",
+   "date": "2016",
+   "kind": "book",
+   "lang": "fr",
+   "note": "French comparative study; the Library of Congress subject headings name Billy Budd and Bosco's Balesta as works treated.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2016393122",
+   "tags": [
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-roche-2016-uber-unschuld-urteilen",
+   "title": "Über Unschuld urteilen. Überlegungen zu einer Szene in Melvilles \"Billy Budd\"",
+   "author": "de Roche, Charles",
+   "date": "2016",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Campus Verlag.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/19972086"
+  },
+  {
+   "id": "lib-2017-146-herman-melville",
+   "title": "146: Herman Melville: \"Billy Budd, Sailor\"",
+   "author": "",
+   "date": "2017-08-06",
+   "kind": "podcast",
+   "lang": "en",
+   "note": "StoryWeb: Storytime for Grownups. 24-minute podcast episode on the novella.",
+   "licence": "No licence stated; free to read",
+   "url": "https://podcasts.apple.com/us/podcast/146-herman-melville-billy-budd-sailor/id956253818?i=1000390728568",
+   "tags": [
+    "podcast"
+   ]
+  },
+  {
+   "id": "lib-magliano-2017-analysis-morality-billy",
+   "title": "An analysis of morality in Billy Budd, sailor, using concepts of Nietzsche.",
+   "author": "Magliano, Raphael Queiroga",
+   "date": "2017",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: UFPB.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/10594310",
+   "tags": [
+    "philosophy",
+    "race"
+   ]
+  },
+  {
+   "id": "lib-goodheart-2017-billy-budd-worlds",
+   "title": "Billy Budd and the World’s Imperfection: A Literary Digression",
+   "author": "Goodheart, Eugene",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9780203789919-11",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-2017-billy-budd-final",
+   "title": "‘Billy Budd’: final views and their expression",
+   "author": "",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9781315101804-7",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-yothers-2017-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Yothers, Brian",
+   "date": "2017",
+   "kind": "book",
+   "lang": "en",
+   "note": "Edited volume of essays on Billy Budd; catalogue subjects include justice in literature. xxv, 261 pp.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2018275823",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-melville-2017-billy-budd-sailor",
    "title": "Billy Budd, Sailor and Other Uncompleted Writings",
    "author": "Melville, Herman; Hayford, Harrison; MacDougall, Alma A.; Sandberg, Robert A.; Tanselle, G. Thomas; Parker, Hershel",
@@ -1797,6 +5441,491 @@
     "edition",
     "northwestern-newberry",
     "hayford-sealts"
+   ]
+  },
+  {
+   "id": "lib-ludot-vlasak-2017-bodies-agony-classical",
+   "title": "Bodies in Agony: Classical Sculpture and Violence in Herman Melville's works",
+   "author": "Ludot-Vlasak, Ronan",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Sillages Critiques 22. Article in Sillages Critiques 22.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.4000/sillagescritiques.4886",
+   "tags": [
+    "criticism",
+    "theology",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-tohme-abounader-2017-captain-vere-law",
+   "title": "Captain Vere: The Law Incarnate",
+   "author": "Tohme Abounader",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Unpublished.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.13140/rg.2.2.15934.84804",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-adams-2017-decision-making-melville",
+   "title": "Decision Making and Melville's \"Billy Budd, Sailor\"",
+   "author": "Adams, Elsie B.; Pugh, Darrell L.",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Rutgers University - Newark School of Public Affairs and Administration.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.22140/pv.439",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-jones-2017-depravity-abuse-homoerotic",
+   "title": "Depravity, abuse and homoerotic desire in Billy Budd and the 'Prussian officer'",
+   "author": "Jones, Bethan",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in DH Lawrence Society of Great Britain.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/406469076",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "claggart",
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-sliva-2017-exploring-homoeroticism-herman",
+   "title": "Exploring Homoeroticism in Herman Melville’s Novella Billy Budd, Sailor",
+   "author": "Sliva, Dana",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Digital Showcase @ University of Lynchburg.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/342885967",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-royle-2017-impossible-uncanniness-deconstruction",
+   "title": "Impossible Uncanniness: Deconstruction and Queer Theory",
+   "author": "Royle, Nicholas",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in punctum books.",
+   "licence": "CC BY-NC-SA 4.0",
+   "url": "https://doi.org/10.21983/p3.0172.1.04",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy",
+    "queer-reading",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-stein-2017-narratives-blood-justice",
+   "title": "Narratives of Blood: Justice, Empire, and Billy Budd, Sailor",
+   "author": "Stein, Eric",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Zenodo.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.5281/zenodo.4603305",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "empire",
+    "naval-history",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-whittall-2017-twisted-relations-method",
+   "title": "‘Twisted relations’: Method and meaning in Britten’s Billy Budd",
+   "author": "Whittall, Arnold",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9781315090337-13",
+   "tags": [
+    "criticism",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-2018-study-melville-s",
+   "title": "A Study on Melville's Billy Budd",
+   "author": "高橋, 道",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/144011648",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-maisel-2018-accents-remorse",
+   "title": "Accents of Remorse",
+   "author": "Maisel, Arthur",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in unknown.",
+   "licence": "CC BY-NC 4.0",
+   "url": "https://doi.org/10.17613/m6qz8b",
+   "tags": [
+    "criticism",
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-maino-2018-billy-budd-o",
+   "title": "Billy Budd o circa l'esistenza del diritto naturale",
+   "author": "Maino, Carlos Alberto Gabriel",
+   "date": "2018",
+   "kind": "article",
+   "lang": "es",
+   "note": "Article in Universidad Católica Argentina. Facultad de Derecho.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/73100739",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "pedagogy",
+    "opera"
+   ]
+  },
+  {
+   "id": "lib-silva-2018-do-contar-ao",
+   "title": "Do contar ao mostrar: \"Billy Budd\", de Herman Melville, no cinema",
+   "author": "Silva, Gustavo",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Universidade do Estado do Rio de Janeiro.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/393529785",
+   "tags": [
+    "criticism",
+    "narrative",
+    "film"
+   ]
+  },
+  {
+   "id": "lib-lariguet-2018-el-desafio-billy",
+   "title": "El desafío de Billy Budd. Dilemas morales y dimensión institucional del derecho",
+   "author": "Lariguet, Guillermo",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Crítica 39.116. Article in Crítica 39.116.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.22201/iifs.18704905e.2007.532",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-mcadams-2018-new-light-trial",
+   "title": "New Light on the Trial of Billy Budd",
+   "author": "McAdams, Richard H.; Corre, Jacob",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Chicago Unbound.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/407698137",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics",
+    "theology",
+    "naval-history",
+    "somers"
+   ]
+  },
+  {
+   "id": "lib-benfey-2018-loved-one",
+   "title": "The Loved One",
+   "author": "Benfey, Christopher",
+   "date": "2018-05-10",
+   "kind": "review",
+   "lang": "en",
+   "note": "The New York Review of Books, 10 May 2018 issue. Review of the Northwestern-Newberry Billy Budd, Sailor and Other Uncompleted Writings (ed. Hayford et al.). Treats the narration's equivocation, especially about Vere, and the debate over reading the manuscript as a finished work.",
+   "licence": "In copyright",
+   "url": "https://www.nybooks.com/articles/2018/05/10/billy-budd-the-loved-one/",
+   "tags": [
+    "reception",
+    "editing",
+    "vere",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-vaughn-2018-specter-infanticide-herman",
+   "title": "The Specter of Infanticide in Herman Melville’s Billy Budd, Sailor",
+   "author": "Vaughn, Emer",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Project Muse.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/pan.2018.0011",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-2019-4-salvation-sea",
+   "title": "4. Salvation At Sea Britten’S Billy Budd",
+   "author": "",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of California Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1525/9780520939127-006",
+   "tags": [
+    "criticism",
+    "theology",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-2019-4-black-white",
+   "title": "4. The Black and White Sailor: Melville’s Billy Budd, Sailor and the Case of Washington Goode",
+   "author": "",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Rutgers University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.36019/9781684480210-005",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-hoare-2019-angel-ocean-programme",
+   "title": "An Angel of the Ocean: Programme Notes for Billy Budd",
+   "author": "Hoare, Philip",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Royal Opera House.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/66762674",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-riley-2019-billy-budd-melvilles",
+   "title": "Billy Budd and Melville’s Retirement",
+   "author": "Riley, Peter",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Oxford University Press (OUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oso/9780198836254.003.0004",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-packham-2019-billy-budd-sailor",
+   "title": "‘Billy Budd, Sailor’ and Other Uncompleted Writings by Herman Melville, Harrison Hayford et al",
+   "author": "Packham, Jimmy; id_orcid",
+   "date": "2019",
+   "kind": "review",
+   "lang": "en",
+   "note": "Review in .",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5699/modelangrevi.114.2.0358",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-santos-2019-billy-budd-y",
+   "title": "Billy Budd y la ceremonia de la inocencia",
+   "author": "Santos, Felipe",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Nueva Revista.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/416248995",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-atkinson-2019-melville-u27s-billy",
+   "title": "Melville\\u27s Billy Budd and Plato\\u27s Republic: Sea Captains and Philosopher-Kings",
+   "author": "Atkinson, Robert",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Scholarship @ Hofstra Law.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/403425432",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "philosophy",
+    "theology",
+    "vere",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-anker-2019-measure-authority-figuring",
+   "title": "« The Measure of Authority. Figuring the Political and Deconstructiong the Death Penalty in Melville's Billy Budd »",
+   "author": "Anker, Richard",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in CCSD.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/42285642",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics"
+   ]
+  },
+  {
+   "id": "lib-bose-2019-sailor-condemned-benjamin",
+   "title": "The Sailor Condemned: Benjamin Britten's Billy Budd",
+   "author": "Bose, Sudip",
+   "date": "2019-08-01",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The American Scholar, Measure by Measure. Magazine column contrasting Melville's mostly silent Billy with Britten's operatic Billy, whose baritone aria in his final hours gives him a voice.",
+   "licence": "No licence stated; free to read",
+   "url": "https://theamericanscholar.org/the-sailor-condemned/",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-thompson-2019-philosophize-upon-realities",
+   "title": "To “Philosophize upon Realities”: Montaignian Political Education in Melville’s Billy Budd",
+   "author": "Thompson, Douglas",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Classiques Garnier.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.15122/isbn.978-2-406-09142-4.p.0041",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-beatrix-2020-alterity-american-literature",
+   "title": "Alterity in American literature: the faces of the Other in Melville’s Moby-Dick and Billy Budd",
+   "author": "Beatrix, Pernelle",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/78856433",
+   "tags": [
+    "criticism",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-trias-2020-billy-budd",
+   "title": "Billy Budd",
+   "author": "Trias, Encarnación Roca",
+   "date": "2020",
+   "kind": "article",
+   "lang": "ca",
+   "note": "InDret. Article in InDret.",
+   "licence": "No licence stated; free to read",
+   "url": "https://raco.cat/index.php/InDret/article/view/364445",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-schramm-2020-billy-budd-phallos",
+   "title": "Billy Budd on a Phallos Ship: Melville\\u27s Challenge to the Dominant Order",
+   "author": "Schramm, Darrell G. H.",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in eGrove.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/411024910",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-marsoin-2020-billy-budd-eromenos",
+   "title": "\"Billy Budd: The Eromenos Has to Die\"",
+   "author": "Marsoin, Édouard",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Johns Hopkins University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2020.0001",
+   "tags": [
+    "criticism",
+    "theology",
+    "queer-reading",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-mizruchi-2020-cataloging-creatures-deep",
+   "title": "Cataloging the Creatures of the Deep: \"Billy Budd, Sailor\" and the Rise of Sociology",
+   "author": "Mizruchi, Susan",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Walter de Gruyter GmbH.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1515/9780822382645-012",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -1818,6 +5947,354 @@
    ]
   },
   {
+   "id": "lib-andersen-2020-handsome-sailor-cute",
+   "title": "From Handsome Sailor to Cute Youth:the material force of innocence in Herman Melville’s \"Billy Budd, Sailor\"",
+   "author": "Andersen, Iben Engelhardt; Andersen, Iben Engelhardt",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Informa UK Limited.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/0950236x.2020.1839944",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-greco-2020-il-potere-che",
+   "title": "Il potere che soffoca. Billy Budd come metafora",
+   "author": "GRECO, TOMMASO",
+   "date": "2020",
+   "kind": "article",
+   "lang": "it",
+   "note": "Article in .",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/88888085",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-seltenreich-2020-osobni-nebo-statni",
+   "title": "Osobní nebo státní svědomí?! Melvillovo pozdní dílo Billy Budd aneb proces proti „švarnému námořníkovi“",
+   "author": "Seltenreich, Radim",
+   "date": "2020",
+   "kind": "article",
+   "lang": "cs",
+   "note": "Právněhistorické studie 50.2, pp. 103-113. Article in Právněhistorické studie 50.2, pp. 103-113.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.14712/2464689x.2020.20",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "theology",
+    "naval-history",
+    "somers"
+   ]
+  },
+  {
+   "id": "lib-alwan-2020-sub-text-order",
+   "title": "(sub)Text: Order and Innocence in Melville's \"Billy Budd\"",
+   "author": "Alwan, Wes; O'Luanaigh, Erin",
+   "date": "2020-11-26",
+   "kind": "podcast",
+   "lang": "en",
+   "note": "(sub)Text, The Partially Examined Life. Discussion podcast (1:32:29) on the novella, asking whether a good heart and intentions matter more than obedience to authority and norms. Site footer reads all rights reserved.",
+   "licence": "No licence stated; free to read",
+   "url": "https://partiallyexaminedlife.com/2020/11/26/subtext-order-and-innocence-in-melvilles-billy-budd/",
+   "tags": [
+    "podcast",
+    "philosophy",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-anoop-2020-nature-government-civic",
+   "title": "The Nature of Government and Civic Responsibility in Herman Melville’s Billy Budd, Sailor",
+   "author": "Anoop, Nirvani V, Ms.",
+   "date": "2020",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis, CUNY Academic Works.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/96685050",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics",
+    "theology",
+    "naval-history",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-skonieczny-2020-three-spheres-catatonia",
+   "title": "Three Spheres of Catatonia in the Works of Gilles Deleuze",
+   "author": "Skonieczny, Krzysztof",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Eidos. A Journal for Philosophy of Culture 4.2, pp. 90-101. Article in Eidos. A Journal for Philosophy of Culture 4.2, pp. 90-101.",
+   "licence": "No licence stated; free to read",
+   "url": "http://eidos.uw.edu.pl/three-spheres-of-catatonia-in-the-works-of-gilles-deleuze/",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-2020",
+   "title": "«След» исторического факта в киноадаптациях «Билли Бадда» Г. Мелвилла",
+   "author": "Рыбина П. Ю.",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in История на экране и в книге.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.24412/cl-37324-2020-233-239",
+   "tags": [
+    "criticism",
+    "narrative",
+    "film"
+   ]
+  },
+  {
+   "id": "lib-demichelis-2021-billy-budd-foretopman",
+   "title": "Billy Budd, Foretopman: Re-reading Desire",
+   "author": "Demichelis, Serena; Demichelis, Serena",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Masaryk University.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.5817/bse2021-2-4",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "queer-reading",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-abbas-2021-search-villain-herman",
+   "title": "In Search for the Villain in Herman Melville's \"Billy Budd, Sailor\"",
+   "author": "Abbas, Ahmed Hashim",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of Thi-Qar.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.32792/jedh.v11i2.409",
+   "tags": [
+    "criticism",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-kleitz-2021-melville-s-ma",
+   "title": "MELVILLE'S MA (間) AND BILLY BUDD",
+   "author": "KLEITZ, Dorsey",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 東京女子大学英米文学研究会.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/141473294",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-dorsey-2021-melville-u27s-ma",
+   "title": "MELVILLE\\u27S MA (間) AND BILLY BUDD",
+   "author": "Dorsey, KLEITZ",
+   "date": "2021",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: 東京女子大学英米文学研究会.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/110011200"
+  },
+  {
+   "id": "lib-mcadams-2021-new-light-trial",
+   "title": "New Light on the Trial of Billy Budd",
+   "author": "McAdams, Richard H.; Corré, Jacob I.",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Oxford University Press (OUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oso/9780197509371.003.0004",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-olea-romacho-2021-trail-billy-budd",
+   "title": "On the trail of Billy Budd: an analysis of beau travail",
+   "author": "Olea Romacho, Miguel",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in L'Atalante. Revista de estudios cinematográficos.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/372719519",
+   "tags": [
+    "criticism",
+    "queer-reading",
+    "narrative",
+    "film",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-buchmeier-2021-quarrels-without-god",
+   "title": "Quarrels without God: Nineteenth-Century American Literature in the Age of Secularism",
+   "author": "Buchmeier, Sarah",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of Illinois at Chicago.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.25417/uic.17026253",
+   "tags": [
+    "criticism",
+    "theology",
+    "narrative",
+    "reception",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-andres-gonzalez-2021-bellipotent-heterotopia-total",
+   "title": "The Bellipotent as Heterotopia, Total Institution, and Colony: Billy Budd and Other Spaces in Melville's Mediterranean",
+   "author": "Andrés González, Rodrigo",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Johns Hopkins University Press.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/390474226",
+   "tags": [
+    "criticism",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-timar-2022-az-egyutterzes-ellen",
+   "title": "Az együttérzés ellen: Hannah Arendt poétikája: Eichmann, Melville, Billy Budd és a politikai képzelőerő",
+   "author": "Tímár, Andrea",
+   "date": "2022",
+   "kind": "article",
+   "lang": "hu",
+   "note": "Article in Szegedi Tudományegyetem - Kognitív Poétika Kutatócsoport.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/132711087",
+   "tags": [
+    "criticism",
+    "politics"
+   ]
+  },
+  {
+   "id": "lib-schaefer-2022-billy-budd",
+   "title": "Billy Budd",
+   "author": "Schaefer, Milton",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Routledge.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9781032271408-14",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-riberi-2022-billy-budd-dal",
+   "title": "Billy Budd dal racconto di Melville all’opera di Britten: riflessioni sulla sconfitta della giustizia",
+   "author": "Riberi, M",
+   "date": "2022",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: Edizioni Scientifiche Italiane.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/150198593",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-admin-2022-case-studies-leadership",
+   "title": "Case Studies in Leadership Through Literature and Film, Harvard University",
+   "author": "Admin, Post Discipline",
+   "date": "2022",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in DataCite: University of Oxford.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.25446/oxford.20255727",
+   "tags": [
+    "pedagogy",
+    "film",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-furui-2022-hitting-billy-mediated",
+   "title": "Hitting Billy: Mediated Interiority in Billy Budd",
+   "author": "Furui, Yoshiaki",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Oxford University Press (OUP).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/litimag/imac008",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-admin-2022-law-literature-university",
+   "title": "Law & Literature, University of Louisville (Brandeis)",
+   "author": "Admin, Post Discipline",
+   "date": "2022",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in DataCite: University of Oxford.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.25446/oxford.20239923",
+   "tags": [
+    "law-and-literature",
+    "theology",
+    "vere",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-admin-2022-literature-law-seminar",
+   "title": "Literature and Law Seminar, University of Pittsburgh",
+   "author": "Admin, Post Discipline",
+   "date": "2022",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in DataCite: University of Oxford.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.25446/oxford.20239488",
+   "tags": [
+    "law-and-literature",
+    "theology",
+    "queer-reading",
+    "race",
+    "comparative"
+   ]
+  },
+  {
    "id": "lib-mcgowan-2022-melville-s-reliquary",
    "title": "Melville's Reliquary Reformations",
    "author": "McGowan, Tony",
@@ -1833,6 +6310,209 @@
     "beatty",
     "criticism",
     "sources"
+   ]
+  },
+  {
+   "id": "lib-roudeau-2022-murmur-mutter-matter",
+   "title": "Murmur, Mutter, Matter: Verbal Veerings and the Practice of Democracy in Billy Budd, Sailor",
+   "author": "Roudeau, Cécile; Roudeau, Cécile",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Johns Hopkins University Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2022.0005",
+   "tags": [
+    "criticism",
+    "politics"
+   ]
+  },
+  {
+   "id": "lib-stein-2022-play-lose-animation",
+   "title": "Play to Lose: Animation, Failure, and the Milieu in Trophy Dark",
+   "author": "Stein, Eric",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Zenodo.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.5281/zenodo.6932651",
+   "tags": [
+    "criticism",
+    "empire",
+    "narrative",
+    "editing",
+    "pedagogy",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-ohge-2022-revision-negation-incompleteness",
+   "title": "Revision, Negation, and Incompleteness in Melville's Billy Budd Manuscript",
+   "author": "Ohge, Christopher",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Zenodo.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.5281/zenodo.7097494",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "theology",
+    "vere",
+    "narrative",
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-frank-2023-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Frank, Søren",
+   "date": "2023",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in CORE: lex.dk.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/303529799"
+  },
+  {
+   "id": "lib-shoaf-2023-call-me-queequeg",
+   "title": "Call Me Queequeg, Ishmael",
+   "author": "Shoaf, R. Allen",
+   "date": "2023",
+   "kind": "book",
+   "lang": "en",
+   "note": "Short volume (26 pp.), catalogued under American poetry; the Library of Congress subject headings name Billy Budd and Moby Dick.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2023282192",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-silver-2023-great-flood-gates",
+   "title": "“Great Flood-Gates of the Wonder World”: Baptisms of Water and Fire in Melville and Hawthorne",
+   "author": "Silver, Ariel Clark",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "European Journal of American Studies 18.3. Article in European Journal of American Studies 18.3.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.4000/ejas.20704",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-stachura-2023-melville-vortex-theory",
+   "title": "Melville and the Vortex Theory of Matter",
+   "author": "Stachura, Paweł",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "European Journal of American Studies 18.3. Article in European Journal of American Studies 18.3.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.4000/ejas.20759",
+   "tags": [
+    "criticism",
+    "translation",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-delgado-2023-curse-somers-secret",
+   "title": "The Curse of the Somers: The Secret History Behind the U.S. Navy's Most Infamous Mutiny",
+   "author": "Delgado, James P.",
+   "date": "2023",
+   "kind": "book",
+   "lang": "en",
+   "note": "History of the Somers affair drawing on the investigation of the ship's sunken remains; the catalogue description and subject heading tie it to Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2022943851",
+   "tags": [
+    "somers",
+    "naval-history"
+   ]
+  },
+  {
+   "id": "lib-nassar-2023-legal-system-moral",
+   "title": "The Legal System and Moral Ambiguity in Early 20th Century American Literature",
+   "author": "Nassar, Jasmin",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in The University of Texas at Austin.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.26153/tsw/46207",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-lee-2024-100-years-billy",
+   "title": "100 Years of 'Billy Budd'",
+   "author": "Lee, Lafayette",
+   "date": "2024-03-22",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "IM-1776. Centenary essay. Reports readings of the novella as morality tale, confession and social critique, and argues from Claggart's hidden malice, the unreliable narrator and Girard's scapegoat theme. Date taken from the URL.",
+   "licence": "No licence stated; free to read",
+   "url": "https://im1776.com/2024/03/22/billy-budd/",
+   "tags": [
+    "reception",
+    "criticism",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-laiz-2024-100th-anniversary-melville",
+   "title": "100th anniversary of Melville's Billy Budd with Jana Laiz",
+   "author": "Laiz, Jana",
+   "date": "2024-05-25",
+   "kind": "talk",
+   "lang": "en",
+   "note": "Great Barrington Libraries, event listing. Listing for a talk at Ramsdell Library, Housatonic, by Arrowhead's Writer-in-Residence Emeritus, on the centenary and Melville's life. No recording is linked.",
+   "licence": "No licence stated; free to read",
+   "url": "https://gblibraries.org/?p=3331",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-2024-bchs-presents-opera",
+   "title": "BCHS Presents the Opera 'Billy Budd'",
+   "author": "",
+   "date": "2024-09-17",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "iBerkshires.com. Local news notice of selections from Britten's opera with readings from the novella by Ryan Winkles, Linde Center at Tanglewood, 20 September 2024, for the centenary.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.iberkshires.com/story/76588/BCHS-Presents-the-Opera-Billy-Budd-.html",
+   "tags": [
+    "news",
+    "opera",
+    "britten"
+   ]
+  },
+  {
+   "id": "lib-2024-berkshire-county-historical",
+   "title": "Berkshire County Historical Mark Centennial of 'Billy Budd, Sailor'",
+   "author": "",
+   "date": "2024-03-30",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "iBerkshires.com. Local news report of the Historical Society's 2024 programme, including a marathon reading, a Paul Giamatti audiobook, an Athenaeum exhibit with Melville's desk and the breadbox, and a film screening.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.iberkshires.com/story/74900/Berkshire-County-Historical-Mark-Centennial-of-Billy-Budd-Sailor-.html",
+   "tags": [
+    "news",
+    "reception"
    ]
   },
   {
@@ -1853,6 +6533,282 @@
    ]
   },
   {
+   "id": "lib-salinas-2024-billy-budd-sailor",
+   "title": "Billy Budd, Sailor's centennial year",
+   "author": "Salinas, Carlos",
+   "date": "2024-10-16",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Manila Times, Business, Maritime (column \"From the Desk of the IMO Ambassador\"). Newspaper column on the novella's centenary, reporting the Berkshire events and the Pennyroyal Press edition with fourteen woodcuts by Barry Moser.",
+   "licence": "No licence stated; free to read",
+   "url": "https://manilatimes.net/2024/10/16/business/maritime/billy-budd-sailors-centennial-year/1984647",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-wessells-2024-billy-budd-symposium",
+   "title": "Billy Budd Symposium : 9 October 2024",
+   "author": "Wessells, Henry",
+   "date": "2024-10-06",
+   "kind": "blog",
+   "lang": "en",
+   "note": "The Endless Bookshelf (blog). Announcement by a panellist of the Grolier Club symposium, covering publication history, Melville's late life, reception and adaptations.",
+   "licence": "No licence stated; free to read",
+   "url": "https://endlessbookshelf.net/2024/10/06/billy-budd-symposium/",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-tupper-2024-billy-bread-bin",
+   "title": "Billy in the Bread Bin",
+   "author": "Tupper, Lara",
+   "date": "2024-01-20",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Swift Ink Stories with Lara Tupper (Substack). Paid personal essay by a novelist. The visible opening concerns book clubs. Its relation to Billy Budd is inferred from the title and from its appearing in a Berkshire search, since the rest was not readable.",
+   "licence": "In copyright",
+   "url": "https://laratupper.substack.com/p/billy-in-the-bread-bin",
+   "tags": [
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-capodicasa-2024-disamina-analitica-lamore",
+   "title": "Disamina analitica de L’Amore di Galatea, libretto ‘mitopoietico’ di Salvatore Quasimodo scritto per la musica di Michele Lizzi",
+   "author": "Capodicasa, Rita",
+   "date": "2024",
+   "kind": "other",
+   "lang": "it",
+   "note": "Listed in DataCite: Avellino : Associazione Culturale Internazionale Sinestesie.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.14273/unisa-6235",
+   "tags": [
+    "opera",
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-miket-2024-flashback-july-1924",
+   "title": "Flashback, July 1924: TLS 'Billy Budd' Essay Further Fans Melville Revival",
+   "author": "MikeT",
+   "date": "2024-07-12",
+   "kind": "blog",
+   "lang": "en",
+   "note": "The Boat Against the Current (blog). Blog post on John Middleton Murry's 1924 Times Literary Supplement essay \"Herman Melville's Silence\", which treats Billy Budd as Melville's final testament.",
+   "licence": "No licence stated; free to read",
+   "url": "https://boatagainstthecurrent.blogspot.com/2024/07/flashback-july-1924-tls-billy-budd.html",
+   "tags": [
+    "reception",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-2024-grolier-club-celebrates",
+   "title": "Grolier Club Celebrates Herman Melville's Billy Budd at 100",
+   "author": "",
+   "date": "2024-07-17",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Fine Books & Collections, News. News item on the Grolier Club exhibition curated by William Palmer Johnston (12 September to 9 November 2024, then Oberlin College Libraries), with more than 50 items.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.finebooksmagazine.com/fine-books-news/grolier-club-celebrates-herman-melvilles-billy-budd-100",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-brown-2024-illustrating-classic-smith",
+   "title": "Illustrating a classic: Smith professor's artworks featured in an exhibition honoring the centennial of Herman Melville's 'Billy Budd'",
+   "author": "Brown, Carolyn",
+   "date": "2024-10-09",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Daily Hampshire Gazette. Local newspaper feature on Barry Moser's illustrations for the Pennyroyal Billy Budd, shown at the Grolier Club. Moser describes using friends and his grandson as models.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.gazettenet.com/Barry-Moser-Oct-10-57365283",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-sagasti-martinez-2024-law-literature-death",
+   "title": "Law and Literature. The death of justice in Herman Melville's Billy Budd.",
+   "author": "Sagasti Martínez de Tobillas, Ainhoa",
+   "date": "2024",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/316450240",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "philosophy",
+    "naval-history"
+   ]
+  },
+  {
+   "id": "lib-barbosa-2024-literatura-e-politica",
+   "title": "Literatura e Política em Deleuze",
+   "author": "Barbosa, Mariana de Toledo; Abreu, Ovídio; Oneto, Paulo Domenech",
+   "date": "2024",
+   "kind": "article",
+   "lang": "de",
+   "note": "Revista Trágica 17.2, pp. 76-95. Article in Revista Trágica 17.2, pp. 76-95.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.59488/tragica.v17i2.64619",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "claggart",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-cristi-2024-melville-s-billy",
+   "title": "MELVILLE'S BILLY BUDD AT 100 Announced At The Grolier Club NYC",
+   "author": "Cristi, A. A.",
+   "date": "2024-07-16",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "BroadwayWorld. Announcement of the Grolier Club centenary exhibition. Gives the 9 October 2024 symposium panel: John Bryant, Colin Dayan, David Greven, G. Thomas Tanselle and Henry Wessells, moderated by Richard Brodhead.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.broadwayworld.com/article/MELVILLES-BILLY-BUDD-AT-100-Announced-At-The-Grolier-Club-NYC-20240716",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-2024-melville-s-billy",
+   "title": "Melville's Billy Budd at 100 (Oberlin College Libraries exhibition page)",
+   "author": "",
+   "date": "2024",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Oberlin College Libraries, Exhibitions. Page for the exhibition at Terrell Main Library, 17 November to 20 December 2024, curated by William Palmer Johnston. Lists a symposium, a screening of the 1962 film on 12 December and arias from Britten's opera.",
+   "licence": "No licence stated; free to read",
+   "url": "https://libraries.oberlin.edu/exhibitions/overview/melvilles-billy-budd-at-100",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-2024-melville-s-billy-2",
+   "title": "Melville's Billy Budd at 100 (online exhibition)",
+   "author": "",
+   "date": "2024",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Grolier Club Exhibitions. Online version of the exhibition at the Grolier Club (12 September to 9 November 2024) and Oberlin College Libraries (17 November to 20 December 2024). Introductory essay signed W.P.J., August 2024. Sections run from Melville's desk through the revival to the twenty-first century.",
+   "licence": "No licence stated; free to read",
+   "url": "https://grolierclub.omeka.net/exhibits/show/billy-budd",
+   "tags": [
+    "reception",
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-2024-out-breadbox-melville",
+   "title": "Out of the Breadbox: Melville's \"Billy Budd\" Centennial, A Cultural Collaboration",
+   "author": "",
+   "date": "2024-09-03",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Rural Intelligence. Regional magazine item on the centenary programme by the Berkshire Historical Society, the Linde Center at Tanglewood and Berkshire Opera Festival, with the story of the manuscript in the tin breadbox and comments from Lesley Herzberg.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.ruralintelligence.com/out-of-the-breadbox-melvilles-billy-budd-centennial-a-cultural-collaboration/",
+   "tags": [
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-13717618-2024-solar-materialism-billy",
+   "title": "Solar Materialism in Billy Budd, Sailor",
+   "author": "(13717618), Christopher Bates",
+   "date": "2024",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/156812334",
+   "tags": [
+    "criticism",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-brodhead-2024-watch-melville-s",
+   "title": "Watch: Melville's Billy Budd at 100 Symposium",
+   "author": "Brodhead, Richard; Bryant, John; Greven, David; Tanselle, G. Thomas; Wessells, Henry",
+   "date": "2024-10-09",
+   "kind": "talk",
+   "lang": "en",
+   "note": "Melville's Billy Budd at 100 (online exhibition), Grolier Club Exhibitions. Exhibition page for the video of the Grolier Club symposium, moderated by Richard Brodhead. The date is from Henry Wessells's announcement of the event. Video embed was not readable in the fetched page text.",
+   "licence": "No licence stated; free to read",
+   "url": "https://grolierclub.omeka.net/exhibits/show/billy-budd/bb-symposium",
+   "tags": [
+    "reception",
+    "editing",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-goyenechea-2025-arendt-y-el",
+   "title": "Arendt y el valor político de los ejemplos literarios: el caso de Billy Budd, Sailor",
+   "author": "Goyenechea, Elisa",
+   "date": "2025",
+   "kind": "article",
+   "lang": "es",
+   "note": "Isegoría no. 72. Article in Isegoría no. 72.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.3989/isegoria.2025.72.1562",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-cantoni-2025-billy-budd",
+   "title": "Billy Budd",
+   "author": "Cantoni, Linda",
+   "date": "2025-09-01",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Hot off the Press (Distributed Proofreaders blog). Post marking Project Gutenberg's release of the novella, by a volunteer who sits on the Berkshire County Historical Society's board. Covers Melville's career, Weaver's discovery of the manuscript, the plot and adaptations.",
+   "licence": "Creative Commons Attribution ShareAlike",
+   "url": "https://blog.pgdp.net/2025/09/01/billy-budd/",
+   "tags": [
+    "reception",
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-esolen-2025-billy-budd-1962",
+   "title": "Billy Budd (1962)",
+   "author": "Esolen, Anthony",
+   "date": "2025-06-26",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Word & Song by Anthony Esolen (Substack), Film of the Week. Paid Substack post in a film series on Peter Ustinov's 1962 film of Billy Budd. Only the introduction is visible without subscription.",
+   "licence": "In copyright",
+   "url": "https://anthonyesolen.substack.com/p/billy-budd-1962",
+   "tags": [
+    "film",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-melville-2025-billy-budd-sailor",
    "title": "Billy Budd, Sailor (An Inside Narrative) (University of Chicago Press, 2025)",
    "author": "Melville, Herman; Moser, Barry; Bryant, John; Kelley, Wyn; Ohge, Christopher",
@@ -1866,6 +6822,875 @@
     "edition",
     "mel",
     "moser"
+   ]
+  },
+  {
+   "id": "lib-reardon-2025-book-review-billy",
+   "title": "Book review: 'Billy Budd, Sailor (An Inside Narrative)' by Herman Melville, illustrated by Barry Moser",
+   "author": "Reardon, Patrick T.",
+   "date": "2025-12-23",
+   "kind": "review",
+   "lang": "en",
+   "note": "Patrick T. Reardon (website); first appeared in Third Coast Review, 18 November 2025. Review of the University of Chicago Press centennial edition with Moser's woodcuts and the Melville Electronic Library text, framing the story as Greek tragedy.",
+   "licence": "No licence stated; free to read",
+   "url": "https://patricktreardon.com/book-review-billy-budd-sailor-an-inside-narrative-by-herman-melville-illustrated-by-barry-moser/",
+   "tags": [
+    "reception",
+    "editing",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-melville-2025-melville-collection-introduction",
+   "title": "Melville Collection: With an Introduction and Contemporary Criticism",
+   "author": "Melville, Herman; Urbanczyk, Aaron; Pearce, Joseph",
+   "date": "2025",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Ignatius Critical Editions: Bartleby, Benito Cereno and Billy Budd with contemporary criticism, including Robert C. Evans on ambivalence and ambiguity in Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://lccn.loc.gov/2023945030",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-einboden-2025-shadow-altar-middle",
+   "title": "\"Shadow of the Altar\": The Middle Eastern Sacrifices of Billy Budd",
+   "author": "Einboden, Jeffrey",
+   "date": "2025-03-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan 27, pp. 26-44. Article in Leviathan 27, pp. 26-44.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2025.a960350",
+   "tags": [
+    "criticism",
+    "theology",
+    "narrative",
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-little-seamstress-2026-god-bless-billy",
+   "title": "God Bless Billy Budd",
+   "author": "the little seamstress",
+   "date": "2026-07-31",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Biblioll College (Substack), The Shadow Canon. Paid essay subtitled \"Reflections on Melville's nearly-lost masterpiece\". Treats Billy, Claggart and Vere as embodying different philosophies and compares Vere to the Duke in Measure for Measure. Pseudonymous; the text beyond the paywall was not read.",
+   "licence": "In copyright",
+   "url": "https://bibliollcollege.substack.com/p/god-bless-billy-budd",
+   "tags": [
+    "criticism",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-gish-2026-justice-prudence-common",
+   "title": "Justice, Prudence, and the Common Good: A Capital Dilemma in Herman Melville’s Billy Budd",
+   "author": "Gish, Dustin",
+   "date": "2026",
+   "kind": "article",
+   "lang": "en",
+   "note": "Literature 6.3, pp. 23. Article in Literature 6.3, pp. 23.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.3390/literature6030023",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics",
+    "philosophy",
+    "theology",
+    "naval-history"
+   ]
+  },
+  {
+   "id": "lib-berry-2026-melville-research-bench",
+   "title": "Melville Research Bench",
+   "author": "Berry, David M.; Jonik, Michael",
+   "date": "2026",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in DataCite: Zenodo.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5281/zenodo.23715254",
+   "tags": [
+    "editing",
+    "genetic-text",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-2026-billy-budd-apk",
+   "title": "手机版比利·巴德(Billy Budd).apk",
+   "author": "叶兴阳双语音标有声读物",
+   "date": "2026",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Zenodo.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.5281/zenodo.21429865",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-2026-billy-budd-zip",
+   "title": "电脑版比利·巴德(Billy Budd).zip",
+   "author": "叶兴阳双语音标有声读物",
+   "date": "2026",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Zenodo.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.5281/zenodo.21815937",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-2026-billy-budd-pdf",
+   "title": "美式书比利·巴德(Billy Budd).pdf",
+   "author": "叶兴阳双语音标有声读物",
+   "date": "2026",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Zenodo.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.5281/zenodo.20996863",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-2026-billy-budd-pdf-2",
+   "title": "英式书比利·巴德(Billy Budd).pdf",
+   "author": "叶兴阳双语音标有声读物",
+   "date": "2026",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book, Zenodo.",
+   "licence": "CC BY 4.0",
+   "url": "https://doi.org/10.5281/zenodo.21125351",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-2-criticism-billy",
+   "title": "2 Criticism of Billy Budd, Sailor: A Counterhistory",
+   "author": "",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Project Muse.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/chapter.452",
+   "tags": [
+    "criticism",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-3-billy-budd",
+   "title": "3 Billy Budd: A Symptomatic Reading",
+   "author": "",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Project Muse.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/chapter.453",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-curriculum-english-student",
+   "title": "A CURRICULUM FOR ENGLISH, STUDENT PACKET, GRADE 11",
+   "author": "",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED013826",
+   "tags": [
+    "criticism",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-orteza-y-place-subjectivity-moral",
+   "title": "A Place for Subjectivity in Moral Judgments and Moral Actions",
+   "author": "Orteza y Miranda, Evelina",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=EJ485338",
+   "tags": [
+    "criticism",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-recchia-america-film-humanities",
+   "title": "America on Film: A Humanities Composition Course",
+   "author": "Recchia, Edward",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED103880",
+   "tags": [
+    "queer-reading",
+    "pedagogy",
+    "film"
+   ]
+  },
+  {
+   "id": "lib-melville-billy-budd",
+   "title": "Billy Budd",
+   "author": "Melville, Herman 1819-1891",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Bielefeld [u.a.] Velhagen & Klasing.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/306447849",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-franklin-billy-budd-capital",
+   "title": "Billy Budd and Capital Punishment:",
+   "author": "FRANKLIN, H. BRUCE",
+   "date": "",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in University of Iowa Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/j.ctt20q2289.11",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-hagen-billy-budd-kohlberg",
+   "title": "Billy Budd and Kohlberg's Stages of Moral Development",
+   "author": "Hagen, Lyman B.",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=EJ175078",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-billy",
+   "title": "Billy Budd, Billy Budd",
+   "author": "",
+   "date": "",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in Bloomsbury Academic.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5040/9781501321047.ch-003",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-billy-budd-foretopman",
+   "title": "Billy Budd, foretopman",
+   "author": "Melville, Herman, 1819-1891",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in University of Oxford.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/83516183",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-sailor-4",
+   "title": "Billy Budd, Sailor: an Inside Narrative by Herman Melville, 1924 (Reference Guide to Short Fiction entry)",
+   "author": "",
+   "date": "",
+   "kind": "encyclopedia",
+   "lang": "en",
+   "note": "Reference Guide to Short Fiction, via Encyclopedia.com. Reference entry on the novella. Entry author and year not shown on the page.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/billy-budd-sailor-inside-narrative-herman-melville-1924",
+   "tags": [
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-esdale-billy-budd-sailor",
+   "title": "Billy Budd, Sailor: An Inside Narrative (Novels for Students entry)",
+   "author": "Esdale, Logan; Goldstein, Tom; Reich, Charles A.",
+   "date": "",
+   "kind": "encyclopedia",
+   "lang": "en",
+   "note": "Novels for Students, via Encyclopedia.com. Student reference entry with critical essays credited to Logan Esdale, Tom Goldstein and Charles A. Reich. No year shown for the entry.",
+   "licence": "No licence stated; free to read",
+   "url": "https://encyclopedia.com/arts/educational-magazines/billy-budd-sailor-inside-narrative",
+   "tags": [
+    "pedagogy",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-laiz-billy-budd-sailor",
+   "title": "Billy Budd, Sailor Audiobook",
+   "author": "Laiz, Jana; Giamatti, Paul",
+   "date": "",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Berkshire County Historical Society at Herman Melville's Arrowhead. Announcement of the audiobook read by Paul Giamatti for the centenary, with a Q&A between Giamatti and Jana Laiz on Arrowhead and on recording the novella. No page date shown; retailers give a 2025 release.",
+   "licence": "No licence stated; free to read",
+   "url": "https://berkshirehistory.org/billy-budd-sailor-audiobook/",
+   "tags": [
+    "reception",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-fee-billy-budd-sailor",
+   "title": "Billy Budd, Sailor by Herman Melville - Book Talk",
+   "author": "Fee, Jeremy",
+   "date": "",
+   "kind": "talk",
+   "lang": "en",
+   "note": "YouTube channel: JeremyFee. Booktalk video on the novella; title and channel from YouTube's oEmbed record.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.youtube.com/watch?v=hxceN6JktI0",
+   "tags": [
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-sailor-3",
+   "title": "Billy Budd, Sailor (Literature and Its Times entry)",
+   "author": "",
+   "date": "",
+   "kind": "encyclopedia",
+   "lang": "en",
+   "note": "Literature and Its Times, via Encyclopedia.com. Reference entry on the novella and its historical context. No entry author or year given on the page.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/billy-budd-sailor",
+   "tags": [
+    "reception",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-bartlebye",
+   "title": "Billy Budd と Bartlebye と、他",
+   "author": "前田, 禮子; MAEDA, Reiko",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 大手前女子大学.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/142473123",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-billy-budd",
+   "title": "Billy Budd : 三つの主題をめぐって",
+   "author": "即席, 水雄",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 山口大学文理学部・教育学部・教養部.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/152023840",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-takeuchi-billy-budd",
+   "title": "Billy Buddにおける言語，身体，セクシュアリティ",
+   "author": "TAKEUCHI, Katsunori; 竹内, 勝徳",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Kagoshima University.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/142154889",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-austen-but-fate-ban",
+   "title": "But for Fate and Ban: Homosexual Villains and Victims in the Military",
+   "author": "Austen, Roger",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=EJ109140",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-reed-fact-fiction-history",
+   "title": "Fact, Fiction and History: The Role of Historian, Writer, Teacher and Reader",
+   "author": "Reed, Arthea, Ed.",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED278044",
+   "tags": [
+    "theology",
+    "race",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-brown-guilt-literature",
+   "title": "Guilt in Literature",
+   "author": "Brown, Lurene",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC: Lurene Brown, Ohio University, Athens, Ohio.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED112428",
+   "tags": [
+    "law-and-literature",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-herman-melvilles-billy",
+   "title": "Herman Melville’s Billy Budd",
+   "author": "",
+   "date": "",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Chapter in University of Iowa Press.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/j.ctt20q1vnn.9",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-partially-examined-herman-melville-s",
+   "title": "Herman Melville's \"Billy Budd\": Innocence, Order and Authority | (sub)Text",
+   "author": "The Partially Examined Life",
+   "date": "",
+   "kind": "talk",
+   "lang": "en",
+   "note": "YouTube channel: The Partially Examined Life. Video version of or companion to the (sub)Text discussion of the novella; title and channel from YouTube's oEmbed record.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.youtube.com/watch?v=qA01VHIbnDk",
+   "tags": [
+    "podcast",
+    "philosophy"
+   ]
+  },
+  {
+   "id": "lib-homosocial-pretension-no",
+   "title": "Homosocial Pretension No More-Lovelessness in the Cognoscenti : Melville's Billy Budd as a Camp Story",
+   "author": "佐々木, 英哲; 12022; Sasaki, Eitetsu; 12023; ササキ, エイテツ",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/71144561",
+   "tags": [
+    "criticism",
+    "politics",
+    "queer-reading",
+    "vere",
+    "claggart",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-instinct-significance-billy",
+   "title": "“Instinct with Significance”: Billy Budd",
+   "author": "",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Wiley.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1002/9780470694084.ch11",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-justice-sin-fate",
+   "title": "Justice, Sin, Fate: law and religion in Billy Budd, Sailor",
+   "author": "山辺, 省太; YAMABE, Shota; ヤマベ, ショウタ",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 南山大学.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.15119/00001004",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "theology"
+   ]
+  },
+  {
+   "id": "lib-chase-melville-collection-critical",
+   "title": "Melville: A Collection of Critical Essays. Twentieth Century Views Series",
+   "author": "Chase, Richard, Ed.",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Prentice-Hall, Inc., Englewood Cliffs, New Jersey 07632 ($5.95 cloth, $1.95 paper).",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED085719",
+   "tags": [
+    "criticism",
+    "politics",
+    "pedagogy",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-vasillopulos-moral-responsibility-missing",
+   "title": "Moral Responsibility: The Missing Element in Educational Leadership",
+   "author": "Vasillopulos, Christopher; Denney, Morgan",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Canadian Center of Science and Education. 1120 Finch Avenue West Suite 701-309, Toronto, OH M3J 3H7, Canada. Tel: 416-642-2606; Fax: 416-642-2608; e-mail: hes@ccsenet.org; Web site: http://www.ccsenet.org/journal/index.php/hes.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=EJ1080199",
+   "tags": [
+    "criticism",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-keller-movies-literary-elements",
+   "title": "Movies and Literary Elements",
+   "author": "Keller, Rodney D.",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED267442",
+   "tags": [
+    "law-and-literature",
+    "pedagogy",
+    "film"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-melville",
+   "title": "ON BILLY BUDD MELVILLE ノ ジンセイカン ニツイテ",
+   "author": "岡本, 雅夫; オカモト, マサオ; Okamoto, Masao",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/68181837",
+   "tags": [
+    "criticism",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-sasaki-probating-melville-s",
+   "title": "Probating Melville's Posthumous Work, Billy Budd : Authorship in Self-Imposed Jingoism",
+   "author": "Sasaki, Eitetsu",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/150297478",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics",
+    "theology",
+    "queer-reading",
+    "race"
+   ]
+  },
+  {
+   "id": "lib-hayashi-silent-mutineers-melville",
+   "title": "Silent Mutineers in Melville's Billy Budd, Sailor",
+   "author": "Hayashi, Shiho; 91589",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in The society of english literature and linguistics Nagoya University.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/169254673",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "queer-reading",
+    "naval-history",
+    "vere",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-gerhardt-slj-s-1974",
+   "title": "SLJ's 1974 Huckleberry Finn Pin and Billy Budd Button Awards",
+   "author": "Gerhardt, Lillian N.",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=EJ096595",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-sak-suspension-s-habeas",
+   "title": "Suspension(s) of Habeas Corpus: White-Jacket, Billy Budd and Guantánamo",
+   "author": "Sak, Taras Alexander; 756; サック, タラス アレキザンダー; 131",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 安田女子大学.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.24613/00000052",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-allen-teacher-exchanges-teaching",
+   "title": "Teacher Exchanges: Teaching \"Billy Budd\" as Secondary School Social Studies",
+   "author": "Allen, Rodney F.",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED429895",
+   "tags": [
+    "law-and-literature",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-irvine-teaching-novel-across",
+   "title": "Teaching the Novel Across the Curriculum: A Handbook for Educators",
+   "author": "Irvine, Colin C. Ed.",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC: Greenwood Publishing Group. 88 Post Road West, Westport, CT 06825. Tel: 800-225-5800; Tel: 203-226-3571; Fax: 203-222-1502; Web site: http://www.greenwood.com.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED498758",
+   "tags": [
+    "law-and-literature",
+    "politics",
+    "philosophy",
+    "theology",
+    "vere",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-curse-somers-billy",
+   "title": "The Curse of the \"Somers,\" Billy Budd's Ghost Ship: An Educational Guide to the Documentary Film",
+   "author": "",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC: Somers Educational Film, 330 Bret Harte, Reno, NV 89509; telephone: 1-800-914-7286 ($69.95 for 55-minute VHS color video and guide, plus $4 shipping/handling)..",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED401578",
+   "tags": [
+    "law-and-literature",
+    "naval-history",
+    "somers",
+    "pedagogy",
+    "film"
+   ]
+  },
+  {
+   "id": "lib-discrepant-chain-billy",
+   "title": "The Discrepant Chain in Billy Budd, Sailor",
+   "author": "杉浦, 亮; 12103; Sugiura, Ryo; 12102; スギウラ, リョウ; 12104",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/401075251",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-wilkins-politics-star-wars",
+   "title": "The Politics of Star Wars",
+   "author": "Wilkins, Lee",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED260404",
+   "tags": [
+    "politics",
+    "theology",
+    "stage",
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-kitzhaber-use-overuse-literary",
+   "title": "THE USE AND OVERUSE OF LITERARY CONVENTION. THE PLACE OF VALUES IN LITERATURE. LITERATURE CURRICULUM VI, TEACHER AND STUDENT VERSIONS",
+   "author": "KITZHABER, ALBERT R.",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in .",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED015918",
+   "tags": [
+    "criticism",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-these-buttons-that",
+   "title": "These Buttons That We Wear : Billy Budd",
+   "author": "",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in Bloomsbury Academic.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5040/9781628927115.ch-005",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-truth-uncompromisingly-told",
+   "title": "Truth uncompromisingly told : Narrative Subversion in Billy Budd, Sailor",
+   "author": "米山, 正文; Yoneyama, Masafumi; ヨネヤマ, マサフミ",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 宇都宮大学国際学部.",
+   "licence": "No licence stated; free to read",
+   "url": "https://core.ac.uk/works/389755697",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-loman-using-humanities-illustrate",
+   "title": "Using the Humanities To Illustrate and Develop Leadership Concepts",
+   "author": "Loman, Sandra L.; Arnold, Frederick M.",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Listed in ERIC.",
+   "licence": "In copyright",
+   "url": "https://eric.ed.gov/?id=ED392716",
+   "tags": [
+    "philosophy",
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-voice-violence-individual",
+   "title": "Voice, Violence and Individual; The Vocal Impediment on “Billy Budd, Sailor”",
+   "author": "板垣, 真任; ITAGAKI, Masazo",
+   "date": "",
+   "kind": "article",
+   "lang": "ja",
+   "note": "Article in 成蹊大学大学院文学研究科.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.15018/00000781",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-watch-tour-melville",
+   "title": "Watch: Tour of Melville's Billy Budd at 100",
+   "author": "",
+   "date": "",
+   "kind": "talk",
+   "lang": "en",
+   "note": "Melville's Billy Budd at 100 (online exhibition), Grolier Club Exhibitions. Exhibition page for a video tour of the centenary show. The fetched page text names no presenter or date.",
+   "licence": "No licence stated; free to read",
+   "url": "https://grolierclub.omeka.net/exhibits/show/billy-budd/virtual-tour",
+   "tags": [
+    "reception",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-sailor",
+   "title": "メルヴィルのBilly Budd, Sailorについて",
+   "author": "村上, 陽介",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 大阪市立大学文学部.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/124715385",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-sailor-2",
+   "title": "裁き，罪，宿命 : Billy Budd, Sailor における法と宗教",
+   "author": "山辺, 省太; YAMABE, Shota; ヤマベ, ショウタ",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article in 南山大学.",
+   "licence": "In copyright",
+   "url": "https://core.ac.uk/works/124527835",
+   "tags": [
+    "criticism"
    ]
   }
  ]
