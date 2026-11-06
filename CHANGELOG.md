@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.3.17)
+
+- **On bench-kit 1.3.0:** the Library at full width, with facets by kind, decade, author, language and tag, a citation with Copy in each box, and DOIs as links. In Book the leaves show whenever a page opens, with an eye to hide them.
+
 ## 0.3.16 (2026-11-06)
 
 - **The Library grows:** 2049 texts (+153), 72 of them held (+9), from the search of the literature on *Billy Budd* under way since 6 November.
