@@ -17,7 +17,7 @@
       { title: 'Annotating together', v: 'mel-rt', tab: 'read', find: /Handsome Sailor/, focus: '#rd-selbar',
         text: 'Annotations are signed with your initials and dated, and shared with the group through Hypothesis. Set your initials and the group under ⚙ Settings.' },
       { title: 'Collate two versions', v: 'ms-first', tab: 'compare', b: 'ms-final', focus: '#tabs [data-menu="versions"]',
-        text: 'Versions ▸ Collate sets two versions side by side, as text or leaf by leaf; in Book, Compare sets a second text facing the first. Genealogy shows how the versions descend.' },
+        text: 'Versions ▸ Collate sets two versions side by side, as text or leaf by leaf; in Book, Compare sets a second text facing the first.' },
       { title: 'Findings and My notes', v: 'mel-rt', tab: 'findings', focus: '#tabs [data-tab="notes"]',
         text: 'Findings gathers what the group and the bench have established, each with its evidence. My notes is your own tray for writing: figures, excerpts and findings, exported to Word or Markdown.' }
     ] }

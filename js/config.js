@@ -122,6 +122,8 @@
                supplied: ['all files', 'Include every file, not only the text'] },
     words: { text: 'Text', font: 'Text font', source: 'Text' },
     comparePrefix: 'Billy Budd: ',
+    // Genealogy is off (no on: true): it reads units of a program, and prose gives it nothing to match; a
+    // link to tab=genealogy still opens it
     genealogy: { set: ['ms-first', 'ms-final', 'mel-rt'], line: 'main', lineNames: { main: 'Manuscript to reading text' } },
     figureNum: { print: '#1f3f66', paper: '#1f3f66', phosphor: '#1f3f66' },
     paratexts: { org: 'vector-humanities', repo: 'melville_paratexts', cache: 'melville-paratexts' },   // a private repository (made 2026-11-05)

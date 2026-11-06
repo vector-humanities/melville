@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.3.11)
+
+- **On bench-kit 0.99.0**, with Genealogy left off: it treats the manuscript as one unit and the reading text as 35 chapters, and so reports no similarity between them. It is gone from Versions ▾, the README and the tour; a link to it still opens the view. Collate, Book's stages and the words added and erased show how the text changed.
+
 ## 0.3.10 (2026-11-05)
 
 - **On bench-kit 0.98.0:** the Library, and the kit's other new parts (the Images tab, Open a folder, Book's Compare for up to four texts, dictionaries in any language), which Melville leaves off.
