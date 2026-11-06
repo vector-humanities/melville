@@ -1095,6 +1095,20 @@
    ]
   },
   {
+   "id": "lib-montale-1942-storia-di-billy",
+   "title": "La storia di Billy Budd",
+   "author": "Montale, Eugenio",
+   "date": "1942",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"The story of Billy Budd\". Italian translation of Billy Budd by Eugenio Montale. SBN shows Bompiani printings of 1943, 1944, 1961, and 1973.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CUB0447975",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-freeman-1942-manuscripts-herman-melville",
    "title": "The manuscripts of Herman Melville's Billy Budd: an analysis of their significance in relation to Melville's life and works, with an exact transcription of both of the novel and of the short story",
    "author": "Freeman, Frederic Barron",
@@ -1313,6 +1327,52 @@
    "url": "https://core.ac.uk/works/307184860",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-quasimodo-1949-billi-budd-libretto",
+   "title": "Billi Budd: Libretto d'Opera",
+   "author": "Quasimodo, Salvatore; Ghedini, Giorgio Federico",
+   "date": "1949",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Edizioni Suvini Zerboni. Bookseller listing for the 1949 Suvini Zerboni libretto of Billy Budd by Quasimodo, music by Ghedini.",
+   "licence": "In copyright",
+   "url": "https://www.ibs.it/billi-budd-libretto-d-opera-libri-vintage-vari/e/2570120309584",
+   "tags": [
+    "opera",
+    "ghedini",
+    "quasimodo"
+   ]
+  },
+  {
+   "id": "lib-erichsen-1949-billy-budd-fortoppsgast",
+   "title": "Billy Budd : Fortoppsgast på H.M.S. \"Indomitable\"",
+   "author": "Erichsen, Eivind",
+   "date": "1949",
+   "kind": "edition",
+   "lang": "no",
+   "note": "English: \"Billy Budd, foretopman on HMS Indomitable\". First Norwegian translation of Billy Budd, by Eivind Erichsen, with an introduction by Alf Larsen. nb.no shows the catalogue entry as viewable to all; the digitised book is under Bokhylla licence.",
+   "licence": "Bokhylla licence (Norwegian IP addresses)",
+   "url": "https://www.nb.no/items/2074a6d3e74e7a2afcffe07b7434274f",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-1949-billy-budd-g",
+   "title": "Billy Budd (G.F. Ghedini)",
+   "author": "",
+   "date": "1949",
+   "kind": "webpage",
+   "lang": "it",
+   "note": "Archivio Storico del Teatro dell'Opera di Roma. Archive entry for Ghedini's Billy Budd, libretto by Salvatore Quasimodo, premiere Teatro La Fenice, Venice, 8 September 1949.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archiviostorico.operaroma.it/opera/billy-budd-g-f-ghedini",
+   "tags": [
+    "opera",
+    "ghedini",
+    "quasimodo"
    ]
   },
   {
@@ -1694,6 +1754,34 @@
    ]
   },
   {
+   "id": "lib-1951-billy-budd-broadway-2",
+   "title": "Billy Budd (Broadway, Biltmore Theatre, 1951)",
+   "author": "",
+   "date": "1951",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Playbill Vault. Production record for Billy Budd at the Biltmore Theatre, 1951, with cast and credits.",
+   "licence": "No licence stated; free to read",
+   "url": "https://playbill.com/production/billy-budd-biltmore-theatre-vault-0000001561",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-1951-billy-budd-broadway",
+   "title": "Billy Budd, Broadway play, original",
+   "author": "",
+   "date": "1951",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Internet Broadway Database. Record of the Broadway production of Billy Budd, Biltmore Theatre, 10 February to 12 May 1951, directed by Norris Houghton.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.ibdb.com/broadway-production/billy-budd-1916",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
    "id": "lib-shawe-taylor-1951-billy-budd-i",
    "title": "Billy Budd-I",
    "author": "Shawe-Taylor, Desmond",
@@ -1819,6 +1907,22 @@
    ]
   },
   {
+   "id": "lib-1951-chapman-play-opens",
+   "title": "Chapman Play Opens Saturday in New York",
+   "author": "",
+   "date": "1951-02-08",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Harvard Crimson. News item on the New York opening of the Coxe and Chapman play Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://thecrimson.com/article/1951/2/8/chapman-play-opens-saturday-in-new",
+   "tags": [
+    "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-1951-contemporary-arts-opera",
    "title": "Contemporary Arts: Opera",
    "author": "",
@@ -1892,6 +1996,23 @@
    "url": "https://www.nytimes.com/1951/02/18/archives/melvilles-sea-epic-conflict-of-good-and-evil-in-billy-budd-life-in.html",
    "tags": [
     "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-1951-music-britten-s",
+   "title": "Music: Britten's Seventh",
+   "author": "",
+   "date": "1951-12-10",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "TIME. Report on the London premiere of Billy Budd, Britten's seventh opera, December 1951.",
+   "licence": "No licence stated; free to read",
+   "url": "https://content.time.com/time/magazine/article/0,9171,815742,00.html",
+   "tags": [
+    "opera",
+    "britten",
     "news",
     "reception"
    ]
@@ -2053,6 +2174,22 @@
    ]
   },
   {
+   "id": "lib-1951-playgoer",
+   "title": "The Playgoer",
+   "author": "",
+   "date": "1951-02-12",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Harvard Crimson. Review of the Coxe and Chapman play Billy Budd at the Biltmore, saying Melville is both its strength and weakness.",
+   "licence": "No licence stated; free to read",
+   "url": "https://api.thecrimson.com/article/1951/2/12/the-playgoer-pherman-melville-is-both",
+   "tags": [
+    "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-stein-1952-billy-budd",
    "title": "Billy Budd",
    "author": "Stein, Erwin",
@@ -2129,6 +2266,21 @@
    ]
   },
   {
+   "id": "lib-1952-billy-budd-schlitz",
+   "title": "Billy Budd (Schlitz Playhouse of Stars)",
+   "author": "",
+   "date": "1952-01-11",
+   "kind": "film",
+   "lang": "en",
+   "note": "Schlitz Playhouse of Stars (CBS). Television adaptation of Billy Budd, season 1 episode 15, aired 11 January 1952. Variety reviewed it on 16 January 1952.",
+   "licence": "In copyright",
+   "url": "https://www.imdb.com/title/tt0695714/",
+   "tags": [
+    "film",
+    "television"
+   ]
+  },
+  {
    "id": "lib-law-1952-billy-budd-story",
    "title": "'Billy Budd': The Story; First Impressions",
    "author": "Law, Richard",
@@ -2201,6 +2353,23 @@
    "tags": [
     "opera",
     "britten",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-1952-contemporary-arts",
+   "title": "Contemporary Arts",
+   "author": "",
+   "date": "1952-05-02",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Spectator. Contemporary Arts column, 2 May 1952, responding to Britten's Billy Budd on first hearing and to its critics.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.spectator.co.uk/article/2nd-may-1952/12/contemporary-arts",
+   "tags": [
+    "opera",
+    "britten",
+    "news",
     "reception"
    ]
   },
@@ -2491,6 +2660,20 @@
    ]
   },
   {
+   "id": "lib-giachino-1954-billy-budd-e",
+   "title": "Billy Budd e altri racconti",
+   "author": "Giachino, Enzo",
+   "date": "1954",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd and other tales\". Enzo Giachino's translation with his preface; SBN shows printings 1965 and 1972, and 1992 and 1995 with a note by Rossella Bernascone.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/FER0080485",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-moering-1954-billy-budd-erzahlung",
    "title": "Billy Budd: Erzählung",
    "author": "Moering, Richard",
@@ -2519,6 +2702,20 @@
    ]
   },
   {
+   "id": "lib-1955-billy-budd-formarsgast",
+   "title": "Billy Budd, förmärsgast : vad som hände honom det stora myteriets år etc.",
+   "author": "",
+   "date": "1955",
+   "kind": "edition",
+   "lang": "sv",
+   "note": "English: \"Billy Budd, foretopman: what befell him in the year of the Great Mutiny\". Swedish translation; translator not in the brief record.",
+   "licence": "In copyright",
+   "url": "http://libris.kb.se/bib/1443738",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-g-1955-downtown-billy-budd",
    "title": "Downtown: 'Billy Budd'; Melville Work Revived by the Masquers",
    "author": "A. G.",
@@ -2531,6 +2728,21 @@
    "tags": [
     "stage",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-1955-general-motors-theatre-2",
+   "title": "General Motors Theatre: Billy Budd",
+   "author": "",
+   "date": "1955-04-26",
+   "kind": "film",
+   "lang": "en",
+   "note": "General Motors Theatre (CBC). Telecast of Billy Budd, 26 April 1955, with William Shatner, Basil Rathbone and Patrick Macnee. Internet Archive copy; rights not stated.",
+   "licence": "No licence stated; free to view",
+   "url": "https://archive.org/details/general-motors-theatre-billy-budd-1955",
+   "tags": [
+    "film",
+    "television"
    ]
   },
   {
@@ -2602,6 +2814,21 @@
    "url": "https://cir.nii.ac.jp/crid/1520572360402205824",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-cameron-1956-billy-budd-execution",
+   "title": "Billy Budd and \"An Execution at Sea\"",
+   "author": "Cameron, Kenneth Walter",
+   "date": "1956",
+   "kind": "article",
+   "lang": "en",
+   "note": "Emerson Society Quarterly 2, pp. 13-15. Unsigned (\"By the Editor\"), attributed to Cameron in Bercaw's Melville's Sources. Reprints an 1846 sketch of an execution at sea as a further treatment of the Billy Budd theme.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/esq_1956_2",
+   "tags": [
+    "criticism",
+    "naval-history"
    ]
   },
   {
@@ -2726,6 +2953,20 @@
    "note": "The fine hammered steel of Herman Melville: with a checklist of Melville studies (University of Illinois Press, 1957). Chapter of The Fine Hammered Steel of Herman Melville.",
    "licence": "In copyright",
    "url": "https://id.lib.harvard.edu/alma/990066676250203941/catalog",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-cramer-1957-billy-budd-billy",
+   "title": "Billy Budd and Billy Budd",
+   "author": "Cramer, Maurice B.",
+   "date": "1957",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of General Education 10, pp. 78-91. Seen in: Journal of General Education cumulative index 1946-1974 (Internet Archive) and Boswell checklist.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_journal-of-general-education_1946-1974_1-25_cumulative-index",
    "tags": [
     "criticism"
    ]
@@ -2889,6 +3130,21 @@
    ]
   },
   {
+   "id": "lib-1959-dupont-show-month",
+   "title": "DuPont Show of the Month, Season 2: Billy Budd",
+   "author": "",
+   "date": "1959-05-25",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Classic TV Archive. Listing of the DuPont Show of the Month Billy Budd, 25 May 1959, with Don Murray, directed by Robert Mulligan, produced by David Susskind.",
+   "licence": "No licence stated; free to read",
+   "url": "https://ctva.biz/US/Anthology/DuPontShowOfMonth_02_(1958-59).htm",
+   "tags": [
+    "film",
+    "television"
+   ]
+  },
+  {
    "id": "lib-1959-melville-billy-budd",
    "title": "MELVILLE: \"BILLY BUDD, FORETOPMAN\"に見られる受容精神について",
    "author": "岡本, 秀男",
@@ -3017,6 +3273,20 @@
    "url": "https://doi.org/10.2307/2872063",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-dana-1960-due-anni-prora",
+   "title": "Due anni a prora / Billy Budd, gabbiere di trinchetto",
+   "author": "Dana, Richard Henry, jr.; Melville, Herman",
+   "date": "1960",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Two Years Before the Mast; Billy Budd, fore-topman\". Italian omnibus; De Agostini issues 1960 to 1971.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/SBL0515941",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -3589,6 +3859,21 @@
    ]
   },
   {
+   "id": "lib-1962-billy-budd-film",
+   "title": "Billy Budd (film)",
+   "author": "",
+   "date": "1962",
+   "kind": "film",
+   "lang": "en",
+   "note": "Wikipedia. Encyclopedia entry on Peter Ustinov's film Billy Budd (1962), screenplay by Ustinov and DeWitt Bodeen after the Coxe and Chapman play.",
+   "licence": "CC BY-SA 4.0",
+   "url": "https://en.wikipedia.org/wiki/Billy_Budd_(film)",
+   "tags": [
+    "film",
+    "ustinov"
+   ]
+  },
+  {
    "id": "lib-tube-1962-billy-budd-film",
    "title": "Billy Budd (Film reviews)",
    "author": "Tube.",
@@ -3805,6 +4090,22 @@
    ]
   },
   {
+   "id": "lib-crowther-1962-screen-billy-budd-2",
+   "title": "The screen: 'Billy Budd'",
+   "author": "Crowther, Bosley",
+   "date": "1962",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "CineFiles, Berkeley Art Museum and Pacific Film Archive. Catalogue record of Bosley Crowther's 1962 New York Times review of Ustinov's Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://cinefiles.bampfa.berkeley.edu/catalog/24674",
+   "tags": [
+    "film",
+    "ustinov",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-crowther-1962-screen-billy-budd",
    "title": "The Screen: 'Billy Budd': Ustinov Produces and Directs Adaptation",
    "author": "Crowther, Bosley",
@@ -3941,6 +4242,22 @@
    "tags": [
     "criticism",
     "politics"
+   ]
+  },
+  {
+   "id": "lib-ustinov-1963-billy-budd-lp",
+   "title": "Billy Budd (LP, 1963)",
+   "author": "Ustinov, Peter",
+   "date": "1963",
+   "kind": "other",
+   "lang": "en",
+   "note": "Internet Archive. LP credited to Peter Ustinov, 1963, related to his Billy Budd film, with tracks The Meeting, The Accusation and The Trial. Internet Archive copy; rights not stated.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/lp_billy-budd_peter-ustinov",
+   "tags": [
+    "film",
+    "ustinov",
+    "recording"
    ]
   },
   {
@@ -4160,6 +4477,20 @@
    ]
   },
   {
+   "id": "lib-doubleday-1964-jack-easy-billy",
+   "title": "Jack Easy and Billy Budd",
+   "author": "Doubleday, Neal F.",
+   "date": "1964",
+   "kind": "article",
+   "lang": "en",
+   "note": "English Language Notes 2, pp. 39-42.",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "comparative"
+   ]
+  },
+  {
    "id": "lib-melville-1964-melville-best-moby",
    "title": "Melville : the best of Moby Dick and Typee, also Billy Budd complete",
    "author": "Melville, H.; Ellsberg, Edward",
@@ -4352,6 +4683,34 @@
    ]
   },
   {
+   "id": "lib-minoja-1965-billy-budd-gabbiere",
+   "title": "Billy Budd : gabbiere di parrocchetto",
+   "author": "Minoja, Margherita",
+   "date": "1965",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd, foretopman\". Margherita Minoja's translation; BUR reissue 2003 (TO01228933).",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/SBL0422418",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-1965-billy-budd-och",
+   "title": "Billy Budd och andra berättelser",
+   "author": "",
+   "date": "1965",
+   "kind": "edition",
+   "lang": "sv",
+   "note": "English: \"Billy Budd and other stories\". Swedish collection; TPB talking-book editions 1994, 2005.",
+   "licence": "In copyright",
+   "url": "http://libris.kb.se/bib/525026",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-boehrer-1965-billy-budd-author",
    "title": "Billy Budd: the author and the captain",
    "author": "Boehrer, John J.",
@@ -4511,6 +4870,34 @@
    ]
   },
   {
+   "id": "lib-1966-benito-cereno-billy",
+   "title": "Benito Cereno ; Billy Budd, gabbiere di parrocchetto ; La veranda",
+   "author": "",
+   "date": "1966",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian collection containing Billy Budd; SBN names no translator here. Curcio reissue 1978 (UBO0125197).",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/SBL0443249",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-zielinski-1966-billy-budd",
+   "title": "Billy Budd",
+   "author": "Zieliński, Bronisław",
+   "date": "1966",
+   "kind": "edition",
+   "lang": "pl",
+   "note": "Polish translation of Billy Budd by Bronisław Zieliński, verse by Ludmiła Marjańska, Biblioteka \"Jednorożca\". Reissued 1978.",
+   "licence": "In copyright",
+   "url": "https://data.bn.org.pl/api/institutions/bibs.json?id=2009718",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-coxe-1966-billy-budd-based",
    "title": "Billy Budd : based on the novel by Herman Melville",
    "author": "Coxe, L.; Chapman, R.; Melville, H.",
@@ -4536,6 +4923,20 @@
    "url": "https://core.ac.uk/works/83290887",
    "tags": [
     "naval-history"
+   ]
+  },
+  {
+   "id": "lib-cervaro-1966-billy-budd-gabbiere",
+   "title": "Billy Budd, gabbiere di parrocchetto",
+   "author": "Cervaro, Giulia",
+   "date": "1966",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd, foretopman\". Edited by Giulia Cervaro.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/SBL0447838",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -5044,6 +5445,20 @@
    ]
   },
   {
+   "id": "lib-bianchi-1968-billy-budd-sailor",
+   "title": "Billy Budd, sailor : an inside narrative",
+   "author": "Bianchi, Ruggero",
+   "date": "1968",
+   "kind": "edition",
+   "lang": "en",
+   "note": "English text of Billy Budd for Italian readers, edited by Ruggero Bianchi.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/SBL0112056",
+   "tags": [
+    "editing"
+   ]
+  },
+  {
    "id": "lib-emerson-1968-billy-budd-typee-2",
    "title": "Billy Budd & Typee :notes",
    "author": "Emerson, O. B.",
@@ -5543,6 +5958,20 @@
    ]
   },
   {
+   "id": "lib-mihal-1970-doverne-rozpravanie",
+   "title": "Dôverné rozprávanie",
+   "author": "Mihál, Ján",
+   "date": "1970",
+   "kind": "edition",
+   "lang": "sk",
+   "note": "English: \"Inside narrative\". Slovak translation of Billy Budd by Ján Mihál, afterword by Zdeno Pištek, series Svetová tvorba 69; the Slovak National Library lists it as Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://sk.snk.sk/vufind/Record/MASK2OKST.312948",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-seelye-1970-final-balance-prose",
    "title": "Final balance: the prose fragments and Billy Budd",
    "author": "Seelye, John",
@@ -5711,6 +6140,20 @@
    "note": "Item listed in Semantic Scholar with no abstract.",
    "licence": "In copyright",
    "url": "https://www.semanticscholar.org/paper/d2ceb574261144aea5ca741fc50b3874fadeac3d"
+  },
+  {
+   "id": "lib-bianchi-1971-due-storie-di",
+   "title": "Due storie di marinai : Benito Cereno, Billy Budd",
+   "author": "Bianchi, Ruggero",
+   "date": "1971",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Two sailors' stories: Benito Cereno, Billy Budd\". Translated by Ruggero Bianchi; a Garzanti printing with his translation is listed for 1978.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/SBL0355508",
+   "tags": [
+    "translation"
+   ]
   },
   {
    "id": "lib-rosenthal-1971-elegy-jack-chase",
@@ -5995,6 +6438,20 @@
    ]
   },
   {
+   "id": "lib-1973-due-marinai-billy",
+   "title": "Due marinai : Billy Budd, Benito Cereno",
+   "author": "",
+   "date": "1973",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Two sailors: Billy Budd, Benito Cereno\". Italian collection; SBN brief record names no translator.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CFI0553554",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-house-1973-francesco-caracciolo-fenimore",
    "title": "Francesco Caracciolo, Fenimore Cooper and Billy Budd",
    "author": "House, K.",
@@ -6149,6 +6606,34 @@
    ]
   },
   {
+   "id": "lib-1973-2",
+   "title": "比利巴特",
+   "author": "卓, 罗林 (Zhuo Luolin)",
+   "date": "1973",
+   "kind": "edition",
+   "lang": "zh",
+   "note": "Chinese: \"Bili Bate\", Billy Budd. English-Chinese parallel edition, series Ying han dui zhao shi jie ming zhu no. 104.",
+   "licence": "In copyright",
+   "url": "https://e-aoi.uzh.ch/apps/china-west/entities/17167",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-d-agostino-1974-benito-cereno-billy",
+   "title": "Benito Cereno ; Billy Budd",
+   "author": "D'Agostino, Nemi (introd.)",
+   "date": "1974",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian collection of Billy Budd with Benito Cereno; introduction by Nemi D'Agostino recorded on the 1988 printing. Printings 1974, 1978, 1982, 1988.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/FER0137795",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-crozier-1974-billy-budd",
    "title": "Billy Budd",
    "author": "Crozier, Eric; Melville, Herman; Britten, Benjamin; Forster, Edward Morgan; del Liceu, Societat del Gran Teatre; Pamias, Juan A.",
@@ -6296,6 +6781,20 @@
     "criticism",
     "genetic-text",
     "vere"
+   ]
+  },
+  {
+   "id": "lib-ancochea-1975-benito-cereno-billy",
+   "title": "Benito Cereno ; Billy Budd, marinero",
+   "author": "Ancochea, Nicanor; Valverde, José María",
+   "date": "1975",
+   "kind": "edition",
+   "lang": "es",
+   "note": "Spanish volume of Benito Cereno and Billy Budd, Sailor; translators as CiNii lists them.",
+   "licence": "In copyright",
+   "url": "https://cir.nii.ac.jp/crid/1971712334786825163",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -6547,6 +7046,20 @@
    "licence": "In copyright",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-montale-1976-billy-budd-e",
+   "title": "Billy Budd e altri racconti della leggenda americana",
+   "author": "Montale, Eugenio",
+   "date": "1976",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd and other tales of American legend\". Children's or popular collection \"written in Italian by Eugenio Montale\"; reissues 1988, 1993.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/RLZ0014274",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -6822,6 +7335,20 @@
    ]
   },
   {
+   "id": "lib-melville-1977-storia-di-billy",
+   "title": "La storia di Billy Budd",
+   "author": "Melville, Herman",
+   "date": "1977",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"The story of Billy Budd\". Italian edition from Edizioni Paoline.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CFI0505581",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-mandell-1977-martyrs-murderers-defense",
    "title": "Martyrs or Murderers? A Defense of Innocence",
    "author": "Mandell, Marvin",
@@ -6904,6 +7431,20 @@
    "tags": [
     "criticism",
     "vere"
+   ]
+  },
+  {
+   "id": "lib-1977",
+   "title": "Билли Бадд, фор-марсовый матрос. Истинная история",
+   "author": "Гурова, И.",
+   "date": "1977",
+   "kind": "edition",
+   "lang": "ru",
+   "note": "English: \"Billy Budd, Foretopman: A True Story\". Russian translation by Irina Gurova, first in the 1977 volume Повести; Fantlab lists 12 Russian editions to 2023, including Билли Бадд (1986) and the 1988 collected works vol. 3.",
+   "licence": "In copyright",
+   "url": "https://fantlab.ru/work243155",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -7319,6 +7860,21 @@
    "url": "https://archive.org/details/magillssurveyofc0003unse",
    "tags": [
     "film"
+   ]
+  },
+  {
+   "id": "lib-1980-billy-budd-1980",
+   "title": "Billy Budd (1980 television film)",
+   "author": "",
+   "date": "1980",
+   "kind": "film",
+   "lang": "en",
+   "note": "Wikidata. Wikidata entry for a 1980 television film of Billy Budd; Wikipedia links an IMDb record with Porgy Franssen.",
+   "licence": "CC0 1.0",
+   "url": "https://www.wikidata.org/wiki/Q123517584",
+   "tags": [
+    "film",
+    "television"
    ]
   },
   {
@@ -7813,6 +8369,21 @@
    ]
   },
   {
+   "id": "lib-bianchi-1982-billy-budd-marinaio",
+   "title": "Billy Budd, marinaio (racconto interiore)",
+   "author": "Bianchi, Ruggero",
+   "date": "1982",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd, sailor (an inside narrative)\". Introduction, notes and translation by Ruggero Bianchi; also volume 7 of the Mursia Melville works 1992 and Mursia per Vela 2006.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/MOD0245024",
+   "tags": [
+    "translation",
+    "editing"
+   ]
+  },
+  {
    "id": "lib-whittall-1982-britten-albert-herring",
    "title": "Britten: From Albert Herring to Billy Budd (1947-51)",
    "author": "Whittall, Arnold",
@@ -8224,6 +8795,20 @@
    "licence": "In copyright",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-ambrogio-1984-benito-cereno-billy",
+   "title": "Benito Cereno ; Billy Budd",
+   "author": "De Ambrogio, Erminio (ill.)",
+   "date": "1984",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian fine edition of Billy Budd and Benito Cereno with woodcuts by Erminio De Ambrogio.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/TO00002659",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -8836,6 +9421,22 @@
    ]
   },
   {
+   "id": "lib-boone-1986-male-independence-american",
+   "title": "Male Independence and the American Quest Genre: Hidden Sexual Politics in the All-Male Worlds of Melville, Twain, and London",
+   "author": "Boone, Joseph",
+   "date": "1986",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Gender Studies: New Directions in Feminist Criticism. Ed. Judith Spector. Bowling Green, OH: Popular, 1986. 187-217. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "politics",
+    "queer-reading",
+    "comparative"
+   ]
+  },
+  {
    "id": "lib-martin-1986-saving-captain-vere",
    "title": "Saving Captain Vere : Billy Budd From Melville's Novella to Britten's Opera",
    "author": "Martin, R.",
@@ -8951,6 +9552,20 @@
    "url": "https://doi.org/10.1093/oq/4.3.11",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-1986-2",
+   "title": "البحار الوسيم: بيلي بد",
+   "author": "حبيب, مصطفى طه",
+   "date": "1986",
+   "kind": "edition",
+   "lang": "ar",
+   "note": "Arabic: \"The Handsome Sailor: Billy Budd\". Translated by Muṣṭafā Ṭāhā Ḥabīb.",
+   "licence": "In copyright",
+   "url": "https://research.kwaretech.com/Record/in00000531839",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -9184,6 +9799,20 @@
    ]
   },
   {
+   "id": "lib-1987",
+   "title": "赫麦尔维尔的水手毕利伯德",
+   "author": "周, 绝良 (Zhou Jueliang)",
+   "date": "1987",
+   "kind": "edition",
+   "lang": "zh",
+   "note": "世界文学 (Shi jie wen xue) 1987, no. 6. Chinese: \"H. Melville's Sailor Billy Budd\". Translation published in the journal Shi jie wen xue.",
+   "licence": "In copyright",
+   "url": "https://e-aoi.uzh.ch/apps/china-west/documents/30214",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-melville-1988-billy-budd",
    "title": "Billy Budd",
    "author": "Melville, Herman",
@@ -9193,6 +9822,22 @@
    "note": "",
    "licence": "In copyright",
    "url": "https://core.ac.uk/works/83289960"
+  },
+  {
+   "id": "lib-1988-billy-budd-1988",
+   "title": "Billy Budd (1988 television film)",
+   "author": "",
+   "date": "1988",
+   "kind": "film",
+   "lang": "en",
+   "note": "Wikidata. Wikidata entry for a 1988 television film of Billy Budd, the Britten opera.",
+   "licence": "CC0 1.0",
+   "url": "https://www.wikidata.org/wiki/Q123517590",
+   "tags": [
+    "film",
+    "television",
+    "britten"
+   ]
   },
   {
    "id": "lib-dunning-1988-billy-budd-s",
@@ -9220,6 +9865,21 @@
    "url": "https://lccn.loc.gov/2010545432",
    "tags": [
     "reception"
+   ]
+  },
+  {
+   "id": "lib-bacigalupo-1988-gente-di-mare",
+   "title": "Gente di mare : Benito Cereno, Billy Budd, Daniel Orme",
+   "author": "Bacigalupo, Massimo",
+   "date": "1988",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Sea people\". Edited by Massimo Bacigalupo; reissued as Benito Cereno; Daniel Orme; Billy Budd in 1998 and 2019.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CFI0151722",
+   "tags": [
+    "translation",
+    "editing"
    ]
   },
   {
@@ -9930,6 +10590,20 @@
    ]
   },
   {
+   "id": "lib-melville-1990-billy-budd",
+   "title": "Billy Budd",
+   "author": "Melville",
+   "date": "1990",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian edition of Billy Budd from Passigli; the brief record names no translator.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/BVE1042442",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-parker-1990-billy-budd-foretopman",
    "title": "Billy Budd, Foretopman and the Dynamics of Canonization",
    "author": "Parker, Hershel",
@@ -10177,6 +10851,21 @@
    "tags": [
     "criticism",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-1991-billy-budd-kgb",
+   "title": "Billy Budd, KGB",
+   "author": "",
+   "date": "1991",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Publishers Weekly. Review of Billy Budd, KGB, Catalan Communications edition, 1991, noting \"Melvillian overtones\".",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.publishersweekly.com/9780874161113",
+   "tags": [
+    "graphic-novel",
+    "adaptation"
    ]
   },
   {
@@ -10742,6 +11431,19 @@
    ]
   },
   {
+   "id": "lib-yoder-1993-astronomical-imagery-symbolic",
+   "title": "Astronomical Imagery and Symbolic Antithesis in Melville's Billy Budd",
+   "author": "Yoder, Jonathan A.",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essays in Arts and Sciences 22 (1993): 1-17. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-barnett-1993-authority-speech-language",
    "title": "Authority and speech: language, society, and self in the American novel",
    "author": "Barnett, Louise K.",
@@ -10789,6 +11491,20 @@
    ]
   },
   {
+   "id": "lib-petrignani-1993-billy-budd",
+   "title": "Billy Budd",
+   "author": "Petrignani, Sandra (present.)",
+   "date": "1993",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian newspaper-issue edition of Billy Budd presented by Sandra Petrignani.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/RAV0223433",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-smith-1993-billy-budd-according",
    "title": "Billy Budd: according to Nature",
    "author": "Smith, Richard Dean",
@@ -10803,6 +11519,20 @@
    ]
   },
   {
+   "id": "lib-malgarini-1993-billy-budd-di",
+   "title": "Billy Budd di Melville : ultimo romanzo, ultima parabola",
+   "author": "Malgarini, Silvia",
+   "date": "1993",
+   "kind": "thesis",
+   "lang": "it",
+   "note": "English: \"Melville's Billy Budd: last novel, last parable\". Graduation thesis supervised by Leonardo Terzo, 1992/93.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/MIL0205156",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-melville-1993-billy-budd-il",
    "title": "Billy Budd il marinaio",
    "author": "Melville, Herman",
@@ -10812,6 +11542,20 @@
    "note": "Italian translation of Billy Budd, 95 pp. Lending copy.",
    "licence": "In copyright",
    "url": "https://archive.org/details/billybuddilmarin0000melv",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-lonza-1993-billy-budd-marinaio",
+   "title": "Billy Budd, marinaio",
+   "author": "Lonza, Gianna; D'Agostino, Nemi (introd.)",
+   "date": "1993",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd, sailor\". Translated by Gianna Lonza; 2019 reissue.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/BVE0038684",
    "tags": [
     "translation"
    ]
@@ -10973,6 +11717,21 @@
    ]
   },
   {
+   "id": "lib-mutlaq-1994-al-bahhar",
+   "title": "al-Baḥḥār",
+   "author": "Muṭlaq, Albert",
+   "date": "1994",
+   "kind": "edition",
+   "lang": "ar",
+   "note": "Arabic: \"The Sailor\". Children's retelling of Billy Budd by Albert Muṭlaq in the series al-Qiṣaṣ al-ʿālamiyyah; catalogue gives original title Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://www.nb.no/items/67e512e6ce41cc31aaa5d114664b1ac9",
+   "tags": [
+    "translation",
+    "pedagogy"
+   ]
+  },
+  {
    "id": "lib-browne-1994-billy-budd",
    "title": "Billy Budd",
    "author": "Browne, Ray B.",
@@ -11073,6 +11832,21 @@
     "opera",
     "britten",
     "translation"
+   ]
+  },
+  {
+   "id": "lib-morrissey-1994-billy-budd-song",
+   "title": "Billy Budd (song by Morrissey, on Vauxhall and I)",
+   "author": "Morrissey; Whyte, Alain",
+   "date": "1994",
+   "kind": "other",
+   "lang": "en",
+   "note": "Wikipedia. Morrissey's album Vauxhall and I (1994) with the song \"Billy Budd\", credited to Morrissey and Whyte.",
+   "licence": "CC BY-SA 4.0",
+   "url": "https://en.wikipedia.org/wiki/Vauxhall_and_I",
+   "tags": [
+    "music",
+    "popular-culture"
    ]
   },
   {
@@ -11365,6 +12139,20 @@
    ]
   },
   {
+   "id": "lib-lehman-1995-billy-budd-marinaio",
+   "title": "Billy Budd, marinaio : una storia interiore",
+   "author": "Lehman, Alberto",
+   "date": "1995",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd, sailor: an inner story\". Translated and edited by Alberto Lehman.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CFI0377189",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-1995-billy-budd-posthumous",
    "title": "Billy Budd (posthumous)",
    "author": "",
@@ -11569,6 +12357,20 @@
    "note": "English: \"Billy Budd, Sailor; An Inside Narrative\". Bilingual English-German edition, translated by Hella Leicht.",
    "licence": "In copyright",
    "url": "https://d-nb.info/948200952",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-1996-billy-budd-marinaio",
+   "title": "Billy Budd : marinaio",
+   "author": "",
+   "date": "1996",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd: sailor\". Italian pocket edition.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CFI0326047",
    "tags": [
     "translation"
    ]
@@ -11972,6 +12774,22 @@
    "source": "Crossref license field (https://creativecommons.org/licenses/by-nc/4.0/); held from 2026-11-06"
   },
   {
+   "id": "lib-bacigalupo-1997-billy-budd-fra",
+   "title": "Billy Budd fra poesia e musica (1942-1949)",
+   "author": "Bacigalupo, Massimo",
+   "date": "1997",
+   "kind": "chapter",
+   "lang": "it",
+   "note": "Le traduzioni italiane di Herman Melville e Gertrude Stein (Venezia, 1997), pp. 90-106. English: \"Billy Budd between poetry and music (1942-1949)\". On Montale, Quasimodo and Ghedini period; offprint, pp. 90-106.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/MIL0634065",
+   "tags": [
+    "translation",
+    "opera",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-melville-1997-billy-budd-sailor",
    "title": "Billy Budd, Sailor and Selected Tales",
    "author": "Melville, Herman; Milder, Robert",
@@ -11983,6 +12801,21 @@
    "url": "https://lccn.loc.gov/97008211",
    "tags": [
     "editing"
+   ]
+  },
+  {
+   "id": "lib-groppali-1997-billy-budd-testo",
+   "title": "Billy Budd : testo teatrale",
+   "author": "Groppali, Enrico",
+   "date": "1997",
+   "kind": "book",
+   "lang": "it",
+   "note": "English: \"Billy Budd: stage text\". Play by Enrico Groppali directed by Sandro Sequi, 51st Festa del Teatro, San Miniato, 1997.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/LIG0191992",
+   "tags": [
+    "stage",
+    "translation"
    ]
   },
   {
@@ -12297,6 +13130,37 @@
    "url": "https://doi.org/10.1515/9780773567443-007",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-1998-beau-travail-1998",
+   "title": "Beau travail (1998)",
+   "author": "",
+   "date": "1998",
+   "kind": "film",
+   "lang": "en",
+   "note": "BFI. Catalogue entry for Claire Denis's Beau Travail (1998), loosely based on Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.bfi.org.uk/film/bc9dc6fa-0761-553d-8324-f1fbd4bd2005/beau-travail",
+   "tags": [
+    "film",
+    "beau-travail"
+   ]
+  },
+  {
+   "id": "lib-1998-billy-budd-1998",
+   "title": "Billy Budd (1998 television film)",
+   "author": "",
+   "date": "1998",
+   "kind": "film",
+   "lang": "en",
+   "note": "Wikidata. Wikidata entry for a 1998 television film of Billy Budd, the Britten opera.",
+   "licence": "CC0 1.0",
+   "url": "https://www.wikidata.org/wiki/Q123517593",
+   "tags": [
+    "film",
+    "television",
+    "britten"
    ]
   },
   {
@@ -12987,6 +13851,23 @@
    ]
   },
   {
+   "id": "lib-fondazione-teatro-2000-billy-budd-opera",
+   "title": "Billy Budd : opera in due atti (Fondazione Teatro La Fenice, stagione 2000)",
+   "author": "Fondazione Teatro La Fenice di Venezia",
+   "date": "2000",
+   "kind": "other",
+   "lang": "it",
+   "note": "English: \"Billy Budd: opera in two acts\". Programme book with libretto, essays by Girardi and Perosa, an Italian text of Melville's Billy Budd, marinaio, and Quasimodo's libretto for Ghedini.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.teatrolafenice.it/wp-content/uploads/2019/03/BILLY-BUDD.pdf",
+   "tags": [
+    "opera",
+    "britten",
+    "translation",
+    "stage"
+   ]
+  },
+  {
    "id": "lib-gladwin-2000-billy-budd-sailor",
    "title": "Billy Budd, Sailor",
    "author": "Gladwin, Mary; Melville, Herman",
@@ -13012,6 +13893,21 @@
    "licence": "No licence stated; free to read",
    "url": "https://www.encyclopedia.com/arts/educational-magazines/billy-budd-sailor-inside-narrative",
    "tags": [
+    "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-gladwin-2000-billy-budd-sailor-2",
+   "title": "Billy Budd, Sailor, retold by Mary Gladwin",
+   "author": "Gladwin, Mary",
+   "date": "2000",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Penguin Readers. Catalogue record of Billy Budd, Sailor retold by Mary Gladwin, a simplified learners' edition.",
+   "licence": "In copyright",
+   "url": "https://biblioteka.student.akademiazamojska.edu.pl/en/search_results/1035400208",
+   "tags": [
+    "adaptation",
     "pedagogy"
    ]
   },
@@ -13073,6 +13969,23 @@
    ]
   },
   {
+   "id": "lib-2000-film-claire-denis",
+   "title": "Film. Claire Denis travaille le beau pour mieux saisir la soldatesque",
+   "author": "",
+   "date": "2000-05-13",
+   "kind": "newspaper",
+   "lang": "fr",
+   "note": "Le Temps. French review of Beau Travail naming Melville's Billy Budd as a source.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.letemps.ch/culture/film-claire-denis-travaille-beau-mieux-saisir-soldatesque",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
+   ]
+  },
+  {
    "id": "lib-padilla-2000-herman-melville-s",
    "title": "Herman Melville's Billy Budd",
    "author": "Padilla, David",
@@ -13117,6 +14030,21 @@
     "film",
     "reception",
     "comparative"
+   ]
+  },
+  {
+   "id": "lib-perosa-2000-il-romanzo-di",
+   "title": "Il romanzo di Herman Melville",
+   "author": "Perosa, Sergio",
+   "date": "2000",
+   "kind": "chapter",
+   "lang": "it",
+   "note": "Billy Budd, programme book, Fondazione Teatro La Fenice di Venezia, 2000, p. 139. English: \"Herman Melville's novel\". Essay on Billy Budd in the same programme book.",
+   "licence": "No licence stated; free to read",
+   "url": "http://id.sbn.it/bid/REA0306145",
+   "tags": [
+    "criticism",
+    "opera"
    ]
   },
   {
@@ -13299,6 +14227,23 @@
    ]
   },
   {
+   "id": "lib-hoberman-2000-work-progress",
+   "title": "Work in Progress",
+   "author": "Hoberman, J.",
+   "date": "2000-03-28",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Village Voice. Review of Beau Travail discussing its relation to Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.villagevoice.com/work-in-progress/",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
+   ]
+  },
+  {
    "id": "lib-2000",
    "title": "『ビリー・バッド』の吃音",
    "author": "黒田, 有子",
@@ -13449,6 +14394,34 @@
    ]
   },
   {
+   "id": "lib-giachino-2001-billy-budd-foretopman",
+   "title": "Billy Budd, foretopman",
+   "author": "Giachino, Enzo; Goldoni, Annalisa",
+   "date": "2001",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Bilingual Einaudi edition of Billy Budd in Enzo Giachino's translation, edited by Annalisa Goldoni. RCS MediaGroup reissue 2019 (PCM0016495).",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/UBO1453200",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
+   "id": "lib-2001-billy-budd-marinero",
+   "title": "Billy Budd, Marinero",
+   "author": "",
+   "date": "2001",
+   "kind": "edition",
+   "lang": "es",
+   "note": "English: \"Billy Budd, Sailor\". Spanish edition listed by Open Library.",
+   "licence": "In copyright",
+   "url": "https://openlibrary.org/books/OL13317949M",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-melville-2001-billy-budd-sailor",
    "title": "Billy Budd, Sailor: With Related Readings",
    "author": "Melville, Herman",
@@ -13487,6 +14460,40 @@
    "tags": [
     "criticism",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-2001-ce-poids-d",
+   "title": "« Ce poids d'ici-bas »",
+   "author": "",
+   "date": "2001-01-01",
+   "kind": "magazine",
+   "lang": "fr",
+   "note": "Vacarme. French interview with Claire Denis on Beau Travail, with extended discussion of Melville and Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://vacarme.org/article84.html",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-strauss-2001-glorious-labor-claire",
+   "title": "Glorious Labor: Claire Denis's Beau Travail",
+   "author": "Strauss, David Levi",
+   "date": "2001",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Aperture (Winter 2001). Review by David Levi Strauss of Beau Travail, whose plot it traces to Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.aperture.org/article/2001/1/1/glorious-labor-claire-deniss-beau-travail",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
    ]
   },
   {
@@ -14274,6 +15281,35 @@
    ]
   },
   {
+   "id": "lib-tosi-2003-billy-budd-e",
+   "title": "Billy Budd e altre letture",
+   "author": "Tosi, Giorgio",
+   "date": "2003",
+   "kind": "book",
+   "lang": "it",
+   "note": "English: \"Billy Budd and other readings\". Prize essay, 106 pages.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CFI0553110",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-2003-billy-budd-prosa",
+   "title": "Billy Budd (Prosa do Mundo)",
+   "author": "",
+   "date": "2003",
+   "kind": "edition",
+   "lang": "pt",
+   "note": "Brazilian Portuguese edition of Billy Budd with Cesare Pavese's essay \"O baleeiro literato\" as appendix; ISBN 9788575031803. Translator not given in the record read.",
+   "licence": "In copyright",
+   "url": "https://www.skoob.com.br/book/65828",
+   "tags": [
+    "translation",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-snodgrass-2003-billy-budd-typee",
    "title": "Billy Budd & Typee: Notes",
    "author": "Snodgrass, Mary Ellen",
@@ -14328,6 +15364,20 @@
    "tags": [
     "criticism",
     "opera"
+   ]
+  },
+  {
+   "id": "lib-paryz-2003-elementy-dyskursu-medycznego",
+   "title": "Elementy dyskursu medycznego w utworach Hermana Melville'a \"Bartleby\" i \"Billy Budd\"",
+   "author": "Paryż, Marek",
+   "date": "2003",
+   "kind": "article",
+   "lang": "pl",
+   "note": "Acta Philologica. English: \"Elements of medical discourse in Melville's Bartleby and Billy Budd\".",
+   "licence": "In copyright",
+   "url": "https://data.bn.org.pl/api/institutions/bibs.json?id=3364985",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -14521,6 +15571,20 @@
     "opera",
     "britten",
     "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-2004-bartleby-el-escribiente",
+   "title": "Bartleby, el Escribiente, Benito Cereno, Billy Budd",
+   "author": "",
+   "date": "2004",
+   "kind": "edition",
+   "lang": "es",
+   "note": "Spanish Cátedra edition of three tales including Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://openlibrary.org/books/OL9130243M",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -14758,6 +15822,22 @@
    ]
   },
   {
+   "id": "lib-grant-2004-margins-beau-travail",
+   "title": "On the Margins of Beau Travail",
+   "author": "Grant, Ben",
+   "date": "2004",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of European Studies 34.1-2, pp. 60-81. Intertextual reading of Beau Travail, the Denis film derived from Billy Budd, by montage with other texts, on power, desire and gazes.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1177/0047244104044241",
+   "tags": [
+    "film",
+    "beau-travail",
+    "comparative"
+   ]
+  },
+  {
    "id": "lib-ramirez-2004-voiceless-billy-budd",
    "title": "Voiceless Billy Budd: Melville's Tribute to the Sixth Amendment",
    "author": "Ramirez, J.; Ronner, Amy D.",
@@ -14799,6 +15879,20 @@
     "opera",
     "britten",
     "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-buzzi-2005-benito-cereno-e",
+   "title": "Benito Cereno e Billy Budd",
+   "author": "Buzzi, Giancarlo",
+   "date": "2005",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Translated and introduced by Giancarlo Buzzi; 2009 reissue.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/RMS1421643",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -14892,6 +15986,20 @@
     "queer-reading",
     "opera",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-2005-billy-budd-marinheiro",
+   "title": "Billy Budd, Marinheiro",
+   "author": "",
+   "date": "2005",
+   "kind": "edition",
+   "lang": "pt",
+   "note": "English: \"Billy Budd, Sailor\". Portuguese edition from L&PM; translator not given in Open Library.",
+   "licence": "In copyright",
+   "url": "https://openlibrary.org/books/OL9157204M",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -15235,6 +16343,20 @@
    "url": "https://archive.org/details/sim_sewanee-review_2006_114_index",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-2006-billy-budd-marinaio",
+   "title": "Billy Budd, marinaio : racconto interiore",
+   "author": "",
+   "date": "2006",
+   "kind": "edition",
+   "lang": "it",
+   "note": "English: \"Billy Budd, sailor: inner narrative\". Italian edition.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/LO11114870",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -15707,6 +16829,38 @@
    ]
   },
   {
+   "id": "lib-arnold-2007-billy-budd-new",
+   "title": "Billy Budd: New on DVD",
+   "author": "Arnold, Jeremy",
+   "date": "2007-01-25",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Turner Classic Movies. Article on the DVD release of Peter Ustinov's Billy Budd, with Terence Stamp in his first major film role.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.tcm.com/articles/154829/billy-budd-new-on-dvd-terence-stamp-plays-billy-budd-in-his-major-film-role",
+   "tags": [
+    "film",
+    "ustinov",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-2007-billy-budd-sailor",
+   "title": "Billy Budd, Sailor (Focus on the Family Radio Theatre)",
+   "author": "",
+   "date": "2007",
+   "kind": "other",
+   "lang": "en",
+   "note": "Tyndale House. Listing for the Focus on the Family Radio Theatre audio drama of Billy Budd, Sailor.",
+   "licence": "In copyright",
+   "url": "https://bookwire.com/book/USA/Billy-Budd-Sailor-9781589975071-Brian-Greene-13940908",
+   "tags": [
+    "audiobook",
+    "adaptation",
+    "radio"
+   ]
+  },
+  {
    "id": "lib-hayes-2007-billy-budd-visions",
    "title": "Billy Budd: visions and revisions",
    "author": "Hayes, Kevin J.",
@@ -16100,6 +17254,22 @@
    ]
   },
   {
+   "id": "lib-2008-beau-travail",
+   "title": "Beau Travail",
+   "author": "",
+   "date": "2008",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Harvard Film Archive. Programme note for Beau Travail, the Denis film derived from Melville's Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://harvardfilmarchive.org/calendar/beau-travail-2008-11",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-gilabert-barbera-2008-billy-budd-h",
    "title": "Billy Budd: de H. Melville a E. M. Forster, o la via Plutarquea hacia Platón",
    "author": "Gilabert Barberà, Pau",
@@ -16383,6 +17553,21 @@
    ]
   },
   {
+   "id": "lib-ceni-2009-billy-budd",
+   "title": "Billy Budd",
+   "author": "Ceni, Alessandro",
+   "date": "2009",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian translation of Billy Budd and edition by Alessandro Ceni; 2014 and 2020 reissues.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/MOD1550806",
+   "tags": [
+    "translation",
+    "editing"
+   ]
+  },
+  {
    "id": "lib-melville-2009-billy-budd-other",
    "title": "Billy Budd and Other Tales",
    "author": "Melville, Herman; Markels, Julian; Oates, Joyce Carol",
@@ -16439,6 +17624,21 @@
    "url": "https://id.lib.harvard.edu/alma/99161628029703941/catalog",
    "tags": [
     "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-babinska-2009-billy-budd-wspoczesny",
+   "title": "Billy Budd - współczesny mit : rozważania nad Brittenowską alegorią dobra i zła",
+   "author": "Babińska, Natalia",
+   "date": "2009",
+   "kind": "chapter",
+   "lang": "pl",
+   "note": "De Musica. English: \"Billy Budd, a contemporary myth: on Britten's allegory of good and evil\". BN record prints \"współczeny\" and \"Bittenowską\"; Helen Geyer named as editor of the volume.",
+   "licence": "In copyright",
+   "url": "https://data.bn.org.pl/api/institutions/bibs.json?id=4468686",
+   "tags": [
+    "opera",
+    "britten"
    ]
   },
   {
@@ -16744,6 +17944,20 @@
    "url": "https://doi.org/10.3917/phimag.037.0030",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-reim-2010-bartleby-lo-scrivano",
+   "title": "Bartleby, lo scrivano ; Chicchirichì! ; Billy Budd, marinaio",
+   "author": "Reim, Riccardo",
+   "date": "2010",
+   "kind": "edition",
+   "lang": "it",
+   "note": "Italian collection edited and translated by Riccardo Reim, containing Billy Budd.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/CAG1779378",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -17161,6 +18375,20 @@
    ]
   },
   {
+   "id": "lib-2010-3",
+   "title": "水手比利·巴德",
+   "author": "许, 志强",
+   "date": "2010",
+   "kind": "edition",
+   "lang": "zh",
+   "note": "Chinese: \"Billy Budd, Sailor\". Translated by Xu Zhiqiang. ISBN 9787020079100.",
+   "licence": "In copyright",
+   "url": "https://www.dushu.com/book/12073242/",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-2010",
    "title": "『빌리 버드』에 드러난 역사의 진실 : 제국주의적 이데올로기 비판",
    "author": "최, 수연",
@@ -17307,6 +18535,22 @@
    "tags": [
     "criticism",
     "stage"
+   ]
+  },
+  {
+   "id": "lib-mller-2011-britten-billy-budd",
+   "title": "Britten: Billy Budd",
+   "author": "Møller, Thomas Erma",
+   "date": "2011",
+   "kind": "review",
+   "lang": "no",
+   "note": "Review of the Grandage film recording of Britten's Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://www.nb.no/items/a71792dc4e461029e4fa9eb3699d4674",
+   "tags": [
+    "opera",
+    "britten",
+    "review"
    ]
   },
   {
@@ -17893,6 +19137,40 @@
    ]
   },
   {
+   "id": "lib-loxton-2012-billy-budd-sailor",
+   "title": "Billy Budd Sailor from Theatre North at Tara Arts Theatre",
+   "author": "Loxton, Howard",
+   "date": "2012-11-01",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "British Theatre Guide. Review of Billy Budd Sailor, Martin Lewton's one-person adaptation. Production: Theatre North, Tara Arts Theatre, London, 2012.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.britishtheatreguide.info/reviews/billy-budd-sail-tara-arts-theat-8211",
+   "tags": [
+    "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-2012-blood-sand-what",
+   "title": "Blood and sand: what makes Beau Travail great",
+   "author": "",
+   "date": "2012-06-07",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Sight and Sound (BFI). Essay on Beau Travail as a loose riff on Billy Budd, with reference to Britten's opera and Melville's poems.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.bfi.org.uk/sight-and-sound/features/beau-travail-1998-claire-denis-greatest-films-poll",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-savidan-2012-comprendre-melville-propos",
    "title": "Comprendre Melville ?: À propos de : Gisèle Berkman, L’Effet Bartleby. Philosophes lecteurs , Paris, Hermann, 182 p. Olivier Rey, Le Testament de Melville. Penser le bien et le mal avec Billy Budd, Paris, Gallimard, 256 p.",
    "author": "Savidan, Patrick",
@@ -18136,6 +19414,22 @@
    "source": "Crossref license field (http://creativecommons.org/licenses/by-nc-nd/3.0/de/); held from 2026-11-06"
   },
   {
+   "id": "lib-2012-stage-production-requires",
+   "title": "Stage production requires behind-the-scenes magic",
+   "author": "",
+   "date": "2012-04-26",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Southern Illinois University News. University news item on the stage production of Billy Budd adapted by David Rush, Carbondale, 2012.",
+   "licence": "No licence stated; free to read",
+   "url": "https://news.siu.edu/2012/04/042612amh12074.php",
+   "tags": [
+    "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-melville-2012-confidence-man-billy",
    "title": "The Confidence-Man and Billy Budd, Sailor",
    "author": "Melville, H.",
@@ -18159,6 +19453,21 @@
    "tags": [
     "criticism",
     "race"
+   ]
+  },
+  {
+   "id": "lib-2012-these-buttons-we",
+   "title": "These Buttons We Wear, 2012-2013",
+   "author": "",
+   "date": "2012",
+   "kind": "other",
+   "lang": "en",
+   "note": "University of Sheffield Special Collections. Archive record for Keith Dewhurst's radio play These Buttons We Wear on Billy Budd, 2012-13, including the script.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archives.shef.ac.uk/repositories/3/archival_objects/21920",
+   "tags": [
+    "radio",
+    "adaptation"
    ]
   },
   {
@@ -18299,6 +19608,22 @@
    ]
   },
   {
+   "id": "lib-2013-billy-budd-southwark",
+   "title": "Billy Budd at Southwark Playhouse",
+   "author": "",
+   "date": "2013-07-19",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Upcoming. Review of Billy Budd. Production: secret/heart, Southwark Playhouse, London, 2013, directed by Seb Harcombe.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.theupcoming.co.uk/2013/07/19/billy-budd-at-southwark-playhouse-theatre-review",
+   "tags": [
+    "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-2013-billy-budd-benjamin",
    "title": "Billy Budd by Benjamin Britten, and: Anna Nicole by Mark-Anthony Turnage (review)",
    "author": "",
@@ -18390,6 +19715,22 @@
    ]
   },
   {
+   "id": "lib-2013-billy-budd-10",
+   "title": "Billy Budd, to 10 August",
+   "author": "",
+   "date": "2013",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "ReviewsGate. Review of Billy Budd. Production: secret/heart, Southwark Playhouse, London, 2013, directed by Seb Harcombe.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.reviewsgate.co.uk/reviews-archive-part-2/billy-budd-to-10-august",
+   "tags": [
+    "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-dewhurst-2013-britten-100-billy",
    "title": "Britten 100: Billy Budd - These Buttons We Wear",
    "author": "Dewhurst, Keith",
@@ -18434,6 +19775,24 @@
    "url": "https://www.semanticscholar.org/paper/85017597177f48c5320d51864300c7d50c391d80",
    "tags": [
     "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-karlin-2013-flawless-tragedy-almost",
+   "title": "Flawless tragedy, almost unbearable: Billy Budd at Glyndebourne",
+   "author": "Karlin, David",
+   "date": "2013-08-11",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Bachtrack. Review of Billy Budd by David Karlin. Production: Glyndebourne, 2013, Grandage staging.",
+   "licence": "No licence stated; free to read",
+   "url": "https://bachtrack.com/review-billy-budd-glyndebourne",
+   "tags": [
+    "opera",
+    "britten",
+    "news",
+    "reception",
+    "stage"
    ]
   },
   {
@@ -18709,6 +20068,22 @@
    ]
   },
   {
+   "id": "lib-2013-review-billy-budd",
+   "title": "Review: Billy Budd",
+   "author": "",
+   "date": "2013-07-22",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "A Younger Theatre. Review of Billy Budd. Production: secret/heart, Southwark Playhouse, London, 2013, directed by Seb Harcombe.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.ayoungertheatre.com/review-billy-budd-southwark-playhouse-theatre/",
+   "tags": [
+    "stage",
+    "news",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-merrigan-2013-review-billy-budd",
    "title": "Review: Billy Budd (Southwark Playhouse)",
    "author": "Merrigan, Amy",
@@ -18908,6 +20283,20 @@
    ]
   },
   {
+   "id": "lib-riopelle-2014-billy-budd-sjmann",
+   "title": "Billy Budd, sjømann : en innsidefortelling",
+   "author": "Riopelle, Frode J.",
+   "date": "2014",
+   "kind": "edition",
+   "lang": "no",
+   "note": "English: \"Billy Budd, sailor: an inside story\". Norwegian translation with afterword by F. J. Riopelle.",
+   "licence": "In copyright",
+   "url": "https://www.nb.no/items/6ff0f3129c46e955629295fe762c844b",
+   "tags": [
+    "translation"
+   ]
+  },
+  {
    "id": "lib-morneau-2014-billy-budd-wtf",
    "title": "Billy Budd, WTF?",
    "author": "Morneau, Edward",
@@ -18920,6 +20309,22 @@
    "tags": [
     "pedagogy",
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-loden-2014-claggarts-hemn",
+   "title": "Claggarts hemn",
+   "author": "Lodén, Eirik",
+   "date": "2014",
+   "kind": "review",
+   "lang": "nn",
+   "note": "English: \"Claggart's revenge\". Article on the Norwegian Billy Budd, sjømann translation, pp. 70-75.",
+   "licence": "In copyright",
+   "url": "https://www.nb.no/items/d63849ede3d63ea36bdfe3cc34441997",
+   "tags": [
+    "translation",
+    "claggart",
+    "review"
    ]
   },
   {
@@ -19368,6 +20773,22 @@
    ]
   },
   {
+   "id": "lib-richards-2015-benjamin-britten-peter",
+   "title": "Benjamin Britten and Peter Pears: Love and Resistance",
+   "author": "Richards, David A. J.",
+   "date": "2015",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Why Love Leads to Justice, pp. 31-72. Reads Britten's Billy Budd as an exploration of repressed gay love, within an account of Britten and Pears.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9781316416105.003",
+   "tags": [
+    "opera",
+    "britten",
+    "queer-reading"
+   ]
+  },
+  {
    "id": "lib-meyers-skredsvig-2015-billy-lily-feminist",
    "title": "Billy as Lily: A feminist reading of <i>Billy Budd</i>",
    "author": "Meyers Skredsvig, Kari",
@@ -19722,6 +21143,21 @@
    ]
   },
   {
+   "id": "lib-2015-4",
+   "title": "文学，揭示真相的伟大艺术：论《比利·巴德》中的文学主题",
+   "author": "代, 显梅",
+   "date": "2015",
+   "kind": "article",
+   "lang": "zh",
+   "note": "国外文学 2015, no. 4 (no. 140). English: \"Literature, the great art of telling truth: on the theme of literature in Billy Budd\". Argues the novella exposes concealed truths of history and politics through literary form.",
+   "licence": "No licence stated; free to read",
+   "url": "https://ccj.pku.edu.cn/Article/DownLoad?id=331217607&type=ArticleFile",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
    "id": "lib-2015-3",
    "title": "바틀비 · 베니토 세레노 · 수병, 빌리 버드 : 허먼 멜빌 법률 3부작",
    "author": "안, 경환",
@@ -19781,6 +21217,20 @@
    "url": "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=9331c165e7212f18ffe0bdc3ef48d419",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-2016-billy-budd",
+   "title": "Billy Budd",
+   "author": "",
+   "date": "2016",
+   "kind": "edition",
+   "lang": "sv",
+   "note": "Swedish edition of Billy Budd; e-books Modernista and Norstedts also in LIBRIS.",
+   "licence": "In copyright",
+   "url": "http://libris.kb.se/bib/19372174",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -19868,6 +21318,24 @@
    "note": "The Arts Desk. Review of Billy Budd. Production: Opera North, 2016, directed by Orpha Phelan, with Roderick Williams, Alastair Miles and Alan Oke.",
    "licence": "No licence stated; free to read",
    "url": "https://www.theartsdesk.com/node/78463/view",
+   "tags": [
+    "opera",
+    "britten",
+    "news",
+    "reception",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-2016-billy-budd-opera-2",
+   "title": "Billy Budd, Opera North (theartsdesk.com)",
+   "author": "",
+   "date": "2016",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Arts Desk. Review of Billy Budd. Production: Opera North, 2016, directed by Orpha Phelan.",
+   "licence": "No licence stated; free to read",
+   "url": "https://theartsdesk.com/opera/billy-budd-opera-north",
    "tags": [
     "opera",
     "britten",
@@ -20140,6 +21608,22 @@
    ]
   },
   {
+   "id": "lib-garrett-2016-angel-must-hang",
+   "title": "The Angel Must Hang: Herman Melville's Billy Budd, and Peter Ustinov's film interpretation of it",
+   "author": "Garrett, Daniel",
+   "date": "2016-03",
+   "kind": "article",
+   "lang": "en",
+   "note": "Offscreen 20.3. Reads Melville's Billy Budd and Peter Ustinov's 1962 film together on innocence, envy and military authority.",
+   "licence": "No licence stated; free to read",
+   "url": "https://offscreen.com/view/herman-melvilles-billy-budd-peter-ustinov",
+   "tags": [
+    "film",
+    "ustinov",
+    "comparative"
+   ]
+  },
+  {
    "id": "lib-aytur-2016-meaning-billy-budd",
    "title": "THE MEANING OF BILLY BUDD",
    "author": "AYTÜR, Necla",
@@ -20278,6 +21762,22 @@
    "tags": [
     "philosophy",
     "race"
+   ]
+  },
+  {
+   "id": "lib-2017-billy-budd",
+   "title": "Billy Budd",
+   "author": "",
+   "date": "2017-05-15",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Harvard Film Archive. Programme note for a 2017 screening of Peter Ustinov's Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://harvardfilmarchive.org/calendar/billy-budd-2017-05",
+   "tags": [
+    "film",
+    "ustinov",
+    "reception"
    ]
   },
   {
@@ -21013,6 +22513,22 @@
    ]
   },
   {
+   "id": "lib-2018-shipload-exceptions-billy",
+   "title": "A Shipload of Exceptions to Billy Budd Article (Letters to the Editor)",
+   "author": "",
+   "date": "2018-08-31",
+   "kind": "letter",
+   "lang": "en",
+   "note": "The Gay & Lesbian Review. Letters correcting Jeffrey Meyers's essay on Billy Budd, including casting errors about Britten's opera.",
+   "licence": "No licence stated; free to read",
+   "url": "https://glreview.org/article/letters-to-the-editor-9/",
+   "tags": [
+    "queer-reading",
+    "britten",
+    "opera"
+   ]
+  },
+  {
    "id": "lib-2018-study-melville-s",
    "title": "A Study on Melville's Billy Budd",
    "author": "高橋, 道",
@@ -21148,6 +22664,21 @@
    "source": "Repositorio Institucional UCA item page; held from 2026-11-06"
   },
   {
+   "id": "lib-moreno-rodriguez-2018-billy-budd-o",
+   "title": "Billy Budd, o sobre la imposibilidad moral del Derecho",
+   "author": "Moreno Rodríguez Alcalá, Roberto",
+   "date": "2018",
+   "kind": "newspaper",
+   "lang": "es",
+   "note": "ABC Color, Suplemento Cultural, 11 February 2018. English: \"Billy Budd, or on the moral impossibility of law\". Paraguayan newspaper essay treating the novella as a reflection on law and innocence.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.abc.com.py/edicion-impresa/suplementos/cultural/billy-budd-o-sobre-la-imposibilidad-moral-del-derecho-1673964.html",
+   "tags": [
+    "law-and-literature",
+    "news"
+   ]
+  },
+  {
    "id": "lib-cook-2018-billy-budd-sailor",
    "title": "“Billy Budd, Sailor” and Other Uncompleted Writings",
    "author": "Cook, Jonathan",
@@ -21159,6 +22690,21 @@
    "url": "https://doi.org/10.5325/resoamerlitestud.40.2018.0327",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-melville-2018-billy-budd-sailor",
+   "title": "Billy Budd, Sailor (audiobook, Enriched Classics)",
+   "author": "Melville, Herman",
+   "date": "2018",
+   "kind": "other",
+   "lang": "en",
+   "note": "Audible. Listing for an audiobook of Billy Budd, Sailor; Wikipedia gives Liam Gerrard, Enriched Classics, 2018.",
+   "licence": "In copyright",
+   "url": "https://www.audible.com/pd/Classics/Billy-Budd-Sailor-Audiobook/B078TQ5WFK",
+   "tags": [
+    "audiobook",
+    "adaptation"
    ]
   },
   {
@@ -21252,6 +22798,39 @@
    ]
   },
   {
+   "id": "lib-meyers-2018-love-billy-budd",
+   "title": "For the Love of Billy Budd",
+   "author": "Meyers, Jeffrey",
+   "date": "2018-06-29",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Gay & Lesbian Review. Essay by Jeffrey Meyers on the novella and on Britten's opera Billy Budd. Readers' letters in a later issue list factual errors.",
+   "licence": "In copyright",
+   "url": "https://glreview.org/article/for-the-love-of-billy-budd/",
+   "tags": [
+    "queer-reading",
+    "britten",
+    "opera"
+   ]
+  },
+  {
+   "id": "lib-kerr-2018-generating-queer-possibility",
+   "title": "Generating Queer Possibility in Claire Denis' Beau Travail",
+   "author": "Kerr, Lucy",
+   "date": "2018-08",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Lucy Kerr. Blog essay on queer possibility in Beau Travail, the Denis film derived from Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://lucykerrthoughts.blogspot.com/2018/08/generating-queer-possibility-in-claire.html",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "queer-reading"
+   ]
+  },
+  {
    "id": "lib-jamali-2018-herman-melville-iran",
    "title": "Herman Melville in Iran: Translations, Interpretations, and Receptions",
    "author": "Jamali, Leyli",
@@ -21293,6 +22872,23 @@
    "tags": [
     "criticism",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-harper-scott-2018-ideology-britten-s",
+   "title": "Ideology in Britten's Operas",
+   "author": "Harper-Scott, J. P. E.",
+   "date": "2018",
+   "kind": "book",
+   "lang": "en",
+   "note": "Part II, The Ship of State, includes \"Acceptance, Resistance, and Lateness in Billy Budd\" and on Vere's violent inaction.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781108236386",
+   "tags": [
+    "opera",
+    "britten",
+    "politics",
+    "vere"
    ]
   },
   {
@@ -21474,6 +23070,22 @@
    ]
   },
   {
+   "id": "lib-ruocco-2018-torna-scena-il",
+   "title": "Torna in scena il Billy Budd",
+   "author": "Ruocco, Danilo",
+   "date": "2018-04-24",
+   "kind": "webpage",
+   "lang": "it",
+   "note": "salvatorequasimodo.it. Italian article by Danilo Ruocco on the revival of Ghedini and Quasimodo's Billy Budd, with the 1949 staging by Pavolini and designs by Guttuso.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.salvatorequasimodo.it/2018/04/torna-in-scena-il-billy-budd.html",
+   "tags": [
+    "opera",
+    "ghedini",
+    "quasimodo"
+   ]
+  },
+  {
    "id": "lib-umagandhi-2018-tragic-quality-billy",
    "title": "TRAGIC QUALITY IN BILLY BUDD, SAILOR",
    "author": "Umagandhi, J.Revathi R.",
@@ -21498,6 +23110,21 @@
     "politics",
     "arendt",
     "vere"
+   ]
+  },
+  {
+   "id": "lib-welldon-2018-understanding-versus-judging",
+   "title": "Understanding versus judging murder by going to the opera",
+   "author": "Welldon, Estela V.",
+   "date": "2018",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Sex Now Talk Later, pp. 115-127. Forensic psychotherapist's reading of Britten's Billy Budd as an example of murder committed under humiliation and vulnerability.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9780429479953-9",
+   "tags": [
+    "opera",
+    "britten"
    ]
   },
   {
@@ -21645,6 +23272,22 @@
    ]
   },
   {
+   "id": "lib-witkowska-2019-benjamin-britten-billy",
+   "title": "Benjamin Britten \"Billy Budd\" : opera w dwóch aktach z prologiem i epilogiem",
+   "author": "Witkowska, Iwona (ed.)",
+   "date": "2019",
+   "kind": "other",
+   "lang": "pl",
+   "note": "English: \"Britten, Billy Budd: opera in two acts with prologue and epilogue\". Programme of the Polish premiere, Teatr Wielki, Warsaw.",
+   "licence": "In copyright",
+   "url": "https://data.bn.org.pl/api/institutions/bibs.json?id=1000000379471",
+   "tags": [
+    "opera",
+    "britten",
+    "stage"
+   ]
+  },
+  {
    "id": "lib-falk-2019-billy-budd",
    "title": "Billy Budd",
    "author": "Falk, Rainer",
@@ -21720,6 +23363,37 @@
    "url": "https://id.lib.harvard.edu/alma/99153771338603941/catalog",
    "tags": [
     "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-hgasen-hallesby-2019-billy-budd-opera",
+   "title": "Billy Budd : -opera i to akter",
+   "author": "Høgåsen-Hallesby, Hedda",
+   "date": "2019",
+   "kind": "other",
+   "lang": "no",
+   "note": "English: \"Billy Budd: opera in two acts\". Programme, Den Norske Opera & Ballett.",
+   "licence": "In copyright",
+   "url": "https://www.nb.no/items/ee47b789f9e27978e7e630c68a806cf2",
+   "tags": [
+    "opera",
+    "britten",
+    "stage"
+   ]
+  },
+  {
+   "id": "lib-zielinski-2019-billy-budd-opowiesc",
+   "title": "Billy Budd : opowieść wtajemniczonego",
+   "author": "Zieliński, Bronisław; Lipszyc, Adam (posłowie)",
+   "date": "2019",
+   "kind": "edition",
+   "lang": "pl",
+   "note": "English: \"Billy Budd: tale of the initiated\". Zieliński translation with an afterword by Adam Lipszyc and verse by Marjańska.",
+   "licence": "In copyright",
+   "url": "https://data.bn.org.pl/api/institutions/bibs.json?id=1000000387868",
+   "tags": [
+    "translation",
+    "reception"
    ]
   },
   {
@@ -21877,6 +23551,22 @@
    "url": "https://core.ac.uk/works/416248995",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-kaminski-2019-billy-budd-ze",
+   "title": "Billy Budd ze skazą",
+   "author": "Kamiński, Bartosz",
+   "date": "2019",
+   "kind": "review",
+   "lang": "pl",
+   "note": "Ruch Muzyczny. English: \"Billy Budd with a flaw\". Review of the Warsaw production of Britten's opera in Ruch Muzyczny.",
+   "licence": "In copyright",
+   "url": "https://data.bn.org.pl/api/institutions/bibs.json?id=1000000703874",
+   "tags": [
+    "opera",
+    "britten",
+    "review"
    ]
   },
   {
@@ -22480,6 +24170,174 @@
    "tags": [
     "reception"
    ]
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-2",
+   "title": "Billy Budd (LibriVox recording), section 01 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 1 of 10, MP3 of 7.9 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-2.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-3",
+   "title": "Billy Budd (LibriVox recording), section 02 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 2 of 10, MP3 of 8.9 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-3.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-4",
+   "title": "Billy Budd (LibriVox recording), section 03 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 3 of 10, MP3 of 9.2 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-4.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-5",
+   "title": "Billy Budd (LibriVox recording), section 04 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 4 of 10, MP3 of 9.3 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-5.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-6",
+   "title": "Billy Budd (LibriVox recording), section 05 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 5 of 10, MP3 of 6.4 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-6.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-7",
+   "title": "Billy Budd (LibriVox recording), section 06 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 6 of 10, MP3 of 6.5 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-7.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-8",
+   "title": "Billy Budd (LibriVox recording), section 07 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 7 of 10, MP3 of 12.0 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-8.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-9",
+   "title": "Billy Budd (LibriVox recording), section 08 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 8 of 10, MP3 of 12.0 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ]
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-10",
+   "title": "Billy Budd (LibriVox recording), section 09 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 9 of 10, MP3 of 7.7 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-10.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
+  },
+  {
+   "id": "lib-melville-2020-billy-budd-librivox-11",
+   "title": "Billy Budd (LibriVox recording), section 10 of 10",
+   "author": "Melville, Herman",
+   "date": "2020",
+   "kind": "other",
+   "lang": "en",
+   "note": "LibriVox. LibriVox recording of Billy Budd by Melville (d. 1891), section 10 of 10, MP3 of 10.1 MB.",
+   "licence": "Public Domain Mark 1.0",
+   "url": "https://archive.org/details/billybudd_2001_librivox",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ],
+   "file": "library/files/lib-melville-2020-billy-budd-librivox-11.mp3",
+   "source": "Internet Archive item metadata, billybudd_2001_librivox; held from 2026-11-06"
   },
   {
    "id": "lib-schramm-2020-billy-budd-phallos-2",
@@ -23088,6 +24946,23 @@
    ]
   },
   {
+   "id": "lib-2021-desire-is-violence",
+   "title": "\"Desire is violence\": Claire Denis on Beau Travail",
+   "author": "",
+   "date": "2021-03-05",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Sight and Sound (BFI). Interview with Claire Denis on Beau Travail, including its starting point in Melville and Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.bfi.org.uk/sight-and-sound/interviews/claire-denis-beau-travail-michel-subor-denis-lavant-gregoire-colin-french-foreign-legion-djibouti",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
+   ]
+  },
+  {
    "id": "lib-bialosky-2021-devils-deep",
    "title": "Devils in the Deep",
    "author": "Bialosky, Jill",
@@ -23223,6 +25098,22 @@
    "source": "OpenAIRE instance licence (Recolector de Ciencia Abierta, RECOLECTA); held from 2026-11-06"
   },
   {
+   "id": "lib-tsai-2021-postlude",
+   "title": "Postlude",
+   "author": "Tsai, Tsung-Han",
+   "date": "2021",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "E. M. Forster and Music, pp. 159-176. Postlude closing with a reflection on the limits of past gay discussion of Forster's contribution to the opera Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781108943604.007",
+   "tags": [
+    "opera",
+    "britten",
+    "queer-reading"
+   ]
+  },
+  {
    "id": "lib-ohge-2021-publishing-scholarly-editions",
    "title": "Publishing Scholarly Editions",
    "author": "Ohge, Christopher",
@@ -23250,6 +25141,23 @@
    "tags": [
     "criticism",
     "theology"
+   ]
+  },
+  {
+   "id": "lib-garcia-2021-review-beau-travail",
+   "title": "Review of Beau Travail",
+   "author": "Garcia, Maria",
+   "date": "2021",
+   "kind": "review",
+   "lang": "en",
+   "note": "Cinéaste 46.3, pp. 68-70. Review of the film Beau Travail, cited on Wikipedia's Billy Budd opera page in connection with the film's use of the opera Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://www.jstor.org/stable/27087918",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
    ]
   },
   {
@@ -23316,6 +25224,22 @@
    ],
    "file": "library/files/lib-romacho-2021-tras-las-huellas.pdf",
    "source": "L'Atalante article page; held from 2026-11-06"
+  },
+  {
+   "id": "lib-schepper-2021-zeventig-jaar-geleden",
+   "title": "Zeventig jaar geleden: première van Billy Budd, opera van Benjamin Britten",
+   "author": "De Schepper, Ronny",
+   "date": "2021-11-30",
+   "kind": "blog",
+   "lang": "nl",
+   "note": "Ronny De Schepper. Dutch blog post marking seventy years since the premiere of Britten's Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://ronnydeschepper.com/2021/11/30/zeventig-jaar-geleden-premiere-van-billy-budd-opera-van-benjamin-britten",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
   },
   {
    "id": "lib-2021",
@@ -23388,6 +25312,21 @@
    "tags": [
     "opera",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-trevisan-2022-billy-budd-billy",
+   "title": "Billy Budd, Billy Budd : an inside reading",
+   "author": "Trevisan, Vitaliano",
+   "date": "2022",
+   "kind": "book",
+   "lang": "it",
+   "note": "43-page book on Billy Budd by the Italian writer; copyright 2021, printed 2022.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/VIA0497951",
+   "tags": [
+    "criticism",
+    "reception"
    ]
   },
   {
@@ -23596,6 +25535,22 @@
    ]
   },
   {
+   "id": "lib-rochlitz-2022-wise-queer-heart",
+   "title": "The Wise, Queer Heart of Englishness: E. M. Forster",
+   "author": "Rochlitz, Hanna",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Benjamin Britten in Context, pp. 241-248. On the Forster-Britten friendship and its high point in the Forster-Crozier libretto for Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781108634878.028",
+   "tags": [
+    "opera",
+    "britten",
+    "queer-reading"
+   ]
+  },
+  {
    "id": "lib-bryant-2022-version-document",
    "title": "Version and Document",
    "author": "Bryant, J.",
@@ -23697,6 +25652,22 @@
    "tags": [
     "criticism",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-2023-billy-budd-bucharest",
+   "title": "Billy Budd, Bucharest 2023",
+   "author": "",
+   "date": "2023",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Opera on Video. Listing of a filmed performance of Billy Budd, Bucharest, 2023.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.operaonvideo.com/billy-budd-bucharest-2023-peter-wedd-ville-rusanen-timo-riihonen-jonathan-mcgovern/",
+   "tags": [
+    "opera",
+    "britten",
+    "stage"
    ]
   },
   {
@@ -24057,6 +26028,21 @@
    ]
   },
   {
+   "id": "lib-stumpf-2024-movie-review-dan",
+   "title": "A Movie Review by Dan Stumpf: Billy Budd (1962)",
+   "author": "Stumpf, Dan",
+   "date": "2024-09-26",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Mystery*File. Movie review by Dan Stumpf of Peter Ustinov's Billy Budd (1962).",
+   "licence": "No licence stated; free to read",
+   "url": "https://mysteryfile.com/blog/?p=88847",
+   "tags": [
+    "film",
+    "ustinov"
+   ]
+  },
+  {
    "id": "lib-peluso-2024-arendt-e-immagini",
    "title": "Arendt e le “immagini di pensiero”. Sulla funzione ipotipotica della letteratura",
    "author": "Peluso, R",
@@ -24100,6 +26086,23 @@
    "tags": [
     "news",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-2024-beyond-book",
+   "title": "Beyond the Book",
+   "author": "",
+   "date": "2024",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "The Grolier Club, Melville's Billy Budd at 100. Exhibition section on the play, opera, film and illustrated derivatives of Billy Budd, including Billy Budd: A Play in Three Acts (Princeton, 1951).",
+   "licence": "No licence stated; free to read",
+   "url": "https://grolierclub.omeka.net/exhibits/show/billy-budd/beyond-the-book",
+   "tags": [
+    "reception",
+    "stage",
+    "opera",
+    "film"
    ]
   },
   {
@@ -24281,6 +26284,22 @@
    ]
   },
   {
+   "id": "lib-franklin-2024-britten-experienced-modernism",
+   "title": "Britten Experienced: Modernism, Musicology and Sentiment",
+   "author": "Franklin, Peter",
+   "date": "2024",
+   "kind": "book",
+   "lang": "en",
+   "note": "Routledge. Book containing the essay \"Billy Budd. Confronting the Highbrow Critique of Opera\", set against Chowrimootoo and Harper-Scott.",
+   "licence": "In copyright",
+   "url": "https://www.routledge.com/Britten-Experienced-Modernism-Musicology-and-Sentiment/Franklin/p/book/9781032666631",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-miket-2024-flashback-july-1924",
    "title": "Flashback, July 1924: TLS 'Billy Budd' Essay Further Fans Melville Revival",
    "author": "MikeT",
@@ -24293,6 +26312,23 @@
    "tags": [
     "reception",
     "news"
+   ]
+  },
+  {
+   "id": "lib-landon-2024-grafting-gaze-masculinity",
+   "title": "Grafting the Gaze: Masculinity and Queer Desire in Beau Travail's Free Adaptation",
+   "author": "Landon, Maxwell",
+   "date": "2024",
+   "kind": "other",
+   "lang": "en",
+   "note": "University of Washington, English Department. Undergraduate research paper on links between Billy Budd, Sailor and Claire Denis's loosely adapted Beau Travail, on masculinity and queer desire.",
+   "licence": "No licence stated; free to read",
+   "url": "https://english.washington.edu/research/undergraduate/maxwell-landon-grafting-gaze-masculinity-and-queer-desire-beau-travails-free",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "queer-reading"
    ]
   },
   {
@@ -24702,6 +26738,21 @@
    ]
   },
   {
+   "id": "lib-mendes-2025-justica-tragica-e",
+   "title": "A justiça trágica e o acontecimento: o caso da novela Billy Budd",
+   "author": "Mendes, Alexandre Fabiano; Sousa, Luiz Felipe Teves de Paiva",
+   "date": "2025",
+   "kind": "talk",
+   "lang": "pt",
+   "note": "XV Congresso Internacional da ABraSD, Universidade de Fortaleza, GT 13. English: \"Tragic justice and the event: the case of the novella Billy Budd\". Oral paper reading the novella through a Nietzschean notion of tragic justice.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doity.com.br/anais/abrasd/trabalho/464536",
+   "tags": [
+    "law-and-literature",
+    "philosophy"
+   ]
+  },
+  {
    "id": "lib-lee-2025-ragged-conclusion-billy",
    "title": "A ragged conclusion: Billy Budd",
    "author": "Lee, Maurice S",
@@ -25023,6 +27074,21 @@
    ]
   },
   {
+   "id": "lib-melville-2025-billy-budd-sailor-2",
+   "title": "Billy Budd, Sailor (audiobook, read by Paul Giamatti)",
+   "author": "Melville, Herman",
+   "date": "2025",
+   "kind": "other",
+   "lang": "en",
+   "note": "AudiobooksNow. Listing for the 2025 unabridged audiobook of Billy Budd, Sailor read by Paul Giamatti, about 3 hours 16 minutes.",
+   "licence": "In copyright",
+   "url": "https://www.audiobooksnow.com/audiobook/billy-budd-sailor/10414080/",
+   "tags": [
+    "audiobook",
+    "adaptation"
+   ]
+  },
+  {
    "id": "lib-wenke-2025-billy-budd-sailor",
    "title": "Billy Budd, Sailor : Authorial Agency, Critical Provocation, and the Enduring Challenge of Hayford-Sealts",
    "author": "Wenke, John",
@@ -25245,6 +27311,21 @@
    ]
   },
   {
+   "id": "lib-2025-herman-melville-bbc",
+   "title": "Herman Melville: A BBC Radio Drama Collection",
+   "author": "",
+   "date": "2025-01-16",
+   "kind": "other",
+   "lang": "en",
+   "note": "BBC Studios / Penguin. Audio collection of BBC radio dramatisations of Melville, including a full-cast Billy Budd, Sailor, released January 2025.",
+   "licence": "In copyright",
+   "url": "https://www.penguin.co.uk/books/468555/herman-melville-a-bbc-radio-drama-collection-by-melville-herman/9781529949803",
+   "tags": [
+    "radio",
+    "adaptation"
+   ]
+  },
+  {
    "id": "lib-norvell-2025-herman-melville-s",
    "title": "Herman Melville's Last Story",
    "author": "Norvell, Christine",
@@ -25337,6 +27418,21 @@
    "tags": [
     "film",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-2025-launch-billy-budd",
+   "title": "Launch of Billy Budd, Sailor audiobook, read by Paul Giamatti",
+   "author": "",
+   "date": "2025-08-01",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Berkshire County Historical Society. Society page for the launch at Arrowhead on 1 August 2025 of its audiobook of Billy Budd, Sailor read by Paul Giamatti.",
+   "licence": "No licence stated; free to read",
+   "url": "https://berkshirehistory.org/events/2025-08-01/",
+   "tags": [
+    "audiobook",
+    "adaptation"
    ]
   },
   {
@@ -26252,6 +28348,21 @@
    ]
   },
   {
+   "id": "lib-yavuz-2026-denizci-billy-budd",
+   "title": "Denizci Billy Budd: İçrek Bir Anlatı",
+   "author": "Yavuz, Yiğit",
+   "date": "2026",
+   "kind": "edition",
+   "lang": "tr",
+   "note": "English: \"Billy Budd, Sailor: An Inside Narrative\". Turkish translation by Yiğit Yavuz; the article implies Türkiye İş Bankası Kültür Yayınları, Hasan Âli Yücel Klasikleri, without naming the publisher in the entry.",
+   "licence": "In copyright",
+   "url": "https://www.haberturk.com/is-kulturde-haziran-ayinin-kitaplari-3890228",
+   "tags": [
+    "translation",
+    "news"
+   ]
+  },
+  {
    "id": "lib-2026-verdammten-meere-wikipedia",
    "title": "Die Verdammten der Meere (Wikipedia, de)",
    "author": "",
@@ -26472,6 +28583,20 @@
     "opera",
     "britten",
     "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-melville-2026-sjomannens-offer",
+   "title": "Sjömannens offer",
+   "author": "Melville, Herman",
+   "date": "2026",
+   "kind": "edition",
+   "lang": "sv",
+   "note": "English: \"The sailor's sacrifice\". Swedish text under Melville's name retrieved in LIBRIS by \"Billy Budd\"; relation to Billy Budd from that match only.",
+   "licence": "In copyright",
+   "url": "http://libris.kb.se/bib/9xxqmrnk7nb3x86v",
+   "tags": [
+    "translation"
    ]
   },
   {
@@ -26771,6 +28896,72 @@
    ]
   },
   {
+   "id": "lib-beau-travail",
+   "title": "Beau Travail",
+   "author": "",
+   "date": "",
+   "kind": "encyclopedia",
+   "lang": "en",
+   "note": "Wikipedia. Encyclopedia entry on Claire Denis's film Beau Travail, loosely based on Billy Budd.",
+   "licence": "CC BY-SA 4.0",
+   "url": "https://en.wikipedia.org/wiki/Beau_Travail",
+   "tags": [
+    "film",
+    "beau-travail"
+   ]
+  },
+  {
+   "id": "lib-levy-beau-travail-1999",
+   "title": "Beau Travail (1999): Claire Denis' Sensuous Masterpiece, Loose Version of Melville's Billy Budd",
+   "author": "Levy, Emanuel",
+   "date": "",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Emanuel Levy. Review of Beau Travail as a loose version of Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://emanuellevy.com/review/beau-travail-1999-claire-denis-sensuous-masterpiece-loose-version-of-melvilles-billy-budd/",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-beau-travail-take-2",
+   "title": "Beau travail: Take One (Men at Play)",
+   "author": "",
+   "date": "",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Reverse Shot. Essay \"Men at Play\" on Beau Travail as a homoerotic reworking of Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://reverseshot.org/symposiums/entry/108/beau_travail_take_one",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "queer-reading"
+   ]
+  },
+  {
+   "id": "lib-beau-travail-take",
+   "title": "Beau travail: Take Two",
+   "author": "",
+   "date": "",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Reverse Shot. Essay calling Beau Travail a reimagining of Billy Budd transferred from the British navy.",
+   "licence": "No licence stated; free to read",
+   "url": "https://reverseshot.org/archive/entry/109/beau_travail_take_two",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
+   ]
+  },
+  {
    "id": "lib-roca-trias-billy-budd",
    "title": "Billy Budd",
    "author": "Roca Trías, Encarnación",
@@ -26997,6 +29188,22 @@
    ]
   },
   {
+   "id": "lib-fantuzzi-billy-budd-di",
+   "title": "Billy Budd di Benjamin Britten al Teatro dell'Opera",
+   "author": "Fantuzzi, Virgilio",
+   "date": "",
+   "kind": "article",
+   "lang": "it",
+   "note": "English: \"Britten's Billy Budd at the Teatro dell'Opera\". Article catalogued by SBN without date in the brief record.",
+   "licence": "In copyright",
+   "url": "http://id.sbn.it/bid/TSA1696820",
+   "tags": [
+    "opera",
+    "britten",
+    "review"
+   ]
+  },
+  {
    "id": "lib-billy-budd-dossier",
    "title": "Billy Budd: dossier d'œuvre (Benjamin Britten)",
    "author": "",
@@ -27099,6 +29306,21 @@
    ]
   },
   {
+   "id": "lib-plowright-billy-budd-kgb",
+   "title": "Billy Budd, KGB",
+   "author": "Plowright, Frank",
+   "date": "",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Slings & Arrows. Review by Frank Plowright of Billy Budd, KGB by Jerome Charyn and François Boucq.",
+   "licence": "No licence stated; free to read",
+   "url": "https://theslingsandarrows.com/billy-budd-kgb/",
+   "tags": [
+    "graphic-novel",
+    "adaptation"
+   ]
+  },
+  {
    "id": "lib-billy-budd-nightly",
    "title": "Billy Budd, Nightly Met Opera streams",
    "author": "",
@@ -27171,6 +29393,20 @@
    ]
   },
   {
+   "id": "lib-billy-budd-play",
+   "title": "Billy Budd (play)",
+   "author": "",
+   "date": "",
+   "kind": "encyclopedia",
+   "lang": "en",
+   "note": "Wikipedia. Encyclopedia entry on the Coxe and Chapman play Billy Budd, first staged Off-Broadway in 1949 as Uniform of Flesh.",
+   "licence": "CC BY-SA 4.0",
+   "url": "https://en.wikipedia.org/wiki/Billy_Budd_(play)",
+   "tags": [
+    "stage"
+   ]
+  },
+  {
    "id": "lib-billy-budd-revised",
    "title": "Billy Budd (revised 2-Act version)",
    "author": "",
@@ -27183,6 +29419,22 @@
    "tags": [
     "opera",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-billy-budd-romanzo",
+   "title": "Billy Budd (romanzo)",
+   "author": "",
+   "date": "",
+   "kind": "encyclopedia",
+   "lang": "it",
+   "note": "Wikipedia (Italian). Italian entry on Billy Budd with a section on Ghedini and Quasimodo's opera and other adaptations.",
+   "licence": "CC BY-SA 4.0",
+   "url": "https://it.wikipedia.org/wiki/Billy_Budd_(romanzo)",
+   "tags": [
+    "opera",
+    "ghedini",
+    "quasimodo"
    ]
   },
   {
@@ -27489,6 +29741,22 @@
    ]
   },
   {
+   "id": "lib-britten-billy-budd-7",
+   "title": "Britten: Billy Budd, CHAN 9826, booklet",
+   "author": "",
+   "date": "",
+   "kind": "other",
+   "lang": "en",
+   "note": "Chandos. Booklet for the Chandos recording of Billy Budd, Hickox, CHAN 9826, with notes and libretto.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.chandos.net/chanimages/Booklets/CH9826.pdf",
+   "tags": [
+    "opera",
+    "britten",
+    "recording"
+   ]
+  },
+  {
    "id": "lib-britten-billy-budd-6",
    "title": "Britten: Billy Budd (original version)",
    "author": "",
@@ -27576,6 +29844,20 @@
    "url": "https://doi.org/10.1017/9781108355667.008",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-derivative-works-billy",
+   "title": "Derivative Works: Billy Budd",
+   "author": "",
+   "date": "",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "TV Tropes. Community list of derivative works of Billy Budd, seen only in search results.",
+   "licence": "No licence stated; free to read",
+   "url": "https://tvtropes.org/pmwiki/pmwiki.php/DerivativeWorks/BillyBudd",
+   "tags": [
+    "reception"
    ]
   },
   {
@@ -27880,6 +30162,21 @@
    ]
   },
   {
+   "id": "lib-page-opera-stage",
+   "title": "Page to Opera Stage: The Storytellers of Billy Budd",
+   "author": "",
+   "date": "",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "OperaWire. Feature on the writers behind Billy Budd: Melville, Forster and Crozier, and Britten.",
+   "licence": "No licence stated; free to read",
+   "url": "https://operawire.com/page-to-opera-stage-the-storytellers-of-billy-budd/",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-frank-poor-jack-dibdin",
    "title": "\"Poor Jack\": A Dibdin Song in Billy Budd",
    "author": "Frank, Stuart M.",
@@ -27914,6 +30211,21 @@
    ]
   },
   {
+   "id": "lib-reading-billy-budd",
+   "title": "Reading Billy Budd (San Francisco Opera resource)",
+   "author": "",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "San Francisco Opera. San Francisco Opera reading pack on Billy Budd, opening with Michael Fuller's article from The Musical Times.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.sfopera.com/contentassets/f4e53f8a2cd745618949c4fb9f7ca0c0/reading-billy-budd.pdf",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-religious-allegory-herman",
    "title": "Religious allegory in Herman Melville's Billy Budd",
    "author": "",
@@ -27927,6 +30239,21 @@
     "theology",
     "claggart",
     "vere"
+   ]
+  },
+  {
+   "id": "lib-review-billy-budd",
+   "title": "Review: Billy Budd, KGB by Jerome Charyn and François Boucq",
+   "author": "",
+   "date": "",
+   "kind": "blog",
+   "lang": "en",
+   "note": "Comics Grinder. Review of Billy Budd, KGB by Jerome Charyn and François Boucq.",
+   "licence": "No licence stated; free to read",
+   "url": "https://comicsgrinder.com/tag/kgb/",
+   "tags": [
+    "graphic-novel",
+    "adaptation"
    ]
   },
   {
@@ -28107,6 +30434,23 @@
    "url": "https://archives.shef.ac.uk/repositories/3/archival_objects/21920",
    "tags": [
     "reception"
+   ]
+  },
+  {
+   "id": "lib-two-film-critics",
+   "title": "Two Film Critics Take a Deep Dive on Claire Denis' Beau Travail",
+   "author": "",
+   "date": "",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Nashville Scene. Two critics discuss Beau Travail, the Denis film derived from Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://www.nashvillescene.com/arts_culture/film_tv/two-film-critics-take-a-deep-dive-on-claire-denis-i-beau-travail-i/article_c7dd5159-c037-5b25-9049-57a0446193fa.html",
+   "tags": [
+    "film",
+    "beau-travail",
+    "reception",
+    "news"
    ]
   },
   {
