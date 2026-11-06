@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## 0.3.14 (2026-11-06)
+
+- **The Library grows:** 1822 texts (+32), 63 of them held (+1), from the search of the literature on *Billy Budd* under way since 6 November.
+
 ## 0.3.13 (2026-11-06)
 
 - **The Library grows:** 1790 texts (+786), 74 of them held (+36), from the search of the literature on *Billy Budd* under way since 6 November.

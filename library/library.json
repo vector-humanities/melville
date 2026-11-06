@@ -925,6 +925,21 @@
    ]
   },
   {
+   "id": "lib-1928-book-review-shorter",
+   "title": "Book review of Shorter Novels of Herman Melville (Weaver, 1928), on Billy Budd",
+   "author": "",
+   "date": "1928-12-05",
+   "kind": "review",
+   "lang": "en",
+   "note": "The Nation, vol. 127, no. 3309, 5 December 1928. Review noting that Weaver brought Billy Budd out of the limited London edition. US publication, 1928. Author not read, so no fetch given; the issue PDF is 25.5 MB. Title is descriptive.",
+   "licence": "Public domain",
+   "url": "https://archive.org/details/sim_nation_1928-12-05_127_3309",
+   "tags": [
+    "reception",
+    "editing"
+   ]
+  },
+  {
    "id": "lib-melville-1928-shorter-novels-herman",
    "title": "Shorter Novels of Herman Melville",
    "author": "Melville, Herman; Weaver, Raymond",
@@ -1500,6 +1515,22 @@
    ]
   },
   {
+   "id": "lib-1950-melville-s-last",
+   "title": "Melville's Last Novel \"Billy Budd\" (The Worker): Norris Houghton production notice",
+   "author": "",
+   "date": "1950-10-15",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Worker (Daily Worker), vol. 15, no. 42, 15 October 1950. Left press theatre item on the forthcoming Coxe and Chapman dramatization of Billy Budd, to be directed by Norris Houghton. Title is descriptive.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/per_daily-worker_the-worker_1950-10-15_15_42",
+   "tags": [
+    "stage",
+    "politics",
+    "news"
+   ]
+  },
+  {
    "id": "lib-1950-notice-britten-s",
    "title": "Notice of Britten's sixth opera, Billy Budd (Der Spiegel)",
    "author": "",
@@ -1530,6 +1561,22 @@
    ]
   },
   {
+   "id": "lib-1951-opera-billy-budd",
+   "title": "At the Opera: Billy Budd (Covent Garden)",
+   "author": "",
+   "date": "1951-12-12",
+   "kind": "review",
+   "lang": "en",
+   "note": "Punch, vol. 221, no. 5799, 12 December 1951. Magazine review of Britten's Billy Budd after a disappointing first act, praising the Forster and Crozier libretto.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_punch_1951-12-12_221_5799",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-atkinson-1951-theatre-billy-budd",
    "title": "At the Theatre: Billy Budd",
    "author": "Atkinson, Brooks",
@@ -1542,6 +1589,21 @@
    "tags": [
     "stage",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-white-1951-billy-budd",
+   "title": "Billy Budd",
+   "author": "White, Eric Walter",
+   "date": "1951-11-22",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Listener, vol. 46, no. 1186, 22 November 1951, p. 901 (Music). Pre-premiere article on Britten's Billy Budd, from the issue's contents list.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/listener_1951-11-22_46_1186",
+   "tags": [
+    "opera",
+    "britten"
    ]
   },
   {
@@ -1599,6 +1661,38 @@
    "url": "https://id.lib.harvard.edu/alma/990059822850203941/catalog",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-shawe-taylor-1951-billy-budd-i",
+   "title": "Billy Budd-I",
+   "author": "Shawe-Taylor, Desmond",
+   "date": "1951-12-01",
+   "kind": "review",
+   "lang": "en",
+   "note": "The New Statesman and Nation, vol. 42, no. 1082, 1 December 1951, p. 622. First of two articles on Britten's Billy Budd, setting out Melville's story and Ghedini's earlier version. Author from the contents list.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_new-statesman_1951-12-01_42_1082",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-shawe-taylor-1951-billy-budd-ii",
+   "title": "Billy Budd-II",
+   "author": "Shawe-Taylor, Desmond",
+   "date": "1951-12-08",
+   "kind": "review",
+   "lang": "en",
+   "note": "The New Statesman and Nation, vol. 42, no. 1083, 8 December 1951. Second article, reviewing the first performance of Billy Budd and judging the libretto marred by a central fault. Author assumed from Part I, to confirm.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_new-statesman_1951-12-08_42_1083",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
    ]
   },
   {
@@ -1666,6 +1760,21 @@
    ]
   },
   {
+   "id": "lib-1951-budd-uphill-fight",
+   "title": "'Budd' Uphill Fight Stirs B'way",
+   "author": "",
+   "date": "1951-04-11",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "Variety, vol. 182, no. 5, 11 April 1951. Trade item on the uphill box-office fight of the Coxe and Chapman Billy Budd at the Biltmore. Headline read from OCR.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_variety_1951-04-11_182_5",
+   "tags": [
+    "stage",
+    "news"
+   ]
+  },
+  {
    "id": "lib-sale-1951-captain-vere-s",
    "title": "Captain Vere's Reasons",
    "author": "Sale, Arthur",
@@ -1712,6 +1821,21 @@
    ]
   },
   {
+   "id": "lib-crozier-1951-how-billy-budd",
+   "title": "How 'Billy Budd' Became an Opera",
+   "author": "Crozier, Eric",
+   "date": "1951-12-06",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Listener, vol. 46, no. 1188, 6 December 1951, p. 959 (Did You Hear That?). Printed extract of the co-librettist's broadcast talk on the collaboration that made Billy Budd, given before the opera's broadcast.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/listener_1951-12-06_46_1188",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-atkinson-1951-melville-s-sea",
    "title": "Melville's Sea Epic; Conflict of Good and Evil In 'Billy Budd'",
    "author": "Atkinson, Brooks",
@@ -1743,6 +1867,21 @@
    ]
   },
   {
+   "id": "lib-1951-new-york-theatre",
+   "title": "New York Theatre Critics' Reviews: Billy Budd",
+   "author": "",
+   "date": "1951-02-19",
+   "kind": "review",
+   "lang": "en",
+   "note": "New York Theatre Critics' Reviews, vol. 12, no. 5, 19 February 1951. Reprints the New York dailies' reviews of the Coxe and Chapman Billy Budd, including the Herald Tribune and Bert McCord's \"Not Too Seaworthy\".",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/per_national-theatre-critics-reviews_new-york-theatre-critics-reviews_1951-02-19_12_5",
+   "tags": [
+    "stage",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-van-vechten-1951-nolte-charles-billy",
    "title": "Nolte, Charles (as Billy Budd)",
    "author": "Van Vechten,; Carl",
@@ -1754,6 +1893,38 @@
    "url": "https://www.semanticscholar.org/paper/f021fabbcf04182cf4362cfa0471b88367188780",
    "tags": [
     "stage"
+   ]
+  },
+  {
+   "id": "lib-1951-only-pacifist-would",
+   "title": "Only a pacifist would have chosen this subject",
+   "author": "",
+   "date": "1951-12-07",
+   "kind": "review",
+   "lang": "en",
+   "note": "Peace News, vol. 16, no. 806, 7 December 1951. Pacifist newspaper's review of the premiere of Britten's Billy Budd, arguing the subject and its treatment reflect a pacifist's choice. Author not read.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/peace-news_1951-12-07_806",
+   "tags": [
+    "opera",
+    "britten",
+    "politics"
+   ]
+  },
+  {
+   "id": "lib-1951-opera-set-board",
+   "title": "Opera Set on Board Ship: Benjamin Britten's \"Billy Budd\"",
+   "author": "",
+   "date": "1951-12-08",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Illustrated London News, vol. 219, no. 5877, 8 December 1951. Photographs and captions of the Covent Garden premiere with Frederick Dalberg as Claggart and Theodor Uppman.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_illustrated-london-news_1951-12-08_219_5877",
+   "tags": [
+    "opera",
+    "britten",
+    "news"
    ]
   },
   {
@@ -1769,6 +1940,21 @@
    "tags": [
     "stage",
     "news"
+   ]
+  },
+  {
+   "id": "lib-1951-plays-broadway-billy",
+   "title": "Plays on Broadway: Billy Budd",
+   "author": "",
+   "date": "1951-02-14",
+   "kind": "review",
+   "lang": "en",
+   "note": "Variety, vol. 181, no. 10, 14 February 1951. Trade review of the Coxe and Chapman Billy Budd, in an issue also noting a daily's review of it killed.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_variety_1951-02-14_181_10",
+   "tags": [
+    "stage",
+    "reception"
    ]
   },
   {
@@ -1852,6 +2038,22 @@
    ]
   },
   {
+   "id": "lib-matthews-1952-billy-budd-english",
+   "title": "Billy Budd-An English Opera Triumph",
+   "author": "Matthews, H. G.",
+   "date": "1952-01",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Theatre World, vol. 48, no. 324, January 1952. Illustrated magazine article on the premiere of Britten's Billy Budd. Author read from a garbled contents line, to confirm.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_theatre-world_1952-01_48_324",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-melville-1952-billy-budd-benito",
    "title": "Billy Budd ; Benito Cereno : zwei Erzählungen",
    "author": "Melville, H.; Van Doren, C. V.",
@@ -1863,6 +2065,53 @@
    "url": "https://www.semanticscholar.org/paper/31f91fd468748396d2616f06cb675e10cc6dcbb7",
    "tags": [
     "race"
+   ]
+  },
+  {
+   "id": "lib-fitzgerald-1952-billy-budd-melville",
+   "title": "Billy Budd: Melville and Britten (The Novel; The Score)",
+   "author": "Fitzgerald, P. M.; Stuart, Charles",
+   "date": "1952-01",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "World Review, no. 35, January 1952. Paired essays on Billy Budd, one on the novel by the editor (signed D. & P. M. Fitzgerald in OCR) and one on Britten's score by Charles Stuart.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/world-review_1952-01_35",
+   "tags": [
+    "opera",
+    "britten",
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-law-1952-billy-budd-story",
+   "title": "'Billy Budd': The Story; First Impressions",
+   "author": "Law, Richard",
+   "date": "1952-01",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Opera, vol. 3, no. 1, January 1952. Issue with Uppman as Billy Budd on the cover, a synopsis and Richard Law's first impressions of the opera.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_opera_1952-01_3_1",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-1952-billy-budd-uma",
+   "title": "\"Billy Budd\", uma opera sem mulheres",
+   "author": "",
+   "date": "1952",
+   "kind": "newspaper",
+   "lang": "pt",
+   "note": "Correio da Manha, Rio de Janeiro, no. 18166, 1952. Brazilian newspaper article on Britten's Billy Budd as an opera without women, credited in OCR to C. Chamfray. Exact date not read.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/CorreioDaManha_RJ_1952_18166",
+   "tags": [
+    "opera",
+    "comparative"
    ]
   },
   {
@@ -1895,6 +2144,38 @@
    ]
   },
   {
+   "id": "lib-lockspeiser-1952-britten-s-billy",
+   "title": "Britten's Billy Budd Has Premiere",
+   "author": "Lockspeiser, Edward",
+   "date": "1952-01-01",
+   "kind": "review",
+   "lang": "en",
+   "note": "Musical America, vol. 72, no. 1, 1 January 1952. American music magazine's report of the Covent Garden premiere.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_musical-america_1952-01-01_72_1",
+   "tags": [
+    "opera",
+    "britten",
+    "reception"
+   ]
+  },
+  {
+   "id": "lib-1952-courrier-musical-l",
+   "title": "Courrier musical: L'Oeuvre du XXe siecle, \"Billy Budd\"",
+   "author": "",
+   "date": "1952-06-14",
+   "kind": "review",
+   "lang": "fr",
+   "note": "France Illustration, vol. 8, no. 348, 14 June 1952. French magazine notice of Billy Budd in the Paris festival. Headline read from OCR.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/france-illustration_1952-06-14_8_348",
+   "tags": [
+    "opera",
+    "britten",
+    "comparative"
+   ]
+  },
+  {
    "id": "lib-wright-1952-form-function-melville",
    "title": "Form as Function in Melville",
    "author": "Wright, Nathalia",
@@ -1911,6 +2192,21 @@
    ]
   },
   {
+   "id": "lib-1952-further-thoughts-billy",
+   "title": "Further Thoughts on Billy Budd",
+   "author": "",
+   "date": "1952-03",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Opera, vol. 3, no. 3, March 1952. Follow-up article on the opera, discussing the conclusion of Act II. Author not read.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_opera_1952-03_3_3",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-zink-1952-herman-melville-forms",
    "title": "Herman Melville and the Forms: Irony and Social Criticism in Billy Budd",
    "author": "Zink, Karl E.",
@@ -1923,6 +2219,38 @@
     "criticism",
     "narrative",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-rostand-1952-musique-billy-budd",
+   "title": "La Musique: Billy Budd, de Benjamin Britten",
+   "author": "Rostand, Claude",
+   "date": "1952-07",
+   "kind": "review",
+   "lang": "fr",
+   "note": "La Table Ronde, no. 55, July 1952. French review of Britten's Billy Budd at the Paris festival, with Four Saints in Three Acts.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/la-table-ronde-1948_1952-07_55",
+   "tags": [
+    "opera",
+    "britten",
+    "comparative"
+   ]
+  },
+  {
+   "id": "lib-1952-nbc-television-opera",
+   "title": "NBC Television Opera (Billy Budd)",
+   "author": "",
+   "date": "1952-10-22",
+   "kind": "review",
+   "lang": "en",
+   "note": "Variety, vol. 188, no. 7, 22 October 1952. Trade review of the NBC telecast of Britten's Billy Budd with Theodor Uppman.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_variety_1952-10-22_188_7",
+   "tags": [
+    "opera",
+    "film",
+    "britten"
    ]
   },
   {
@@ -1980,6 +2308,21 @@
    ]
   },
   {
+   "id": "lib-stein-1952-music-billy-budd",
+   "title": "The Music of 'Billy Budd'",
+   "author": "Stein, Erwin",
+   "date": "1952-04",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Opera, vol. 3, no. 4, April 1952. Article on the score of Britten's Billy Budd opening on Melville's story of the handsome sailor.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_opera_1952-04_3_4",
+   "tags": [
+    "opera",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-mason-1952-paris-festival",
    "title": "The Paris Festival",
    "author": "Mason, Colin",
@@ -2026,6 +2369,22 @@
    ]
   },
   {
+   "id": "lib-eaton-1953-billy-budd-takes",
+   "title": "Billy Budd Takes the Air",
+   "author": "Eaton, Quaintance",
+   "date": "1953-01",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "High Fidelity, vol. 2, no. 4, January-February 1953. Illustrated account of the NBC-TV Opera production of Billy Budd with Theodor Uppman, from the control room.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_high-fidelity-musical-america_january-february-1953_2_4",
+   "tags": [
+    "opera",
+    "film",
+    "britten"
+   ]
+  },
+  {
    "id": "lib-glick-1953-expediency-absolute-morality",
    "title": "Expediency and Absolute Morality in Billy Budd",
    "author": "Glick, Wendell",
@@ -2069,6 +2428,21 @@
    "url": "https://opac.k10plus.de/DB=2.299/PPNSET?PPN=1149208465",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-1954-antigone-billy-budd",
+   "title": "Antigone, Billy Budd, and the Caine Mutiny: the Individual and Society",
+   "author": "",
+   "date": "1954-05",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Tech Engineering News (MIT), vol. 35, no. 8, May 1954. Student magazine essay comparing the three works. Author not read.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_tech-engineering-news_1954-05_35_8",
+   "tags": [
+    "comparative",
+    "politics"
    ]
   },
   {
@@ -2242,6 +2616,21 @@
    ]
   },
   {
+   "id": "lib-1956-theatre-world-good",
+   "title": "Theatre World: The Good Sailor (Billy Budd)",
+   "author": "",
+   "date": "1956-05",
+   "kind": "review",
+   "lang": "en",
+   "note": "Theatre World, vol. 52, no. 376, May 1956. Review of the London staging of the Coxe and Chapman version of Billy Budd, given as The Good Sailor.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_theatre-world_1956-05_52_376",
+   "tags": [
+    "stage",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-hecht-1956-vortoppmann-billy-budd",
    "title": "Vortoppmann Billy Budd und andere Erzählungen",
    "author": "Hecht, Ilse; Steinig, Günther; Seidel, Elisabeth",
@@ -2411,6 +2800,21 @@
    "url": "https://www.semanticscholar.org/paper/9f1bb33654c23f01f8eff1126641f78f3e395f21"
   },
   {
+   "id": "lib-1959-billy-budd-du",
+   "title": "Billy Budd (Du Pont Show of the Month)",
+   "author": "",
+   "date": "1959-05-27",
+   "kind": "review",
+   "lang": "en",
+   "note": "Variety, vol. 214, no. 13, 27 May 1959. Trade review of the CBS television presentation of Billy Budd with Don Murray.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/sim_variety_1959-05-27_214_13",
+   "tags": [
+    "film",
+    "reception"
+   ]
+  },
+  {
    "id": "lib-withim-1959-billy-budd-testament",
    "title": "Billy Budd: Testament of Resistance",
    "author": "Withim, Phil",
@@ -2498,6 +2902,21 @@
    "url": "https://archive.org/details/sim_explicator_october-1960-june-1961_19_index",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-stewart-1960-billy-budd-corporal",
+   "title": "Billy Budd and the Corporal",
+   "author": "Stewart, Douglas",
+   "date": "1960",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "Quadrant, vol. 4, no. 14, Autumn 1960, p. 30. Essay in the Australian magazine, from the contents list. Volume reading from the IA identifier.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/quadrant_autumn-1960_4_14",
+   "tags": [
+    "criticism",
+    "reception"
    ]
   },
   {
@@ -2627,6 +3046,21 @@
    "url": "https://archive.org/details/sim_explicator_october-1960-june-1961_19_index",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-1960-theatrical-history-britten",
+   "title": "The Theatrical History of Britten's Billy Budd (The Listener, 1960)",
+   "author": "",
+   "date": "1960-11-10",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Listener, vol. 64, no. 1650, 10 November 1960. Article on the \"theatrical history\" of Billy Budd before a broadcast. Title is descriptive; author not read.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/listener_1960-11-10_64_1650",
+   "tags": [
+    "opera",
+    "britten"
    ]
   },
   {
@@ -2991,6 +3425,21 @@
    ]
   },
   {
+   "id": "lib-1961-youth-cast-billy",
+   "title": "Youth Cast as Billy Budd Never Acted Professionally",
+   "author": "",
+   "date": "1961-10-02",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Atlanta Constitution, vol. 94, no. 91, 2 October 1961. Syndicated item on Terence Stamp's casting in Ustinov's Billy Budd. Headline read from OCR.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/per_atlanta-constitution_1961-10-02_94_91",
+   "tags": [
+    "film",
+    "news"
+   ]
+  },
+  {
    "id": "lib-mcnamara-1962-11-melvilles-billy",
    "title": "11. Melville’s Billy Budd",
    "author": "McNamara, Anne",
@@ -3164,6 +3613,21 @@
    "url": "https://archive.org/details/variety-1962-08/page/n12/mode/1up",
    "tags": [
     "film",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-1962-lawrence-professor-co",
+   "title": "Lawrence Professor Co-Edits Text of 'Billy Budd, Sailor'",
+   "author": "",
+   "date": "1962-10-12",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Post-Crescent, Appleton, Wisconsin, 12 October 1962. Local newspaper report on Merton M. Sealts as co-editor of the Chicago edition of Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/appleton-post-crescent-1962-10-12",
+   "tags": [
+    "editing",
     "news"
    ]
   },
@@ -3844,6 +4308,22 @@
    "tags": [
     "philosophy",
     "vere"
+   ]
+  },
+  {
+   "id": "lib-1965-una-nuova-versione",
+   "title": "Una nuova versione del \"Billy Budd\" di Britten",
+   "author": "",
+   "date": "1965-05-16",
+   "kind": "review",
+   "lang": "it",
+   "note": "L'Unita, 16 May 1965. Italian newspaper report from London on the two-act version of Britten's Billy Budd at Covent Garden.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/unita_1965-05-16",
+   "tags": [
+    "opera",
+    "britten",
+    "comparative"
    ]
   },
   {
@@ -21520,11 +22000,13 @@
    "kind": "thesis",
    "lang": "ca",
    "note": "Catalan undergraduate thesis in translation studies comparing neural machine translation of Billy Budd, Sailor with the human Catalan translation.",
-   "licence": "No licence stated; free to read",
+   "licence": "CC BY-NC-SA 4.0",
    "url": "https://core.ac.uk/works/398469950",
    "tags": [
     "translation"
-   ]
+   ],
+   "file": "library/files/lib-ferragud-ferragud-2021-analisi-comparativa-traduccio.pdf",
+   "source": "repositori.uji.es DSpace API, dc.rights.uri http://creativecommons.org/licenses/by-nc-sa/4.0/; held from 2026-11-06"
   },
   {
    "id": "lib-schwartz-2021-billy-budd",
@@ -26505,6 +26987,21 @@
    "tags": [
     "law-and-literature",
     "pedagogy"
+   ]
+  },
+  {
+   "id": "lib-moake-crucifixion-billy-budd",
+   "title": "The Crucifixion of Billy Budd",
+   "author": "Moake, Becky",
+   "date": "",
+   "kind": "magazine",
+   "lang": "en",
+   "note": "The Green Caldron (University of Illinois), Internet Archive id greencaldron31362196267univ. Student theme from Rhetoric 107 on Billy Budd as a Christ figure. The Archive's date 1931 is wrong for this volume; the text refers to the story after later criticism, so the date is left out.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/greencaldron31362196267univ",
+   "tags": [
+    "pedagogy",
+    "theology"
    ]
   },
   {
