@@ -1561,6 +1561,36 @@
    ]
   },
   {
+   "id": "lib-1950-theatre-notice-coxe",
+   "title": "Theatre notice of the Coxe and Chapman Billy Budd (The Worker)",
+   "author": "",
+   "date": "1950-10-15",
+   "kind": "newspaper",
+   "lang": "en",
+   "note": "The Worker (Daily Worker), vol. 15, no. 42, 15 October 1950. Left press theatre item on the forthcoming Coxe and Chapman dramatization of Billy Budd, to be directed by Norris Houghton. Title is descriptive.",
+   "licence": "No licence stated; free to read",
+   "url": "https://archive.org/details/per_daily-worker_the-worker_1950-10-15_15_42",
+   "tags": [
+    "stage",
+    "politics",
+    "news"
+   ]
+  },
+  {
+   "id": "lib-snyder-1951-note-billy-budd",
+   "title": "A Note on Billy Budd",
+   "author": "Snyder, Oliver",
+   "date": "1951",
+   "kind": "article",
+   "lang": "en",
+   "note": "Accent 11, pp. 58-60. Seen in: Explicator checklist 1951-52 and Boswell checklist (Internet Archive).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_explicator_september-1968-june-1969_27_index",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-1951-opera-billy-budd",
    "title": "At the Opera: Billy Budd (Covent Garden)",
    "author": "",
@@ -2084,6 +2114,21 @@
    ]
   },
   {
+   "id": "lib-hillway-1952-billy-budd-melville",
+   "title": "Billy Budd: Melville's Human Sacrifice",
+   "author": "Hillway, Tyrus",
+   "date": "1952",
+   "kind": "article",
+   "lang": "en",
+   "note": "Pacific Spectator 6. Seen in: Explicator checklist 1952 and A Critical Guide to Herman Melville (Internet Archive).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_explicator_october-1952-june-1953_12_index",
+   "tags": [
+    "criticism",
+    "theology"
+   ]
+  },
+  {
    "id": "lib-law-1952-billy-budd-story",
    "title": "'Billy Budd': The Story; First Impressions",
    "author": "Law, Richard",
@@ -2569,6 +2614,19 @@
    "note": "",
    "licence": "In copyright",
    "url": "https://core.ac.uk/works/132634198",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-west-1956-primitivism-melville",
+   "title": "Primitivism in Melville",
+   "author": "West, Ray B., Jr.",
+   "date": "1956",
+   "kind": "article",
+   "lang": "en",
+   "note": "Prairie Schooner 30, pp. 369-385. Tagged [Billy Budd, Moby Dick] in the Explicator annual checklist. Seen in: Explicator checklist 1956-57 and A Critical Guide to Herman Melville (Internet Archive).",
+   "licence": "In copyright",
    "tags": [
     "criticism"
    ]
@@ -3660,6 +3718,21 @@
    ]
   },
   {
+   "id": "lib-kilbourne-1962-montaigne-captain-vere",
+   "title": "Montaigne and Captain Vere",
+   "author": "Kilbourne, W. G., Jr",
+   "date": "1962",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature 33 (January 1962): 514-517. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "vere"
+   ]
+  },
+  {
    "id": "lib-melville-1962-short-novels-herman",
    "title": "Short novels of Herman Melville : Benito Cereno, Bartleby the scrivener, Billy Budd, foretopman",
    "author": "Melville, H.",
@@ -3671,6 +3744,20 @@
    "url": "https://www.semanticscholar.org/paper/ecc44f014cb48a80a1c50b30c111d3544f565060",
    "tags": [
     "race"
+   ]
+  },
+  {
+   "id": "lib-ledbetter-1962-ambiguity-billy-budd",
+   "title": "The Ambiguity of Billy Budd",
+   "author": "Ledbetter, Kenneth",
+   "date": "1962",
+   "kind": "article",
+   "lang": "en",
+   "note": "Texas Studies in Literature and Language 4, pp. 130-134. Seen in: Review of English Studies periodical list 1962 and TSLL index (Internet Archive).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_texas-studies-in-literature-and-language_april-1962-january-1963_4_index",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -3701,6 +3788,20 @@
     "criticism",
     "comparative",
     "naval-history"
+   ]
+  },
+  {
+   "id": "lib-stafford-1962-new-billy-budd",
+   "title": "The New Billy Budd and the Novelistic Fallacy: An Essay-Review",
+   "author": "Stafford, William T.",
+   "date": "1962",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern Fiction Studies 8. Essay-review of the Hayford-Sealts edition's Billy Budd text. Seen in: Modern Fiction Studies 1962 index (Internet Archive).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_modern-fiction-studies_1962_8_index",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -3988,6 +4089,20 @@
    "url": "https://www.semanticscholar.org/paper/d0ca3a610db0fb6fae95e61041794bfbeee7fa08"
   },
   {
+   "id": "lib-lemon-1964-billy-budd-plot",
+   "title": "Billy Budd: The Plot against the Story",
+   "author": "Lemon, Lee T",
+   "date": "1964",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Short Fiction 2 (1964): 32-43. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
    "id": "lib-bernstein-1964-billy-budd-testament",
    "title": "Billy Budd: the testament of rebellion",
    "author": "Bernstein, John",
@@ -4136,6 +4251,19 @@
    ]
   },
   {
+   "id": "lib-rogers-1964-ineludible-gripe-billy",
+   "title": "The 'Ineludible Gripe' of Billy Budd",
+   "author": "Rogers, Robert",
+   "date": "1964",
+   "kind": "article",
+   "lang": "en",
+   "note": "Literature and Psychology 14 (1964): 9-22. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-sherwood-1964-vere-collingwood-key",
    "title": "Vere as Collingwood: A Key to Billy Budd",
    "author": "Sherwood, John C.",
@@ -4163,6 +4291,20 @@
    "tags": [
     "film",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-hudson-1965-billy-budd-adam",
+   "title": "Billy Budd: Adam or Christ?",
+   "author": "Hudson, H. E., IV",
+   "date": "1965",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Crane Review 7 (1965): 62-67. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "theology"
    ]
   },
   {
@@ -4264,6 +4406,20 @@
    "url": "https://catalogue.bnf.fr/ark:/12148/cb33097199h",
    "tags": [
     "translation"
+   ]
+  },
+  {
+   "id": "lib-mary-ellen-1965-parallels-contrast-study",
+   "title": "Parallels in Contrast: A Study of Melville's Imagery in Moby Dick and Billy Budd",
+   "author": "Mary Ellen, Sister",
+   "date": "1965",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Short Fiction 2 (1965): 284-90. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "comparative"
    ]
   },
   {
@@ -4413,6 +4569,34 @@
    ]
   },
   {
+   "id": "lib-duerksen-1966-caleb-williams-political",
+   "title": "Caleb Williams, Political Justice, and Billy Budd",
+   "author": "Duerksen, Roland A",
+   "date": "1966",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature 38 (1966): 372-76. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "politics"
+   ]
+  },
+  {
+   "id": "lib-mccarthy-1966-character-structure-billy",
+   "title": "Character and Structure in 'Billy Budd'",
+   "author": "McCarthy, Paul",
+   "date": "1966",
+   "kind": "article",
+   "lang": "en",
+   "note": "Discourse 9 (1966): 201-17. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-1966-column-billy-budd",
    "title": "Column on Billy Budd (Presencia Literaria)",
    "author": "",
@@ -4505,6 +4689,20 @@
    ]
   },
   {
+   "id": "lib-wilson-1967-billy-budd-melville",
+   "title": "Billy Budd and Melville's Use of Dramatic Technique",
+   "author": "Wilson, G. R., Jr",
+   "date": "1967",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Short Fiction 4 (1967): 105-11. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "stage"
+   ]
+  },
+  {
    "id": "lib-payne-1967-billy-budd-bbc",
    "title": "‘Billy Budd’ on BBC 2",
    "author": "Payne, Anthony",
@@ -4546,6 +4744,21 @@
    "url": "https://core.ac.uk/works/306178177",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-chandler-1967-captain-vere-tongues",
+   "title": "Captain Vere and the \"Tongues of the Palace\"",
+   "author": "Chandler, Alice",
+   "date": "1967",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern Fiction Studies 13, pp. 259-261. Seen in: Modern Fiction Studies vol. 13 index and Explicator checklist (Internet Archive).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_modern-fiction-studies_1967_13_index",
+   "tags": [
+    "criticism",
+    "vere"
    ]
   },
   {
@@ -4690,6 +4903,19 @@
    "tags": [
     "criticism",
     "narrative"
+   ]
+  },
+  {
+   "id": "lib-stafford-1968-annotated-checklist-studies",
+   "title": "An Annotated Checklist of Studies of Billy Budd",
+   "author": "Stafford, William T",
+   "date": "1968",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Melville's Billy Budd and the Critics. Ed. William T. Stafford. Belmont, CA: Wadsworth, 1968. 263-72. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -4846,6 +5072,46 @@
    ]
   },
   {
+   "id": "lib-millgate-1968-melville-marvell-note",
+   "title": "Melville and Marvell: A Note on Billy Budd",
+   "author": "Millgate, Michael",
+   "date": "1968",
+   "kind": "article",
+   "lang": "en",
+   "note": "English Studies: A Journal of English Language and Literature 49 (1968): 47-50. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-mitchell-1968-melville-spurious-truth",
+   "title": "Melville and the Spurious Truth of Legalism",
+   "author": "Mitchell, Charles",
+   "date": "1968",
+   "kind": "article",
+   "lang": "en",
+   "note": "Centennial Review 12, pp. 110-126. Tagged [Billy Budd] in the Explicator annual checklist. Seen in: Centennial Review vol. 12 index and Explicator checklist 1968-69, which tags it [Billy Budd] (Internet Archive).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-reid-1968-old-melville-s",
+   "title": "Old Melville's Fable",
+   "author": "Reid, B. L.",
+   "date": "1968",
+   "kind": "article",
+   "lang": "en",
+   "note": "Massachusetts Review 9 (Summer 1968): 529-546. Listed in bibliographies of Billy Budd, where the author line reads \"Rosenthal, Bernard, and Reid, B. L.\"; A Critical Guide to Herman Melville gives Reid. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-wood-1968-religious-allegory-herman",
    "title": "Religious allegory in Herman Melville's Billy Budd",
    "author": "Wood, William Brittingham",
@@ -4865,6 +5131,20 @@
    ]
   },
   {
+   "id": "lib-stokes-1968-dansker-melville-s",
+   "title": "The Dansker, Melville's Manifesto on Survival",
+   "author": "Stokes, Gary",
+   "date": "1968-10",
+   "kind": "article",
+   "lang": "en",
+   "note": "The English Journal 57.7, pp. 980. On the Dansker in Billy Budd; tagged [Billy Budd] in the Explicator checklist.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/812266",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-duerksen-1968-deep-quandary-billy",
    "title": "The Deep Quandary in Billy Budd",
    "author": "Duerksen, Roland A.",
@@ -4877,6 +5157,20 @@
    "tags": [
     "criticism",
     "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-foley-1968-digressions-billy-budd",
+   "title": "The Digressions in Billy Budd",
+   "author": "Foley, Mary",
+   "date": "1968",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Melville's Billy Budd and the Critics. Ed. William T. Stafford. Belmont, CA: Wadsworth, 1968. 220-23. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "narrative"
    ]
   },
   {
@@ -4967,6 +5261,19 @@
    ]
   },
   {
+   "id": "lib-hendrickson-1969-billy-budd-affirmation",
+   "title": "Billy Budd: Affirmation of Absurdity",
+   "author": "Hendrickson, John",
+   "date": "1969",
+   "kind": "article",
+   "lang": "en",
+   "note": "RE: Artes Liberales 3.1 (1969): 30-37. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-williams-1969-billy-budd-moby",
    "title": "Billy Budd and Moby Dick",
    "author": "Williams, G. R.; Melville, H.",
@@ -4976,6 +5283,19 @@
    "note": "Edition listed in Semantic Scholar with no abstract.",
    "licence": "In copyright",
    "url": "https://www.semanticscholar.org/paper/c892a5a9d6635de8efa7b2ba5b04d490849cedd2"
+  },
+  {
+   "id": "lib-perry-1969-billy-budd-melville",
+   "title": "Billy Budd: Melville's Paradise Lost",
+   "author": "Perry, Robert L",
+   "date": "1969",
+   "kind": "article",
+   "lang": "en",
+   "note": "Midwest Quarterly: A Journal of Contemporary Thought 10 (1969): 173-85. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
   },
   {
    "id": "lib-1969-billy-budd-moral",
@@ -5195,6 +5515,21 @@
    ]
   },
   {
+   "id": "lib-kinnamon-1970-billy-budd-political",
+   "title": "Billy Budd: Political Philosophies in a Sea of Thought",
+   "author": "Kinnamon, Jon M",
+   "date": "1970",
+   "kind": "article",
+   "lang": "en",
+   "note": "Arizona Quarterly 26 (1970): 164-72. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "politics",
+    "philosophy"
+   ]
+  },
+  {
    "id": "lib-miller-1970-but-laugh-mysterious",
    "title": "But Laugh or Die: The Mysterious Stranger and Billy Budd",
    "author": "Miller, Ruth",
@@ -5247,6 +5582,33 @@
    "url": "https://archive.org/details/merrillstudiesin0000spri",
    "tags": [
     "theology"
+   ]
+  },
+  {
+   "id": "lib-fulwiler-1970-death-handsome-sailor",
+   "title": "The Death of the Handsome Sailor: A Study of Billy Budd and the Red Badge of Courage",
+   "author": "Fulwiler, Toby",
+   "date": "1970",
+   "kind": "article",
+   "lang": "en",
+   "note": "Arizona Quarterly 26 (1970): 101-12. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-ortego-1970-existential-roots-billy",
+   "title": "The Existential Roots of Billy Budd",
+   "author": "Ortego, Philip D.",
+   "date": "1970",
+   "kind": "article",
+   "lang": "en",
+   "note": "Connecticut Review 4.1, pp. 80-87. Seen in: Campbell bibliography (WSU).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "philosophy"
    ]
   },
   {
@@ -5349,6 +5711,20 @@
    "note": "Item listed in Semantic Scholar with no abstract.",
    "licence": "In copyright",
    "url": "https://www.semanticscholar.org/paper/d2ceb574261144aea5ca741fc50b3874fadeac3d"
+  },
+  {
+   "id": "lib-rosenthal-1971-elegy-jack-chase",
+   "title": "Elegy for Jack Chase",
+   "author": "Rosenthal, Bernard",
+   "date": "1971",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Romanticism 10.3, pp. 213. Listed under Billy Budd in the melville.org bibliography.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/25599805",
+   "tags": [
+    "criticism"
+   ]
   },
   {
    "id": "lib-brown-1971-holy-oblivion-reading-2",
@@ -5489,6 +5865,19 @@
    ]
   },
   {
+   "id": "lib-stitt-1972-herman-melville-s",
+   "title": "Herman Melville's Billy Budd: Sympathy and Rebellion",
+   "author": "Stitt, Peter A",
+   "date": "1972",
+   "kind": "article",
+   "lang": "en",
+   "note": "Arizona Quarterly 28 (1972): 39-54. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-weir-1972-malice-reconciled-note",
    "title": "Malice reconciled: a note on Melville's Billy Budd",
    "author": "Weir, Charles",
@@ -5498,6 +5887,19 @@
    "note": "Critics on Melville, ed. Rountree, Thomas J. (University of Miami Press, 1972).",
    "licence": "In copyright",
    "url": "https://id.lib.harvard.edu/alma/990017242820203941/catalog",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-turnage-1972-melville-s-concern",
+   "title": "Melville's Concern with the Arts in Billy Budd",
+   "author": "Turnage, Maxine",
+   "date": "1972",
+   "kind": "article",
+   "lang": "en",
+   "note": "Arizona Quarterly 28 (1972): 74-82. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
    "tags": [
     "criticism"
    ]
@@ -5835,6 +6237,19 @@
     "elizabeth-melville",
     "memoranda",
     "biography"
+   ]
+  },
+  {
+   "id": "lib-eberwein-1974-impure-fiction-billy",
+   "title": "The Impure Fiction of Billy Budd",
+   "author": "Eberwein, Robert T",
+   "date": "1974",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in the Novel 6 (1974): 318-26. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -6249,6 +6664,21 @@
    ]
   },
   {
+   "id": "lib-friel-1976-ustinov-s-film-2",
+   "title": "Ustinov's Film Billy Budd, a Study in the Process of Adaption: Novel, to Play, to Film",
+   "author": "Friel, Joseph C",
+   "date": "1976",
+   "kind": "article",
+   "lang": "en",
+   "note": "Literature/Film Quarterly 4 (1976): 271-84. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "film",
+    "stage"
+   ]
+  },
+  {
    "id": "lib-1976-2",
    "title": "ビリー・バッド",
    "author": "坂下, 昇",
@@ -6392,6 +6822,32 @@
    ]
   },
   {
+   "id": "lib-mandell-1977-martyrs-murderers-defense",
+   "title": "Martyrs or Murderers? A Defense of Innocence",
+   "author": "Mandell, Marvin",
+   "date": "1977",
+   "kind": "article",
+   "lang": "en",
+   "note": "Midwest Quarterly: A Journal of Contemporary Thought 18 (1977): 131-43. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-garner-1977-melville-thomas-campbell",
+   "title": "Melville and Thomas Campbell: The 'Deadly Space between'",
+   "author": "Garner, Stanton",
+   "date": "1977",
+   "kind": "article",
+   "lang": "en",
+   "note": "English Language Notes 14 (1977): 289-90. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-gilmore-1977-melville-moby-dick",
    "title": "Melville: Moby-Dick; Israel Potter; \"Benito Cereno\"; Billy Budd",
    "author": "Gilmore, Michael T.",
@@ -6436,6 +6892,21 @@
    ]
   },
   {
+   "id": "lib-reed-1977-measured-forms-captain",
+   "title": "The Measured Forms of Captain Vere",
+   "author": "Reed, Walter L.",
+   "date": "1977",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern Fiction Studies 23, pp. 227-235. Seen in: Modern Fiction Studies vol. 23 index (Internet Archive).",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_modern-fiction-studies_1977_23_index",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
    "id": "lib-manlove-1978-organic-hesitancy-theme",
    "title": "An organic hesitancy: theme and style in Billy Budd",
    "author": "Manlove, C. N.",
@@ -6445,6 +6916,19 @@
    "note": "New perspectives on Melville, ed. Pullin, Faith (Kent State University Press, 1978).",
    "licence": "In copyright",
    "url": "https://id.lib.harvard.edu/alma/990007947040203941/catalog",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-obuchowski-1978-billy-budd-failure",
+   "title": "Billy Budd and the Failure of Art",
+   "author": "Obuchowski, Peter A",
+   "date": "1978",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Short Fiction 15 (1978): 445-52. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
    "tags": [
     "criticism"
    ]
@@ -6504,6 +6988,19 @@
     "criticism",
     "editing",
     "genetic-text"
+   ]
+  },
+  {
+   "id": "lib-garner-1978-fraud-fact-herman",
+   "title": "Fraud as Fact in Herman Melville's Billy Budd",
+   "author": "Garner, Stanton",
+   "date": "1978",
+   "kind": "article",
+   "lang": "en",
+   "note": "San Jose Studies 4.2 (1978): 82-105. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -6870,6 +7367,19 @@
    ]
   },
   {
+   "id": "lib-rubin-1980-billy-budd-what",
+   "title": "Billy Budd: What Goes on Behind Closed Doors?",
+   "author": "Rubin, Larry",
+   "date": "1980",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Imago 37 (1980): 65-67. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-gress-1980-herman-melville-paul",
    "title": "Herman Melville and Paul Tillich: An Ontological Interpretation of Billy Budd",
    "author": "Gress, Michael E.",
@@ -7014,6 +7524,35 @@
    ]
   },
   {
+   "id": "lib-holstein-1980-inside-role-biblical",
+   "title": "The 'inside' Role of Biblical Allusions in Melville's Billy Budd (an inside Narrative)",
+   "author": "Holstein, Jay A",
+   "date": "1980",
+   "kind": "article",
+   "lang": "en",
+   "note": "Rendezvous: Journal of Arts and Letters 15.2 (1980): 35-46. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "theology",
+    "narrative"
+   ]
+  },
+  {
+   "id": "lib-1980-lurch-torpedo-fish",
+   "title": "The \"Lurch of the Torpedo-Fish\": Electrical Concepts in Billy Budd",
+   "author": "",
+   "date": "1980",
+   "kind": "article",
+   "lang": "en",
+   "note": "ESQ 26, pp. 127-136. Author not recovered from the ESQ 26 contents snippet. Pages from a citation in another book on Internet Archive.",
+   "licence": "In copyright",
+   "url": "https://archive.org/details/sim_esq_1980_26_contents",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-adler-1981-billy-budd-melville",
    "title": "Billy Budd and Melville's philosophy of war and peace",
    "author": "Adler, Joyce Sparer",
@@ -7070,6 +7609,21 @@
    "tags": [
     "vere",
     "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-farnham-1981-captain-vere-s",
+   "title": "Captain Vere's Existential Failure",
+   "author": "Farnham, James F",
+   "date": "1981",
+   "kind": "article",
+   "lang": "en",
+   "note": "Arizona Quarterly 37.4 (1981): 362-70. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "philosophy",
+    "vere"
    ]
   },
   {
@@ -7174,6 +7728,20 @@
    ]
   },
   {
+   "id": "lib-hutchinson-1981-conflict-patriarchy-balanced",
+   "title": "The Conflict of Patriarchy and Balanced Sexual Principles in Billy Budd",
+   "author": "Hutchinson, George B",
+   "date": "1981",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in the Novel 13.4 (1981): 388-97. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "queer-reading"
+   ]
+  },
+  {
    "id": "lib-aytur-1981-meaning-billy-budd",
    "title": "THE MEANING OF BILLY BUDD",
    "author": "AYTÜR, Necla",
@@ -7231,6 +7799,20 @@
    ]
   },
   {
+   "id": "lib-thomas-1982-billy-budd-judgment",
+   "title": "Billy Budd and the Judgment of Silence",
+   "author": "Thomas, Brook",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "Bucknell Review 27.1 (1982): 51-78. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
    "id": "lib-whittall-1982-britten-albert-herring",
    "title": "Britten: From Albert Herring to Billy Budd (1947-51)",
    "author": "Whittall, Arnold",
@@ -7258,6 +7840,33 @@
    "tags": [
     "criticism",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-durer-1982-captain-vere-upper",
+   "title": "Captain Vere and Upper-Class Mores in Billy Budd",
+   "author": "Durer, Christopher S",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Short Fiction 19.1 (1982): 9-18. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "vere"
+   ]
+  },
+  {
+   "id": "lib-friederich-1982-comet-stars-cynosure",
+   "title": "Comet, Stars, and Cynosure: Billy Budd in a Symbolist Context",
+   "author": "Friederich, Reinhard H",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essays in Literature 9.2 (1982): 261-68. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -7306,6 +7915,19 @@
    ]
   },
   {
+   "id": "lib-harrison-1982-lowry-s-allusions",
+   "title": "Lowry's Allusions to Melville in 'Lunar Caustic'",
+   "author": "Harrison, Keith",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "Canadian Literature 94 (1982): 180-84. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-hurtgen-1982-melville-billy-budd",
    "title": "Melville: Billy Budd and the context of political rule",
    "author": "Hurtgen, James R.",
@@ -7329,6 +7951,19 @@
    "note": "The Explicator 40.2, pp. 2-3.",
    "licence": "In copyright",
    "url": "https://doi.org/10.1080/00144940.1982.9939358",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-lupack-1982-merlin-allusions-billy",
+   "title": "The Merlin Allusions in Billy Budd",
+   "author": "Lupack, Alan C",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Short Fiction 19.3 (1982): 277-78. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
    "tags": [
     "criticism"
    ]
@@ -7520,6 +8155,20 @@
    "tags": [
     "politics",
     "somers"
+   ]
+  },
+  {
+   "id": "lib-timmerman-1983-typology-biblical-consistency",
+   "title": "Typology and Biblical Consistency in Billy Budd",
+   "author": "Timmerman, John H",
+   "date": "1983",
+   "kind": "article",
+   "lang": "en",
+   "note": "Religion and Literature 15.1 (1983): 23-50. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "theology"
    ]
   },
   {
@@ -7720,6 +8369,19 @@
    ]
   },
   {
+   "id": "lib-wasserstrom-1984-melville-mannerist-form",
+   "title": "Melville the Mannerist: Form in the Short Fiction",
+   "author": "Wasserstrom, William",
+   "date": "1984",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Herman Melville: Reassessments. Ed. A. Robert Lee. Crit. Studies Ser. London; Totowa, NJ: Vision; Barnes & Noble, 1984. 135-56. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-kennedy-hewitt-1984-more-effective-than",
    "title": "More Effective Than Words: The Role of Non-Verbal Communication in Billy Budd",
    "author": "Kennedy Hewitt, Elizabeth",
@@ -7818,6 +8480,21 @@
     "law-and-literature",
     "vere",
     "trial"
+   ]
+  },
+  {
+   "id": "lib-thomas-1984-legal-fictions-herman",
+   "title": "The Legal Fictions of Herman Melville and Lemuel Shaw",
+   "author": "Thomas, Brook",
+   "date": "1984-09",
+   "kind": "article",
+   "lang": "en",
+   "note": "Critical Inquiry 11.1, pp. 24-51. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1086/448274",
+   "tags": [
+    "criticism",
+    "law-and-literature"
    ]
   },
   {
@@ -8075,6 +8752,19 @@
    ]
   },
   {
+   "id": "lib-garrison-1986-billy-budd-reconsideration",
+   "title": "Billy Budd: A Reconsideration",
+   "author": "Garrison, Joseph M., Jr",
+   "date": "1986",
+   "kind": "article",
+   "lang": "en",
+   "note": "Ball State University Forum 27.1 (1986): 30-41. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-martin-1986-billy-budd-but",
    "title": "Billy Budd: \"But for fate and ban\"",
    "author": "Martin, Robert K.",
@@ -8205,6 +8895,33 @@
    "tags": [
     "criticism",
     "narrative"
+   ]
+  },
+  {
+   "id": "lib-monteiro-1986-doubloon-trilling-s",
+   "title": "The Doubloon: Trilling's Melville Problem",
+   "author": "Monteiro, George",
+   "date": "1986-03",
+   "kind": "article",
+   "lang": "en",
+   "note": "Canadian Review of American Studies 17.1, pp. 27-34. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.3138/cras-017-01-02",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-markels-1986-liberal-bombast-billy",
+   "title": "The Liberal Bombast of Billy Budd",
+   "author": "Markels, Julian",
+   "date": "1986",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essays in Arts and Sciences 15 (1986): 43-58. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -8405,6 +9122,19 @@
    "note": "Collection of seven critical essays on Melville's shorter fiction, including Billy Budd and The Piazza Tales, edited with an introduction by Bloom.",
    "licence": "In copyright",
    "url": "https://lccn.loc.gov/86029960",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-milder-1987-melville-s-late",
+   "title": "Melville's Late Poetry and Billy Budd: From Nostalgia to Transcendence",
+   "author": "Milder, Robert",
+   "date": "1987",
+   "kind": "article",
+   "lang": "en",
+   "note": "Philological Quarterly 66.4 (1987): 493-507. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
    "tags": [
     "criticism"
    ]
@@ -8620,6 +9350,20 @@
    "tags": [
     "law-and-literature",
     "news"
+   ]
+  },
+  {
+   "id": "lib-radloff-1988-truth-indirection-possibility",
+   "title": "The Truth of Indirection and the Possibility of the Holy in Billy Budd",
+   "author": "Radloff, Bernhard",
+   "date": "1988",
+   "kind": "article",
+   "lang": "en",
+   "note": "Religion and Literature 20.3 (1988): 49-70. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "theology"
    ]
   },
   {
@@ -9029,6 +9773,20 @@
    ]
   },
   {
+   "id": "lib-larue-1989-paradox-interpretation",
+   "title": "Paradox and Interpretation",
+   "author": "LaRue, L. H.",
+   "date": "1989-03",
+   "kind": "article",
+   "lang": "en",
+   "note": "Law & Literature 1.1, pp. 97-108. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/1535685x.1989.11015645",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-tritter-1989-preface-symposium",
    "title": "Preface to the Symposium",
    "author": "Tritter, Daniel",
@@ -9169,6 +9927,20 @@
    "url": "https://cir.nii.ac.jp/crid/1520572357052155008",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-parker-1990-billy-budd-foretopman",
+   "title": "Billy Budd, Foretopman and the Dynamics of Canonization",
+   "author": "Parker, Hershel",
+   "date": "1990",
+   "kind": "article",
+   "lang": "en",
+   "note": "College Literature 17.1 (1990): 21-32. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "reception"
    ]
   },
   {
@@ -9475,6 +10247,20 @@
    "url": "https://id.lib.harvard.edu/alma/990024792820203941/catalog",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-howell-1991-early-late-deconstructions",
+   "title": "Early and Late Deconstructions: Nietzsche's Surviving Role in the Philosophy of Literature and Psychology",
+   "author": "Howell, Thomas J",
+   "date": "1991",
+   "kind": "article",
+   "lang": "en",
+   "note": "Literature and Psychology 37.3 (1991): 45-58. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "philosophy"
    ]
   },
   {
@@ -10101,6 +10887,19 @@
    ]
   },
   {
+   "id": "lib-yoder-1993-protagonists-rainbow-billy",
+   "title": "The Protagonists' Rainbow in Billy Budd: Critical Trimming of Truth's Ragged Edge",
+   "author": "Yoder, Jonathan A",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Transcendental Quarterly 7.2 (1993): 97-113. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-spender-1993-watching-billy-budd",
    "title": "Watching Billy Budd",
    "author": "Spender, Stephen",
@@ -10185,6 +10984,20 @@
    "url": "https://id.lib.harvard.edu/alma/990050516270203941/catalog",
    "tags": [
     "reception"
+   ]
+  },
+  {
+   "id": "lib-sedgwick-1994-billy-budd-after",
+   "title": "Billy Budd: After the Homosexual",
+   "author": "Sedgwick, Eve Kosofsky",
+   "date": "1994",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Herman Melville: A Collection of Critical Essays. Ed. Myra Jehlen. New Century Views. Englewood Cliffs, NJ: Prentice Hall, 1994. 217-34. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "queer-reading"
    ]
   },
   {
@@ -10416,6 +11229,19 @@
    "url": "https://core.ac.uk/works/68500114",
    "tags": [
     "britten"
+   ]
+  },
+  {
+   "id": "lib-hocks-1994-melville-rise-realism",
+   "title": "Melville and 'the Rise of Realism': The Dilemma of History in Billy Budd",
+   "author": "Hocks, Richard A",
+   "date": "1994",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literary Realism 26.2 (1994): 60-81. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -10948,6 +11774,20 @@
     "criticism",
     "genetic-text",
     "comparative"
+   ]
+  },
+  {
+   "id": "lib-hendershot-1996-revolution-femininity-sentimentality",
+   "title": "Revolution, Femininity, and Sentimentality in Billy Budd, Sailor",
+   "author": "Hendershot, Cyndy",
+   "date": "1996",
+   "kind": "article",
+   "lang": "en",
+   "note": "North Dakota Quarterly 63.1 (1996): 99-113. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "politics"
    ]
   },
   {
@@ -11652,6 +12492,20 @@
    ]
   },
   {
+   "id": "lib-westover-1998-impressments-billy-budd",
+   "title": "The Impressments of Billy Budd",
+   "author": "Westover, Jeff",
+   "date": "1998",
+   "kind": "article",
+   "lang": "en",
+   "note": "Massachusetts Review 39.3 (1998): 361-84. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "naval-history"
+   ]
+  },
+  {
    "id": "lib-mizruchi-1998-science-sacrifice-american",
    "title": "The science of sacrifice: American literature and modern social theory",
    "author": "Mizruchi, Susan L. (Susan Laura)",
@@ -11916,6 +12770,21 @@
    ]
   },
   {
+   "id": "lib-garner-1999-naples-hms-bellipotent",
+   "title": "Naples and HMS Bellipotent: Melville on the Police State",
+   "author": "Garner, Stanton",
+   "date": "1999-10",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan: A Journal of Melville Studies 1.2, pp. 53-61.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.1999.tb00016.x",
+   "tags": [
+    "criticism",
+    "politics"
+   ]
+  },
+  {
    "id": "lib-budd-1999-power-chance-rule",
    "title": "Power, chance and the rule of law – Billy Budd, Sailor",
    "author": "Budd, Billy",
@@ -11972,6 +12841,20 @@
    "url": "https://id.lib.harvard.edu/alma/990081888870203941/catalog",
    "tags": [
     "law-and-literature"
+   ]
+  },
+  {
+   "id": "lib-smock-1999-tongue-tied-blanchot",
+   "title": "Tongue-Tied: Blanchot, Melville, Des Forets",
+   "author": "Smock, Ann",
+   "date": "1999-12",
+   "kind": "article",
+   "lang": "en",
+   "note": "MLN 114.5, pp. 1037-1061. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mln.1999.0081",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -12804,6 +13687,20 @@
    ]
   },
   {
+   "id": "lib-scorza-2002-inside-narrative",
+   "title": "An inside Narrative",
+   "author": "Scorza, Thomas J",
+   "date": "2002",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Melville's Short Novels: Authoritative Texts, Contexts, Criticism. Ed. Dan McCall: Norton, New York, NY pp. 371-74, 2002. ix, 408. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "narrative"
+   ]
+  },
+  {
    "id": "lib-daub-2002-biblical-parallels-herman",
    "title": "Biblical parallels in Herman Melville's Billy Budd, Sailor: An Inside Narrative",
    "author": "Daub, Eva",
@@ -12900,6 +13797,21 @@
    "tags": [
     "opera",
     "britten"
+   ]
+  },
+  {
+   "id": "lib-parker-2002-plot-billy-budd",
+   "title": "From the Plot of Billy Budd and the Politics of Interpreting It",
+   "author": "Parker, Hershel",
+   "date": "2002",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Melville's Short Novels: Authoritative Texts, Contexts, Criticism. Ed. Dan McCall: Norton, New York, NY pp. 341-42, 2002. ix, 408. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "politics",
+    "narrative"
    ]
   },
   {
@@ -13179,6 +14091,20 @@
    ]
   },
   {
+   "id": "lib-teskey-2002-bible-billy-budd",
+   "title": "The Bible in Billy Budd",
+   "author": "Teskey, Gordon",
+   "date": "2002",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Melville's Short Novels: Authoritative Texts, Contexts, Criticism. Ed. Dan McCall: Norton, New York, NY pp. 375-96, 2002. ix, 408. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "theology"
+   ]
+  },
+  {
    "id": "lib-bryant-2002-fluid-text-theory",
    "title": "The Fluid Text: A Theory of Revision and Editing for Book and Screen",
    "author": "Bryant, John",
@@ -13402,6 +14328,20 @@
    "tags": [
     "criticism",
     "opera"
+   ]
+  },
+  {
+   "id": "lib-greven-2003-flesh-word-billy",
+   "title": "Flesh in the Word: Billy Budd, Sailor, Compulsory Homosociality, and the Uses of Queer Desire",
+   "author": "Greven, David",
+   "date": "2003",
+   "kind": "article",
+   "lang": "en",
+   "note": "Genders 37 (2003): 57. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "queer-reading"
    ]
   },
   {
@@ -19736,6 +20676,20 @@
    ]
   },
   {
+   "id": "lib-ohge-2017-melville-s-late",
+   "title": "Melville's Late Reading and the Revisions in the Billy Budd Manuscript",
+   "author": "Ohge, Christopher",
+   "date": "2017",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "in Brian Yothers, ed., Critical Insights: Billy Budd, Sailor (Salem), pp. 93-111. On late-stage manuscript revisions and Melville's reading of Schopenhauer. Seen in: Works Cited in Ohge, Melville Incomplete (2019).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "genetic-text"
+   ]
+  },
+  {
    "id": "lib-sturniolo-2017-memorable-representacion-billy",
    "title": "Memorable representación de \"Billy Budd\" en el Real",
    "author": "Sturniolo, Norma",
@@ -19868,6 +20822,20 @@
    "tags": [
     "criticism",
     "comparative"
+   ]
+  },
+  {
+   "id": "lib-kelley-2017-this-matter-writing",
+   "title": "\"This Matter of Writing\": Melville and the Manuscript Page",
+   "author": "Kelley, Wyn",
+   "date": "2017",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "in Brian Yothers, ed., Critical Insights: Billy Budd, Sailor (Salem), pp. 128-146. Chapter on the manuscript page, in a volume on Billy Budd, Sailor. Seen in: Works Cited in Ohge, Melville Incomplete (2019).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "genetic-text"
    ]
   },
   {
@@ -20025,6 +20993,23 @@
    "tags": [
     "law-and-literature",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-miranda-2018-place-subjectivity-moral",
+   "title": "A Place for Subjectivity in Moral Judgments and Moral Actions",
+   "author": "Miranda, Evelina Orteza y",
+   "date": "2018-05",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of Educational Thought / Revue de la Pensée Educative 28.1, pp. 102-121. Applies Nisan's moral balance model to moral judgment in Billy Budd.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.55016/ojs/jet.v28i1.52351",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "philosophy",
+    "pedagogy"
    ]
   },
   {
@@ -26552,6 +27537,20 @@
    ]
   },
   {
+   "id": "lib-kelly-claggart-s-equivocal",
+   "title": "Claggart's 'Equivocal Words' and Lamb's 'Popular Fallacies'",
+   "author": "Kelly, Michael J.",
+   "date": "",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in Short Fiction. Note on Claggart's words in Billy Budd. Seen in: Studies in Short Fiction cumulative index 1963-1983 and Boswell checklist item 1503 (Internet Archive).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "claggart"
+   ]
+  },
+  {
    "id": "lib-coffler-classical-iconography-billy",
    "title": "Classical Iconography in Billy Budd, Sailor: The Apollo and the Antinous",
    "author": "Coffler, Gail",
@@ -26682,6 +27681,20 @@
    "url": "https://doi.org/10.2307/j.ctv47w6f0.11",
    "tags": [
     "criticism"
+   ]
+  },
+  {
+   "id": "lib-mcwilliams-innocent-criminal-criminal",
+   "title": "Innocent Criminal or Criminal Innocence: The Trial in American Fiction",
+   "author": "McWilliams, John P., Jr",
+   "date": "",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Law and American Literature: A Collection of Essays. Ed. Carl S.--McWilliams. Listed in Donna Campbell's selected bibliography of secondary work on Billy Budd (Washington State University).",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "law-and-literature"
    ]
   },
   {
@@ -27106,6 +28119,21 @@
    "note": "Digital edition of Billy Budd: manuscript leaf images, diplomatic transcriptions, base version with emendations, reading text and revision annotations. No licence statement on the page.",
    "licence": "No licence stated; free to read",
    "url": "https://melville.electroniclibrary.org/versions-of-billy-budd",
+   "tags": [
+    "genetic-text",
+    "editing"
+   ]
+  },
+  {
+   "id": "lib-bryant-versions-billy-budd",
+   "title": "Versions of Billy Budd: Editors' Note",
+   "author": "Bryant, John; Kelley, Wyn; Ohge, Christopher",
+   "date": "",
+   "kind": "webpage",
+   "lang": "en",
+   "note": "Melville Electronic Library. Editorial note to the Melville Electronic Library fluid-text edition of Billy Budd, built on the 362 manuscript leaves at Houghton Library and following Bryant's The Fluid Text.",
+   "licence": "No licence stated; free to read",
+   "url": "https://mel.netlify.app/editions/versions-of-billy-budd/editors-note",
    "tags": [
     "genetic-text",
     "editing"
