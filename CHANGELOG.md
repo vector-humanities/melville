@@ -2,7 +2,7 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
-## Unreleased (0.4.0)
+## 0.4.0 (2026-11-07)
 
 - **The Library adds 1,621 works** whose full text, in OpenAlex's index, names *Billy Budd*. They are Minimal: how much each says is not known, and none has been read for the Library. Linked, not held.
 - **The group's ratings, Key work marks and tags for every reader:** `library/group.json`, written once a day from the group by `.github/workflows/library-snapshot.yml` (no note text, and not who did what).
@@ -10,7 +10,7 @@ Changes to the research bench. The bench keeps its own version numbers, raised b
 - **The Library:** the full notes restored on the first 90 entries, which had been cut to their first sentence, so that an entry such as Arendt’s *On Revolution* now says where it treats *Billy Budd*.
 - **Arendt's *On Revolution*:** its note checked against the text, with a page-by-page guide to where she treats *Billy Budd*.
 - **The annotation group is set:** Melville’s Hypothesis group, M44ADKap. With a member’s token, an entry in the Library shows ratings, the Key work button and tags, and annotations are shared.
-- **On bench-kit 1.8.6,** with a Relevance drop-down in an entry’s box for members of the group. The Library opens By relevance, with a Relevance filter and a line in each entry's box. Eight works are Essential (Hayford and Sealts, MEL's edition, Weaver 1924, Parker, Johnson, Sedgwick, Cover, Arendt); works on *Billy Budd* are High; a section on it, and the sources and naval history around it, are Medium; passing mentions are Low; works not read are Not Checked. Books gain covers as they are found, matched to the edition (held small in `library/thumbs/`).
+- **On bench-kit 1.8.7,** with a Relevance drop-down in an entry’s box for members of the group. The Library opens By relevance, with a Relevance filter and a line in each entry's box. Eight works are Essential (Hayford and Sealts, MEL's edition, Weaver 1924, Parker, Johnson, Sedgwick, Cover, Arendt); works on *Billy Budd* are High; a section on it, and the sources and naval history around it, are Medium; passing mentions are Low; works not read are Not Checked. Books gain covers as they are found, matched to the edition (held small in `library/thumbs/`).
 
 ## 0.3.23 (2026-11-07)
 
