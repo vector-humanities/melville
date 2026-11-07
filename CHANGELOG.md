@@ -2,8 +2,9 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
-## Unreleased (0.3.20)
+## 0.3.20 (2026-11-07)
 
+- **The Library grows:** 2066 texts (+5), 72 of them held (+0), from the search of the literature on *Billy Budd* under way since 6 November.
 - **The Library:** a thesis taken off the public shelf whose scan reserves its rights (Canfield 1951). An index's licence no longer holds a file unless the publisher's page shows it too.
 
 ## 0.3.19 (2026-11-07)

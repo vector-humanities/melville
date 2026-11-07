@@ -1228,6 +1228,19 @@
    ]
   },
   {
+   "id": "lib-reed-1947-books-general-billy",
+   "title": "Books in General: Billy Budd",
+   "author": "Reed, Henry",
+   "date": "1947-05-31",
+   "kind": "review",
+   "lang": "en",
+   "note": "New Statesman and Nation, p. 397. Critical column on Billy Budd, listed in Boswell's checklist.",
+   "licence": "In copyright",
+   "tags": [
+    "reception"
+   ]
+  },
+  {
    "id": "lib-agate-1947-its-seams-burst",
    "title": "Its seams burst with grandeur: \"Billy Budd,\" by Herman Melville",
    "author": "Agate, James",
@@ -5989,6 +6002,20 @@
    ]
   },
   {
+   "id": "lib-miller-1970-but-laugh-comparison",
+   "title": "But Laugh or Die: A Comparison of The Mysterious Stranger and Billy Budd",
+   "author": "Miller, Ruth",
+   "date": "1970",
+   "kind": "article",
+   "lang": "en",
+   "note": "Literary Half-Yearly 11.1, pp. 25-29. Seen in: Leary, Articles on American Literature, and Melville Society Extracts 71 (1987), p. 6.",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "comparative"
+   ]
+  },
+  {
    "id": "lib-miller-1970-but-laugh-mysterious",
    "title": "But Laugh or Die: The Mysterious Stranger and Billy Budd",
    "author": "Miller, Ruth",
@@ -6114,6 +6141,20 @@
     "casebook",
     "revival",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-dew-1970-prudent-captain-vere",
+   "title": "The Prudent Captain Vere",
+   "author": "Dew, Marjorie",
+   "date": "1970",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Transcendental Quarterly 7 (Melville number). On the theme of prudence in Captain Vere. Listed in the contents of the special number as reported in Melville Society Extracts 6 (1970), p. 4.",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "vere"
    ]
   },
   {
@@ -6294,6 +6335,20 @@
    "tags": [
     "criticism",
     "casebook"
+   ]
+  },
+  {
+   "id": "lib-cameron-1972-another-newspaper-anticipation",
+   "title": "Another Newspaper Anticipation of Billy Budd",
+   "author": "Cameron, Kenneth Walter",
+   "date": "1972",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Transcendental Quarterly 14, pp. 167-168. Note on a newspaper item anticipating Billy Budd.",
+   "licence": "In copyright",
+   "tags": [
+    "criticism",
+    "reception"
    ]
   },
   {
@@ -6594,6 +6649,22 @@
    "tags": [
     "criticism",
     "narrative"
+   ]
+  },
+  {
+   "id": "lib-1973-two-notes-billy",
+   "title": "Two Notes on Billy Budd",
+   "author": "",
+   "date": "1973-04",
+   "kind": "article",
+   "lang": "en",
+   "note": "Melville Society Extracts 14, pp. 8-10. Glosses nautical phrases: \"the King's yarn\" in Chapter 7 (citing Leaf 86 of Hayford-Sealts) and \"jewel-block\" in \"Billy in the Darbies\". OCR did not recover a signature.",
+   "licence": "No licence stated; free to read",
+   "url": "https://sites.hofstra.edu/melville-society-extracts/wp-content/uploads/sites/96/2020/01/Melville-Extracts_014.pdf",
+   "tags": [
+    "criticism",
+    "naval-history",
+    "genetic-text"
    ]
   },
   {
