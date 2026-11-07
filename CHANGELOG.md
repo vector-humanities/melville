@@ -4,7 +4,7 @@ Changes to the research bench. The bench keeps its own version numbers, raised b
 
 ## Unreleased (0.3.24)
 
-- **On bench-kit 1.7.0.** The Library opens in order of relevance: works on *Billy Budd*, then works with a section on it, then passing mentions and the sources around it, with works not read last. Each entry carries the tag. Books gain covers as they are found, matched to the edition (held small in `library/thumbs/`).
+- **On bench-kit 1.8.0.** The Library opens By relevance, with a Relevance filter and a line in each entry's box: works on *Billy Budd*, then works with a section on it, then passing mentions and the sources around it, with works not read last. Books gain covers as they are found, matched to the edition (held small in `library/thumbs/`).
 
 ## 0.3.23 (2026-11-07)
 
