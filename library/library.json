@@ -7677,7 +7677,8 @@
     "reception",
     "editing"
    ],
-   "relevance": "about"
+   "relevance": "about",
+   "thumb": "library/thumbs/lib-johnston-2024-melville-s-billy-2.jpg"
   },
   {
    "id": "lib-johnston-2024-melville-s-billy",
@@ -7744,7 +7745,8 @@
     "race",
     "criticism"
    ],
-   "relevance": "about"
+   "relevance": "about",
+   "thumb": "library/thumbs/lib-jorif-2009-how-slave-narratives.jpg"
   },
   {
    "id": "lib-jouve-1952-wozzeck-argument-d",
@@ -11446,7 +11448,8 @@
    "tags": [
     "editing"
    ],
-   "relevance": "about"
+   "relevance": "about",
+   "thumb": "library/thumbs/lib-melville-2009-billy-budd-other.jpg"
   },
   {
    "id": "lib-melville-2011-el-mariner-billy",
@@ -11461,7 +11464,8 @@
    "tags": [
     "translation"
    ],
-   "relevance": "about"
+   "relevance": "about",
+   "thumb": "library/thumbs/lib-melville-2011-el-mariner-billy.jpg"
   },
   {
    "id": "lib-melville-2012-billy-budd-groen",
@@ -11532,7 +11536,8 @@
    "tags": [
     "editing"
    ],
-   "relevance": "about"
+   "relevance": "about",
+   "thumb": "library/thumbs/lib-melville-2016-billy-budd-bartleby.jpg"
   },
   {
    "id": "lib-melville-2016-billy-budd-sailor",
@@ -11579,7 +11584,8 @@
     "northwestern-newberry",
     "hayford-sealts"
    ],
-   "relevance": "about"
+   "relevance": "about",
+   "thumb": "library/thumbs/lib-melville-2017-billy-budd-sailor.jpg"
   },
   {
    "id": "lib-melville-2018-billy-budd-sailor",
@@ -22995,7 +23001,8 @@
    "tags": [
     "translation"
    ],
-   "relevance": "about"
+   "relevance": "about",
+   "thumb": "library/thumbs/lib-2005-billy-budd-marinheiro.jpg"
   },
   {
    "id": "lib-2006-billy-budd-marinaio",
@@ -27155,7 +27162,8 @@
    "tags": [
     "pedagogy"
    ],
-   "relevance": "section"
+   "relevance": "section",
+   "thumb": "library/thumbs/lib-hayes-2007-cambridge-introduction-herman.jpg"
   },
   {
    "id": "lib-hayford-1989-commentary-text-growth",
@@ -28164,7 +28172,8 @@
     "race",
     "empire"
    ],
-   "relevance": "section"
+   "relevance": "section",
+   "thumb": "library/thumbs/lib-perez-2015-taste-brown-bodies.jpg"
   },
   {
    "id": "lib-quirk-1991-judge-dragged-bar",
@@ -30077,7 +30086,8 @@
    "tags": [
     "philosophy"
    ],
-   "relevance": "mention"
+   "relevance": "mention",
+   "thumb": "library/thumbs/lib-grant-2011-search-goodness.jpg"
   },
   {
    "id": "lib-greiman-2016-melville-dark-ages",
@@ -30126,7 +30136,8 @@
     "politics",
     "queer-reading"
    ],
-   "relevance": "mention"
+   "relevance": "mention",
+   "thumb": "library/thumbs/lib-harris-2005-e-pluribus-unum.jpg"
   },
   {
    "id": "lib-haydock-2017-melville-s-intervisionary",
@@ -30903,7 +30914,8 @@
    "tags": [
     "criticism"
    ],
-   "relevance": "mention"
+   "relevance": "mention",
+   "thumb": "library/thumbs/lib-milder-2006-exiled-royalties-melville.jpg"
   },
   {
    "id": "lib-miranda-2018-place-subjectivity-moral",
@@ -31454,7 +31466,8 @@
     "politics",
     "race"
    ],
-   "relevance": "mention"
+   "relevance": "mention",
+   "thumb": "library/thumbs/lib-reynolds-2011-righteous-violence-revolution.jpg"
   },
   {
    "id": "lib-richards-2016-literature-resisting-injustice",
@@ -31525,7 +31538,8 @@
    "tags": [
     "criticism"
    ],
-   "relevance": "mention"
+   "relevance": "mention",
+   "thumb": "library/thumbs/lib-sanborn-2018-value-herman-melville.jpg"
   },
   {
    "id": "lib-santelli-1960-matelot-nulle-part",
@@ -32102,7 +32116,8 @@
     "race",
     "naval-history"
    ],
-   "relevance": "mention"
+   "relevance": "mention",
+   "thumb": "library/thumbs/lib-warren-2019-fire-water.jpg"
   },
   {
    "id": "lib-warren-2024-ghost-anacharsis-cloots",
@@ -32794,7 +32809,8 @@
     "film",
     "beau-travail"
    ],
-   "relevance": "unread"
+   "relevance": "unread",
+   "thumb": "library/thumbs/lib-beugnet-2019-claire-denis.jpg"
   },
   {
    "id": "lib-boone-1986-male-independence-american",
@@ -32859,7 +32875,8 @@
     "philosophy",
     "comparative"
    ],
-   "relevance": "unread"
+   "relevance": "unread",
+   "thumb": "library/thumbs/lib-claviez-2008-aesthetics-ethics-otherness.jpg"
   },
   {
    "id": "lib-delgado-2023-curse-somers-secret",
