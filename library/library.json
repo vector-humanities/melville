@@ -1946,15 +1946,13 @@
    "kind": "thesis",
    "lang": "en",
    "note": "uO Research (University of Ottawa). University of Ottawa thesis on Melville's vision of conflict, whose abstract names Billy Budd.",
-   "licence": "Public domain",
+   "licence": "Repository copy marked Copyright 2011 by ProQuest LLC; free to read",
    "url": "https://doi.org/10.20381/ruor-8939",
    "tags": [
     "criticism",
     "philosophy",
     "comparative"
-   ],
-   "file": "library/files/lib-canfield-1951-herman-melville-s.pdf",
-   "source": "OpenAlex best_oa_location.license; held from 2026-11-07"
+   ]
   },
   {
    "id": "lib-crozier-1951-how-billy-budd",
@@ -20872,13 +20870,13 @@
    "kind": "article",
    "lang": "en",
    "note": "Review of International American Studies 7.1. On the sea as a space of maturation in American literature, with Delano and Billy Budd as naive heroes.",
-   "licence": "CC BY-SA",
+   "licence": "CC BY-SA 4.0",
    "url": "https://journals.us.edu.pl/index.php/RIAS/article/view/4043",
    "tags": [
     "criticism"
    ],
    "file": "library/files/lib-fruzinska-2014-young-men-sea.pdf",
-   "source": "OpenAlex best_oa_location.license; held from 2026-11-07"
+   "source": "Licence confirmed at the journal, 2026-11-07"
   },
   {
    "id": "lib-wendel-2014-unjust-laws-legal",
