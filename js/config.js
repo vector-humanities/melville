@@ -129,7 +129,7 @@
     paratexts: { org: 'vector-humanities', repo: 'melville_paratexts', cache: 'melville-paratexts' },   // a private repository (made 2026-11-05)
     // the Library (kit/library.js): texts for wider reading, public, from library/library.json; the public-domain
     // texts are held in library/files/, the rest are records with a link out
-    library: { order: 'listed', card: { description: 'Texts for wider reading on Herman Melville’s Billy Budd: the editions, its sources and naval history, the Somers affair, Melville’s reading, the criticism and the adaptations.' } },
+    library: { order: 'listed', snapshot: true, card: { description: 'Texts for wider reading on Herman Melville’s Billy Budd: the editions, its sources and naval history, the Somers affair, Melville’s reading, the criticism and the adaptations.' } },
     examples: { date: 'e.g. 1888-11-16, or 1888', archive: 'e.g. Houghton Library', versions: 'e.g. ms-final, mel-rt',
                 refs: 'e.g. [REF: BB-RT, chapter-1.xml:12]', publisher: 'e.g. University of Chicago Press', finding: 'F1' },
     stemma: { root: 'ms-first', lostBetween: {}, skip: [], lostOnTrunk: false },
