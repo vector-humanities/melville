@@ -2,7 +2,7 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
-## Unreleased (0.3.39)
+## Unreleased (0.4.0)
 
 - **The Library adds 1,621 works** whose full text, in OpenAlex's index, names *Billy Budd*. They are Minimal: how much each says is not known, and none has been read for the Library. Linked, not held.
 - **The group's ratings, Key work marks and tags for every reader:** `library/group.json`, written once a day from the group by `.github/workflows/library-snapshot.yml` (no note text, and not who did what).
