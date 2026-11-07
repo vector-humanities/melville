@@ -3116,6 +3116,21 @@
    "relevance": "high"
   },
   {
+   "id": "lib-j-colquhoun-1993-importance-supportive-environment",
+   "title": "The importance of a supportive environment for educational involvement: Billy Budd's perspective",
+   "author": "J Colquhoun",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "CommonKnowledge Research Repository (Pacific University Oregon). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W2922467009",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
    "id": "lib-columbus-1992-don-t-call",
    "title": "Don't call me Billy Budd",
    "author": "Columbus, Peter J.",
@@ -4138,6 +4153,21 @@
    "shelf": "private",
    "file": "library/lib-dolin-1994-sanctioned-irregularities-martial.pdf",
    "source": "uowoajournals.org, saved 2026-11-07",
+   "relevance": "high"
+  },
+  {
+   "id": "lib-kirk-dombrowski-2002-billy-budd-choker",
+   "title": "Billy Budd, Choker-Setter: Native Culture and Indian Work in the Southeast Alaska Timber Industry",
+   "author": "Kirk Dombrowski",
+   "date": "2002",
+   "kind": "article",
+   "lang": "en",
+   "note": "International Labor and Working-Class History. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0147547902000273",
+   "tags": [
+    "openalex-abstract"
+   ],
    "relevance": "high"
   },
   {
@@ -5838,6 +5868,21 @@
    "relevance": "high"
   },
   {
+   "id": "lib-lillian-n-1974-slj-s-1974",
+   "title": "SLJ's 1974 Huckleberry Finn Pin and Billy Budd Button Awards.",
+   "author": "Lillian N. Gerhardt",
+   "date": "1974",
+   "kind": "article",
+   "lang": "en",
+   "note": "School library journal. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W6770060",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
    "id": "lib-ghimire-2011-power-politics-unveiling",
    "title": "Power politics: unveiling political incongruities in Herman Melville’s Billy Budd",
    "author": "Ghimire, Babu Ram",
@@ -6443,6 +6488,21 @@
    ],
    "file": "library/files/lib-goyenechea-2025-arendt-y-el.pdf",
    "source": "Crossref license field (https://creativecommons.org/licenses/by/4.0); held from 2026-11-06",
+   "relevance": "high"
+  },
+  {
+   "id": "lib-andrew-l-1991-janet-reno-ishmael",
+   "title": "Janet Reno, Ishmael Alone Survived (Lewisburg: Bucknell University Press; London & Toronto: Associated University Presses, 1990, £22). Pp. 171. ISBN 0 8387 5171 7. - Peter J. Bellis, No Mysteries Out of Ourselves (Philadelphia: University of Pennsylvania Press, 1990, £30.35). Pp. 222. ISBN 0 8122 8229 9. - Hershel Parker, Reading Billy Budd (Evanston, Ill.: Northwestern University Press, 1990, $29.95 cloth, $12.95 paper). Pp. 190. ISBN 0 8101 0962 X.",
+   "author": "Andrew L. Graham",
+   "date": "1991",
+   "kind": "review",
+   "lang": "en",
+   "note": "Journal of American Studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0021875800034691",
+   "tags": [
+    "openalex-abstract"
+   ],
    "relevance": "high"
   },
   {
@@ -7415,6 +7475,21 @@
    "url": "https://id.lib.harvard.edu/alma/990115704980203941/catalog",
    "tags": [
     "criticism"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-leon-howard-1963-billy-budd-sailor",
+   "title": ": Billy Budd, Sailor . Harrison Hayford, Merton M. Sealts, Jr..",
+   "author": "Leon Howard",
+   "date": "1963",
+   "kind": "article",
+   "lang": "en",
+   "note": "Nineteenth-Century Fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1525/ncl.1963.17.4.99p0159a",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "high"
   },
@@ -11662,6 +11737,21 @@
    "thumb": "library/thumbs/lib-melville-2017-billy-budd-sailor.jpg"
   },
   {
+   "id": "lib-herman-melville-2017-billy-budd-sailor",
+   "title": "Billy Budd, sailor and other uncompleted writings : Billy Budd, sailor, Weeds and wildings, Parthenope, uncollected prose, uncollected poetry",
+   "author": "Herman Melville; Harrison Hayford; Hershel Parker",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W3047409561",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
    "id": "lib-melville-2018-billy-budd-sailor",
    "title": "Billy Budd, Sailor (audiobook, Enriched Classics)",
    "author": "Melville, Herman",
@@ -12942,6 +13032,51 @@
    "url": "https://doi.org/10.1080/08957690309598185",
    "tags": [
     "criticism"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-jack-neher-1973-be-growing-older",
+   "title": "TO BE GROWING OLDER (13½ minutes, color, 1973). Available from Billy Budd Films, 235 East 57th Street, New York, New York. Purchase, $175; rental, $17.50",
+   "author": "Jack Neher",
+   "date": "1973",
+   "kind": "article",
+   "lang": "en",
+   "note": "Psychiatric Services. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1176/ps.24.12.849",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-jack-neher-1975-be-aware-death",
+   "title": "TO BE AWARE OF DEATH (20 minutes, color, 1974). Produced by and available from Billy Budd Films, 235 East 57th Street, New York, New York 10022. Purchase, $75; rental $17.50",
+   "author": "Jack Neher",
+   "date": "1975",
+   "kind": "article",
+   "lang": "en",
+   "note": "Psychiatric Services. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1176/ps.26.6.386-b",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-jack-neher-1980-legacy-4-minutes",
+   "title": "LEGACY (4 minutes, color, animation, 16 mm, 1979). Made by Will Vinton. Distributed by Billy Budd, 235 East 57th Street, New York, New York 10022. Purchase, $100; contact distributor for rental fee",
+   "author": "Jack Neher",
+   "date": "1980",
+   "kind": "article",
+   "lang": "en",
+   "note": "Psychiatric Services. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1176/ps.31.4.280",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "high"
   },
@@ -16989,6 +17124,21 @@
    "relevance": "high"
   },
   {
+   "id": "lib-c-s-1981-rowland-sherill-prophetic",
+   "title": "Rowland A. Sherill, The Prophetic Melville: Experience, Transcendence, and Tragedy (Athens, Georgia: The University of Georgia Press, 1979, $17.00). Pp. xii, 269. - Thomas J. Scorza, In the Time Before Steamships: Billy Budd, The Limits of Politics, And Modernity (DeKalb, Illinois: Northern Illinois Univ. Press, 1979, $15.00). Pp. xix, 210. - Carolyn L. Karcher, Shadow Over the Promised Land: Slavery, Race, and Violence in Melville's America (Baton Rouge and London: Louisiana State Univ. Press, 1980, $8.95 paperback). Pp. xiv, 327.",
+   "author": "C. S. B. Swann",
+   "date": "1981",
+   "kind": "review",
+   "lang": "en",
+   "note": "Journal of American Studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0021875800008549",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
    "id": "lib-swartzburg-1989-bound-vary-guild",
    "title": "BOUND TO VARY: A GUILD OF BOOK WORKERS EXHIBITION OF UNIQUE FINE BINDINGS ON THE MARRIED METTLE PRESS LIMITED EDITION OF \"BILLY BUDD, SAILOR\" .",
    "author": "Swartzburg, Susan G.",
@@ -17230,6 +17380,36 @@
    "url": "https://doi.org/10.1080/1535685x.2026.2707772",
    "tags": [
     "criticism"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-lawrence-s-1924-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Lawrence S. Thompson; Herman Melville; Harrison Hayford; Merton M. Sealts",
+   "date": "1924",
+   "kind": "book",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W1975500875",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-lawrence-thompson-1964-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Lawrence Thompson; Herman Melville; Harrison Hayford; Merton M. Sealts",
+   "date": "1964",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2923505",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "high"
   },
@@ -17711,6 +17891,21 @@
    "url": "https://doi.org/10.1353/pan.2018.0011",
    "tags": [
     "criticism"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-van-vechten-1951-portrait-charles-nolte",
+   "title": "[Portrait of Charles Nolte, as Billy Budd]",
+   "author": "Van Vechten; Carl Friddle; photographer",
+   "date": "1951",
+   "kind": "other",
+   "lang": "en",
+   "note": "Library of Congress eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W3217462484",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "high"
   },
@@ -18580,6 +18775,21 @@
    "url": "https://id.lib.harvard.edu/alma/990017343180203941/catalog",
    "tags": [
     "criticism"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-stanley-thomas-1949-melville-s-billy",
+   "title": "Melville's Billy Budd.",
+   "author": "Stanley Thomas Williams; F. Barron Freeman",
+   "date": "1949",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2921263",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "high"
   },
@@ -19706,6 +19916,21 @@
    "relevance": "high"
   },
   {
+   "id": "lib-2026-billy-budd-pdf",
+   "title": "美式书比利·巴德(Billy Budd).pdf",
+   "author": "叶兴阳双语音标有声读物",
+   "date": "2026",
+   "kind": "book",
+   "lang": "en",
+   "note": "Zenodo (CERN European Organization for Nuclear Research). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY (OpenAlex)",
+   "url": "https://doi.org/10.5281/zenodo.20996863",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
    "id": "lib-2026-billy-budd-pdf-2",
    "title": "英式书比利·巴德(Billy Budd).pdf",
    "author": "叶兴阳双语音标有声读物",
@@ -20166,6 +20391,21 @@
    "shelf": "private",
    "file": "library/lib-1959-melville-billy-budd.pdf",
    "source": "jstage.jst.go.jp, saved 2026-11-07",
+   "relevance": "high"
+  },
+  {
+   "id": "lib-1975-billy-budd-melville",
+   "title": "On Billy Budd : Melvilleの人生観について",
+   "author": "雅夫 岡本",
+   "date": "1975",
+   "kind": "article",
+   "lang": "ja",
+   "note": "Institutional Repositories DataBase (IRDB). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W628848362",
+   "tags": [
+    "openalex-abstract"
+   ],
    "relevance": "high"
   },
   {
@@ -21993,6 +22233,21 @@
    "relevance": "high"
   },
   {
+   "id": "lib-1951-billy-budd-synopsis",
+   "title": "Billy Budd: A Synopsis",
+   "author": "",
+   "date": "1951",
+   "kind": "article",
+   "lang": "en",
+   "note": "Tempo. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0040298200054887",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
    "id": "lib-1951-billy-budd-broadway-2",
    "title": "Billy Budd (Broadway, Biltmore Theatre, 1951)",
    "author": "",
@@ -22579,6 +22834,21 @@
    "relevance": "high"
   },
   {
+   "id": "lib-1971-holy-smoke-8",
+   "title": "HOLY SMOKE (8 minutes, color, 1971). Produced by Billy Budd Films, 235 East 57th Street, New York, New York 10022. Rental, $15; purchase, $95",
+   "author": "",
+   "date": "1971",
+   "kind": "article",
+   "lang": "en",
+   "note": "Psychiatric Services. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1176/ps.22.12.384",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "high"
+  },
+  {
    "id": "lib-1973-billy-budd-al",
    "title": "\"Billy Budd\" al Comunale di Bologna",
    "author": "",
@@ -22795,6 +23065,21 @@
    "url": "https://doi.org/10.1515/9781400862146.155",
    "tags": [
     "criticism"
+   ],
+   "relevance": "high"
+  },
+  {
+   "id": "lib-1991-reading-billy-budd",
+   "title": "Reading Billy Budd",
+   "author": "",
+   "date": "1991",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.28-6130",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "high"
   },
@@ -23921,6 +24206,21 @@
    "shelf": "private",
    "file": "library/lib-2019-billy-budd-royal-2.html",
    "source": "theartsdesk.com, saved 2026-11-07",
+   "relevance": "high"
+  },
+  {
+   "id": "lib-2019-billy-budd-sailor-2",
+   "title": "‘Billy Budd, Sailor’ and Other Uncompleted Writings",
+   "author": "",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Modern Language Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mlr.2019.0231",
+   "tags": [
+    "openalex-abstract"
+   ],
    "relevance": "high"
   },
   {
@@ -26348,6 +26648,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-sherlyn-abdoo-1997-pale-maids-bachelors",
+   "title": "Pale Maids and Bachelor’s Buttons: “Inverted Similitude” in Melville’s “Tartarus”",
+   "author": "Sherlyn Abdoo",
+   "date": "1997",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Springer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/978-94-017-2549-1_21",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-abrams-2009-three-tales-two",
    "title": "Three Tales of Two Texts: An Introduction to Law and the Humanities",
    "author": "Abrams, Kathryn",
@@ -26534,6 +26849,36 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-steuart-bedford-2021-now-phaedrus-i",
+   "title": "And now, Phaedrus, I will go",
+   "author": "Steuart Bedford; Christopher Gillett",
+   "date": "2021",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Boydell and Brewer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781800107991.013",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-roger-beebe-2006-mcanally-ray-19261989",
+   "title": "Mcanally, Ray (1926–1989)",
+   "author": "Roger Beebe",
+   "date": "2006",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Bloomsbury Publishing Plc eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5040/9781838710439-546",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-benfey-2018-loved-one",
    "title": "The Loved One",
    "author": "Benfey, Christopher",
@@ -26615,6 +26960,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-gerald-bordman-1996-1950-1951",
+   "title": "1950-1951",
+   "author": "Gerald Bordman",
+   "date": "1996",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Oxford University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oso/9780195090796.003.0021",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-bryant-2002-fluid-text-theory",
    "title": "The Fluid Text: A Theory of Revision and Editing for Book and Screen",
    "author": "Bryant, John",
@@ -26632,6 +26992,21 @@
    ],
    "relevance": "medium",
    "thumb": "library/thumbs/lib-bryant-2002-fluid-text-theory.jpg"
+  },
+  {
+   "id": "lib-john-bryant-2020-composing-yourself",
+   "title": "Composing Yourself",
+   "author": "John Bryant",
+   "date": "2020",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Herman Melville. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1002/9781119072706.ch27",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
   },
   {
    "id": "lib-bryant-2024-1-5-1",
@@ -26667,6 +27042,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-joanna-bullivant-2018-10-practical-jokes",
+   "title": "10 ‘Practical Jokes’: Britten and Auden’s Our Hunting Fathers Revisited",
+   "author": "Joanna Bullivant",
+   "date": "2018",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Boydell and Brewer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781787442566.011",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-butler-1777-essay-legality-impressing",
    "title": "An essay on the legality of impressing seamen",
    "author": "Butler, Charles",
@@ -26684,6 +27074,21 @@
     "law"
    ],
    "thumb": "library/thumbs/lib-butler-1777-essay-legality-impressing.jpg",
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-george-caird-2009-six-metamorphoses-after",
+   "title": "Six Metamorphoses after Ovid and the Influence of Classical Mythology on Benjamin Britten",
+   "author": "George Caird",
+   "date": "2009",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781846156946.005",
+   "tags": [
+    "openalex-abstract"
+   ],
    "relevance": "medium"
   },
   {
@@ -26838,6 +27243,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-mervyn-cooke-2013-be-flat-be",
+   "title": "Be Flat or Be Natural?",
+   "author": "Mervyn Cooke",
+   "date": "2013",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Oxford University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/acprof:oso/9780199794805.003.0006",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-cordingly-2015-disordered-heroes-opera",
    "title": "Disordered Heroes in Opera",
    "author": "Cordingly, John; Seymour, Claire",
@@ -26883,6 +27303,21 @@
     "reception",
     "criticism",
     "law-and-literature"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-nick-davis-2013-crystal-queer-economies",
+   "title": "Crystal-Queer Economies",
+   "author": "Nick Davis",
+   "date": "2013",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Oxford University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/acprof:oso/9780199993161.003.0005",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -26934,6 +27369,21 @@
     "court-of-inquiry",
     "mackenzie",
     "manuscript"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-kieran-dolin-1999-settling-out-court",
+   "title": "Settling out of court",
+   "author": "Kieran Dolin",
+   "date": "1999",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511549342.009",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -27004,6 +27454,36 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-gerald-early-2000-jazz-american-literature",
+   "title": "Jazz and American Literature",
+   "author": "Gerald Early",
+   "date": "2000",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Oxford University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oso/9780195125108.003.0057",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-mary-k-2022-typeeandomoo",
+   "title": "TypeeandOmoo",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "he",
+   "note": "Wiley eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1002/9781119668565.ch4",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-elmer-2022-was-billy-black",
    "title": "Was Billy Black? Herman Melville and the Captive King",
    "author": "Elmer, Jonathan",
@@ -27031,6 +27511,21 @@
    "tags": [
     "philosophy",
     "comparative"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-peter-evans-1996-gloriana",
+   "title": "Gloriana",
+   "author": "Peter Evans",
+   "date": "1996",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Oxford University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oso/9780198165903.003.0010",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -27209,6 +27704,36 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-paul-gilje-2015-songs-sailorman",
+   "title": "Songs of the Sailorman",
+   "author": "Paul A. Gilje",
+   "date": "2015",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9781139049283.006",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-michael-t-2010-intertext",
+   "title": "Intertext",
+   "author": "Michael T. Gilmore",
+   "date": "2010",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "University of Chicago Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.7208/chicago/9780226294155.003.0011",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-goldberg-2000-somers-mutiny-1842",
    "title": "The Somers mutiny of 1842",
    "author": "Goldberg, Angus Ephraim",
@@ -27269,6 +27794,21 @@
     "film",
     "beau-travail",
     "comparative"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-richard-firth-1999-medieval-literature-law",
+   "title": "Medieval literature and law",
+   "author": "Richard Firth Green",
+   "date": "1999",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/chol9780521444200.019",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -27335,6 +27875,21 @@
    "url": "https://doi.org/10.4324/9781315265018-18",
    "tags": [
     "philosophy"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-anthony-harkins-2019-introduction",
+   "title": "Introduction",
+   "author": "Anthony Harkins",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Soundings An Interdisciplinary Journal. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5325/soundings.102.1.000v",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -27420,6 +27975,21 @@
    "thumb": "library/thumbs/lib-hayes-2007-cambridge-introduction-herman.jpg"
   },
   {
+   "id": "lib-kevin-j-2007-writings",
+   "title": "Writings",
+   "author": "Kevin J. Hayes",
+   "date": "2007",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511611001.004",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-hayford-1959-somers-mutiny-affair",
    "title": "The Somers Mutiny Affair: A Book of Primary Source Materials",
    "author": "Hayford, Harrison",
@@ -27494,6 +28064,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-stefanludwig-hoffmann-2010-introduction-genealogies-human",
+   "title": "Introduction: Genealogies of Human Rights",
+   "author": "Stefan‐Ludwig Hoffmann",
+   "date": "2010",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511921667.001",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-holmes-2013-conversation-julie-nathan",
    "title": "A Conversation with Julie and Nathan Gunn, Part 2",
    "author": "Holmes, Leslie",
@@ -27507,6 +28092,21 @@
     "opera",
     "britten",
     "reception"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-melissa-j-2022-augusta-jane-evans",
+   "title": "Augusta Jane Evans",
+   "author": "Melissa J. Homestead",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781108565615.006",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -27581,6 +28181,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-richard-m-2022-realism-towards-modernism",
+   "title": "Realism towards modernism",
+   "author": "Richard M. Jacobs",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Routledge eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9781003127567-8",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-james-1886-naval-history-great",
    "title": "The naval history of Great Britain, from the declaration of war by France in 1793, to the accession of George IV. A new edition, with additions and notes, bringing the work down to 1827. Vol. 2",
    "author": "James, William",
@@ -27639,6 +28254,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-graham-johnson-2017-britten-abroad-italy",
+   "title": "Britten abroad: Italy, Poland, France and Germany",
+   "author": "Graham Johnson",
+   "date": "2017",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Routledge eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9781351218221-3",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-johnson-2018-embodied-rhythm-musical",
    "title": "Embodied Rhythm and Musical Impact of Corporal Punishment in Twentieth-Century Opera",
    "author": "Johnson, Shersten",
@@ -27655,6 +28285,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-michael-jonik-2013-melville-s-permanent",
+   "title": "Melville's permanent riotocracy",
+   "author": "Michael Jonik",
+   "date": "2013",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Figshare. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W924756674",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-juhani-2013-power-resistance-herman",
    "title": "Power and Resistance in Herman Melville’s Three B’s",
    "author": "Juhani, Saari",
@@ -27667,6 +28312,21 @@
    "tags": [
     "criticism",
     "politics"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-derek-katz-2009-6-beyond-operatic",
+   "title": "6 Beyond the Operatic Stage",
+   "author": "Derek Katz",
+   "date": "2009",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Boydell and Brewer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781580467261.007",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -28329,6 +28989,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-herman-melville-2009-maldive-shark",
+   "title": "The Maldive Shark",
+   "author": "Herman Melville",
+   "date": "2009",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Northwestern University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oseo/instance.00214319",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-melville-2025-melville-collection-introduction",
    "title": "Melville Collection: With an Introduction and Contemporary Criticism",
    "author": "Melville, Herman; Urbanczyk, Aaron; Pearce, Joseph",
@@ -28636,6 +29311,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-barbara-novak-2007-pollock-olson-time",
+   "title": "Pollock and Olson: Time, Space, and the Activated Bodily Self",
+   "author": "Barbara Novak",
+   "date": "2007",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Oxford University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oso/9780195305906.003.0008",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-ohge-2019-melville-incomplete",
    "title": "Melville Incomplete",
    "author": "Ohge, Christopher",
@@ -28808,6 +29498,36 @@
     "opera",
     "britten",
     "queer-reading"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-larry-polansky-2001-editors-introduction",
+   "title": "Editor’s Introduction",
+   "author": "Larry Polansky",
+   "date": "2001",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781580466097.005",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-dieter-paul-1999-curse-gone-re",
+   "title": "A curse gone re-cursive: the case and cause of solidarity in Conrad's The Nigger of the “narcissus”",
+   "author": "Dieter Paul Polloczek",
+   "date": "1999",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/cbo9780511485268.006",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -29002,6 +29722,21 @@
    "thumb": "library/thumbs/lib-richter-1981-forms-novella-ten.jpg"
   },
   {
+   "id": "lib-biancamaria-rizzardi-2018-nave-di-vetro",
+   "title": "La nave di vetro Redburn: la sua prima avventura",
+   "author": "Biancamaria Rizzardi",
+   "date": "2018",
+   "kind": "chapter",
+   "lang": "it",
+   "note": "CINECA IRIS Institutial research information system (University of Pisa). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W2913134559",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-rooney-2004-universal-cosmic",
    "title": "From the Universal to the Cosmic",
    "author": "Rooney, Caroline",
@@ -29013,6 +29748,21 @@
    "url": "https://doi.org/10.1177/0047244104044245",
    "tags": [
     "film"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-eric-roseberry-1999-old-songs-new",
+   "title": "Old songs in new contexts: Britten as arranger",
+   "author": "Eric Roseberry",
+   "date": "1999",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/ccol9780521573849.018",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -29066,6 +29816,21 @@
    "url": "https://doi.org/10.4324/9781003727675-2",
    "tags": [
     "philosophy"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-nicholas-royle-2017-impossible-uncanniness",
+   "title": "Impossible Uncanniness",
+   "author": "Nicholas Royle",
+   "date": "2017",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Punctum Books. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY NC SA (OpenAlex)",
+   "url": "https://doi.org/10.21983/p3.0172.1.04",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -29247,6 +30012,36 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-joanna-scott-2019-bartleby-scrivener-herman",
+   "title": "“Bartleby, the Scrivener” by Herman Melville",
+   "author": "Joanna Scott",
+   "date": "2019",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Boydell & Brewer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781787445352.041",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-j-p-2023-being-grimes-problem",
+   "title": "Being-with Grimes: The Problem of Others in Britten’s First Opera",
+   "author": "J. P. E. Harper‐Scott",
+   "date": "2023",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781846158759.018",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-sealts-1982-pursuing-melville-1940",
    "title": "Pursuing Melville, 1940-1980 : chapters and essays",
    "author": "Sealts, Merton M.",
@@ -29383,6 +30178,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-gordon-cameron-2023-britten-s-clever",
+   "title": "Britten's Clever Subconscious",
+   "author": "Gordon Cameron Sly",
+   "date": "2023",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Boydell and Brewer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781800109513.002",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-southey-1831-life-nelson",
    "title": "The Life of Nelson",
    "author": "Southey, Robert",
@@ -29420,6 +30230,21 @@
     "nelson",
     "elizabeth-melville",
     "houghton"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-frances-spalding-2009-7-dramatic-invention",
+   "title": "7. Dramatic Invention in Myfanwy Piper’s Libretto for Owen Wingrave",
+   "author": "Frances Spalding",
+   "date": "2009",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Boydell and Brewer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781846156946.008",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -29666,6 +30491,21 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-myron-c-2022-guilty-son",
+   "title": "The Guilty Son",
+   "author": "Myron C. Tuman",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Springer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/978-3-031-10039-0_5",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-urquhart-1816-letter-wm-wilberforce",
    "title": "A letter to Wm. Wilberforce, Esq. M.P. on the subject of impressment: calling on him and the philanthropists of this country to prove those feelings of sensibility they expressed in the cause of humanity on negro slavery, by acting with the same ardour and zeal in the cause of British seamen",
    "author": "Urquhart, Thomas",
@@ -29722,6 +30562,36 @@
    "relevance": "medium"
   },
   {
+   "id": "lib-constantine-verevis-2005-audiences",
+   "title": "Audiences",
+   "author": "Constantine Verevis",
+   "date": "2005",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Palgrave Macmillan US eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/978-1-137-08168-1_6",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-justin-vickers-2022-eric-crozier",
+   "title": "Eric Crozier",
+   "author": "Justin Vickers",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781108634878.026",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
    "id": "lib-visconti-2014-precetto-valore-sanzione",
    "title": "Precetto, valore, sanzione: categorie giuridiche ‘sotto processo' in Melville",
    "author": "Visconti, Arianna",
@@ -29750,6 +30620,21 @@
     "opera",
     "britten",
     "film"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-bazej-warkocki-2019-what-really-happened",
+   "title": "What Really Happened Aboard the Banbury? Reading Gombrowicz with Eve Kosofsky Sedgwick",
+   "author": "Błażej Warkocki",
+   "date": "2019",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Routledge eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9780429287152-10",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -29961,6 +30846,51 @@
    "url": "https://doi.org/10.1017/cbo9780511613746.001",
    "tags": [
     "reception"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-brian-yothers-2011-anacharsis-clootz-deputation",
+   "title": "“An Anacharsis Clootz Deputation”: Race, Ethnicity, Empire, and Cosmopolitanism",
+   "author": "Brian Yothers",
+   "date": "2011",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781571137845.007",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-brian-yothers-2011-introduction-seeking-melville",
+   "title": "Introduction: Seeking Melville",
+   "author": "Brian Yothers",
+   "date": "2011",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781571137845.001",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-brian-yothers-2022-herman-melville",
+   "title": "Herman Melville",
+   "author": "Brian Yothers",
+   "date": "2022",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Cambridge University Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/9781108565615.007",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -30186,6 +31116,21 @@
     "britten",
     "queer-reading",
     "comparative"
+   ],
+   "relevance": "medium"
+  },
+  {
+   "id": "lib-2017-editors-preface",
+   "title": "Editors’ Preface",
+   "author": "",
+   "date": "2017",
+   "kind": "chapter",
+   "lang": "en",
+   "note": "Boydell and Brewer eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1515/9781787440067-007",
+   "tags": [
+    "openalex-abstract"
    ],
    "relevance": "medium"
   },
@@ -32658,6 +33603,3338 @@
     "politics"
    ],
    "relevance": "low"
+  },
+  {
+   "id": "lib-basem-l-2011-subversive-designs-clarel",
+   "title": "Subversive Designs in Clarel",
+   "author": "Basem L. Ra‘ad",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1111/j.1750-1849.2011.01523.x",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-david-michael-1995-philosophical-problems-law",
+   "title": "Philosophical Problems in the Law",
+   "author": "David Michael Adams",
+   "date": "1995",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W1593910481",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-elizabeth-adams-2022-irreligion-thinking-men",
+   "title": "The \"Irreligion of Thinking Men\": Melville's Materialist Genealogy",
+   "author": "Elizabeth Adams",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "ESQ. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esq.2022.0000",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-henry-alley-2010-greenwood-forster-s",
+   "title": "To the Greenwood: Forster's Literary Life to Come after A Passage to India",
+   "author": "Henry Alley",
+   "date": "2010",
+   "kind": "article",
+   "lang": "en",
+   "note": "Papers on Language & Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W251109013",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-santiago-julian-2010-silencio-y-critica",
+   "title": "Silencio y crítica",
+   "author": "Santiago Julián Alonso",
+   "date": "2010",
+   "kind": "article",
+   "lang": "es",
+   "note": "Americanae (AECID Library). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY NC ND (OpenAlex)",
+   "url": "https://openalex.org/W1568519743",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jayme-amonsen-2017-concert-recording-2017",
+   "title": "Concert recording 2017-04-27",
+   "author": "Jayme Amonsen; Anthony Graham; Maigen Anderson; Sarah Klemans",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of the Arkansas Academy of Science. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY ND (OpenAlex)",
+   "url": "https://openalex.org/W3202665280",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-scott-eric-1996-metafiction-melville-s",
+   "title": "The Metafiction of Melville's Confidence Man",
+   "author": "Scott Eric Atkins",
+   "date": "1996",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.18130/v39p5w",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-joseph-auner-2014-reviews-arnold-schonberg",
+   "title": "Reviews: Arnold Schönberg Center, Britten Thematic Catalog, and John Cage Unbound: A Living Archive",
+   "author": "Joseph Auner",
+   "date": "2014",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of the American Musicological Society. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1525/jams.2014.67.3.866",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-brad-bannon-2018-jonathan-edwards-samuel",
+   "title": "Jonathan Edwards, Samuel Taylor Coleridge, and the Supernatural Will in American Literature",
+   "author": "Brad Bannon",
+   "date": "2018",
+   "kind": "book",
+   "lang": "en",
+   "note": "Routledge eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9781315572598",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-barsness-1969-ken-kesey-hero",
+   "title": "Ken Kesey: The Hero in Modern Dress",
+   "author": "John A. Barsness",
+   "date": "1969",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Bulletin of the Rocky Mountain Modern Language Association. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/rmr.1969.0011",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-philip-d-2016-sitting-darkness-mark",
+   "title": "Sitting in Darkness: Mark Twain’s Asia and Comparative RacializationMark Twain in ChinaShock and Awe: American Exceptionalism and the Imperatives of the Spectacle in Mark Twain’s “A Connecticut Yankee in King Arthur’s Court.”",
+   "author": "Philip D. Beidler",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00029831-3533386",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-bender-1989-sea-brothers-tradition",
+   "title": "Sea-brothers: the tradition of American sea fiction from Moby-Dick to the present",
+   "author": "Bender, Bert",
+   "date": "1989",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.26-4917",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-bergman-1968-case-stuttering",
+   "title": "A CASE OF STUTTERING",
+   "author": "Robert Bergman",
+   "date": "1968",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of the American Academy of Child Psychiatry. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1016/s0002-7138(09)61535-1",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-david-m-2026-melville-research-bench",
+   "title": "Melville Research Bench",
+   "author": "David M. Berry; Michael Jonik",
+   "date": "2026",
+   "kind": "other",
+   "lang": "en",
+   "note": "Zenodo (CERN European Organization for Nuclear Research). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.5281/zenodo.23715253",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-dennis-berthold-1999-melville-his-circle",
+   "title": "Melville & his Circle: The Last Years (review)",
+   "author": "Dennis Berthold",
+   "date": "1999",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.1999.a491472",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-dennis-berthold-2019-old-ichor-stirring",
+   "title": "“The old ichor stirring in my veins”: Harrison Hayford and the Burgundy Club Manuscripts",
+   "author": "Dennis Berthold",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2019.0023",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-walter-e-1973-mystery-iniquity-melville",
+   "title": "The Mystery of Iniquity: Melville as Poet, 1857-1891.",
+   "author": "Walter E. Bezanson; William H. Shurr",
+   "date": "1973",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2924628",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-bird-1999-achilles-tortoise-mark",
+   "title": "Achilles and the Tortoise: Mark Twain's Fictions",
+   "author": "John Bird; Clark Griffith",
+   "date": "1999",
+   "kind": "article",
+   "lang": "en",
+   "note": "South Atlantic Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/3201500",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-christopher-allan-2023-jonathan-cook-neither",
+   "title": "Jonathan A Cook . Neither Believer nor Infidel: Skepticism and Faith in Melville’s Shorter Fiction and Poetry",
+   "author": "Christopher Allan Black",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Review of English Studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/res/hgad100",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-hester-blum-2013-melville-protest-melville",
+   "title": "Melville and Protest; Melville Occupies Wall Street",
+   "author": "Hester Blum",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2013.a509320",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-r-2024-winstons-desires-orwells",
+   "title": "Winston’s Desires, Orwell’s Politics",
+   "author": "John R. Bowen",
+   "date": "2024",
+   "kind": "article",
+   "lang": "ru",
+   "note": "The Cambridge Quarterly. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY NC ND (OpenAlex)",
+   "url": "https://doi.org/10.1093/camqtly/bfae019",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jay-m-1987-if-bach-had",
+   "title": "If Bach Had Owned a Computer: Technology and Teaching the Novel",
+   "author": "Jay M. Boyer",
+   "date": "1987",
+   "kind": "article",
+   "lang": "en",
+   "note": "The English Journal. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/818305",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-bryant-2013-special-issue-artists",
+   "title": "Special Issue: On Artists and Adaptation Introduction",
+   "author": "John Bryant",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2013.0027",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jaime-campomar-2020-melville-beyond-any",
+   "title": "Melville Beyond Any Doubt",
+   "author": "Jaime Campomar",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2020.0011",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-bert-cardullo-2008-soldier-s-flaw",
+   "title": "A Soldier's Flaw, in Charles Fuller's A Soldier's Play",
+   "author": "Bert Cardullo",
+   "date": "2008",
+   "kind": "article",
+   "lang": "en",
+   "note": "Notes on Contemporary Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W308100478",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jane-carson-1984-literature-ideology-review",
+   "title": "Literature and Ideology (review)",
+   "author": "Jane Carson",
+   "date": "1984",
+   "kind": "review",
+   "lang": "en",
+   "note": "Philosophy and literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/phl.1984.0050",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-l-2022-queer-atlantic-masculinity",
+   "title": "Queer Atlantic: Masculinity, Mobility, and the Emergence of Modernist Form by Daniel Hannah",
+   "author": "Robert L. Caserío",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern fiction studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mfs.2022.0035",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-leonard-cassuto-1994-trivial-sublime-theology",
+   "title": "The Trivial Sublime: Theology and American Poetics.",
+   "author": "Leonard Cassuto; Linda Munk",
+   "date": "1994",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2927469",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-v-k-2000-herman-melville-stargazer",
+   "title": "Herman Melville: Stargazer by Brett Zimmerman",
+   "author": "V. K. Chari",
+   "date": "2000",
+   "kind": "article",
+   "lang": "en",
+   "note": "English studies in Canada. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esc.2000.0046",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-kayla-chavez-2012-purpose-law-literature",
+   "title": "The Purpose of Law in Literature",
+   "author": "Kayla Chavez",
+   "date": "2012",
+   "kind": "other",
+   "lang": "en",
+   "note": "CSUN ScholarWorks (California State University, Northridge). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W2301940031",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-weiling-chen-2006-les-ravages-jalousie",
+   "title": "Les Ravages De la Jalousie Dans la Cousine Bette",
+   "author": "Weiling Chen",
+   "date": "2006",
+   "kind": "article",
+   "lang": "fr",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W206896840",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-nancy-tenfelde-1993-manabozho-native-american",
+   "title": "\"Manabozho\": A Native American Resurrection Myth",
+   "author": "Nancy Tenfelde Clasby",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in short fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W197323159",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-gail-h-2000-maritime-prints-herman",
+   "title": "Maritime Prints from Herman Melville's Collection of Art (review)",
+   "author": "Gail H. Coffler",
+   "date": "2000",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2000.a493776",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-gail-h-2006-melville-s-allusions",
+   "title": "Melville's Allusions to Religion",
+   "author": "Gail H. Coffler",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2006.00010.x",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-dawn-coleman-2017-books-brief",
+   "title": "Books in Brief",
+   "author": "Dawn Coleman",
+   "date": "2017",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2017.0040",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-joel-conarroe-1980-editor-s-column",
+   "title": "Editor's Column",
+   "author": "Joel Conarroe",
+   "date": "1980",
+   "kind": "article",
+   "lang": "en",
+   "note": "PMLA/Publications of the Modern Language Association of America. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1632/s0030812900038384",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jonathan-alistair-2019-melville-s-intervisionary",
+   "title": "Melville's Intervisionary Network: Balzac, Hawthorne, and Realism in the American Renaissance, by John Haydock",
+   "author": "Jonathan Alistair Cook",
+   "date": "2019",
+   "kind": "review",
+   "lang": "en",
+   "note": "Nathaniel Hawthorne Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5325/nathhawtrevi.45.2.0198",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-ian-cooper-2010-1857-flaubert-baudelaire",
+   "title": "1857: Flaubert Baudelaire Stifter by Wolfgang Matz",
+   "author": "Ian Cooper",
+   "date": "2010",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Modern Language Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mlr.2010.0174",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-r-cooper-2015-where-seas-meet",
+   "title": "Where Seas Meet Mountains",
+   "author": "R. Cooper",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "American book review/The American book review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/abr.2015.0151",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-richard-h-1976-research-western-american",
+   "title": "Research in Western American Literature",
+   "author": "Richard H. Cracroft",
+   "date": "1976",
+   "kind": "article",
+   "lang": "en",
+   "note": "Western American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/wal.1976.0044",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-richard-h-1979-research-western-american",
+   "title": "Research in Western American Literature",
+   "author": "Richard H. Cracroft",
+   "date": "1979",
+   "kind": "article",
+   "lang": "en",
+   "note": "Western American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/wal.1979.0002",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-gretchen-craft-1992-persistence-dread-law",
+   "title": "The Persistence of Dread in Law and Literature",
+   "author": "Gretchen A. Craft",
+   "date": "1992",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Yale Law Journal. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.2307/796846",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-judith-wagner-1998-innocence-lost-examination",
+   "title": "Innocence Lost: An Examination of Inescapable Moral Wrong-Doing",
+   "author": "Judith Wagner DeCew; Christopher W. Gowans",
+   "date": "1998",
+   "kind": "article",
+   "lang": "en",
+   "note": "Philosophy and Phenomenological Research. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2653528",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jed-deppman-2003-re-presenting-paul",
+   "title": "Re-Presenting Paul Valery's Monsieur Teste",
+   "author": "Jed Deppman",
+   "date": "2003",
+   "kind": "article",
+   "lang": "en",
+   "note": "symplokē. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/sym.2003.0005",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-dickson-2022-compassion-hannah-arendt",
+   "title": "On Compassion: Hannah Arendt and the Political Virtues",
+   "author": "John Dickson",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Society. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1007/s12115-022-00796-8",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-paul-b-2017-moby-dick-ecological",
+   "title": "Moby Dick and \"The Ecological Thought\"",
+   "author": "Paul B. Downes",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2017.0026",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-paul-downes-2022-mla-2022virtual-panel",
+   "title": "MLA 2022—Virtual Panel for Hybrid Convention (Washington DC): Melville and the Cultures of Antiquity",
+   "author": "Paul Downes",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2022.0023",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-laura-doyle-2007-atlantic-colonizing-force",
+   "title": "“A” for Atlantic: The Colonizing Force of Hawthorne's The Scarlet Letter",
+   "author": "Laura A Doyle",
+   "date": "2007",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1215/00029831-2007-001",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-laura-doyle-2007-reconstructing-race-freedom",
+   "title": "RECONSTRUCTING RACE AND FREEDOM IN ATLANTIC MODERNITY",
+   "author": "Laura A Doyle",
+   "date": "2007",
+   "kind": "article",
+   "lang": "en",
+   "note": "Atlantic Studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1080/14788810701510886",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-stefanie-k-2018-taste-brown-bodies",
+   "title": "A Taste for Brown Bodies: Gay Modernity and Cosmopolitan DesireNot Straight, Not White: Black Gay Men from the March on Washington to the AIDS Crisis",
+   "author": "Stefanie K. Dunning",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00029831-6994943",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-elizabeth-duquette-2024-if-more-than",
+   "title": "\"If more than once\": Tyranny and \"Timoleon\"",
+   "author": "Elizabeth Duquette",
+   "date": "2024",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2024.a944387",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-k-2001-weaver-god-he",
+   "title": "The Weaver-God, He Weaves: Melville and the Poetics of the Novel & Sounding the Whale: Moby-Dick as Epic Novel (review)",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2001",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2001.a491886",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-k-2014-all-astir",
+   "title": "All Astir",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2014",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2014.0010",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-k-2018-all-astir",
+   "title": "All Astir",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2018.0007",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-k-2019-all-astir",
+   "title": "All Astir",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2019.0016",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-k-2021-all-astir",
+   "title": "All Astir",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2021.0028",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-k-2022-all-astir",
+   "title": "All Astir",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2022.0022",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-k-2024-all-astir",
+   "title": "All Astir",
+   "author": "Mary K. Bercaw Edwards",
+   "date": "2024",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2024.a925514",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-e-elmore-2012-battlefields-rising-how",
+   "title": "From Battlefields Rising: How the Civil War Transformed American Literature (review)",
+   "author": "A. E. Elmore",
+   "date": "2012",
+   "kind": "article",
+   "lang": "en",
+   "note": "Civil War history. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/cwh.2012.0023",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mark-w-1975-three-masks-american",
+   "title": "The Three Masks of American Tragedy by Dan Vogel (review)",
+   "author": "Mark W. Estrin",
+   "date": "1975",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern Drama. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mdr.1975.0028",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-evelev-2019-herman-melville-modernity",
+   "title": "Herman Melville: Modernity and the Material Text by Katie McGettigan",
+   "author": "John Evelev",
+   "date": "2019",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2019.0015",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-ferguson-1993-poethics-other-strategies",
+   "title": "Poethics, and Other Strategies of Law and Literature.",
+   "author": "Robert A. Ferguson; Richard H. Weisberg",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2928109",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-ferguson-2016-practice-extended-beyond",
+   "title": "Practice Extended: Beyond Law and Literature",
+   "author": "Robert Ferguson",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W2522360923",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-simon-fetch-2016-law-literature-victorian",
+   "title": "LAW, LITERATURE, AND VICTORIAN STUDIES",
+   "author": "Simon Fetch",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W3145477600",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-fizer-1981-poetics-roman-ingarden",
+   "title": "The Poetics of Roman Ingarden (review)",
+   "author": "John Fizer",
+   "date": "1981",
+   "kind": "review",
+   "lang": "en",
+   "note": "Philosophy and literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/phl.1981.0013",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-louis-gallo-1981-notes-some-recently",
+   "title": "Notes on Some Recently Found Lost American Fiction",
+   "author": "Louis Gallo",
+   "date": "1981",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Missouri Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mis.1981.0017",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-florian-gargaillo-2020-philip-larkin-envy",
+   "title": "Philip Larkin and Envy",
+   "author": "Florian Gargaillo",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Essays in Criticism. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/escrit/cgaa002",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-charlotte-goodman-1989-gender-writer-s",
+   "title": "Gender and the Writer's Imagination from Cooper to Wharton by Mary Suzanne Schriber (review)",
+   "author": "Charlotte Goodman",
+   "date": "1989",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in American fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/saf.1989.0011",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-randy-gordon-2011-rehumanizing-law-theory",
+   "title": "Rehumanizing Law: A Theory of Law and Democracy",
+   "author": "Randy Gordon",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Project Muse (Johns Hopkins University). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W576213051",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jean-westerman-2007-intelligibility-prolonged-vowels",
+   "title": "Intelligibility of Prolonged Vowels in Classical Singing",
+   "author": "Jean Westerman Gregg; Ronald Callaway Scherer",
+   "date": "2007",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of Singing. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W313251303",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jennifer-greiman-2023-introduction-melville-public",
+   "title": "Introduction: Melville in Public",
+   "author": "Jennifer Greiman; Brian Yothers",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2023.a913118",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-david-greven-2020-practices-hope-literary",
+   "title": "The Practices of Hope: Literary Criticism in Disenchanted Times, by Castiglia, Christopher",
+   "author": "David Greven",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Nathaniel Hawthorne Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5325/nathhawtrevi.46.1.0128",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-frank-clark-1952-melville-quest-god",
+   "title": "Melville and the quest for God",
+   "author": "Frank Clark Griffith",
+   "date": "1952",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Iowa Research Online (The University of Iowa). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W586882762",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-len-gutkin-2013-len-gutkin-responds",
+   "title": "Len Gutkin Responds to Ralph James Savarese",
+   "author": "Len Gutkin",
+   "date": "2013",
+   "kind": "article",
+   "lang": "de",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2013.0021",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jonathan-hafetz-2024-episode-25-caine",
+   "title": "Episode 25 - The Caine Mutiny (1954) & The Caine Mutiny Court-Martial (2023)",
+   "author": "Jonathan Hafetz",
+   "date": "2024",
+   "kind": "article",
+   "lang": "en",
+   "note": "Seton Hall University eRepository (Seton Hall University). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W7139339713",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-steve-hamelman-1999-democratic-personality-popular",
+   "title": "Democratic Personality: Popular Voice and the Trial of American Authorship (review)",
+   "author": "Steve Hamelman",
+   "date": "1999",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in American fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/saf.1999.0000",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-william-c-2005-e-pluribus-unum",
+   "title": "E pluribus unum : nineteenth-century American literature & the Constitutional paradox",
+   "author": "William C. Harris",
+   "date": "2005",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W583087927",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-kevin-j-2009-wyn-kelley-herman",
+   "title": "WYN KELLEY, Herman Melville: An Introduction.",
+   "author": "Kevin J. Hayes",
+   "date": "2009",
+   "kind": "article",
+   "lang": "en",
+   "note": "Notes and Queries. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/notesj/gjp031",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-christopher-headington-1992-peter-pears-biography",
+   "title": "Peter Pears: A Biography",
+   "author": "Christopher Headington",
+   "date": "1992",
+   "kind": "book",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W574289032",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-william-hoagland-1991-indian-lawyer-james",
+   "title": "The Indian Lawyer by James Welch",
+   "author": "William Hoagland",
+   "date": "1991",
+   "kind": "article",
+   "lang": "en",
+   "note": "Western American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/wal.1991.0104",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-michael-hollister-2016-melville-s-gam",
+   "title": "MELVILLE'S GAM WITH POE IN \"MOBY-DICK\": BULKINGTON AND PYM",
+   "author": "Michael Hollister",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W93716270",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-maggie-hommel-2010-center-field-review",
+   "title": "Center Field (review)",
+   "author": "Maggie Hommel",
+   "date": "2010",
+   "kind": "review",
+   "lang": "en",
+   "note": "Bulletin of the Center for Children's Books./Bulletin of the Center for Children's Books. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/bcc.0.1713",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-thomas-d-1984-philosophy-literature-metaphysical",
+   "title": "Philosophy in Literature: Metaphysical Darkness and Ethical Light (review)",
+   "author": "Thomas D. Howells",
+   "date": "1984",
+   "kind": "review",
+   "lang": "en",
+   "note": "Philosophy and literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/phl.1984.0041",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-joshua-hren-2012-truth-lies-chestertonian",
+   "title": "Truth and Lies in a Chestertonian Sense: Father Brown and the Fault of the Depraved Saint",
+   "author": "Joshua Hren",
+   "date": "2012",
+   "kind": "article",
+   "lang": "en",
+   "note": "logos. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/log.2013.0007",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-hsuan-l-2015-abstracts-mla-2015vancouver",
+   "title": "Abstracts MLA 2015—Vancouver: Melville and Comparative Racialization",
+   "author": "Hsuan L. Hsu",
+   "date": "2015",
+   "kind": "other",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2015.0028",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-james-r-1995-cast-means-figures",
+   "title": "Cast by Means of Figures: Herman Melville's Rhetorical Development",
+   "author": "James R. Hurt; Bryan C. Short",
+   "date": "1995",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Modern Language Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/3733288",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-zach-hutchins-2014-ala-2013boston-melvilles",
+   "title": "ALA 2013—Boston: Melville’s Bibles beyond Moby-Dick",
+   "author": "Zach Hutchins",
+   "date": "2014",
+   "kind": "article",
+   "lang": "de",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2014.0019",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-null-author-1998-ephemera-theatre-programmes",
+   "title": "[Ephemera and theatre programmes for performances of opera and light musicals in Great Britain, featuring New Zealand performers. 1998].",
+   "author": "NULL AUTHOR_ID",
+   "date": "1998",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W3190556236",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-colin-c-2008-teaching-novel-across",
+   "title": "Teaching the Novel Across the Curriculum: A Handbook for Educators.",
+   "author": "Colin C. Irvine",
+   "date": "2008",
+   "kind": "book",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W281627515",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-isbell-2013-p-l-aying",
+   "title": "P(l)aying off Old Ironsides and the Old Wagon: Melville's Depiction of Shipboard Theatricals in White-Jacket",
+   "author": "Mary Isbell",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2013.a508046",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-through-white-2016-facts-opinions-possibilities",
+   "title": "FACTS, OPINIONS, AND POSSIBILITIES: MELVILLE'S TREATMENT OF INSANITY THROUGH \"WHITE-JACKET\"",
+   "author": "Through White-Jacket; pa l McCarthy",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W91694274",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-arlene-m-1973-technique-discovery-melville",
+   "title": "Technique and Discovery in Melville's Encantadas",
+   "author": "Arlene M. Jackson",
+   "date": "1973",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in American fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/saf.1973.0005",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-peter-jaros-2021-handsomely-done-aesthetics",
+   "title": "Handsomely Done: Aesthetics, Politics, and Media after Melville ed. by Daniel Hoffman-Schwartz, and: Melville among the Philosophers ed. by Corey McCall and Tom Nurmi",
+   "author": "Peter Jaros",
+   "date": "2021",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2021.0019",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-david-jasper-1999-bible-literature-reader",
+   "title": "The Bible and literature : a reader",
+   "author": "David Jasper; Stephen Prickett; Andrew W. Hass",
+   "date": "1999",
+   "kind": "book",
+   "lang": "en",
+   "note": "Blackwell eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W657121941",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-martin-d-2014-september-2013-through",
+   "title": "September 2013 through June 2014",
+   "author": "Martin D. Jenkins",
+   "date": "2014",
+   "kind": "article",
+   "lang": "en",
+   "note": "Notes. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/not.2014.0074",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-bradley-johnson-2003-mind-main-top",
+   "title": "Mind in the Main-Top, Body in the Bilge: Space and the Human Form in Melville's White-Jacket",
+   "author": "Bradley A. Johnson",
+   "date": "2003",
+   "kind": "article",
+   "lang": "en",
+   "note": "The American Transcendental Quarterly. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W193390604",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-arthur-kay-1981-joseph-conrad-s",
+   "title": "Joseph Conrad&;'s Use of Key Names in The Nigger of the “Narcissus”",
+   "author": "Arthur Kay",
+   "date": "1981",
+   "kind": "article",
+   "lang": "en",
+   "note": "Names. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY (OpenAlex)",
+   "url": "https://doi.org/10.1179/nam.1981.29.2.176",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "file": "library/files/lib-arthur-kay-1981-joseph-conrad-s.pdf",
+   "source": "OpenAlex best_oa_location.license; held from 2026-11-07",
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-ailsa-kay-2009-freedoms-empire-race",
+   "title": "Freedom’s Empire: Race and the Rise of the Novel in Atlantic Modernity, 1640–1940 , and: The Grateful Slave: The Emergence of Race in Eighteenth-Century British and American Culture (review)",
+   "author": "Ailsa Kay",
+   "date": "2009",
+   "kind": "article",
+   "lang": "en",
+   "note": "Eighteenth-Century Fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/ecf.0.0052",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-wyn-kelley-2018-melville-s-londonand",
+   "title": "Melville's London—and Ours",
+   "author": "Wyn Kelley",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2018.0015",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-wyn-kelley-2020-empire-her-eyes",
+   "title": "\"Empire in Her Eyes\": Melville and America's Brazilian Original",
+   "author": "Wyn Kelley",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2020.0008",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mary-margaret-1982-hospice",
+   "title": "Hospice",
+   "author": "Mary Margaret Kelly; James D. Williams; Martha Jo Trostel",
+   "date": "1982",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Gerontologist. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/geront/22.3.236",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-joyce-deveau-1977-pierres-progeny-oneill",
+   "title": "Pierre’s Progeny: O’Neill and the Melville Revival",
+   "author": "Joyce Deveau Kennedy",
+   "date": "1977",
+   "kind": "article",
+   "lang": "en",
+   "note": "English studies in Canada. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esc.1977.0006",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-darin-kerr-2017-taste-brown-bodies",
+   "title": "A Taste for Brown Bodies: Gay Modernity and Cosmopolitan Desire by Hiram Pérez",
+   "author": "Darin Kerr; Darin Kerr",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Theatre history studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/ths.2017.0021",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-david-ketterer-2021-typee-manuscript-word",
+   "title": "A Typee Manuscript Word: Neither “chasten” Nor “xxxxxxxxx” But “character”",
+   "author": "David Ketterer",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2021.0006",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-bradley-ray-2016-melville-fashioning-modernity",
+   "title": "Melville: Fashioning in Modernity by Stephen Matterson",
+   "author": "Bradley Ray King",
+   "date": "2016",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2016.0035",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-james-hampton-2020-transformations-convergences-evil",
+   "title": "Transformations and Convergences: The Evil Eye in Melville’s Fiction",
+   "author": "James Hampton Kirkland",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Athens Journal of Philology. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.30958/ajp.7-1-1",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-geoffrey-r-2025-higher-law",
+   "title": "Higher law",
+   "author": "Geoffrey R. Kirsch",
+   "date": "2025",
+   "kind": "other",
+   "lang": "en",
+   "note": "Edward Elgar Publishing eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4337/9781803925912.ch61",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-tom-knoblauch-2022-this-is-how",
+   "title": "\"This is How You See Me?\": Collisions of Influence and Feminocentric Canon Building in Celine Sciamma's Portrait of a Lady on Fire",
+   "author": "Tom Knoblauch",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Film & history. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/flm.2022.0016",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-judith-maginnis-2011-long-last-positive",
+   "title": "At Long Last, A Positive Portrayal of Stuttering",
+   "author": "Judith Maginnis Kuster",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "ASHA Leader. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1044/leader.ftr2.16022011.13",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-elisabeth-ladenson-2006-invidia-s-snake",
+   "title": "Invidia's Snake",
+   "author": "Elisabeth Ladenson",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Women's studies quarterly. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W240117741",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-sarah-lawson-1978-comment",
+   "title": "Comment",
+   "author": "Sarah Lawson; Sheila Apted; Monica Dart; Chris Saunders",
+   "date": "1978",
+   "kind": "article",
+   "lang": "en",
+   "note": "Global Knowledge, Memory and Communication. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1108/eb038405",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-barbara-leckie-1998-adversaria-literature-law",
+   "title": "Adversaria: Literature and Law ed. by Evelyn J. Hinz, Trevor Anderson, Anne McGillivray, and: Explorations in Difference: Law, Culture, and Politics by Jonathan Hart, Richard W. Bauman",
+   "author": "Barbara Leckie",
+   "date": "1998",
+   "kind": "article",
+   "lang": "en",
+   "note": "English studies in Canada. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esc.1998.0018",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-henry-j-1974-james-dickey-s",
+   "title": "James Dickey's Deliverance: The Ritual of Art",
+   "author": "Henry J. Lindborg",
+   "date": "1974",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Southern Literary Journal. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W306386216",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-fransiska-louwagie-2005-temoignage-et-fiction",
+   "title": "Témoignage et fiction: les récits de rescapés dans la littérature de langue française (1945-2000) (review)",
+   "author": "Fransiska Louwagie",
+   "date": "2005",
+   "kind": "article",
+   "lang": "fr",
+   "note": "L'esprit créateur/L'Esprit créateur. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esp.2010.0427",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-thomas-j-1978-transhominal-criticism-e",
+   "title": "Transhominal Criticism by E. R. Zietlow",
+   "author": "Thomas J. Lyon",
+   "date": "1978",
+   "kind": "article",
+   "lang": "en",
+   "note": "Western American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/wal.1978.0007",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-richard-macksey-2005-readers-friends-neil",
+   "title": "Readers and Friends: Neil Hertz in Baltimore",
+   "author": "Richard A. Macksey",
+   "date": "2005",
+   "kind": "article",
+   "lang": "en",
+   "note": "MLN. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mln.2006.0016",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-d-2015-melville-poet-art",
+   "title": "Melville as Poet: The Art of “Pulsed Life” ed. by Sanford E. Marovitz (review)",
+   "author": "Robert D. Madison",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2015.0039",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-anne-mallory-2010-private-sphere-world",
+   "title": "Private Sphere to World Stage from Austen to Eliot (review)",
+   "author": "Anne Mallory",
+   "date": "2010",
+   "kind": "article",
+   "lang": "en",
+   "note": "Partial Answers Journal of Literature and the History of Ideas. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/pan.0.0175",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-ajitpaul-mangat-2016-disarticulate-language-disability",
+   "title": "The Disarticulate: Language, Disability, and the Narratives of Modernity, by James Berger",
+   "author": "Ajitpaul Mangat",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Twentieth Century Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/0041462x-3616612",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-cody-marrs-2016-introduction-late-melvilles",
+   "title": "Introduction: Late Melvilles",
+   "author": "Cody Marrs",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2016.0038",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-k-1991-drydens-dates-reflections",
+   "title": "Dryden’s Dates: Reflections on Canons, Curricula, and Pedagogy",
+   "author": "Robert K. Martin",
+   "date": "1991",
+   "kind": "article",
+   "lang": "en",
+   "note": "English studies in Canada. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esc.1991.0002",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-k-1997-no-longer-revolting",
+   "title": "“No Longer Revolting”: Cross-Dressing in Cooper’s Jack Tier",
+   "author": "Robert K. Martin",
+   "date": "1997",
+   "kind": "article",
+   "lang": "en",
+   "note": "English studies in Canada. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esc.1997.0023",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-linda-w-2021-american-short-story",
+   "title": "The American Short Story and Me",
+   "author": "Linda W. Wagner-Martin",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in the American Short Story. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5325/studamershorstor.2.1.0082",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-ivan-melada-1997-killing-new-town",
+   "title": "A Killing in New Town by Kate Horsley",
+   "author": "Ivan Melada",
+   "date": "1997",
+   "kind": "article",
+   "lang": "en",
+   "note": "Western American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/wal.1997.0067",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-herman-melville-2021-battle-pieces-aspects",
+   "title": "Battle-Pieces and Aspects of the War: Civil War Poems",
+   "author": "Herman Melville; Helen Vendler",
+   "date": "2021",
+   "kind": "book",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W647904381",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-merrill-1974-tragic-form-farewell",
+   "title": "Tragic Form in A Farewell to Arms",
+   "author": "Robert Merrill",
+   "date": "1974",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2924097",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-roy-w-1985-smoothing-ground-essays",
+   "title": "Smoothing the Ground: Essays on Native American Oral Literature ed. by Brian Swann",
+   "author": "Roy W. Meyer",
+   "date": "1985",
+   "kind": "article",
+   "lang": "en",
+   "note": "Western American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/wal.1985.0019",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-daniel-millar-1972-method-rossen-s",
+   "title": "The Method of Rossen's Late Films",
+   "author": "Daniel Millar",
+   "date": "1972",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of American Studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1017/s0021875800011890",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-r-minor-2012-note-co-executive",
+   "title": "A Note from the Co-Executive Editor",
+   "author": "R. Minor",
+   "date": "2012",
+   "kind": "article",
+   "lang": "en",
+   "note": "The Opera Quarterly. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/oq/kbt005",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-martha-minow-1993-narrative-violence-law",
+   "title": "Narrative, Violence, and the Law",
+   "author": "Martha Minow; Michael S. Ryan; Austin D. Sarat",
+   "date": "1993",
+   "kind": "book",
+   "lang": "en",
+   "note": "University of Michigan Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY (OpenAlex)",
+   "url": "https://doi.org/10.3998/mpub.23671",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-david-mitchell-2006-masquerades-impairment-charity",
+   "title": "Masquerades of Impairment: Charity as a Confidence Game",
+   "author": "David Mitchell; Sharon L. Snyder",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2006.00004.x",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-kate-monaghan-2016-chassis-excavation",
+   "title": "Chassis Excavation",
+   "author": "Kate Monaghan",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Colorado review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/col.2016.0018",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-justin-john-2021-honoring-legacy-final",
+   "title": "Honoring a Legacy: The Final Conversation with Arthur Woodley",
+   "author": "Justin John Moniz; Minnita Daniel-Cox",
+   "date": "2021",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of Singing. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.53830/wevc6237",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-lynn-d-1991-clausewitz-shakespeare",
+   "title": "Clausewitz, on Shakespeare",
+   "author": "Lynn D. Moore",
+   "date": "1991",
+   "kind": "article",
+   "lang": "en",
+   "note": "Defense Technical Information Center (DTIC). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W79081906",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-william-m-1999-universal-aspirations-social",
+   "title": "Universal Aspirations: Social Theory and American Literary Culture",
+   "author": "William M. Morgan",
+   "date": "1999",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern fiction studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mfs.1999.0086",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-chris-nelson-2015-speaking-neil-young",
+   "title": "Speaking of Neil Young",
+   "author": "Chris Nelson",
+   "date": "2015",
+   "kind": "article",
+   "lang": "en",
+   "note": "New England review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/ner.2015.0020",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-mark-noble-2016-reading-melville-reading",
+   "title": "Reading Melville Reading Character",
+   "author": "Mark Noble",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "J19. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/jnc.2016.0026",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-marianne-noble-2023-life-author-nathaniel",
+   "title": "The Life of the Author: Nathaniel Hawthorne",
+   "author": "Marianne Noble",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "Nathaniel Hawthorne Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5325/nathhawtrevi.49.2.0220",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-peter-norberg-2000-sign-cannibal-melville",
+   "title": "The Sign of the Cannibal: Melville and the Making of a Postcolonial Reader (review)",
+   "author": "Peter Norberg",
+   "date": "2000",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2000.a491888",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-opera-fort-2009-sweeney-todd-demon",
+   "title": "Sweeney Todd: The Demon Barber of Fleet Street (1979)",
+   "author": "Opera Fort Collins Apprentice Artists, producers (managers)",
+   "date": "2009",
+   "kind": "article",
+   "lang": "en",
+   "note": "Oncology Times. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1097/01.cot.0000343993.20007.51",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-samuel-otter-2006-introduction-melville-disability",
+   "title": "Introduction: Melville and Disability",
+   "author": "Samuel Otter",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2006.00002.x",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-samuel-otter-2013-all-astir",
+   "title": "All Astir",
+   "author": "Samuel Otter",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2013.0025",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-samuel-otter-2019-mast-head",
+   "title": "From the Mast-Head",
+   "author": "Samuel Otter",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2019.0019",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-samuel-otter-2020-mast-head",
+   "title": "From the Mast-Head",
+   "author": "Samuel Otter",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2020.0000",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-richard-e-1981-critical-difference-essays",
+   "title": "The Critical Difference: Essays in the Contemporary Rhetoric of Reading (review)",
+   "author": "Richard E. Palmer",
+   "date": "1981",
+   "kind": "review",
+   "lang": "en",
+   "note": "Philosophy and literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/phl.1981.0010",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jay-parini-2011-passages-herman-melville",
+   "title": "The passages of Herman Melville : a novel",
+   "author": "Jay Parini",
+   "date": "2011",
+   "kind": "book",
+   "lang": "en",
+   "note": "Canongate eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W622182752",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-hershel-parker-2019-mandate-fulfilled-19652017",
+   "title": "A Mandate Fulfilled (1965–2017): The Writings of Herman Melville",
+   "author": "Hershel Parker",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2019.0021",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-peter-pears-1995-travel-diaries-peter",
+   "title": "The Travel Diaries of Peter Pears 1936-1978",
+   "author": "Peter Pears; Philip Reed",
+   "date": "1995",
+   "kind": "book",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W1579587782",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-nina-penner-2013-opera-singing-fictional",
+   "title": "Opera Singing and Fictional Truth",
+   "author": "Nina Penner",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of Aesthetics and Art Criticism. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1111/j.1540-6245.2012.01544.x",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-peter-serritslev-2008-more-than-mouthful",
+   "title": "More Than a Mouthful of Brains: The Poetico-Philosophical Nimbleness of Emily Dickinson and Herman Melville",
+   "author": "Peter Serritslev Petersen",
+   "date": "2008",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Studies in Scandinavia. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.22439/asca.v40i1-2.4680",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-martina-pfeiler-2014-melvilleans-whitmanians-washington",
+   "title": "Melvilleans and Whitmanians in Washington, DC",
+   "author": "Martina Pfeiler",
+   "date": "2014",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2014.0009",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-christopher-n-2018-sacred-uncertainty-religious",
+   "title": "Sacred Uncertainty: Religious Difference and the Shape of Melville's Career by Brian Yothers",
+   "author": "Christopher N. Phillips",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2018.0025",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-gordon-m-2005-herman-melville-stargazer",
+   "title": "Herman Melville: Stargazer (review)",
+   "author": "Gordon M. Poole",
+   "date": "2005",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2005.a494234",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-douglas-b-1996-melville-dismemberment-obsession",
+   "title": "Melville and Dismemberment: Obsession or Metaphor",
+   "author": "Douglas B. Price",
+   "date": "1996",
+   "kind": "article",
+   "lang": "en",
+   "note": "Perspectives in biology and medicine. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/pbm.1996.0045",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-greg-pritchard-2003-moby-dick-philosopher",
+   "title": "Moby-Dick and the philosopher of pessimism",
+   "author": "Greg Pritchard",
+   "date": "2003",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W987295",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-sixta-quadorf-2018-i-would-prefer",
+   "title": "“I would prefer not to take a clerkship” – The Office Novel",
+   "author": "Sixta Quaßdorf",
+   "date": "2018",
+   "kind": "article",
+   "lang": "en",
+   "note": "Alexandria (UniSG) (University of St.Gallen). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W2901439660",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-jed-rasula-2016-sublime-noise-musical",
+   "title": "Sublime Noise: Musical Culture and the Modernist Writer. Josh Epstein. Baltimore: Johns Hopkins University Press, 2014. Pp. xxxix+338.",
+   "author": "Jed Rasula",
+   "date": "2016",
+   "kind": "review",
+   "lang": "en",
+   "note": "Modern Philology. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1086/686320",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-matthew-rebhorn-2009-minding-body-benito",
+   "title": "Minding the Body: Benito Cereno and Melville’s Embodied Reading Practice",
+   "author": "Matthew Rebhorn",
+   "date": "2009",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in the novel. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/sdn.0.0059",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-judith-resnik-1990-constructing-canon",
+   "title": "Constructing the Canon",
+   "author": "Judith Resnik",
+   "date": "1990",
+   "kind": "article",
+   "lang": "en",
+   "note": "bepress Legal Repository. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W1776596031",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-olivier-rey-2011-testament-melville",
+   "title": "Le Testament de Melville",
+   "author": "Olivier Rey",
+   "date": "2011",
+   "kind": "book",
+   "lang": "fr",
+   "note": "HAL. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W604808206",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-p-w-2020-critical-lives-herman",
+   "title": "Critical Lives: Herman Melville by Kevin Hayes",
+   "author": "P. W. Riley",
+   "date": "2020",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2020.0004",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-donald-ringe-1988-cross-examinations-law",
+   "title": "Cross-Examinations of Law and Literature: Cooper, Hawthorne, Stowe, and Melville.",
+   "author": "Donald A. Ringe; Brook Thomas",
+   "date": "1988",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2926409",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-rocco-2020-melville-s-new",
+   "title": "Melville's New York Life",
+   "author": "John Rocco",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1353/lvn.2020.0012",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-n-m-2005-english-british-naval",
+   "title": "English/British Naval History to 1815: A Guide to the Literature",
+   "author": "N. A. M. Rodger",
+   "date": "2005",
+   "kind": "review",
+   "lang": "en",
+   "note": "The English Historical Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1093/ehr/cei387",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-carl-e-2006-critical-companion-herman",
+   "title": "Critical Companion to Herman Melville: A Literary Reference to His Life and Work",
+   "author": "Carl E. Rollyson; Lisa Olson Paddock; April Gentry",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W592715933",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-cecile-roudeau-2023-melville-s-democracy",
+   "title": "Melville's Democracy: Radical Figuration and Political Form by Jennifer Greiman (review)",
+   "author": "Cécile Roudeau",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2023.a913122",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-d-f-1994-theater-world-problematics",
+   "title": "Theater and World: The Problematics of Shakespeare’s History by Jonathan Hart",
+   "author": "D. F. Rowan",
+   "date": "1994",
+   "kind": "article",
+   "lang": "en",
+   "note": "English studies in Canada. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/esc.1994.0012",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-james-emmett-2022-melvilles-wisdom-religion",
+   "title": "Melville’s Wisdom: Religion, Skepticism, and Literature in Nineteenth-Century America",
+   "author": "James Emmett Ryan",
+   "date": "2022",
+   "kind": "article",
+   "lang": "en",
+   "note": "Resources for American Literary Study. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5325/resoamerlitestud.44.1-2.0369",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-maki-sadahiro-2023-expanding-community-melville",
+   "title": "To the Expanding Community of Melville Readers",
+   "author": "Maki Sadahiro",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2023.0010",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-j-2007-religious-assimilation-early",
+   "title": "Religious Assimilation in Early American Fiction",
+   "author": "John J. Salesses",
+   "date": "2007",
+   "kind": "article",
+   "lang": "en",
+   "note": "Forum on public policy. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W311134969",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-shirley-samuels-2020-forgetting-be-nice",
+   "title": "Forgetting to Be Nice",
+   "author": "Shirley Samuels",
+   "date": "2020",
+   "kind": "article",
+   "lang": "en",
+   "note": "NOVEL A Forum on Fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1215/00295132-8139411",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-rena-sanderson-1987-hero-captain-stranger",
+   "title": "Hero, Captain, and Stranger: Male Friendship, Social Critique, and Literary Form in the Sea Novels of Herman Melville",
+   "author": "Rena Sanderson; Robert K. Martin",
+   "date": "1987",
+   "kind": "article",
+   "lang": "en",
+   "note": "Rocky Mountain Review of Language and Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/rmr.1987.0069",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-ralph-james-2013-jostled-difference-ralph",
+   "title": "\"Jostled by Difference\": Ralph James Savarese Responds to Len Gutkin",
+   "author": "Ralph James Savarese",
+   "date": "2013",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2013.0019",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-susan-m-1994-exaggerated-history",
+   "title": "Exaggerated History",
+   "author": "Susan M. Schultz",
+   "date": "1994",
+   "kind": "article",
+   "lang": "en",
+   "note": "Postmodern Culture. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/pmc.1994.0015",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-elizabeth-schultz-2018-hunt-jessica-cuello",
+   "title": "Hunt by Jessica Cuello, and: The Bow Must Bear the Brunt by Devon Balwit, and: Winnows: Haiku and Senryu \"Plundered\" from Herman Melville's Moby Dick by Maxianne Berger, and: Or, The Ambiguities by Karen Weiser",
+   "author": "Elizabeth Schultz",
+   "date": "2018",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2018.0004",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-dieter-schulz-1971-edgar-huntly-quest",
+   "title": "\"Edgar Huntly\" as Quest Romance",
+   "author": "Dieter Schulz",
+   "date": "1971",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2924033",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-marilyn-r-1991-french-women-novelists",
+   "title": "French Women Novelists: Defining a Female Style (review)",
+   "author": "Marilyn R. Schuster",
+   "date": "1991",
+   "kind": "review",
+   "lang": "en",
+   "note": "Philosophy and literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/phl.1991.0000",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-barbara-shapiro-1993-circumstantial-evidence-law",
+   "title": "Circumstantial Evidence: Of Law, Literature, and Culture",
+   "author": "Barbara A. Shapiro",
+   "date": "1993",
+   "kind": "article",
+   "lang": "en",
+   "note": "bepress Legal Repository. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W572599076",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-william-shute-1983-narrative-design-american",
+   "title": "Narrative Design in an American Tragedy",
+   "author": "William A. Shute",
+   "date": "1983",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "SHAREOK (University of Oklahoma; Oklahoma State University; Central Oklahoma University). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W3155027918",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-ariel-clark-2023-great-flood-gates",
+   "title": "“Great Flood-Gates of the Wonder World”: Baptisms of Water and Fire in Melville and Hawthorne",
+   "author": "Ariel Clark Silver",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "European Journal of American Studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY NC (OpenAlex)",
+   "url": "https://doi.org/10.4000/ejas.20704",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-alaina-siminovsky-2005-power-written-word",
+   "title": "The Power of the Written Word",
+   "author": "Alaina Siminovsky",
+   "date": "2005",
+   "kind": "article",
+   "lang": "en",
+   "note": "NSUWorks (Nova Southeastern University). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W2964676416",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-scott-alan-2011-focalization-masculine-subjectivity",
+   "title": "Focalization and masculine subjectivity in the early operas of Benjamin Britten",
+   "author": "Scott Alan Southard",
+   "date": "2011",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Deep Blue (University of Michigan). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W2301920394",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-murray-sperber-1985-poetics-protest-literary",
+   "title": "The Poetics of Protest: Literary Form and Political Implication in the Victim-of-Society Novel (review)",
+   "author": "Murray A. Sperber",
+   "date": "1985",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern fiction studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mfs.0.1161",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-pawe-stachura-2023-melville-vortex-theory",
+   "title": "Melville and the Vortex Theory of Matter",
+   "author": "Paweł Stachura",
+   "date": "2023",
+   "kind": "article",
+   "lang": "en",
+   "note": "European Journal of American Studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY NC (OpenAlex)",
+   "url": "https://doi.org/10.4000/ejas.20759",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-c-1990-politics-innocence-limits",
+   "title": "Politics, Innocence, and the Limits of Goodness",
+   "author": "Robert C. Steensma; Peter W. Johnson",
+   "date": "1990",
+   "kind": "review",
+   "lang": "en",
+   "note": "Rocky Mountain Review of Language and Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/rmr.1990.0044",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-roger-b-1990-sea-brothers-tradition",
+   "title": "Sea-Brothers: The Tradition of American Sea Fiction from Moby-Dick to the Present by Bert Bender (review)",
+   "author": "Roger B. Stein",
+   "date": "1990",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in American fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/saf.1990.0006",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-christopher-w-1990-white-lies-melville",
+   "title": "White Lies: Melville's Narratives of Facts.",
+   "author": "Christopher W. Sten; John Samson",
+   "date": "1990",
+   "kind": "article",
+   "lang": "en",
+   "note": "American Literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/2927084",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-laurie-sterling-2008-bloom-s-how",
+   "title": "Bloom's How to Write About Herman Melville",
+   "author": "Laurie A. Sterling; Harold Bloom",
+   "date": "2008",
+   "kind": "book",
+   "lang": "en",
+   "note": "Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W436002031",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-milton-r-1988-mourning-gender-creativity",
+   "title": "Mourning, Gender, and Creativity in the Art of Herman Melville by Neal L. Tolchin (review)",
+   "author": "Milton R. Stern",
+   "date": "1988",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in American fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/saf.1988.0004",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-gerard-m-1992-melville-s-complaint",
+   "title": "Melville's Complaint: Doctors and Medicine in the Art of Herman Melville (review)",
+   "author": "Gerard M. Sweeney",
+   "date": "1992",
+   "kind": "article",
+   "lang": "en",
+   "note": "Literature and medicine. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lm.2011.0189",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-joseph-p-2006-not-just-another",
+   "title": "Not Just Another Frankenstein",
+   "author": "Joseph P. Tabbi",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "American book review/The American book review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/abr.2006.0080",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-george-thomas-1995-critical-editions-hypertexts",
+   "title": "Critical Editions, Hypertexts, and Genetic Criticism",
+   "author": "George Thomas Tanselle",
+   "date": "1995",
+   "kind": "article",
+   "lang": "en",
+   "note": "Romanic Review. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W317289254",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-george-thomas-2019-brief-history-northwestern",
+   "title": "A Brief History of the Northwestern-Newberry Edition",
+   "author": "George Thomas Tanselle; Meaghan M. Fritz",
+   "date": "2019",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2019.0020",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-corey-evan-2003-melville-s-cock",
+   "title": "Melville's \"Cock-A-Doodle-Doo!\": A Case Study in Bipolar Disorder",
+   "author": "Corey Evan Thompson",
+   "date": "2003",
+   "kind": "article",
+   "lang": "en",
+   "note": "The American Transcendental Quarterly. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W61281663",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-robert-deam-1991-epistemology-closet-review",
+   "title": "Epistemology of the Closet (review)",
+   "author": "Robert Deam Tobin",
+   "date": "1991",
+   "kind": "article",
+   "lang": "en",
+   "note": "Philosophy and literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/phl.1991.0039",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-richard-tuerk-1991-desire-political-unconscious",
+   "title": "Desire and the Political Unconscious in American Literature: Eros and Ideology by Sam B. Girgus",
+   "author": "Richard Tuerk",
+   "date": "1991",
+   "kind": "article",
+   "lang": "en",
+   "note": "Western American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/wal.1991.0078",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-i-ward-2011-search-healing-voices",
+   "title": "In Search of Healing Voices: Church and State in Charlotte Bronte's Shirley",
+   "author": "I. Ward",
+   "date": "2011",
+   "kind": "article",
+   "lang": "en",
+   "note": "Journal of Church and State. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1093/jcs/csr112",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-bryan-waterman-2002-men-s-worlds",
+   "title": "Men's Worlds",
+   "author": "Bryan Waterman",
+   "date": "2002",
+   "kind": "review",
+   "lang": "en",
+   "note": "Early American literature. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/eal.2002.0033",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-wenke-2006-edgar-dryden-monumental",
+   "title": "EDGAR A. DRYDEN Monumental Melville: The Formation of a Literary Career",
+   "author": "John Wenke",
+   "date": "2006",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1111/j.1750-1849.2006.00007_1.x",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-john-wenke-2016-facing-melville-facing",
+   "title": "Facing Melville, Facing Italy: Democracy, Politics, Translation ed. by John Bryant, Giorgio Mariani, and Gordon Poole",
+   "author": "John Wenke",
+   "date": "2016",
+   "kind": "review",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2016.0030",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-lloyd-whitesell-2020-review-philip-rupprecht",
+   "title": "Review of Philip Rupprecht. 2001. Britten’s Musical Language. Cambridge: Cambridge University Press",
+   "author": "Lloyd Whitesell",
+   "date": "2020",
+   "kind": "review",
+   "lang": "de",
+   "note": "DOAJ (DOAJ: Directory of Open Access Journals). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.7916/cm.v0i74.4913",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-carolyn-williams-2010-boston-years-eves",
+   "title": "The Boston Years: Eve’s Humor and Her Anger",
+   "author": "Carolyn Williams",
+   "date": "2010",
+   "kind": "article",
+   "lang": "en",
+   "note": "Criticism. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/crt.2010.0019",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-edlie-l-2016-writing-seamans-tale",
+   "title": "Writing the Seaman’s Tale in Law and Literature: Dana, Melville, and Justice Story by Kathryn Mudgett",
+   "author": "Edlie L. Wong",
+   "date": "2016",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2016.0032",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-thomas-woodson-1970-thoreau-poverty-magnanimity",
+   "title": "Thoreau on Poverty and Magnanimity",
+   "author": "Thomas Woodson",
+   "date": "1970",
+   "kind": "article",
+   "lang": "en",
+   "note": "PMLA/Publications of the Modern Language Association of America. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.2307/1261428",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-paul-m-2014-battle-pieces-aspects",
+   "title": "Battle-Pieces and Aspects of the Conference on Melville and Whitman in Washington",
+   "author": "Paul M. Wright",
+   "date": "2014",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2014.0012",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-joseph-j-1986-n-scott-momaday",
+   "title": "N. Scott Momaday: The Cultural and Literary Background (review)",
+   "author": "Joseph J. Wydeven",
+   "date": "1986",
+   "kind": "article",
+   "lang": "en",
+   "note": "Modern fiction studies. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/mfs.0.0052",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-brian-yothers-2017-introduction-reading-teaching",
+   "title": "Introduction: Reading and Teaching Clarel",
+   "author": "Brian Yothers",
+   "date": "2017",
+   "kind": "article",
+   "lang": "en",
+   "note": "Leviathan. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/lvn.2017.0031",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-philip-e-1988-melville-s-good",
+   "title": "Melville's Good-Bye: \"Daniel Orme\"",
+   "author": "PHILIP E. YOUNG",
+   "date": "1988",
+   "kind": "article",
+   "lang": "en",
+   "note": "Studies in American fiction. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.1353/saf.1988.0015",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-1993-melville-melville-studies",
+   "title": "Melville and Melville studies in Japan",
+   "author": "健三郎 大橋",
+   "date": "1993",
+   "kind": "book",
+   "lang": "en",
+   "note": "Greenwood Press eBooks. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W626614381",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2002-sights-invisible-plain",
+   "title": "\" Sights invisible from the plain \" : On Herman Melville's \" The Bell-Tower \"",
+   "author": "仁一 岡村",
+   "date": "2002",
+   "kind": "article",
+   "lang": "en",
+   "note": "Institutional Repositories DataBase (IRDB). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W424170363",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2002-3",
+   "title": "「悪魔の名に拠りて」エイハブのハルマゲドン",
+   "author": "泰三 谷本; Taizo Tanimoto",
+   "date": "2002",
+   "kind": "article",
+   "lang": "ja",
+   "note": "Institutional Repositories DataBase (IRDB). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://openalex.org/W7146358158",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2007-4",
+   "title": "닫힌 사회, 그리고 멜빌소설의 열린 구조",
+   "author": "김옥례",
+   "date": "2007",
+   "kind": "article",
+   "lang": "ko",
+   "note": "19세기 영어권 문학. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://openalex.org/W2151190820",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2002-4",
+   "title": "『베니토 세레노』에 나타난 허만 멜빌의 자연관과 인종에 관한 견해",
+   "author": "황문수",
+   "date": "2002",
+   "kind": "article",
+   "lang": "ko",
+   "note": "기초학문자료센터(KRM) (Korea Research Foundation). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY NC ND (OpenAlex)",
+   "url": "https://openalex.org/W2304691339",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-1984-hor-volume-11",
+   "title": "HOR volume 11 issue 2 Cover and Back matter",
+   "author": "",
+   "date": "1984",
+   "kind": "article",
+   "lang": "en",
+   "note": "Horizons. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1017/s0360966900033673",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-1997-taboo-not-taboo",
+   "title": "Taboo or not taboo? [review of \"forbidden knowledge: from prometheus to pornography\" (shattuck, r.; 1996) [book review]",
+   "author": "",
+   "date": "1997",
+   "kind": "review",
+   "lang": "en",
+   "note": "IEEE Spectrum. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.1109/mspec.1997.8054558",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2000-herman-melville-stargazer",
+   "title": "Herman Melville: stargazer",
+   "author": "",
+   "date": "2000",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.37-3248",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2000-cambridge-companion-benjamin",
+   "title": "The Cambridge companion to Benjamin Britten",
+   "author": "",
+   "date": "2000",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.37-3276",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2006-melville-his-world",
+   "title": "Melville: his world and work",
+   "author": "",
+   "date": "2006",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.43-4512",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2007-music-sexuality-britten",
+   "title": "Music and sexuality in Britten: selected essays",
+   "author": "",
+   "date": "2007",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.44-5552",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2008-herman-melville-introduction",
+   "title": "Herman Melville: an introduction",
+   "author": "",
+   "date": "2008",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.46-1338",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2014-political-companion-herman",
+   "title": "A Political companion to Herman Melville",
+   "author": "",
+   "date": "2014",
+   "kind": "review",
+   "lang": "en",
+   "note": "Choice Reviews Online. Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.5860/choice.51-7007",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
+  },
+  {
+   "id": "lib-2018-prudentia-iuris-2018",
+   "title": "Prudentia Iuris, 2018, n° 86 (número completo)",
+   "author": "",
+   "date": "2018",
+   "kind": "other",
+   "lang": "es",
+   "note": "Repositorio Institucional UCA (Pontificia Universidad Católica Argentina). Listed by OpenAlex, whose title-and-abstract search finds Billy Budd named in it; the work has not been read for this Library.",
+   "licence": "CC BY NC SA (OpenAlex)",
+   "url": "https://openalex.org/W7209896660",
+   "tags": [
+    "openalex-abstract"
+   ],
+   "relevance": "minimal"
   },
   {
    "id": "lib-adler-1992-dramatization-three-melville",
