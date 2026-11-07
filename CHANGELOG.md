@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.1)
+
+- **On bench-kit 1.8.8:** ratings as one to three stars on each cover and in each record, for every reader; a To read shelf, where a reader checks a work out for one to three months, with a library card, a reading log and their own notes (kept in their browser, or shared with the group through Hypothesis with a member's token).
+
 ## 0.4.0 (2026-11-07)
 
 - **The Library adds 1,621 works** whose full text, in OpenAlex's index, names *Billy Budd*. They are Minimal: how much each says is not known, and none has been read for the Library. Linked, not held.
