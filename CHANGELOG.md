@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.3.22)
+
+- **The Library's private shelf:** copies of 221 works that are free to read with no licence to copy, kept in the group's private repository and opened with a member's token. Everyone else sees the record, a line saying the group keeps a copy, and the link out.
+
 ## 0.3.21 (2026-11-07)
 
 - **The Library grows:** 2066 texts (+0), 72 of them held (+0), from the search of the literature on *Billy Budd* under way since 6 November.
