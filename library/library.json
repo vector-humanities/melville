@@ -812,6 +812,17 @@
    ]
   },
   {
+   "id": "lib-thompson-1924-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Thompson, Lawrence S.; Melville, Herman; Hayford, Harrison; Sealts, Merton M.",
+   "date": "1924-01-01",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Edition listed in OpenAlex with no abstract.",
+   "licence": "Public domain",
+   "url": "http://ci.nii.ac.jp/ncid/BA50271761"
+  },
+  {
    "id": "lib-melville-1924-billy-budd-sailor",
    "title": "Billy Budd, Sailor: An Inside Narrative",
    "author": "Melville, Herman",
@@ -2109,6 +2120,17 @@
    ]
   },
   {
+   "id": "lib-van-vechten-1951-portrait-charles-nolte",
+   "title": "[Portrait of Charles Nolte, as Billy Budd]",
+   "author": "Van Vechten,; Friddle, Carl; photographer",
+   "date": "1951-01-01",
+   "kind": "other",
+   "lang": "en",
+   "note": "Library of Congress eBooks. Item, Library of Congress eBooks.",
+   "licence": "In copyright",
+   "url": "https://picryl.com/media/portrait-of-charles-nolte-as-billy-budd-1"
+  },
+  {
    "id": "lib-williams-1951-premiere-britten-s",
    "title": "Premiere of Britten's \"Billy Budd\" Stirs London; Disciples",
    "author": "Williams, Stephen",
@@ -3028,6 +3050,20 @@
     "criticism",
     "inside-narrative",
     "subtitle"
+   ]
+  },
+  {
+   "id": "lib-1957-playbill-71st-year",
+   "title": "Playbill, for 71st year season 1956-57 , featuring the plays Speak No Returnings , Billy Budd and Alcestis in the Underworld ., 1956-57",
+   "author": "",
+   "date": "1957-01-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "Lehigh Preserve.",
+   "licence": "In copyright",
+   "url": "https://preserve.lehigh.edu/digital-special-collections/lehigh-photographs/mustard-cheese-drama-society-collection-box-3-2",
+   "tags": [
+    "criticism"
    ]
   },
   {
@@ -4189,6 +4225,17 @@
    "note": "",
    "licence": "No licence stated; free to read",
    "url": "https://core.ac.uk/works/122577833"
+  },
+  {
+   "id": "lib-desconegut-1963-billy-budd",
+   "title": "Billy Budd",
+   "author": "Desconegut",
+   "date": "1963-01-01",
+   "kind": "other",
+   "lang": "es",
+   "note": "Filmoteca. Item, Filmoteca.",
+   "licence": "Public domain",
+   "url": "https://repositori.filmoteca.cat/bitstream/handle/11091/89583/02463.jpg?sequence=1&isAllowed=n"
   },
   {
    "id": "lib-suits-1963-billy-budd-historical",
@@ -6438,6 +6485,17 @@
    ]
   },
   {
+   "id": "lib-melville-1973-billy-budd-piazza",
+   "title": "Billy Budd and the Piazza Tales",
+   "author": "Melville, Herman",
+   "date": "1973-01-01",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Edition listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "http://ci.nii.ac.jp/ncid/BA51334073"
+  },
+  {
    "id": "lib-1973-due-marinai-billy",
    "title": "Due marinai : Billy Budd, Benito Cereno",
    "author": "",
@@ -7631,6 +7689,21 @@
    ]
   },
   {
+   "id": "lib-1979-simplified-presentation-multi",
+   "title": "“A Simplified Presentation of the Multi-faceted Interpretation and Critical Views of Melville's Billy Budd, Sailor to Facilitate Classroom Teaching”",
+   "author": "孫安玲",
+   "date": "1979-01-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "http://dspace.lib.pu.edu.tw/handle/123456789/21663",
+   "tags": [
+    "criticism",
+    "pedagogy"
+   ]
+  },
+  {
    "id": "lib-marshall-1979-arichandra-billy-budd",
    "title": "Arichandra and Billy Budd",
    "author": "Marshall, Margaret Wiley",
@@ -8355,6 +8428,20 @@
    ]
   },
   {
+   "id": "lib-1982-billy-budd-mockery",
+   "title": "Billy Budd: A Mockery of Fate",
+   "author": "孫安玲",
+   "date": "1982-01-01",
+   "kind": "book",
+   "lang": "hu",
+   "note": "Book listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "http://140.128.7.10/handle/123456789/21169",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-thomas-1982-billy-budd-judgment",
    "title": "Billy Budd and the Judgment of Silence",
    "author": "Thomas, Brook",
@@ -8825,6 +8912,17 @@
     "adaptation",
     "pedagogy"
    ]
+  },
+  {
+   "id": "lib-williams-1984-billy-budd-moby",
+   "title": "Billy Budd and Moby Dick",
+   "author": "Williams, Guy R.; Melville, Herman",
+   "date": "1984-01-01",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Edition listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "http://ci.nii.ac.jp/ncid/BB09823352"
   },
   {
    "id": "lib-bagchee-1984-billy-budd-walden",
@@ -13232,6 +13330,20 @@
    ]
   },
   {
+   "id": "lib-schramm-1998-billy-budd-phallos",
+   "title": "Billy Budd on a Phallos Ship: Melville's Challenge to the Dominant Order",
+   "author": "Schramm, Darrell G. H.",
+   "date": "1998-01-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "",
+   "licence": "No licence stated; free to read",
+   "url": "https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1034&context=jx",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-1998-billy-budd-bartlebye",
    "title": "Billy Budd と Bartlebye と、他",
    "author": "前田, 禮子",
@@ -15956,6 +16068,20 @@
    ]
   },
   {
+   "id": "lib-2005-billy-budd-mock-3",
+   "title": "Billy Budd as a Mock-Hagiology: Accusation against the Patriarchs by Melville, a Psychologically Battered Child Budding into a Sanctimonious Child-Beater",
+   "author": "佐々木, 英哲; Sasaki, Eitetsu",
+   "date": "2005-02-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "Institutional Repositories DataBase (IRDB) no. 19, pp. 7-38.",
+   "licence": "CC BY-NC-ND",
+   "url": "https://stars.repo.nii.ac.jp/records/8518",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-2005-billy-budd-mock",
    "title": "Billy Budd as a Mock-Hagiology: Accusation against the Patriarchs by Melville, a Psychologically Battered Child Budding into a Sanctimonious Child-Beater (Special Issue Dedicated to Professor NAKAMURA, Shoko)",
    "author": "佐々木, 英哲",
@@ -17408,6 +17534,22 @@
    ]
   },
   {
+   "id": "lib-al-barznji-2008-innocence-when-dooms",
+   "title": "Innocence When Dooms tht Idealist Man in Melville's Billy Budd",
+   "author": "Al-Barznji, Instructor Luma Ibrahim",
+   "date": "2008-01-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "مجلة الفتح للبحوث التربوية والنفسية 4.33.",
+   "licence": "CC BY",
+   "url": "https://alfatehjournal.uodiyala.edu.iq/index.php/jfath/article/view/256",
+   "tags": [
+    "criticism"
+   ],
+   "file": "library/files/lib-al-barznji-2008-innocence-when-dooms.pdf",
+   "source": "OpenAlex best_oa_location.license; held from 2026-11-07"
+  },
+  {
    "id": "lib-2008-instinct-significance-billy",
    "title": "“Instinct with Significance”: Billy Budd",
    "author": "",
@@ -17724,11 +17866,13 @@
    "kind": "article",
    "lang": "es",
    "note": "Desde el Jardín de Freud 9, pp. 17-22. Psychoanalytic article using Billy Budd, marinero to set out the structure of passage to the act for clinical work.",
-   "licence": "No licence stated; free to read",
+   "licence": "CC BY-NC-ND",
    "url": "https://revistas.unal.edu.co/index.php/jardin/article/view/12189",
    "tags": [
     "psychoanalysis"
-   ]
+   ],
+   "file": "library/files/lib-zimmerman-2009-las-coordenadas-del.pdf",
+   "source": "OpenAlex best_oa_location.license; held from 2026-11-07"
   },
   {
    "id": "lib-quentel-2009-billy-budd-daniel",
@@ -19441,6 +19585,20 @@
    "url": "https://www.semanticscholar.org/paper/840f5ac058f652656f6e0aec7c2d0e69d7d8d50c"
   },
   {
+   "id": "lib-giri-2012-tragic-vision-melvilles",
+   "title": "The Tragic Vision in Melville’s Billy Budd, Sailor",
+   "author": "Giri, Gita",
+   "date": "2012-09-01",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://elibrary.tucl.edu.np/bitstream/123456789/315/2/Chapter%281%29.pdf",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-webb-2012-universal-cannibalism-things",
    "title": "The “Universal Cannibalism” of Things: A Historical, Psychoanalytic Treatment of Melville’s Bartleby, Benito Cereno, The Encantadas, and Billy Budd",
    "author": "Webb, David Potter Townsend",
@@ -20461,6 +20619,20 @@
    ]
   },
   {
+   "id": "lib-scott-childress-2014-nation-s-nature",
+   "title": "Nation's Nature: \"Billy Budd, Sailor,\" Anglo-Saxonism, and the Canon",
+   "author": "Scott-Childress, Reynolds J.",
+   "date": "2014-01-14",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://doi.org/10.4324/9781315805443-7",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-andres-2014-opaque-encounters-impossible",
    "title": "Opaque Encounters, Impossible Vicinities",
    "author": "Andrés, Rodrigo",
@@ -20534,6 +20706,20 @@
    ]
   },
   {
+   "id": "lib-levine-2014-craftsman-s-memory",
+   "title": "The Craftsman's Memory: Billy Budd in the Context of the Earlier Novels",
+   "author": "Levine, Stuart",
+   "date": "2014-02-25",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "KU ScholarWorks (University of Kansas). Honors essay for a BA in History and Literature on how Melville's early novels bear on Billy Budd.",
+   "licence": "No licence stated; free to read",
+   "url": "http://hdl.handle.net/1808/10036",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-berger-2014-disarticulate",
    "title": "The Disarticulate",
    "author": "Berger, James",
@@ -20577,6 +20763,21 @@
    "tags": [
     "criticism",
     "film"
+   ]
+  },
+  {
+   "id": "lib-dahal-2014-tragedy-justice-herman",
+   "title": "The Tragedy of Justice in Herman Melville’s Billy Budd, the Sailor",
+   "author": "Dahal, Ramesh Kumar",
+   "date": "2014-08-01",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://elibrary.tucl.edu.np/bitstream/123456789/3100/3/chapter.pdf",
+   "tags": [
+    "criticism",
+    "law-and-literature"
    ]
   },
   {
@@ -20837,6 +21038,21 @@
    ]
   },
   {
+   "id": "lib-2015-department-theatre-media",
+   "title": "Department of Theatre and Media Arts records on Billy Budd and on Brigadoon",
+   "author": "",
+   "date": "2015-02-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "Digital Collections at BYU.",
+   "licence": "In copyright",
+   "url": "http://sc.lib.byu.edu/",
+   "tags": [
+    "criticism",
+    "stage"
+   ]
+  },
+  {
    "id": "lib-navarro-2015-el-sentido-politico",
    "title": "El sentido político de la democracia: Billy budd vs. Wittgenstein",
    "author": "Navarro, J. B.",
@@ -20985,6 +21201,21 @@
    "licence": "In copyright",
    "url": "https://doi.org/10.4467/23538953ce.15.022.4371",
    "tags": [
+    "film"
+   ]
+  },
+  {
+   "id": "lib-kennedy-karpat-2015-recognizing-billy-budd",
+   "title": "Recognizing Billy Budd in Beau Travail : epistemology and hermeneutics of an auteurist 'free'adaptation",
+   "author": "Kennedy-Karpat, Colleen",
+   "date": "2015-06-10",
+   "kind": "article",
+   "lang": "en",
+   "note": "Bilkent University Institutional Repository (Bilkent University).",
+   "licence": "In copyright",
+   "url": "http://hdl.handle.net/11693/1477",
+   "tags": [
+    "criticism",
     "film"
    ]
   },
@@ -21266,6 +21497,20 @@
    ]
   },
   {
+   "id": "lib-coviello-2016-billy-budd-bartleby",
+   "title": "Billy Budd, Bartleby, and Other Stories by Herman Melville & Peter M. Coviello Classics",
+   "author": "Coviello, Herman Melville Peter M.",
+   "date": "2016-04-26",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://bolo.cpcaga.org/public/998405416_billy_budd_bartleby_and_other_by_herman_melville_.html",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-terestchenko-2016-billy-budd-innocence",
    "title": "Billy Budd, Innocence and the Mystery of Iniquity",
    "author": "Terestchenko, Michel",
@@ -21407,6 +21652,21 @@
    ]
   },
   {
+   "id": "lib-sen-2016-blurring-power-justice",
+   "title": "Blurring of Power as Justice in Herman Melville‟s Billy Budd, the Sailor",
+   "author": "Sen, Shraddha",
+   "date": "2016-02-01",
+   "kind": "thesis",
+   "lang": "en",
+   "note": "Thesis listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://elibrary.tucl.edu.np/bitstream/123456789/3233/3/13040.pdf",
+   "tags": [
+    "criticism",
+    "law-and-literature"
+   ]
+  },
+  {
    "id": "lib-goldman-2016-bringing-out-beast",
    "title": "BRINGING OUT THE BEAST IN MELVILLE'S \"BILLY BUDD\": THE DIALOGUE OF DARWINIAN AND \"HOLY\" LEXICONS ON BOARD THE 'BELLIPOTENT'",
    "author": "Goldman, Eric A.",
@@ -21471,6 +21731,21 @@
    "url": "https://doi.org/10.4324/9781315745305-12",
    "tags": [
     "philosophy",
+    "claggart"
+   ]
+  },
+  {
+   "id": "lib-arouimi-2016-ii-un-claggart",
+   "title": "II. Un Claggart horloger",
+   "author": "Arouimi, Michel",
+   "date": "2016-01-01",
+   "kind": "chapter",
+   "lang": "fr",
+   "note": "Cairn.info.",
+   "licence": "In copyright",
+   "url": "https://shs.cairn.info/ecrire-selon-la-rose--9782705691547-page-133?lang=fr",
+   "tags": [
+    "criticism",
     "claggart"
    ]
   },
@@ -22233,6 +22508,20 @@
    ],
    "file": "library/files/lib-stein-2017-narratives-blood-justice.pdf",
    "source": "DataCite rightsList (https://creativecommons.org/licenses/by/4.0/legalcode); held from 2026-11-06"
+  },
+  {
+   "id": "lib-yothers-2017-billy-budd",
+   "title": "On Billy Budd",
+   "author": "Yothers, Brian",
+   "date": "2017-01-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "Article listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://works.bepress.com/brian_yothers/59/",
+   "tags": [
+    "criticism"
+   ]
   },
   {
    "id": "lib-2017-opera-after-1900",
@@ -23352,6 +23641,20 @@
    ]
   },
   {
+   "id": "lib-melville-2019-billy-budd-foretopman",
+   "title": "Billy Budd, Foretopman",
+   "author": "Melville, Herman; 北川, 悌二",
+   "date": "2019-11-21",
+   "kind": "article",
+   "lang": "en",
+   "note": "",
+   "licence": "CC BY-SA",
+   "url": "http://ota.ox.ac.uk/headers/3174.xml",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
    "id": "lib-marsoin-2019-billy-budd-chute",
    "title": "Billy Budd: la chute de l'éromène",
    "author": "Marsoin, Édouard",
@@ -23913,6 +24216,17 @@
    ]
   },
   {
+   "id": "lib-berg-2019-selections-wozzeck-billy",
+   "title": "Selections from Wozzeck and Billy Budd",
+   "author": "Berg, Alban, 1885-1935 (Composer); Britten, Benjamin, 1913-1976 (Composer)",
+   "date": "2019-12-03",
+   "kind": "other",
+   "lang": "de",
+   "note": "Cardinal Scholar (Ball State University). Item, Cardinal Scholar (Ball State University).",
+   "licence": "In copyright",
+   "url": "http://dmr.bsu.edu/cdm/ref/collection/LLawSheetMusc/id/467"
+  },
+  {
    "id": "lib-kekes-2019-should-we-forgive",
    "title": "Should We Forgive Wrong Actions?",
    "author": "Kekes, J.",
@@ -24158,6 +24472,23 @@
    ]
   },
   {
+   "id": "lib-melville-2020-billy-budd-bartleby",
+   "title": "Billy Budd, Bartleby, and Other Stories",
+   "author": "Melville, Herman; Coviello, Peter",
+   "date": "2020-12-14",
+   "kind": "edition",
+   "lang": "en",
+   "note": "Edition listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://ci.nii.ac.jp/ncid/BB21304886",
+   "tags": [
+    "politics",
+    "race",
+    "editing",
+    "genetic-text"
+   ]
+  },
+  {
    "id": "lib-melville-2020-billy-budd-librivox",
    "title": "Billy Budd (LibriVox recording)",
    "author": "Melville, Herman; ScientificMethodist (reader)",
@@ -24365,6 +24696,20 @@
    "note": "",
    "licence": "No licence stated; free to read",
    "url": "https://core.ac.uk/works/411024910",
+   "tags": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "lib-custals-2020-billy-budd-sailor",
+   "title": "Billy Budd, Sailor",
+   "author": "Custals, Patricia",
+   "date": "2020-04-21",
+   "kind": "book",
+   "lang": "en",
+   "note": "Book listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://www.amazon.com/Billy-Sailor-Jumbled-Patricia-Custals-ebook/dp/B087F73CJB",
    "tags": [
     "criticism"
    ]
@@ -24742,6 +25087,22 @@
    ],
    "file": "library/files/lib-skonieczny-2020-three-spheres-catatonia.pdf",
    "source": "OpenAlex best_oa_location.license; held from 2026-11-06"
+  },
+  {
+   "id": "lib-won-2020-veres-secret-gift",
+   "title": "Vere’s Secret and Gift of Death: the Aporia of Law and Justice in Billy Budd, Sailor",
+   "author": "Won, Chul",
+   "date": "2020-01-01",
+   "kind": "article",
+   "lang": "en",
+   "note": "새한영어영문학 62.1, pp. 67-84.",
+   "licence": "No licence stated; free to read",
+   "url": "https://doi.org/10.25151/nkje.2020.62.1.004",
+   "tags": [
+    "criticism",
+    "law-and-literature",
+    "vere"
+   ]
   },
   {
    "id": "lib-barnes-2020-who-aint-slave",
@@ -29234,6 +29595,20 @@
    "tags": [
     "opera",
     "reception"
+   ]
+  },
+  {
+   "id": "lib-melville-billy-budd-ein",
+   "title": "Billy Budd Ein Bericht aus erster Hand",
+   "author": "Melville, Herman; Pechmann, Alexander",
+   "date": "",
+   "kind": "article",
+   "lang": "de",
+   "note": "Article listed in OpenAlex with no abstract.",
+   "licence": "In copyright",
+   "url": "https://deposit.dnb.de/cgi-bin/dokserv?id=51956ab789ff410ca3c15b729f196da0",
+   "tags": [
+    "criticism"
    ]
   },
   {
