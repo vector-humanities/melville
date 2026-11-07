@@ -2,7 +2,7 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
-## Unreleased (0.3.33)
+## Unreleased (0.3.34)
 
 - **The Library:** the full notes restored on the first 90 entries, which had been cut to their first sentence, so that an entry such as Arendt’s *On Revolution* now says where it treats *Billy Budd*.
 - **Arendt's *On Revolution*:** its note checked against the text, with a page-by-page guide to where she treats *Billy Budd*.
