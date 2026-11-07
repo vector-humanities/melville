@@ -96,13 +96,13 @@
     dictionaries: [{ id: 'webster', name: 'Webster’s Revised Unabridged Dictionary (1913)', short: 'Webster’s 1913', url: 'data/webster.json',
                      credit: 'Webster’s Revised Unabridged Dictionary (1913), from Project Gutenberg’s text (ebook 29765); the definitions only.', licence: 'Public domain in the United States' }],
     wordFreq: { url: 'data/wordfreq.json', name: 'wordfreq', credit: 'Robyn Speer, wordfreq 3: Zipf frequency in present-day English (CC BY-SA 4.0).' },
-    group: '',                                             // the Hypothesis group's ID, once one is made
+    group: 'M44ADKap',                                     // the project's Hypothesis group (hypothes.is/groups/M44ADKap/melville-billy-budd)
     relation: 'Billy Budd, ',
     topShare: false,
     settings: {
       tour: 'A few stops through reading, comparing and annotating; about a minute.',
-      groupHint: 'Annotations are shared through a Hypothesis group: paste its link or ID, and a personal API token (hypothes.is/account/developer). Without them, annotations are kept as drafts in this browser and can be exported or published later.',
-      groupPlaceholder: 'https://hypothes.is/groups/…',
+      groupHint: 'Annotations are shared through the project’s private Hypothesis group, <b>M44ADKap</b> (set for you). Help ▸ Getting set up takes you through joining it and your token. The group box below is only for using a different group. Without a token, annotations are kept as drafts in this browser and can be exported or published later.',
+      groupPlaceholder: 'https://hypothes.is/groups/M44ADKap/melville-billy-budd',
       themeHint: 'The colours of the whole bench: texts, annotations and figures. The ◐ button in the top bar switches between your last light and dark themes.'
     },
     tag: 'bk:',
