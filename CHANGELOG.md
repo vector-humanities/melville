@@ -2,6 +2,11 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.3.19)
+
+- **On bench-kit 1.4.0:** the Filters column opens and folds with the window's width; S, M and L cover sizes.
+- **The Library checked:** every DOI looked up at Crossref, DataCite or doi.org, every other link tested, every held file opened. A logo held in place of an article, a licence the journal contradicts and an unconfirmed one taken off the public shelf (Vermeulen, Cazé, Meyers-Skredsvig); one PDF held twice made one; licence versions corrected from the publishers' pages; works the search no longer keeps, false matches (a cyberbullying chatbot called Billy Buddy, two software files) and duplicates removed.
+
 ## 0.3.18 (2026-11-07)
 
 - **The Library grows:** 2076 texts (+27), 75 of them held (+2), from the search of the literature on *Billy Budd* under way since 6 November.
