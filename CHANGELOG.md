@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.3.24)
+
+- **On bench-kit 1.7.0.** The Library opens in order of relevance: works on *Billy Budd*, then works with a section on it, then passing mentions and the sources around it, with works not read last. Each entry carries the tag. Books gain covers as they are found, matched to the edition (held small in `library/thumbs/`).
+
 ## 0.3.23 (2026-11-07)
 
 - **On bench-kit 1.6.0:** Share in a Library entry's box, and a preview card for links to the Library, on a small page of its own (`library/index.html`).
