@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.2)
+
+- **On bench-kit 1.8.9:** a Library entry's actions as one row of icons, with To read as a small menu; To read as cards or a list; call numbers on card labels and the spines of drawn books. The Library's introduction is cut to one sentence.
+
 ## Unreleased (0.4.1)
 
 - **On bench-kit 1.8.8:** ratings as one to three stars on each cover and in each record, for every reader; a To read shelf, where a reader checks a work out for one to three months, with a library card, a reading log and their own notes (kept in their browser, or shared with the group through Hypothesis with a member's token).
