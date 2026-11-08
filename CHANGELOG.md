@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.10)
+
+- **The Library's records:** missing authors and dates filled from Crossref and OpenAlex where the source's title matches; editors and translators moved from `author` to `contributor` (the Schopenhauer translations Melville owned among them); journals' cover and front matter, listed as if they were works, removed. Each change is logged.
+
 ## Unreleased (0.4.9)
 
 - **On bench-kit 1.8.16:** To read cards in author order, each on its own paper; an Annotated filter in Paratexts; editors, translators and page counts carried into the Zotero export.
