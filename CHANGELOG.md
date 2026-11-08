@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.8)
+
+- **On bench-kit 1.8.15:** views no longer repeat their menu item as a heading; the current menu item is marked in the bench's colour; Library and To read look like tabs, and the Library's description now feeds only its preview card.
+
 ## Unreleased (0.4.7)
 
 - **On bench-kit 1.8.14:** no doubled lines on a To read card after checking a work out with a token.
