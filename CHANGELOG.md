@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.21)
+
+- **On bench-kit 1.8.27:** the To read tab hides the card catalogue and gallery buttons and marks Covers; a chosen button shows its full border; a work's box and a finding's box show only the reactions left, each with who left it, then ☺+ for the rest.
+
 ## Unreleased (0.4.20)
 
 - **On bench-kit 1.8.26:** the back of a book card uses the card's own paper, yellowing and worn edges; the Renew menu on a card is a light paper slip in every theme, readable in the dark theme.
