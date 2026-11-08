@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.14)
+
+- **On bench-kit 1.8.20:** the gallery's pane lays out a work's box by its own width.
+
 ## Unreleased (0.4.13)
 
 - **On bench-kit 1.8.19:** the Library's tabs and toolbar stay pinned as the list scrolls; filters fold away behind a funnel; a gallery view, with the list on the left and the chosen work's box on the right; the library card in Settings turns over.
