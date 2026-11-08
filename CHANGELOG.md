@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.7)
+
+- **On bench-kit 1.8.14:** no doubled lines on a To read card after checking a work out with a token.
+
 ## Unreleased (0.4.6)
 
 - **On bench-kit 1.8.13:** export to Zotero in each work's box, beside Share, for that work only (RIS or BibTeX, downloaded or copied); due dates on the To read shelf counted in What's new; a plain line when GitHub no longer accepts a saved token.
