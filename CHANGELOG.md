@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.17)
+
+- **On bench-kit 1.8.23:** the Library's gallery rows show a work's Key Work mark before its title, and its level and the group's stars after the author and year; the ☰ list adds the level. Essential is in red, High in the accent colour, the rest fainter.
+
 ## Unreleased (0.4.16)
 
 - **On bench-kit 1.8.22:** the Library's covers and list draw 150 works at a time, more as the reader scrolls, so its 3,929 works open quickly; the gallery fetches ahead; cover images fade in over the drawn cover; a lighter look for a work's box.
