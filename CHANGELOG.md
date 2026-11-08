@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.19)
+
+- **On bench-kit 1.8.25:** book cards turn over again (the back had gone blank); the To read shelf draws when there are loans from before 1.8.16; Settings ▸ Library has Wipe my loan history, which asks first and keeps other members' loans; the image-queue tests wait for the queue to settle.
+
 ## Unreleased (0.4.18)
 
 - **On bench-kit 1.8.24:** a work with no notes opens in one column, with its stars and Add note at the end of its actions; Add note slides out the notes panel ready to write. Paratexts with no notes show Add note in place of the empty frame; the empty quotation bar is gone; Settings ▸ Library's card is 320 px across and fits the bench's whole name.
