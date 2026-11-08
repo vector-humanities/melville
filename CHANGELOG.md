@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.12)
+
+- **On bench-kit 1.8.18:** a report's or web page's title in italics in its citation; a reader's library card in Settings ▸ Library.
+
 ## Unreleased (0.4.11)
 
 - **On bench-kit 1.8.17:** works with no author cited and sorted by Cite Them Right Harvard (editors as (ed.) or (eds), news and magazines under the publication, else the title then the year); titles in any script sort.
