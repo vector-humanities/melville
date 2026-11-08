@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.5)
+
+- **On bench-kit 1.8.12:** the Library exports what is shown as RIS or BibTeX, to download or to copy for Zotero's Import from Clipboard; To read can be ordered, with the date due first, and its reading log folds shut; a note added from a card's back shows there at once.
+
 ## Unreleased (0.4.4)
 
 - **On bench-kit 1.8.11:** a card's back is blank where the group has no notes, and every back has a small Add Annotation at its lower right; Library and To read as tabs, with one Show menu.
