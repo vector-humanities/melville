@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.4)
+
+- **On bench-kit 1.8.11:** a card's back is blank where the group has no notes, and every back has a small Add Annotation at its lower right; Library and To read as tabs, with one Show menu.
+
 ## Unreleased (0.4.3)
 
 - **On bench-kit 1.8.10:** a card catalogue in the Library, with drawers by author, title, subject or relevance; a card turns over to show the group's notes on the work; a loan made without a token goes to the group once one is set.
