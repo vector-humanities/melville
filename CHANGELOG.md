@@ -2,9 +2,13 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.6)
+
+- **On bench-kit 1.8.13:** export to Zotero in each work's box, beside Share, for that work only (RIS or BibTeX, downloaded or copied); due dates on the To read shelf counted in What's new; a plain line when GitHub no longer accepts a saved token.
+
 ## Unreleased (0.4.5)
 
-- **On bench-kit 1.8.12:** the Library exports what is shown as RIS or BibTeX, to download or to copy for Zotero's Import from Clipboard; To read can be ordered, with the date due first, and its reading log folds shut; a note added from a card's back shows there at once.
+- **On bench-kit 1.8.12:** To read can be ordered, with the date due first, and its reading log folds shut; a note added from a card's back shows there at once.
 
 ## Unreleased (0.4.4)
 
