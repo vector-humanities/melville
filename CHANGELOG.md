@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.22)
+
+- **On bench-kit 1.8.28:** the test page no longer leaves its loans and card entries in the bench's storage; the figure-box tests wait for the file.
+
 ## Unreleased (0.4.21)
 
 - **On bench-kit 1.8.27:** the To read tab hides the card catalogue and gallery buttons and marks Covers; a chosen button shows its full border; a work's box and a finding's box show only the reactions left, each with who left it, then ☺+ for the rest.
