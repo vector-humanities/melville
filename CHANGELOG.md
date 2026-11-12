@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.24)
+
+- **The Library's card** uses the bench's card image (Eaton's Melville) in place of the shelf of books; links to Paratexts, like every tab, already show it.
+
 ## Unreleased (0.4.23)
 
 - **A preview card for the bench:** a link to any tab or view of the bench, posted in a chat or on social media, now shows a card: Joseph Oriel Eaton's 1870 portrait of Melville (Houghton Library; public domain) beside "Melville Research Bench: *Billy Budd* and the short tales" (`img/share-card.jpg`, 1200 × 630, 95 KB). The Library keeps its own card, its image now named in `library.card` so that it stays the shelf of books.
