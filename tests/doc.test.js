@@ -91,8 +91,15 @@
           if (bl.t === 'pb') { leaf = {}; want.push(leaf); return; }
           if (leaf && bl.t === 'ab' && !bl.rend) bl.spans.forEach(function (sp) { if (sp.n != null && /\S/.test(sp.s)) leaf[sp.n] = 1; });
         });
+        var zoneBands = 0, zoneBad = [];
         dd.blocks.filter(function (bl) { return bl.t === 'pb'; }).forEach(function (bl, k) {
-          var ls = bl.lines || [], W = bl.size[0], H = bl.size[1];
+          var W = bl.size[0], H = bl.size[1];
+          // the corner and margin notes' bands, from their zones' boxes: on the leaf
+          (bl.lines || []).filter(function (l) { return l.zone; }).forEach(function (l) {
+            var b = l.box; zoneBands++;
+            if (!(b[0] >= 0 && b[1] >= 0 && b[2] <= W && b[3] <= H && b[2] > b[0] && b[3] > b[1])) zoneBad.push(bl.facs + ':' + l.n);
+          });
+          var ls = (bl.lines || []).filter(function (l) { return !l.zone; });
           if (ls.map(function (l) { return l.n; }).join() !== Object.keys(want[k]).join()) bandBad.push(bl.facs + ' lines');
           ls.forEach(function (l, i) {
             var b = l.box; bands++; if (l.measured) measured++;
@@ -101,6 +108,8 @@
           });
         });
         T.eq('every line of a leaf’s main text has a band, on the leaf and below the one before', bandBad.slice(0, 5), []);
+        T.yes('the corner and margin notes MEL gives zones for have bands (' + zoneBands + ')', zoneBands >= 30);
+        T.eq('every corner or margin note’s band is on the leaf', zoneBad.slice(0, 5), []);
         T.yes('a quarter or more of the bands lie on a revision’s box (' + measured + ' of ' + bands + ')', measured > bands / 4);
         var first = bs[0].lines[0].map(function (L) { return L.raw; });
         T.group('Document, readings');
