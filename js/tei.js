@@ -176,7 +176,9 @@
   Doc.prototype.result = function () { this.close(); return { text: this.lines.join('\n') + '\n', doc: { blocks: this.blocks } }; };
 
   // ---------- the manuscript ----------
-  var MOUNT = '[This leaf is not part of this stage of the text. Advance the slider (above) to see it.]';
+  // MEL's "[See next leaf for transcription of text on this mount.]": the text on the slip mounted on this
+  // leaf is transcribed with the next leaf, which the link at the leaf's head (→ img_9) opens
+  var MOUNT = '[The text on the slip mounted on this leaf is transcribed with the next leaf: follow the link above.]';
   function ms(node, mode, D, marks, key, restored, svc) {
     for (var c = node.firstChild; c; c = c.nextSibling) {
       if (c.nodeType === 3) { D.put(c.nodeValue, marks, key); continue; }
