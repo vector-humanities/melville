@@ -7,7 +7,7 @@
 (function (root) {
   'use strict';
   var B = root.SW.BENCH;
-  B.tourOffer = 'A short tour shows how to read, collate and annotate the texts (five stops, about a minute).';
+  B.tourOffer = 'A short tour shows how to read, collate and annotate the texts (six stops, about a minute).';
   B.tours = {
     welcome: { title: 'Welcome to the bench', stops: [
       { title: 'Welcome to the bench', v: 'mel-rt', tab: 'read', focus: '#tabs [data-menu="read"]',
@@ -16,6 +16,8 @@
         text: 'The reading text a sentence to a line, the manuscript a line of the leaf to a line; [img_5] marks the leaf. Click a line to select it (shift-click for a range); the bar below offers Annotate, Copy citation and the rest.' },
       { title: 'Annotating together', v: 'mel-rt', tab: 'read', find: /Handsome Sailor/, focus: '#rd-selbar',
         text: 'Annotations are signed with your initials and dated, and shared with the group through Hypothesis. Set your initials and the group under ⚙ Settings.' },
+      { title: 'The manuscript in Book', v: 'ms-dipl', tab: 'book', focus: '#tabs [data-tab="book"]',
+        text: 'Book sets each leaf beside its image from Houghton. The slider steps through Melville’s stages of revision; Every revision shows them all at once, and moving the slider turns it off. A line under the pointer lights its place on the leaf, and a click on the leaf goes back to the line.' },
       { title: 'Collate two versions', v: 'ms-first', tab: 'compare', b: 'ms-final', focus: '#tabs [data-menu="versions"]',
         text: 'Versions ▸ Collate sets two versions side by side, as text or leaf by leaf; in Book, Compare sets a second text facing the first.' },
       { title: 'Findings and My notes', v: 'mel-rt', tab: 'findings', focus: '#tabs [data-tab="notes"]',

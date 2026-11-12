@@ -1,7 +1,7 @@
 # Melville Research Bench
 
 **Project:** David M. Berry and Michael Jonik (University of Sussex)  
-**Version:** 0.4.30 (bench-kit 1.9.8)  
+**Version:** 0.4.31 (bench-kit 1.9.8)  
 **Live:** https://vector-humanities.github.io/melville/  
 **DOI:** [10.5281/zenodo.23715253](https://doi.org/10.5281/zenodo.23715253) (all versions)
 
@@ -25,7 +25,10 @@ The manuscript is in the Houghton Library, Harvard University: Herman Melville p
 ## What is here
 
 - **Read**: each version line by line, with a search, annotations shared through a Hypothesis group, citations, export to Word and Markdown, and a reading edition.
-- **Book**: the text set in leaves, each beside its image from Houghton; the manuscript as one text with a slider through its stages of composition (Play, Every revision); a second text facing it at the same leaf (Compare); annotation and links from a selection.
+- **Book**: the text set in leaves, each beside its image from Houghton; a second text facing it at the same leaf (Compare); annotation and links from a selection.
+  - **Stages:** the manuscript is one text with a slider through its stages of composition. ▶▶ runs through them; **Every revision** shows all of them at once, additions raised and deletions struck, each with its hand and stage. Moving the slider, or ◀ ▶, turns Every revision off and shows the text at that stage.
+  - **Text and image:** a line of the text under the pointer lights its band on the leaf's image, and a selection lights every line it covers; a click on the image goes the other way. MEL gives boxes only for the revisions, so `js/tei.js` estimates a band for each line of a leaf's main text from them. The corner and margin notes (folio numbers, dates and notes) take the box MEL gives their zone; the few MEL gives no zone, such as Houghton's shelfmark, are not lit. Settings ▸ Book ▸ Highlight links sets the colour, or turns the links off.
+  - **Leaves transcribed elsewhere:** where MEL transcribes a leaf's text with another (img_7's mount, with img_9; img_521 and img_521b), a link at the head of the leaf goes there.
 - **Text ▾**: lenses on a version, or across the versions, in three groups.
   - **The manuscript**: the revisions on each leaf, how the story grew stage by stage, every revision with its stage, hand and medium, and the words of Melville's additions set against those of his deletions.
   - **Words**: the lines that contain a word, word frequencies, a word cloud stepped through the chapters or the manuscript's stages, collocates with every occurrence in context, and rare words with their definitions in Webster's 1913.
@@ -33,7 +36,10 @@ The manuscript is in the Houghton Library, Harvard University: Herman Melville p
 
   A version is read in its chapters: the reading text's files (MEL's editor's note left out), or for the manuscript its leaves, each in the chapter of the reading text that first marks it. The statistics, the word cloud and the topics are the kit's (`kit/textstats.js`, `kit/wordcloud.js`, and `kit/topics.js` on mallette for the Topics tab, which took the place of lens 8 in 0.3.9); the lenses are `js/analyse.js` and `js/distant.js`, which also gives the Topics tab its documents. 📕 **Look up**, on a word selected in Read or Book, gives its entries in Webster's Revised Unabridged Dictionary (1913) with its frequency in present-day English (wordfreq); `tools/dictionary.py` makes `data/webster.json` and `data/wordfreq.json`.
 - **Versions ▾**: each version's record and **Collate** (as text, or leaf by leaf).
-- **Findings**, **My notes**, **Paratexts** and **Help**, as in every bench-kit bench.
+- **Library**: works for wider reading on *Billy Budd*: the editions, its sources and naval history, the Somers affair, Melville's reading, the criticism and the adaptations, each with a relevance level from Essential to Minimal. Open-access works are held in `library/files/`; the rest are links, and a private shelf, held in the project's private repository, opens for members with a GitHub token. `library/library.json` is the list. The group's ratings and Key Work marks are published daily for readers without a token (`.github/workflows/library-snapshot.yml`, `library/group.json`; no note text).
+- **Findings**, **My notes**, **Paratexts** and **Help**, as in every bench-kit bench. The Paratexts are held in a private repository, `vector-humanities/melville_paratexts`.
+
+A link to any view of the bench, posted in a chat or on social media, shows a preview card: Joseph Oriel Eaton's 1870 portrait of Melville beside the bench's name (`img/share-card.jpg`, 1200 × 630; the tags are in `index.html`). The Library has its own card page, `library/index.html`, which the kit writes at each release from `library.card` in `js/config.js`.
 
 ## Running it locally
 
@@ -46,6 +52,16 @@ python3 -m http.server 8000
 ```
 
 and open `http://localhost:8000/`. The texts are fetched from GitHub, so the bench needs a network connection.
+
+## Tests and publishing
+
+The tests are bench-kit's runner over every page in `tests/` (the kit's and the bench's own, `tests/doc.test.js`), in headless Chrome:
+
+```
+node kit/tools/test.js --dir .
+```
+
+GitHub Pages publishes the site from `.github/workflows/tests.yml` (**Tests and deploy**): each push to `main` runs the tests, and the site is published only if they pass. The workflow also runs after the daily Library snapshot, whose commit starts no workflow of its own. A release raises the version with `node kit/tools/release.js next --dir .`, which sets the `?v=` on every script and stylesheet in `index.html`.
 
 ## Methods: a bibliography
 
@@ -73,6 +89,6 @@ The DOI above resolves to the latest version. Each release has its own DOI on Ze
 
 ## Licence
 
-The bench's code is GPL-3.0 (`LICENSE`); the kit is GPL-3.0. Melville's texts are in the public domain. The transcriptions, encoding and notes the bench reads are MEL's and remain under MEL's terms. `data/webster.json` is taken from Webster's Revised Unabridged Dictionary (1913), in the public domain in the United States (from Project Gutenberg's text; the definitions only); `data/wordfreq.json` is from wordfreq, CC BY-SA 4.0.
+The bench's code is GPL-3.0 (`LICENSE`); the kit is GPL-3.0. Melville's texts are in the public domain. The transcriptions, encoding and notes the bench reads are MEL's and remain under MEL's terms. `data/webster.json` is taken from Webster's Revised Unabridged Dictionary (1913), in the public domain in the United States (from Project Gutenberg's text; the definitions only); `data/wordfreq.json` is from wordfreq, CC BY-SA 4.0. The portrait on the preview card, Joseph Oriel Eaton's *Herman Melville* (May 1870, Houghton Library, Harvard University), is in the public domain, from Wikimedia Commons.
 
 [![DOI](https://zenodo.org/badge/1428696893.svg)](https://doi.org/10.5281/zenodo.23715253)

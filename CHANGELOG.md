@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.31)
+
+- **README and the tour brought up to date:** the README describes the Book's stages and Every revision, the link between a line and its place on the leaf (with the corner and margin notes), the leaves transcribed elsewhere, the Library, the preview card and its portrait's credit, and how the tests and publishing work. The welcome tour has a stop on the manuscript in Book (six stops).
+
 ## Unreleased (0.4.30)
 
 - **On bench-kit 1.9.8:** Settings ▸ Book fits its pane: a smaller page picture with the trim controls beside it, Highlight links on one row, shorter hints.
