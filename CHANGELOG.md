@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.30)
+
+- **On bench-kit 1.9.8:** Settings ▸ Book fits its pane: a smaller page picture with the trim controls beside it, Highlight links on one row, shorter hints.
+
 ## Unreleased (0.4.29)
 
 - **img_7's note corrected:** in place of MEL's "[See next leaf for transcription of text on this mount.]" the bench had said the leaf was not part of the stage and that advancing the slider would show it, which it never did. It now reads "[The text on the slip mounted on this leaf is transcribed with the next leaf: follow the link above.]", the link being → img_9.
