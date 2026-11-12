@@ -288,7 +288,21 @@
         if (leaf.pbs.length === 0) by.push(leaf);
         leaf.pbs.push(own = { pb: bl, ns: {} }); return;
       }
-      if (!leaf || bl.t !== 'ab' || bl.rend) return;
+      if (!leaf || bl.t !== 'ab') return;
+      if (bl.rend) {
+        // a corner or margin note (a folio number, a date): its band is the box of the zones its text names
+        bl.spans.forEach(function (sp) {
+          if (sp.n == null || !/\S/.test(sp.s)) return;
+          sp.marks.forEach(function (m) {
+            var z = m.zone && zones[m.zone];
+            if (!z) return;
+            var b = own.zl = own.zl || {}, o = b[sp.n];
+            var bx = [Math.min(z[0], z[2]), Math.min(z[1], z[3]), Math.max(z[0], z[2]), Math.max(z[1], z[3])];
+            b[sp.n] = o ? [Math.min(o[0], bx[0]), Math.min(o[1], bx[1]), Math.max(o[2], bx[2]), Math.max(o[3], bx[3])] : bx;
+          });
+        });
+        return;
+      }
       var H = (leaf.pb.size || [0, 0])[1];
       bl.spans.forEach(function (sp) {
         if (sp.n == null || !/\S/.test(sp.s)) return;
@@ -340,6 +354,17 @@
         return { n: n, box: [Math.round(x0), y0, Math.round(x1), y1], measured: on };
       });
       L.pbs.forEach(function (o) { o.pb.lines = bands.filter(function (l) { return o.ns[l.n]; }); });
+    });
+    // the corner and margin notes, after the main text's bands, in line order
+    by.forEach(function (L) {
+      if (!L.pb.size) return;
+      L.pbs.forEach(function (o) {
+        if (!o.zl) return;
+        var add = Object.keys(o.zl).map(Number).filter(function (n) { return !o.ns[n]; }).map(function (n) {
+          return { n: n, box: o.zl[n], measured: true, zone: true };
+        });
+        if (add.length) o.pb.lines = (o.pb.lines || []).concat(add).sort(function (a, b) { return a.n - b.n; });
+      });
     });
   }
   // the leaf each of MEL's notes points to: the next leaf; a leaf by its number ("see leaf 561");
