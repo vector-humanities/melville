@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.27)
+
+- **On bench-kit 1.9.3:** the Book's "🔗 Share" button reads "🔗 Share page"; it works as before.
+
 ## Unreleased (0.4.26)
 
 - **The corner and margin notes light up too:** in the Book, a folio number, date or note in a leaf's corner or margin now lights its place on the page image, from the box MEL gives its zone (33 lines in the diplomatic text, 4 in the last readings). 28 lines of notes for which MEL gives no zone, such as Houghton's shelfmark, stay unlit.
