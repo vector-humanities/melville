@@ -1,12 +1,23 @@
-# The bench's tests (bench-kit's tools/test.js: every page in tests/, in headless Chrome)
-name: Tests
+# The bench's tests (bench-kit's tools/test.js: every page in tests/, in headless Chrome), then the site.
+# The site is published only when the tests pass (Settings ▸ Pages ▸ Source: GitHub Actions, from 2026-11-12).
+# The Library snapshot's daily commit is pushed with GitHub's own token, which starts no workflow, so this
+# one also runs when the snapshot finishes, to publish library/group.json.
+name: Tests and deploy
 on:
   push:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  workflow_run:
+    workflows: ['Library snapshot']
+    types: [completed]
 permissions:
   contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
 jobs:
   tests:
     runs-on: ubuntu-latest
@@ -20,3 +31,21 @@ jobs:
           node-version: 22
       - name: Tests
         run: node kit/tools/test.js --dir .
+  deploy:
+    needs: tests
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
