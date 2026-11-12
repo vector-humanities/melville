@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.25)
+
+- **On bench-kit 1.9.2:** in the Book, a line of the manuscript's text under the pointer lights its band on the page image, and a selection lights the band of every line it covers (lines the page gives no box for are not lit); Settings ▸ Book has Highlight links, to choose their colour or turn them off; the trim button reads "Bench's default trim".
+
 ## Unreleased (0.4.24)
 
 - **The Library's card** uses the bench's card image (Eaton's Melville) in place of the shelf of books; links to Paratexts, like every tab, already show it.
