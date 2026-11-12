@@ -2,6 +2,10 @@
 
 Changes to the research bench. The bench keeps its own version numbers, raised by 0.0.1 with each change (the `?v=` on every script and stylesheet in `index.html`); this file records the versions published, newest first.
 
+## Unreleased (0.4.28)
+
+- **On bench-kit 1.9.7:** in the Book, the stage slider stays usable while "every revision" is ticked, drawn fainter; moving it, or ◀ or ▶, unticks "every revision" and shows the text at that stage, continuing from the stage the reader was at. (1.9.4–1.9.6 change nothing on Melville.)
+
 ## Unreleased (0.4.27)
 
 - **On bench-kit 1.9.3:** the Book's "🔗 Share" button reads "🔗 Share page"; it works as before.
